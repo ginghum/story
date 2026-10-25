@@ -30,3 +30,14 @@
 @media(max-width:650px) and (orientation:portrait){.sprite-portrait{height:60%}.sprite-portrait .sprite{height:110cqh!important}}
 
 .title-fullscreen{position:absolute;right:max(3vw,env(safe-area-inset-right));top:max(20px,env(safe-area-inset-top));z-index:5}.archive-tools{display:flex;align-items:center;gap:18px}.archive-tools .pill{font-size:12px;white-space:nowrap}
+
+/* Avoid the browser's blue full-stage tap overlay on touch devices. */
+html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
+.stage{-webkit-user-select:none;user-select:none;touch-action:manipulation}
+#tap-surface:focus{outline:none}
+.scene-transition{position:absolute;inset:0;background:#000;z-index:9;pointer-events:none}
+.scene-transition.blackout{animation:scene-close .3s linear forwards}
+.scene-transition.reveal{animation:scene-open .36s linear forwards}
+@keyframes scene-close{from{opacity:0}to{opacity:1}}
+@keyframes scene-open{from{opacity:1}to{opacity:0}}
+.cg-frame[data-tone="dark"] img{filter:brightness(.32) saturate(.55)}
