@@ -17,9 +17,10 @@ function preload(src){if(!src||cache.has(src))return;const img=new Image();img.s
 function preloadNear(){for(let j=index;j<Math.min(index+12,story.entries.length);j++){const e=story.entries[j];preload(e.bg);preload(e.cg);for(const c of e.cast||[])preload(`assets/characters/${c.id}-${c.expression}.webp`);}}
 function setScene(e){
  const bg=$('#backdrop');bg.style.backgroundImage=e.bg?`url("${e.bg}")`:'none';bg.className='backdrop '+(e.tone||'');
- const cg=$('#cg-frame');cg.hidden=!e.cg;if(e.cg){$('#cg-image').src=e.cg;$('#cg-image').alt=e.cgAlt||'物語の挿絵';cg.style.setProperty('--cg',`url("${e.cg}")`);}
- const sprites=$('#sprites');sprites.replaceChildren();const cast=e.cg?[]:(e.cast||[]);sprites.className='sprites count-'+cast.length;
- for(let i=0;i<cast.length;i++){const c=cast[i],im=document.createElement('img');im.className=`sprite slot-${i}`+(c.id===e.character?' speaking':'');im.alt=c.name;im.src=`assets/characters/${c.id}-${c.expression}.webp`;im.style.height=(102*(c.height||175)/184)+'%';im.draggable=false;im.addEventListener('error',()=>{if(!im.isConnected)return;im.hidden=true;error('一部の画像を読み込めませんでした。文章はそのまま読めます。');},{once:true});sprites.append(im);}
+ const illustration=e.cg||((e.bgContainsCharacters||/\/cg\//.test(e.bg||''))?e.bg:null);
+ const cg=$('#cg-frame');cg.hidden=!illustration;if(illustration){$('#cg-image').src=illustration;$('#cg-image').alt=e.cgAlt||'物語の挿絵';cg.style.setProperty('--cg',`url("${illustration}")`);}
+ const sprites=$('#sprites');sprites.replaceChildren();const cast=illustration?[]:(e.cast||[]);sprites.className='sprites count-'+cast.length;
+ for(let i=0;i<cast.length;i++){const c=cast[i],portrait=document.createElement('div'),im=document.createElement('img');portrait.className=`sprite-portrait slot-${i}`+(c.id===e.character?' speaking':'');portrait.style.top=(11+40*(1-(c.height||175)/184))+'%';im.className='sprite';im.alt=c.name;im.src=`assets/characters/${c.id}-${c.expression}.webp`;im.style.height=(169.1*(c.height||175)/184)+'cqh';im.draggable=false;im.addEventListener('error',()=>{if(!im.isConnected)return;im.hidden=true;error('一部の画像を読み込めませんでした。文章はそのまま読めます。');},{once:true});portrait.append(im);sprites.append(portrait);}
  $('#location-label').textContent=e.location||'';
  if(e.effect&&!matchMedia('(prefers-reduced-motion: reduce)').matches){$('#flash').classList.remove('hit');$('#stage').classList.remove('shake');void $('#flash').offsetWidth;$('#flash').classList.add('hit');$('#stage').classList.add('shake');}
 }
