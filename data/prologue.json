@@ -3592,10 +3592,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3603,7 +3611,7 @@
       "type": "line",
       "text": "「拾えよ。お前が落としたんだろ」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「拾えよ。お前が落としたんだろ」",
       "effect": false,
       "scene": 4,
@@ -3620,10 +3628,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3648,10 +3664,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3676,10 +3700,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3704,10 +3736,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3732,10 +3772,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3760,10 +3808,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3788,10 +3844,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3810,16 +3874,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3844,10 +3916,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3866,16 +3946,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3900,10 +3988,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3928,10 +4024,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3950,16 +4054,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -3984,10 +4096,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4006,16 +4126,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4040,10 +4168,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4068,10 +4204,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4090,16 +4234,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4124,10 +4276,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4146,16 +4306,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4180,10 +4348,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4208,10 +4384,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4236,10 +4420,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4264,10 +4456,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4286,16 +4486,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "serious"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "exasperated"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4320,10 +4528,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4348,10 +4564,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4376,10 +4600,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4404,10 +4636,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4432,10 +4672,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4460,10 +4708,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4488,10 +4744,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4499,7 +4763,7 @@
       "type": "line",
       "text": "「誰だよ、お前」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「誰だよ、お前」",
       "effect": false,
       "scene": 4,
@@ -4516,10 +4780,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4544,10 +4816,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4555,7 +4835,7 @@
       "type": "line",
       "text": "「……ああ。知らねえ顔だと思った」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「……ああ。知らねえ顔だと思った」",
       "effect": false,
       "scene": 4,
@@ -4572,10 +4852,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4600,10 +4888,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4611,7 +4907,7 @@
       "type": "line",
       "text": "「お前、こいつの何？」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「お前、こいつの何？」",
       "effect": false,
       "scene": 4,
@@ -4628,10 +4924,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4656,10 +4960,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4667,7 +4979,7 @@
       "type": "line",
       "text": "「じゃあ引っ込んでろ」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「じゃあ引っ込んでろ」",
       "effect": false,
       "scene": 4,
@@ -4684,10 +4996,18 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4712,10 +5032,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4740,10 +5068,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4768,10 +5104,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4796,10 +5140,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4824,10 +5176,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4852,10 +5212,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4880,10 +5248,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4902,16 +5278,24 @@
       "cgAlt": null,
       "cast": [
         {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "serious"
-        },
-        {
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
           "expression": "exasperated"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4936,10 +5320,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4964,10 +5356,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -4992,10 +5392,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5003,7 +5411,7 @@
       "type": "line",
       "text": "「てめえ……！」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「てめえ……！」",
       "effect": false,
       "scene": 4,
@@ -5020,10 +5428,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5048,10 +5464,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5076,10 +5500,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5104,10 +5536,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5132,10 +5572,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5160,10 +5608,18 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5188,10 +5644,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5216,10 +5680,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5244,10 +5716,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5272,10 +5752,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5300,10 +5788,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5328,10 +5824,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5356,10 +5860,18 @@
           "expression": "serious"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5384,10 +5896,18 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5412,10 +5932,18 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5440,10 +5968,18 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5468,10 +6004,18 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5479,7 +6023,7 @@
       "type": "line",
       "text": "「勘違いしてんじゃねえよ。グレード1が」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「勘違いしてんじゃねえよ。グレード1が」",
       "effect": false,
       "scene": 4,
@@ -5496,10 +6040,18 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
+        },
+        {
+          "id": "mob-male-slim",
+          "name": "生徒",
+          "height": 166,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5524,16 +6076,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5558,16 +6111,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5592,16 +6146,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5626,16 +6181,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5660,16 +6216,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5694,16 +6251,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5728,16 +6286,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5762,16 +6321,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5796,16 +6356,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5830,16 +6391,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5864,16 +6426,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5898,16 +6461,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5932,16 +6496,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5966,16 +6531,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -5983,7 +6549,7 @@
       "type": "line",
       "text": "「こいつが先に――」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「こいつが先に――」",
       "effect": false,
       "scene": 4,
@@ -6000,16 +6566,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6034,16 +6601,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6068,16 +6636,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6102,16 +6671,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6136,16 +6706,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6170,16 +6741,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6204,16 +6776,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6238,16 +6811,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6272,16 +6846,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6289,7 +6864,7 @@
       "type": "line",
       "text": "「先に手ぇ出したの、そいつですから。俺は止められただけで――」",
       "speaker": "不良",
-      "character": null,
+      "character": "mob-male-broad",
       "raw": "不良「先に手ぇ出したの、そいつですから。俺は止められただけで――」",
       "effect": false,
       "scene": 4,
@@ -6306,16 +6881,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6340,16 +6916,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6374,16 +6951,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6408,16 +6986,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6442,16 +7021,17 @@
           "expression": "pain"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6476,16 +7056,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6510,16 +7091,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6544,16 +7126,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6578,16 +7161,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6612,16 +7196,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6646,16 +7231,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6680,16 +7266,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6714,16 +7301,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6748,16 +7336,17 @@
           "expression": "smile"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6782,16 +7371,17 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6816,16 +7406,17 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6850,16 +7441,17 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -6884,16 +7476,17 @@
           "expression": "surprised"
         },
         {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
           "id": "x",
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "mob-male-broad",
+          "name": "不良",
+          "height": 182,
+          "expression": "neutral",
+          "anonymous": true
         }
       ]
     },
@@ -12810,12 +13403,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "exasperated"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -12844,12 +13431,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "exasperated"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -12877,12 +13458,6 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
           "expression": "neutral"
         }
       ]
@@ -12912,12 +13487,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -12945,12 +13514,6 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
           "expression": "neutral"
         }
       ]
@@ -12980,12 +13543,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -13014,12 +13571,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -13042,12 +13593,6 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
           "expression": "neutral"
         }
       ]
@@ -13077,12 +13622,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
         }
       ]
     },
@@ -13110,12 +13649,6 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
           "expression": "neutral"
         }
       ]
@@ -15066,26 +15599,7 @@
       "tone": "evening",
       "cg": null,
       "cgAlt": null,
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ]
+      "cast": []
     },
     {
       "type": "line",

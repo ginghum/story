@@ -6,7 +6,7 @@ const config={speed:25,font:'medium',wait:2.5,...disk.config};
 let story=null,index=0,highest=Number.isInteger(disk.highest)?disk.highest:-1,read=!!disk.read,checkpoint=Number.isInteger(disk.index)?disk.index:0;
 let typing=null,autoTimer=null,auto=false,skipTimer=null,skipping=false,cutinTimer=null,visibleText='',isTyping=false,activeScreen='title',dialogPaused=false;
 let log=[];const cache=new Map();
-let transitioning=false,transitionTimer=null;
+let transitioning=false,transitionTimer=null,sceneTransitionVersion=0;
 const escapeText=s=>String(s);
 function persist(){disk={index:checkpoint,highest,read,config};try{localStorage.setItem(STORE,JSON.stringify(disk));$('#save-state').textContent='保存済み';}catch{$('#save-state').textContent='保存できません';}}
 function error(s){$('#load-error').textContent=s;$('#load-error').hidden=false;}
@@ -26,13 +26,22 @@ function setScene(e){
  if(e.effect&&!matchMedia('(prefers-reduced-motion: reduce)').matches){$('#flash').classList.remove('hit');$('#stage').classList.remove('shake');void $('#flash').offsetWidth;$('#flash').classList.add('hit');$('#stage').classList.add('shake');}
 }
 function cutinDone(){if(transitioning)return;clearTimeout(cutinTimer);$('#cutin').hidden=true;next();}
-function cancelSceneTransition(){clearTimeout(transitionTimer);transitionTimer=null;transitioning=false;const overlay=$('#scene-transition');overlay.hidden=true;overlay.className='scene-transition';}
+function cancelSceneTransition(){sceneTransitionVersion++;clearTimeout(transitionTimer);transitionTimer=null;transitioning=false;const overlay=$('#scene-transition');overlay.hidden=true;overlay.className='scene-transition';}
+async function waitForSceneVisuals(entry){
+ await Promise.all([...new Set([entry.bg,entry.cg].filter(Boolean))].map(async src=>{
+  if(cache.get(src)?.complete&&cache.get(src)?.naturalWidth===0)cache.delete(src);
+  preload(src);const img=cache.get(src);if(img.complete&&img.naturalWidth>0)return;
+  if(typeof img.decode!=='function')return;
+  let deadline;
+  try{await Promise.race([img.decode(),new Promise(resolve=>{deadline=setTimeout(resolve,6000);})]);}catch{}finally{clearTimeout(deadline);}
+ }));
+}
 function render(){
  const e=story?.entries[index];
  if(e?.type!=='location'||skipping||matchMedia('(prefers-reduced-motion: reduce)').matches){renderEntry();return;}
- cancelSceneTransition();clearTyping();clearTimeout(autoTimer);clearTimeout(cutinTimer);
+ cancelSceneTransition();const version=sceneTransitionVersion,visualsReady=waitForSceneVisuals(e);clearTyping();clearTimeout(autoTimer);clearTimeout(cutinTimer);
  const overlay=$('#scene-transition');transitioning=true;overlay.hidden=false;void overlay.offsetWidth;overlay.className='scene-transition blackout';
- transitionTimer=setTimeout(()=>{if(activeScreen!=='game'){cancelSceneTransition();return;}renderEntry();overlay.className='scene-transition reveal';transitionTimer=setTimeout(cancelSceneTransition,360);},300);
+ transitionTimer=setTimeout(async()=>{await visualsReady;if(version!==sceneTransitionVersion)return;if(activeScreen!=='game'){cancelSceneTransition();return;}renderEntry();overlay.className='scene-transition reveal';transitionTimer=setTimeout(cancelSceneTransition,360);},300);
 }
 function renderEntry(){
  if(!story)return;clearTyping();clearTimeout(autoTimer);clearTimeout(cutinTimer);
@@ -78,4 +87,4 @@ $('#speed').oninput=e=>{config.speed=Number(e.target.value);updateSettingsLabels
 document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]'))return;if(activeScreen!=='game')return;const focused=document.activeElement;if(focused&&['BUTTON','INPUT','SELECT'].includes(focused.tagName))return;if([' ','Enter','ArrowRight'].includes(e.key)){e.preventDefault();$('#tap-surface').click();}else if(e.key==='ArrowLeft'){e.preventDefault();previous();}else if(e.key==='Escape'){$('#stage').classList.remove('ui-hidden');}});
 document.addEventListener('visibilitychange',()=>{if(document.hidden){stopModes();persist();}});window.addEventListener('pagehide',persist);
 updateSettingsLabels();$('#play-prologue').disabled=true;$('#continue').disabled=true;
-fetch('data/prologue.json?v=pacing-6').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();}).then(data=>{if(!Array.isArray(data.entries)||!data.entries.length)throw Error('empty story');story=data;checkpoint=Math.min(Math.max(checkpoint,0),story.entries.length-1);highest=Math.min(highest,story.entries.length-1);$('#play-prologue').disabled=false;updateBadges();for(const src of ['assets/bg/campus.webp','assets/characters/plus-smile.webp','assets/characters/yuji-neutral.webp'])preload(src);}).catch(()=>{error('物語データを読み込めませんでした。ページを再読み込みしてください。');});
+fetch('data/prologue.json?v=cast-7').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();}).then(data=>{if(!Array.isArray(data.entries)||!data.entries.length)throw Error('empty story');story=data;checkpoint=Math.min(Math.max(checkpoint,0),story.entries.length-1);highest=Math.min(highest,story.entries.length-1);$('#play-prologue').disabled=false;updateBadges();for(const src of ['assets/bg/campus.webp','assets/characters/plus-smile.webp','assets/characters/yuji-neutral.webp'])preload(src);}).catch(()=>{error('物語データを読み込めませんでした。ページを再読み込みしてください。');});

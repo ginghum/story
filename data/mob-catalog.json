@@ -1,0 +1,34 @@
+{
+  "tool": "ChatGPT built-in image generation",
+  "design": "Anonymous faceless grayscale humans in gray hooded school robes",
+  "variants": [
+    {
+      "id": "mob-male-broad",
+      "file": "assets/characters/mob-male-broad-neutral.webp",
+      "gender": "male",
+      "build": "broad",
+      "prompt": "Use case: stylized-concept. Asset type: anonymous NPC visual novel standing sprite. ONE full body human in a plain long HOODED SCHOOL ROBE, entire character STRICTLY grayscale including skin, all clothes and shoes. Male, tall broad shoulders and sturdy stocky build, confident squared stance, arms relaxed, suitable for an unnamed school bully. The visible face is a completely smooth flat featureless medium-gray oval: NO eyes, NO nose, NO mouth, NO eyebrows, NO face lines, NO hair. Hood frames the blank face. Long medium-gray open robe over simple gray high-neck shirt and gray trousers and gray shoes. Neutral soft anime cel shading and clean delicate ink lines, matching detailed anime visual novel character art, but deliberately anonymous faceless grayscale extra. No magic, no weapons, no accessories, no logos, no patterns, no school insignia. Full body head to shoes, centered portrait composition with margin. Hands empty. REAL transparent background, no floor, no cast shadow, no glow. SINGLE character only, no sheet, no panels, no text. Readable soft cloth folds and clear silhouette."
+    },
+    {
+      "id": "mob-male-slim",
+      "file": "assets/characters/mob-male-slim-neutral.webp",
+      "gender": "male",
+      "build": "slim",
+      "prompt": "Use case: stylized-concept. Asset type: anonymous NPC visual novel standing sprite. ONE full body human in a plain long HOODED SCHOOL ROBE, entire character STRICTLY grayscale including skin, all clothes and shoes. Male, medium height slim narrow shoulders, slightly timid neutral standing posture, arms relaxed close to body, suitable for a bullied unnamed student. The visible face is a completely smooth flat featureless medium-gray oval: NO eyes, NO nose, NO mouth, NO eyebrows, NO face lines, NO hair. Hood frames the blank face. Long medium-gray open robe over simple gray high-neck shirt and gray trousers and gray shoes. Neutral soft anime cel shading and clean delicate ink lines, matching detailed anime visual novel character art, but deliberately anonymous faceless grayscale extra. No magic, no weapons, no accessories, no logos, no patterns, no school insignia. Full body head to shoes, centered portrait composition with margin. Hands empty. REAL transparent background, no floor, no cast shadow, no glow. SINGLE character only, no sheet, no panels, no text. Readable soft cloth folds and clear silhouette."
+    },
+    {
+      "id": "mob-female-average",
+      "file": "assets/characters/mob-female-average-neutral.webp",
+      "gender": "female",
+      "build": "average",
+      "prompt": "Use case: stylized-concept. Asset type: anonymous NPC visual novel standing sprite. ONE full body human in a plain long HOODED SCHOOL ROBE, entire character STRICTLY grayscale including skin, all clothes and shoes. Female, average height and average build, neutral relaxed upright standing pose. Modest ordinary student proportions. The visible face is a completely smooth flat featureless medium-gray oval: NO eyes, NO nose, NO mouth, NO eyebrows, NO face lines, NO hair. Hood frames the blank face. Long medium-gray open robe over simple gray high-neck shirt and gray trousers and gray shoes. Neutral soft anime cel shading and clean delicate ink lines, matching detailed anime visual novel character art, but deliberately anonymous faceless grayscale extra. No magic, no weapons, no accessories, no logos, no patterns, no school insignia. Full body head to shoes, centered portrait composition with margin. Hands empty. REAL transparent background, no floor, no cast shadow, no glow. SINGLE character only, no sheet, no panels, no text. Readable soft cloth folds and clear silhouette."
+    },
+    {
+      "id": "mob-female-petite",
+      "file": "assets/characters/mob-female-petite-neutral.webp",
+      "gender": "female",
+      "build": "petite",
+      "prompt": "Use case: stylized-concept. Asset type: anonymous NPC visual novel standing sprite. ONE full body human in a plain long HOODED SCHOOL ROBE, entire character STRICTLY grayscale including skin, all clothes and shoes. Female, short petite slim build, neutral slightly reserved standing pose. Modest ordinary student proportions. The visible face is a completely smooth flat featureless medium-gray oval: NO eyes, NO nose, NO mouth, NO eyebrows, NO face lines, NO hair. Hood frames the blank face. Long medium-gray open robe over simple gray high-neck shirt and gray trousers and gray shoes. Neutral soft anime cel shading and clean delicate ink lines, matching detailed anime visual novel character art, but deliberately anonymous faceless grayscale extra. No magic, no weapons, no accessories, no logos, no patterns, no school insignia. Full body head to shoes, centered portrait composition with margin. Hands empty. REAL transparent background, no floor, no cast shadow, no glow. SINGLE character only, no sheet, no panels, no text. Readable soft cloth folds and clear silhouette."
+    }
+  ]
+}
