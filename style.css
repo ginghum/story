@@ -3,8 +3,8 @@
 
 @media(max-height:600px) and (orientation:landscape){.dialogue{bottom:11%}#dialogue-text{font-size:clamp(14px,1.65cqw,24px)}.game-controls{bottom:1%}.game-controls button{font-size:11px;min-height:32px}.game-top .pill{font-size:10px;min-height:30px}}
 
-/* Portrait windows keep the original full-body assets while showing only the upper body. */
-.sprite-portrait{position:absolute;top:11%;height:89%;width:44%;overflow:hidden;pointer-events:none}
+/* Keep portrait scale; the stage boundary clips the body below the screen. */
+.sprite-portrait{position:absolute;top:11%;height:89%;width:44%;overflow:visible;pointer-events:none}
 .sprite-portrait.slot-0{left:2%}.sprite-portrait.slot-1{left:28%}.sprite-portrait.slot-2{left:54%}
 .sprites.count-1 .sprite-portrait{left:28%}
 .sprites.count-2 .sprite-portrait.slot-0{left:8%}.sprites.count-2 .sprite-portrait.slot-1{left:48%}
