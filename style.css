@@ -28,3 +28,5 @@
 .title-art{background-size:contain;background-position:right top;background-repeat:no-repeat;background-color:#101925}
 .episode-image img,.chapter-card img{object-fit:contain;object-position:center top;background:#101925}
 @media(max-width:650px) and (orientation:portrait){.sprite-portrait{height:60%}.sprite-portrait .sprite{height:110cqh!important}}
+
+.title-fullscreen{position:absolute;right:max(3vw,env(safe-area-inset-right));top:max(20px,env(safe-area-inset-top));z-index:5}.archive-tools{display:flex;align-items:center;gap:18px}.archive-tools .pill{font-size:12px;white-space:nowrap}
