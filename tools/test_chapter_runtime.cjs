@@ -9,6 +9,28 @@ const flush=()=>new Promise(r=>setImmediate(r));
  for(const ep of manifest.episodes){await t.run(`loadEpisode('${ep.id}')`);t.run('config.speed=0;begin(0)');let n=0;while(t.run('index<story.entries.length')){assert.equal(assignedBgm,t.run('story.entries[index].bgm'));t.run('next()');assert(++n<5000);}assert.equal(t.run('read'),true);assert(t.run('cache.size')<=18);assert.equal(t.el('#ending').hidden,false);assert.equal(t.el('#ending-title').textContent,t.run('story.title'));assert.equal(t.run('checkpoint'),t.run('story.entries.length-1'));}
  const saved=JSON.parse(t.storage.get('kasukou-story-game-v1'));assert.equal(Object.keys(saved.episodes).length,manifest.episodes.length);assert.equal(saved.episodeId,manifest.episodes.at(-1).id);t=setup(saved);await flush();await flush();assert.equal(t.run('episodeId'),saved.episodeId);assert.equal(t.run('read'),true);
  let seCalls=0;t.ctx.window.storySfx={play(){seCalls++},stop(){},volume(){}};await t.run("loadEpisode('chapter1-episode3')");t.run('begin(268);next()');assert.equal(seCalls,1);t.run('renderEntry()');assert.equal(seCalls,1);t.run('previous()');assert.equal(seCalls,1);t.run('begin(278)');assert.equal(seCalls,1,'resume does not play');t.run('begin(277);skipping=true;next()');assert.equal(seCalls,1,'skip is silent');t.run('config.seEnabled=false;config.seVolume=.25;config.bgmEnabled=false;config.bgmVolume=.2;persist()');const audioSave=JSON.parse(t.storage.get('kasukou-story-game-v1'));assert.equal(audioSave.config.seEnabled,false);assert.equal(audioSave.config.seVolume,.25);assert.equal(audioSave.config.bgmEnabled,false);assert.equal(audioSave.config.bgmVolume,.2);
+
+ // Minor moves must not introduce a pause, including Back and old saved offsets.
+ await t.run("loadEpisode('chapter1-episode1')");
+ const hall=t.run("story.entries.findIndex(e=>e.type==='location'&&e.location==='学生寮／廊下')");
+ t.ctx.matchMedia=()=>({matches:false});
+ t.run(`config.speed=0;begin(${hall-1});next()`);
+ assert.equal(t.run('index'),hall+1);assert.equal(t.run('transitioning'),false);
+ assert.equal(t.el('#cutin').hidden,true);assert.equal(t.el('#dialogue').hidden,false);
+ assert.equal(t.el('#location-label').textContent,'学生寮／廊下');
+ t.run('previous()');assert.equal(t.run('index'),hall-1);
+ t.run(`begin(${hall})`);assert.equal(t.run('index'),hall+1);
+ const road=t.run("story.entries.findIndex(e=>e.type==='location'&&e.location==='学園敷地内／通学路')");
+ assert.equal(t.run(`showLocationCutin(${road})`),true);
+ t.run(`begin(${road})`);assert.equal(t.run('transitioning'),true);
+ t.run('screen("episodes")');
+ await t.run("loadEpisode('chapter1-episode9')");
+ assert.equal(t.run("showLocationCutin(story.entries.findIndex(e=>e.type==='location'&&e.location==='回想／コンケが変わる前'))"),true);
+ await t.run("loadEpisode('chapter1-episode13')");
+ assert.equal(t.run("showLocationCutin(story.entries.findIndex(e=>e.type==='location'&&e.location==='学生寮／眠れない夜'))"),true);
+ let kept=0,omitted=0;
+ for(const ep of manifest.episodes){await t.run(`loadEpisode('${ep.id}')`);for(let i=0;i<t.run('story.entries.length');i++)if(t.run(`story.entries[${i}].type==='location'`)){if(t.run(`showLocationCutin(${i})`))kept++;else omitted++;}}
+ console.log(`PASS: continuous moves, backward navigation, saved marker offsets, major moves, flashbacks and time changes; ${omitted} minor cards omitted, ${kept} major cards retained.`);
  t.ctx.matchMedia=()=>({matches:false});t.timers.clear();t.run('begin(0)');assert.equal(t.run('transitioning'),true);t.run('screen("episodes")');assert.equal(t.run('transitioning'),false);assert.equal(t.el('#scene-transition').hidden,true);
  const fullscreenButton=new El();const originalAll=t.ctx.document.querySelectorAll;t.ctx.document.querySelectorAll=s=>s==='[data-fullscreen]'?[fullscreenButton]:originalAll(s);
  t.ctx.document.fullscreenEnabled=false;t.run('updateFullscreenButtons()');assert.equal(fullscreenButton.hidden,true);await t.run('toggleFullscreen()');assert.equal(t.el('#load-error').hidden,true);

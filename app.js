@@ -48,7 +48,47 @@ async function waitForSceneVisuals(entry){
   try{await Promise.race([img.decode(),new Promise(resolve=>{deadline=setTimeout(resolve,6000);})]);}catch{}finally{clearTimeout(deadline);}
  }));
 }
-function render(){
+// Keep saved entry offsets stable: minor location markers remain in the script,
+// but playback passes over them in either direction without pausing the prose.
+function locationArea(e){
+ const place=e.location||'',bg=e.bg||'';
+ for(const [pattern,area] of [[/能力練習場|早朝の練習場/,'training'],[/旧校舎|不良サークル/,'old-school'],[/学生寮/,'dorm'],[/保健室|保健委員会|保健の窓口/,'clinic'],[/新聞部/,'newsroom'],[/闘技場|決闘委員会/,'arena'],[/図書館/,'library'],[/オタクサークル|離れ校舎/,'club']])if(pattern.test(place))return area;
+ if(/校舎/.test(place)&&/classroom|corridor|campus/.test(bg))return 'classrooms';
+ if(/中庭/.test(place))return 'courtyard';
+ if(/購買/.test(place))return 'shop';
+ return bg;
+}
+function locationTime(e){
+ const place=e.location||'';
+ if(/深夜|消灯|就寝/.test(place))return 'bedtime';
+ if(/夜/.test(place))return 'night';
+ if(/夕方|夕食/.test(place))return 'evening';
+ if(/早朝|朝|午前/.test(place))return 'morning';
+ if(/午後|昼/.test(place))return 'day';
+ return '';
+}
+function showLocationCutin(at){
+ if(at===0)return true;
+ const e=story.entries[at],previous=story.entries[at-1];
+ if(!previous||!e.bg||!previous.bg)return true;
+ if(/回想/.test(e.location)!==/回想/.test(previous.location)||/翌|数日後|消灯後/.test(e.location))return true;
+ const time=locationTime(e),before=locationTime(previous);
+ if(time&&before&&time!==before)return true;
+ // A corridor, doorway or the nearby stands do not interrupt an ongoing scene.
+ if(locationArea(e)===locationArea(previous))return false;
+ // Brief passing shots lead straight into the next location in the same scene.
+ {
+  let lines=0;
+  for(let i=at+1;i<story.entries.length&&lines<=5;i++){
+   const next=story.entries[i];
+   if(next.type==='location')return next.scene!==e.scene||/翌|数日後|回想/.test(next.location);
+   if(next.type==='line')lines++;
+  }
+ }
+ return true;
+}
+function render(direction=1){
+ while(story?.entries[index]?.type==='location'&&!showLocationCutin(index))index+=direction;
  const e=story?.entries[index];
  if(e?.type!=='location'||skipping||matchMedia('(prefers-reduced-motion: reduce)').matches){renderEntry();return;}
  cancelSceneTransition();const version=sceneTransitionVersion,visualsReady=waitForSceneVisuals(e);clearTyping();clearTimeout(autoTimer);clearTimeout(cutinTimer);
@@ -74,7 +114,7 @@ function renderEntry(){
 function completeText(){clearTyping();$('#dialogue-text').textContent=visibleText;scheduleAuto();}
 function scheduleAuto(){clearTimeout(autoTimer);if(auto&&!dialogPaused&&activeScreen==='game')autoTimer=setTimeout(()=>next(),config.wait*1000+Math.min(visibleText.length*18,2800));}
 function next(){if(transitioning)return;if(activeScreen!=='game'||dialogPaused||!$('#ending').hidden)return;if(isTyping){completeText();return;}index++;render();}
-function previous(){if(transitioning)return;if(index<=0||activeScreen!=='game')return;stopModes();index--;suppressSeKey=episodeId+':'+index;log=log.filter(x=>x.index<=index);render();}
+function previous(){if(transitioning)return;if(index<=0||activeScreen!=='game')return;stopModes();index--;while(story.entries[index]?.type==='location'&&!showLocationCutin(index))index--;suppressSeKey=episodeId+':'+index;log=log.filter(x=>x.index<=index);render(-1);}
 function begin(at=0){if(!story)return;screen('game');index=Math.max(0,Math.min(at,story.entries.length-1));lastSeKey='';suppressSeKey=episodeId+':'+index;log=story.entries.slice(0,index).flatMap((e,i)=>e.type==='line'?[{index:i,speaker:e.speaker,text:e.text,location:e.location}]:[]);render();}
 function finish(){window.storyBgm?.set('reflection',config);const pos=manifest.findIndex(e=>e.id===episodeId),following=manifest[pos+1];$('#ending-label').textContent=episodeId==='prologue'?'PROLOGUE — COMPLETE':`EPISODE ${pos} — COMPLETE`;$('#ending-title').textContent=story.title;$('#ending-caption').textContent='読了';$('#next-episode').hidden=!following;$('#next-episode').textContent=following?'次の話へ → '+following.title:'';$('#next-episode').onclick=()=>following&&chooseEpisode(following.id);stopModes();clearTyping();read=true;checkpoint=story.entries.length-1;highest=checkpoint;persist();$('#cutin').hidden=true;$('#dialogue').hidden=true;$('#ending').hidden=false;updateBadges();}
 function pauseForDialog(){window.storySfx?.stop();dialogPaused=true;clearTimeout(autoTimer);clearTimeout(cutinTimer);clearInterval(skipTimer);}
