@@ -1,0 +1,1222 @@
+{
+  "episodes": {
+    "prologue": {
+      "source_scenes": 10,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "calm"
+        },
+        {
+          "scene": 2,
+          "track": "daily"
+        },
+        {
+          "scene": 3,
+          "track": "calm"
+        },
+        {
+          "scene": 4,
+          "track": "daily"
+        },
+        {
+          "scene": 5,
+          "track": "daily"
+        },
+        {
+          "scene": 6,
+          "track": "training"
+        },
+        {
+          "scene": 7,
+          "track": "daily"
+        },
+        {
+          "scene": 8,
+          "track": "training"
+        },
+        {
+          "scene": 9,
+          "track": "reflection"
+        },
+        {
+          "scene": 10,
+          "track": "tension"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "カース帝国近海／学園へ向かう船",
+          "track": "calm"
+        },
+        {
+          "entry": 29,
+          "scene": 2,
+          "location": "学園敷地内／校舎前",
+          "track": "daily"
+        },
+        {
+          "entry": 108,
+          "scene": 3,
+          "location": "校舎／教室",
+          "track": "calm"
+        },
+        {
+          "entry": 132,
+          "scene": 4,
+          "location": "学園／食堂",
+          "track": "daily"
+        },
+        {
+          "entry": 143,
+          "scene": 4,
+          "location": "学園／食堂",
+          "track": "battle"
+        },
+        {
+          "entry": 234,
+          "scene": 4,
+          "location": "学園／食堂",
+          "track": "reflection"
+        },
+        {
+          "entry": 311,
+          "scene": 5,
+          "location": "学園／購買",
+          "track": "daily"
+        },
+        {
+          "entry": 343,
+          "scene": 6,
+          "location": "闘技場／入口",
+          "track": "training"
+        },
+        {
+          "entry": 435,
+          "scene": 7,
+          "location": "学園敷地内／夕方",
+          "track": "daily"
+        },
+        {
+          "entry": 522,
+          "scene": 8,
+          "location": "学生寮そば／能力練習場",
+          "track": "training"
+        },
+        {
+          "entry": 676,
+          "scene": 9,
+          "location": "学生寮／三人の部屋・夜",
+          "track": "reflection"
+        },
+        {
+          "entry": 811,
+          "scene": 10,
+          "location": "？？？",
+          "track": "tension"
+        }
+      ]
+    },
+    "chapter1-episode1": {
+      "source_scenes": 7,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "tension"
+        },
+        {
+          "scene": 2,
+          "track": "daily"
+        },
+        {
+          "scene": 3,
+          "track": "daily"
+        },
+        {
+          "scene": 4,
+          "track": "calm"
+        },
+        {
+          "scene": 5,
+          "track": "daily"
+        },
+        {
+          "scene": 6,
+          "track": "daily"
+        },
+        {
+          "scene": 7,
+          "track": "calm"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "？？？",
+          "track": "tension"
+        },
+        {
+          "entry": 5,
+          "scene": 1,
+          "location": "学生寮／三人の部屋・朝",
+          "track": "daily"
+        },
+        {
+          "entry": 156,
+          "scene": 4,
+          "location": "校舎／教室・授業",
+          "track": "calm"
+        },
+        {
+          "entry": 189,
+          "scene": 5,
+          "location": "校舎／教室・休み時間",
+          "track": "daily"
+        },
+        {
+          "entry": 336,
+          "scene": 7,
+          "location": "学園敷地内／食堂前",
+          "track": "calm"
+        }
+      ]
+    },
+    "chapter1-episode2": {
+      "source_scenes": 5,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "calm"
+        },
+        {
+          "scene": 2,
+          "track": "daily"
+        },
+        {
+          "scene": 3,
+          "track": "daily"
+        },
+        {
+          "scene": 4,
+          "track": "daily"
+        },
+        {
+          "scene": 5,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "図書館／勉強サークル",
+          "track": "calm"
+        },
+        {
+          "entry": 176,
+          "scene": 2,
+          "location": "学園敷地内／午後の通り",
+          "track": "daily"
+        },
+        {
+          "entry": 257,
+          "scene": 3,
+          "location": "学園／中庭",
+          "track": "tension"
+        },
+        {
+          "entry": 352,
+          "scene": 4,
+          "location": "学園敷地内／離れ校舎への道",
+          "track": "daily"
+        },
+        {
+          "entry": 496,
+          "scene": 5,
+          "location": "学園敷地内／夕方の帰り道",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode3": {
+      "source_scenes": 11,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "daily"
+        },
+        {
+          "scene": 2,
+          "track": "daily"
+        },
+        {
+          "scene": 3,
+          "track": "tension"
+        },
+        {
+          "scene": 4,
+          "track": "battle"
+        },
+        {
+          "scene": 5,
+          "track": "battle"
+        },
+        {
+          "scene": 6,
+          "track": "battle"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        },
+        {
+          "scene": 8,
+          "track": "reflection"
+        },
+        {
+          "scene": 9,
+          "track": "calm"
+        },
+        {
+          "scene": 10,
+          "track": "reflection"
+        },
+        {
+          "scene": 11,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学生寮／三人の部屋・夕食",
+          "track": "daily"
+        },
+        {
+          "entry": 138,
+          "scene": 2,
+          "location": "学生寮そば／能力練習場・夜",
+          "track": "tension"
+        },
+        {
+          "entry": 259,
+          "scene": 4,
+          "location": "能力練習場／試合区画",
+          "track": "battle"
+        },
+        {
+          "entry": 435,
+          "scene": 6,
+          "location": "能力練習場／試合区画",
+          "track": null
+        },
+        {
+          "entry": 441,
+          "scene": 6,
+          "location": "能力練習場／試合区画",
+          "track": "tension"
+        },
+        {
+          "entry": 454,
+          "scene": 6,
+          "location": "能力練習場／試合区画",
+          "track": "reflection"
+        },
+        {
+          "entry": 571,
+          "scene": 9,
+          "location": "学生寮／三人の部屋・就寝前",
+          "track": "calm"
+        },
+        {
+          "entry": 612,
+          "scene": 10,
+          "location": "？？？",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode4": {
+      "source_scenes": 11,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "reflection"
+        },
+        {
+          "scene": 2,
+          "track": "training"
+        },
+        {
+          "scene": 3,
+          "track": "daily"
+        },
+        {
+          "scene": 4,
+          "track": "daily"
+        },
+        {
+          "scene": 5,
+          "track": "calm"
+        },
+        {
+          "scene": 6,
+          "track": "calm"
+        },
+        {
+          "scene": 7,
+          "track": "calm"
+        },
+        {
+          "scene": 8,
+          "track": "tension"
+        },
+        {
+          "scene": 9,
+          "track": "tension"
+        },
+        {
+          "scene": 10,
+          "track": "calm"
+        },
+        {
+          "scene": 11,
+          "track": "daily"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学生寮／三人の部屋・朝",
+          "track": "reflection"
+        },
+        {
+          "entry": 65,
+          "scene": 2,
+          "location": "学生寮／三人の部屋・朝",
+          "track": "training"
+        },
+        {
+          "entry": 183,
+          "scene": 3,
+          "location": "学園敷地内／朝の通学路",
+          "track": "daily"
+        },
+        {
+          "entry": 277,
+          "scene": 5,
+          "location": "学園／食堂前・午後",
+          "track": "calm"
+        },
+        {
+          "entry": 516,
+          "scene": 8,
+          "location": "新聞部／夕陽新聞編集部",
+          "track": "tension"
+        },
+        {
+          "entry": 630,
+          "scene": 10,
+          "location": "新聞部／夕陽新聞編集部",
+          "track": "calm"
+        },
+        {
+          "entry": 683,
+          "scene": 11,
+          "location": "新聞部／夕陽新聞編集部",
+          "track": "daily"
+        }
+      ]
+    },
+    "chapter1-episode5": {
+      "source_scenes": 11,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "calm"
+        },
+        {
+          "scene": 2,
+          "track": "training"
+        },
+        {
+          "scene": 3,
+          "track": "daily"
+        },
+        {
+          "scene": 4,
+          "track": "calm"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "battle"
+        },
+        {
+          "scene": 7,
+          "track": "battle"
+        },
+        {
+          "scene": 8,
+          "track": "battle"
+        },
+        {
+          "scene": 9,
+          "track": "reflection"
+        },
+        {
+          "scene": 10,
+          "track": "daily"
+        },
+        {
+          "scene": 11,
+          "track": "tension"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学園／中庭の大きな木",
+          "track": "calm"
+        },
+        {
+          "entry": 45,
+          "scene": 2,
+          "location": "学園敷地内／闘技場への道",
+          "track": "training"
+        },
+        {
+          "entry": 93,
+          "scene": 3,
+          "location": "闘技場／通路",
+          "track": "daily"
+        },
+        {
+          "entry": 142,
+          "scene": 4,
+          "location": "闘技場／決闘委員会受付",
+          "track": "calm"
+        },
+        {
+          "entry": 203,
+          "scene": 5,
+          "location": "闘技場／武器なし競技面",
+          "track": "tension"
+        },
+        {
+          "entry": 242,
+          "scene": 6,
+          "location": "闘技場／武器なし競技面",
+          "track": "battle"
+        },
+        {
+          "entry": 427,
+          "scene": 9,
+          "location": "闘技場／武器なし競技面",
+          "track": "reflection"
+        },
+        {
+          "entry": 495,
+          "scene": 10,
+          "location": "闘技場／通路",
+          "track": "daily"
+        },
+        {
+          "entry": 539,
+          "scene": 11,
+          "location": "闘技場／案内板前",
+          "track": "tension"
+        },
+        {
+          "entry": 571,
+          "scene": 11,
+          "location": "闘技場／武器あり競技面の観客席",
+          "track": "battle"
+        }
+      ]
+    },
+    "chapter1-episode6": {
+      "source_scenes": 12,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "reflection"
+        },
+        {
+          "scene": 2,
+          "track": "reflection"
+        },
+        {
+          "scene": 3,
+          "track": "reflection"
+        },
+        {
+          "scene": 4,
+          "track": "reflection"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "reflection"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        },
+        {
+          "scene": 8,
+          "track": "reflection"
+        },
+        {
+          "scene": 9,
+          "track": "training"
+        },
+        {
+          "scene": 10,
+          "track": "calm"
+        },
+        {
+          "scene": 11,
+          "track": "training"
+        },
+        {
+          "scene": 12,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "闘技場／選手用通路",
+          "track": "reflection"
+        },
+        {
+          "entry": 139,
+          "scene": 4,
+          "location": "回想／ヒカルとの決闘",
+          "track": "tension"
+        },
+        {
+          "entry": 284,
+          "scene": 6,
+          "location": "保健室／ユージのベッド・夕方",
+          "track": "reflection"
+        },
+        {
+          "entry": 461,
+          "scene": 8,
+          "location": "能力練習場／夜",
+          "track": "training"
+        },
+        {
+          "entry": 586,
+          "scene": 10,
+          "location": "能力練習場／休憩",
+          "track": "calm"
+        },
+        {
+          "entry": 640,
+          "scene": 11,
+          "location": "能力練習場／素手の練習",
+          "track": "training"
+        },
+        {
+          "entry": 726,
+          "scene": 12,
+          "location": "能力練習場／練習の終わり",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode7": {
+      "source_scenes": 15,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "reflection"
+        },
+        {
+          "scene": 2,
+          "track": "calm"
+        },
+        {
+          "scene": 3,
+          "track": "calm"
+        },
+        {
+          "scene": 4,
+          "track": "reflection"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "tension"
+        },
+        {
+          "scene": 7,
+          "track": "tension"
+        },
+        {
+          "scene": 8,
+          "track": "battle"
+        },
+        {
+          "scene": 9,
+          "track": "battle"
+        },
+        {
+          "scene": 10,
+          "track": "battle"
+        },
+        {
+          "scene": 11,
+          "track": "battle"
+        },
+        {
+          "scene": 12,
+          "track": "reflection"
+        },
+        {
+          "scene": 13,
+          "track": "reflection"
+        },
+        {
+          "scene": 14,
+          "track": "daily"
+        },
+        {
+          "scene": 15,
+          "track": "calm"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学生寮／三人の部屋・朝",
+          "track": "reflection"
+        },
+        {
+          "entry": 11,
+          "scene": 2,
+          "location": "保健室／朝の見舞い",
+          "track": "calm"
+        },
+        {
+          "entry": 180,
+          "scene": 4,
+          "location": "保健室／契約変更案の確認",
+          "track": "reflection"
+        },
+        {
+          "entry": 222,
+          "scene": 5,
+          "location": "学園／午後の中庭",
+          "track": "tension"
+        },
+        {
+          "entry": 377,
+          "scene": 7,
+          "location": "闘技場／武器あり競技面",
+          "track": "battle"
+        },
+        {
+          "entry": 560,
+          "scene": 12,
+          "location": "闘技場／観客席・決着後",
+          "track": "reflection"
+        },
+        {
+          "entry": 675,
+          "scene": 14,
+          "location": "闘技場／出口への通路",
+          "track": "daily"
+        },
+        {
+          "entry": 711,
+          "scene": 15,
+          "location": "闘技場／客席の二人",
+          "track": "calm"
+        }
+      ]
+    },
+    "chapter1-episode8": {
+      "source_scenes": 13,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "calm"
+        },
+        {
+          "scene": 2,
+          "track": "daily"
+        },
+        {
+          "scene": 3,
+          "track": "calm"
+        },
+        {
+          "scene": 4,
+          "track": "daily"
+        },
+        {
+          "scene": 5,
+          "track": "calm"
+        },
+        {
+          "scene": 6,
+          "track": "calm"
+        },
+        {
+          "scene": 7,
+          "track": "tension"
+        },
+        {
+          "scene": 8,
+          "track": "tension"
+        },
+        {
+          "scene": 9,
+          "track": "daily"
+        },
+        {
+          "scene": 10,
+          "track": "tension"
+        },
+        {
+          "scene": 11,
+          "track": "tension"
+        },
+        {
+          "scene": 12,
+          "track": "tension"
+        },
+        {
+          "scene": 13,
+          "track": "tension"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "保健室／治療完了の確認",
+          "track": "calm"
+        },
+        {
+          "entry": 48,
+          "scene": 2,
+          "location": "学園／朝の通学路",
+          "track": "daily"
+        },
+        {
+          "entry": 84,
+          "scene": 3,
+          "location": "校舎脇／昼の休憩場所",
+          "track": "calm"
+        },
+        {
+          "entry": 150,
+          "scene": 4,
+          "location": "学園／食堂",
+          "track": "daily"
+        },
+        {
+          "entry": 184,
+          "scene": 5,
+          "location": "新聞部／編集部前",
+          "track": "calm"
+        },
+        {
+          "entry": 304,
+          "scene": 7,
+          "location": "新聞部／グモンの過去の記事",
+          "track": "tension"
+        },
+        {
+          "entry": 417,
+          "scene": 9,
+          "location": "新聞部／退出",
+          "track": "daily"
+        },
+        {
+          "entry": 458,
+          "scene": 10,
+          "location": "中央購買／パンを奪うコンケ",
+          "track": "tension"
+        }
+      ]
+    },
+    "chapter1-episode9": {
+      "source_scenes": 12,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "tension"
+        },
+        {
+          "scene": 2,
+          "track": "reflection"
+        },
+        {
+          "scene": 3,
+          "track": "reflection"
+        },
+        {
+          "scene": 4,
+          "track": "tension"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "reflection"
+        },
+        {
+          "scene": 7,
+          "track": "tension"
+        },
+        {
+          "scene": 8,
+          "track": "daily"
+        },
+        {
+          "scene": 9,
+          "track": "calm"
+        },
+        {
+          "scene": 10,
+          "track": "battle"
+        },
+        {
+          "scene": 11,
+          "track": "tension"
+        },
+        {
+          "scene": 12,
+          "track": "tension"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "旧校舎／部長室前",
+          "track": "tension"
+        },
+        {
+          "entry": 38,
+          "scene": 2,
+          "location": "旧校舎／グモンを思うコンケ",
+          "track": "reflection"
+        },
+        {
+          "entry": 150,
+          "scene": 4,
+          "location": "回想／不良サークルに入った頃",
+          "track": "tension"
+        },
+        {
+          "entry": 252,
+          "scene": 6,
+          "location": "旧校舎／現在の部長室",
+          "track": "reflection"
+        },
+        {
+          "entry": 308,
+          "scene": 7,
+          "location": "旧校舎／部長室前の廊下",
+          "track": "tension"
+        },
+        {
+          "entry": 372,
+          "scene": 8,
+          "location": "旧校舎／色とりどりの紅茶",
+          "track": "daily"
+        },
+        {
+          "entry": 465,
+          "scene": 9,
+          "location": "旧校舎／グモンへの相談",
+          "track": "calm"
+        },
+        {
+          "entry": 530,
+          "scene": 10,
+          "location": "旧校舎／談話室の騒ぎ",
+          "track": "battle"
+        },
+        {
+          "entry": 648,
+          "scene": 11,
+          "location": "旧校舎／談話室・机の陰",
+          "track": "tension"
+        }
+      ]
+    },
+    "chapter1-episode10": {
+      "source_scenes": 13,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "battle"
+        },
+        {
+          "scene": 2,
+          "track": "battle"
+        },
+        {
+          "scene": 3,
+          "track": "battle"
+        },
+        {
+          "scene": 4,
+          "track": "tension"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "tension"
+        },
+        {
+          "scene": 7,
+          "track": "battle"
+        },
+        {
+          "scene": 8,
+          "track": "reflection"
+        },
+        {
+          "scene": 9,
+          "track": "battle"
+        },
+        {
+          "scene": 10,
+          "track": "reflection"
+        },
+        {
+          "scene": 11,
+          "track": "reflection"
+        },
+        {
+          "scene": 12,
+          "track": "daily"
+        },
+        {
+          "scene": 13,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "旧校舎／部長室・突然の攻撃",
+          "track": "battle"
+        },
+        {
+          "entry": 96,
+          "scene": 4,
+          "location": "旧校舎／見守るグモン",
+          "track": "tension"
+        },
+        {
+          "entry": 284,
+          "scene": 7,
+          "location": "旧校舎／スリングショット・パンチ",
+          "track": "battle"
+        },
+        {
+          "entry": 326,
+          "scene": 8,
+          "location": "旧校舎／立ち上がるグモン",
+          "track": "reflection"
+        },
+        {
+          "entry": 458,
+          "scene": 9,
+          "location": "旧校舎／廊下の争い",
+          "track": "battle"
+        },
+        {
+          "entry": 492,
+          "scene": 9,
+          "location": "旧校舎／廊下の争い",
+          "track": "reflection"
+        },
+        {
+          "entry": 695,
+          "scene": 12,
+          "location": "数日後／学園の中庭",
+          "track": "daily"
+        },
+        {
+          "entry": 703,
+          "scene": 12,
+          "location": "回想／朝の能力練習場",
+          "track": "training"
+        },
+        {
+          "entry": 709,
+          "scene": 12,
+          "location": "学園／昼の中庭",
+          "track": "daily"
+        },
+        {
+          "entry": 775,
+          "scene": 13,
+          "location": "中庭／大きな木の下",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode11": {
+      "source_scenes": 15,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "daily"
+        },
+        {
+          "scene": 2,
+          "track": "training"
+        },
+        {
+          "scene": 3,
+          "track": "calm"
+        },
+        {
+          "scene": 4,
+          "track": "training"
+        },
+        {
+          "scene": 5,
+          "track": "daily"
+        },
+        {
+          "scene": 6,
+          "track": "daily"
+        },
+        {
+          "scene": 7,
+          "track": "calm"
+        },
+        {
+          "scene": 8,
+          "track": "daily"
+        },
+        {
+          "scene": 9,
+          "track": "daily"
+        },
+        {
+          "scene": 10,
+          "track": "daily"
+        },
+        {
+          "scene": 11,
+          "track": "daily"
+        },
+        {
+          "scene": 12,
+          "track": "calm"
+        },
+        {
+          "scene": 13,
+          "track": "reflection"
+        },
+        {
+          "scene": 14,
+          "track": "reflection"
+        },
+        {
+          "scene": 15,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学生寮／いつもの朝",
+          "track": "daily"
+        },
+        {
+          "entry": 64,
+          "scene": 2,
+          "location": "早朝の練習場／軽い脚の制御",
+          "track": "training"
+        },
+        {
+          "entry": 171,
+          "scene": 3,
+          "location": "早朝の練習場／能力と想像",
+          "track": "calm"
+        },
+        {
+          "entry": 233,
+          "scene": 4,
+          "location": "早朝の練習場／身体が覚える動き",
+          "track": "training"
+        },
+        {
+          "entry": 324,
+          "scene": 5,
+          "location": "学生寮／今日の衣装選び",
+          "track": "daily"
+        },
+        {
+          "entry": 386,
+          "scene": 7,
+          "location": "校舎／頭の修行",
+          "track": "calm"
+        },
+        {
+          "entry": 440,
+          "scene": 8,
+          "location": "校舎／四人で昼食へ",
+          "track": "daily"
+        },
+        {
+          "entry": 656,
+          "scene": 12,
+          "location": "オタクサークル／見逃した台詞",
+          "track": "calm"
+        },
+        {
+          "entry": 676,
+          "scene": 13,
+          "location": "オタクサークル／受け取る人の言葉",
+          "track": "reflection"
+        },
+        {
+          "entry": 763,
+          "scene": 15,
+          "location": "オタクサークル／片づけの時間",
+          "track": null
+        }
+      ]
+    }
+  }
+}

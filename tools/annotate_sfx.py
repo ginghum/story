@@ -45,4 +45,6 @@ def annotate():
   report[id]=[dict(entry=i,scene=e['scene'],sound=e['se'],text=e['text']) for i,e in enumerate(entries) if e.get('se')]
  out=ROOT/'data/se-review.json';out.write_text(json.dumps(dict(episodes=report),ensure_ascii=False,indent=2)+'\n')
  print('SE:',{id:len(es) for id,es in report.items()})
+ from assign_bgm import assign
+ assign()
 if __name__=='__main__':annotate()

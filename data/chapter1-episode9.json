@@ -10,7 +10,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -32,7 +33,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -54,7 +56,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -76,7 +79,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -98,7 +102,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -120,7 +125,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -142,7 +148,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -152,7 +159,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -181,7 +189,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "door-open"
+      "se": "door-open",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -209,7 +218,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -237,7 +247,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -265,7 +276,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -293,7 +305,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -321,7 +334,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -349,7 +363,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -377,7 +392,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -405,7 +421,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -433,7 +450,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -461,7 +479,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -489,7 +508,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -517,7 +537,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -545,7 +566,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -573,7 +595,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -601,7 +624,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -629,7 +653,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -657,7 +682,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -685,7 +711,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -713,7 +740,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -741,7 +769,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -769,7 +798,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -797,7 +827,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -825,7 +856,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -853,7 +885,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -881,7 +914,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -909,7 +943,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -937,7 +972,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -965,7 +1001,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -993,7 +1030,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -1003,7 +1041,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1018,7 +1057,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1033,7 +1073,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1048,7 +1089,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1063,7 +1105,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1078,7 +1121,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1093,7 +1137,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1108,7 +1153,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1123,7 +1169,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1138,7 +1185,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1153,7 +1201,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1168,7 +1217,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1183,7 +1233,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1198,7 +1249,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1213,7 +1265,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1228,7 +1281,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1243,7 +1297,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -1253,7 +1308,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1275,7 +1331,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -1285,7 +1342,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1319,7 +1377,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1353,7 +1412,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -1363,7 +1423,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1391,7 +1452,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1419,7 +1481,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1447,7 +1510,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1475,7 +1539,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1503,7 +1568,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1531,7 +1597,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1559,7 +1626,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1587,7 +1655,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1615,7 +1684,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1643,7 +1713,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1671,7 +1742,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1699,7 +1771,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1727,7 +1800,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1755,7 +1829,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1783,7 +1858,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1811,7 +1887,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1839,7 +1916,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1867,7 +1945,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1895,7 +1974,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1923,7 +2003,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1951,7 +2032,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -1980,7 +2062,8 @@
           "expression": "brown"
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2008,7 +2091,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2036,7 +2120,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2064,7 +2149,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2092,7 +2178,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2120,7 +2207,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2148,7 +2236,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2176,7 +2265,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2204,7 +2294,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2232,7 +2323,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2260,7 +2352,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2288,7 +2381,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2316,7 +2410,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2344,7 +2439,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2372,7 +2468,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2400,7 +2497,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2434,7 +2532,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2468,7 +2567,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2502,7 +2602,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2536,7 +2637,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2570,7 +2672,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2604,7 +2707,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2638,7 +2742,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2672,7 +2777,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2706,7 +2812,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2740,7 +2847,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2775,7 +2883,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2809,7 +2918,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2843,7 +2953,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2877,7 +2988,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2911,7 +3023,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2945,7 +3058,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -2979,7 +3093,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3014,7 +3129,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3048,7 +3164,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3082,7 +3199,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3117,7 +3235,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3151,7 +3270,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3185,7 +3305,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3219,7 +3340,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3253,7 +3375,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3287,7 +3410,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3321,7 +3445,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3355,7 +3480,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3389,7 +3515,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3423,7 +3550,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3457,7 +3585,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3491,7 +3620,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3525,7 +3655,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3559,7 +3690,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3593,7 +3725,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3627,7 +3760,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3649,7 +3783,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3671,7 +3806,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3693,7 +3829,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3715,7 +3852,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3737,7 +3875,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3759,7 +3898,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3781,7 +3921,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3803,7 +3944,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3825,7 +3967,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3847,7 +3990,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3869,7 +4013,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3891,7 +4036,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3913,7 +4059,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3935,7 +4082,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3957,7 +4105,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -3979,7 +4128,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -3989,7 +4139,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4017,7 +4168,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4045,7 +4197,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4073,7 +4226,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4101,7 +4255,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4129,7 +4284,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4157,7 +4313,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4185,7 +4342,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4213,7 +4371,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4241,7 +4400,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4269,7 +4429,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4297,7 +4458,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -4307,7 +4469,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4335,7 +4498,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4363,7 +4527,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4391,7 +4556,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4419,7 +4585,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4447,7 +4614,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4475,7 +4643,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -4485,7 +4654,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4513,7 +4683,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4541,7 +4712,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4569,7 +4741,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4597,7 +4770,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4625,7 +4799,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4653,7 +4828,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4681,7 +4857,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4709,7 +4886,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4737,7 +4915,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4765,7 +4944,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4793,7 +4973,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4821,7 +5002,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4849,7 +5031,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4877,7 +5060,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4905,7 +5089,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4934,7 +5119,8 @@
           "expression": "brown"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4962,7 +5148,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -4990,7 +5177,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5019,7 +5207,8 @@
           "expression": "brown"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5047,7 +5236,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5075,7 +5265,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5103,7 +5294,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5131,7 +5323,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5159,7 +5352,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5187,7 +5381,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5215,7 +5410,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5243,7 +5439,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5271,7 +5468,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5299,7 +5497,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5327,7 +5526,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5355,7 +5555,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5383,7 +5584,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5411,7 +5613,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5439,7 +5642,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5467,7 +5671,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5495,7 +5700,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -5505,7 +5711,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5527,7 +5734,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5549,7 +5757,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5571,7 +5780,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5593,7 +5803,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5615,7 +5826,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5637,7 +5849,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5659,7 +5872,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5681,7 +5895,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5703,7 +5918,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5725,7 +5941,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5747,7 +5964,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5769,7 +5987,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5791,7 +6010,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5813,7 +6033,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5835,7 +6056,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5857,7 +6079,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5879,7 +6102,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -5889,7 +6113,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5911,7 +6136,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5933,7 +6159,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5955,7 +6182,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -5977,7 +6205,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -5987,7 +6216,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6015,7 +6245,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6043,7 +6274,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6071,7 +6303,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6099,7 +6332,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6127,7 +6361,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6155,7 +6390,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6183,7 +6419,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6211,7 +6448,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6239,7 +6477,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6267,7 +6506,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6295,7 +6535,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6323,7 +6564,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6351,7 +6593,8 @@
           "height": 173,
           "expression": "brown"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -6361,7 +6604,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6389,7 +6633,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6417,7 +6662,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6445,7 +6691,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6473,7 +6720,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6501,7 +6749,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6529,7 +6778,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6557,7 +6807,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -6585,7 +6836,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -6595,7 +6847,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6610,7 +6863,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6625,7 +6879,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6640,7 +6895,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6655,7 +6911,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6670,7 +6927,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6685,7 +6943,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6700,7 +6959,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6715,7 +6975,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6730,7 +6991,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6745,7 +7007,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6760,7 +7023,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6775,7 +7039,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6790,7 +7055,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6805,7 +7071,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6820,7 +7087,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6835,7 +7103,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6850,7 +7119,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6865,7 +7135,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6880,7 +7151,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6895,7 +7167,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6910,7 +7183,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6925,7 +7199,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6940,7 +7215,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6955,7 +7231,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6970,7 +7247,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6985,7 +7263,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7000,7 +7279,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7015,7 +7295,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7030,7 +7311,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7045,7 +7327,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7060,7 +7343,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7075,7 +7359,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7090,7 +7375,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7105,7 +7391,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7120,7 +7407,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7135,7 +7423,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7150,7 +7439,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7165,7 +7455,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7180,7 +7471,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7195,7 +7487,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7210,7 +7503,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7225,7 +7519,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7240,7 +7535,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7255,7 +7551,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7270,7 +7567,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7285,7 +7583,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7300,7 +7599,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7315,7 +7615,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7330,7 +7631,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7345,7 +7647,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7360,7 +7663,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7375,7 +7679,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7390,7 +7695,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7405,7 +7711,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7420,7 +7727,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -7430,7 +7738,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7464,7 +7773,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7498,7 +7808,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7532,7 +7843,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7566,7 +7878,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7600,7 +7913,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7634,7 +7948,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7668,7 +7983,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7702,7 +8018,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7736,7 +8053,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7770,7 +8088,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7804,7 +8123,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7838,7 +8158,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7872,7 +8193,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7906,7 +8228,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7941,7 +8264,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "door-open"
+      "se": "door-open",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -7975,7 +8299,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8009,7 +8334,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8043,7 +8369,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8077,7 +8404,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8111,7 +8439,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8145,7 +8474,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8179,7 +8509,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8213,7 +8544,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8247,7 +8579,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8281,7 +8614,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8315,7 +8649,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8349,7 +8684,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8383,7 +8719,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8417,7 +8754,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8451,7 +8789,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8485,7 +8824,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8519,7 +8859,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8553,7 +8894,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8587,7 +8929,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8621,7 +8964,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8655,7 +8999,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8689,7 +9034,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8723,7 +9069,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8757,7 +9104,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8791,7 +9139,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8825,7 +9174,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8859,7 +9209,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8893,7 +9244,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8927,7 +9279,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8961,7 +9314,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -8995,7 +9349,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9029,7 +9384,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -9039,7 +9395,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9073,7 +9430,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9107,7 +9465,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9141,7 +9500,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9175,7 +9535,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9209,7 +9570,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9243,7 +9605,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9277,7 +9640,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9311,7 +9675,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9345,7 +9710,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9379,7 +9745,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9413,7 +9780,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9447,7 +9815,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9481,7 +9850,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9515,7 +9885,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -9549,7 +9920,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -9559,7 +9931,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9575,7 +9948,8 @@
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
       "cast": [],
-      "se": "water"
+      "se": "water",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9590,7 +9964,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9605,7 +9980,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9620,7 +9996,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9635,7 +10012,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9650,7 +10028,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9665,7 +10044,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9681,7 +10061,8 @@
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
       "cast": [],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9696,7 +10077,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9711,7 +10093,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9726,7 +10109,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9741,7 +10125,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9756,7 +10141,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9771,7 +10157,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9786,7 +10173,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9801,7 +10189,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9816,7 +10205,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9831,7 +10221,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9846,7 +10237,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9861,7 +10253,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9876,7 +10269,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9891,7 +10285,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9906,7 +10301,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9921,7 +10317,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9936,7 +10333,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9951,7 +10349,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9966,7 +10365,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9981,7 +10381,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9996,7 +10397,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10011,7 +10413,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10026,7 +10429,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10041,7 +10445,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10056,7 +10461,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10071,7 +10477,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10086,7 +10493,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10102,7 +10510,8 @@
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
       "cast": [],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10117,7 +10526,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10132,7 +10542,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10147,7 +10558,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10162,7 +10574,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10177,7 +10590,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10192,7 +10606,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10207,7 +10622,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10222,7 +10638,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10237,7 +10654,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10252,7 +10670,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10267,7 +10686,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10282,7 +10702,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10297,7 +10718,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10312,7 +10734,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10327,7 +10750,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10342,7 +10766,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10357,7 +10782,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10372,7 +10798,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10387,7 +10814,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10402,7 +10830,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10417,7 +10846,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10432,7 +10862,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10447,7 +10878,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10462,7 +10894,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10477,7 +10910,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10492,7 +10926,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10507,7 +10942,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10522,7 +10958,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10537,7 +10974,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10552,7 +10990,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10567,7 +11006,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10582,7 +11022,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10597,7 +11038,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10612,7 +11054,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10627,7 +11070,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10642,7 +11086,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10657,7 +11102,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10672,7 +11118,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10687,7 +11134,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10702,7 +11150,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10717,7 +11166,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10732,7 +11182,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10747,7 +11198,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10762,7 +11214,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10777,7 +11230,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10792,7 +11246,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10807,7 +11262,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10822,7 +11278,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10837,7 +11294,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10852,7 +11310,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10867,7 +11326,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10882,7 +11342,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10897,7 +11358,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10912,7 +11374,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10927,7 +11390,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10942,7 +11406,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -10952,7 +11417,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -10967,7 +11433,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -10982,7 +11449,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -10997,7 +11465,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11012,7 +11481,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11027,7 +11497,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11042,7 +11513,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11057,7 +11529,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11072,7 +11545,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11087,7 +11561,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11102,7 +11577,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11117,7 +11593,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11132,7 +11609,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11147,7 +11625,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11162,7 +11641,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11177,7 +11657,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11192,7 +11673,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11207,7 +11689,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11222,7 +11705,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11237,7 +11721,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11252,7 +11737,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11267,7 +11753,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11282,7 +11769,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11297,7 +11785,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11312,7 +11801,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11327,7 +11817,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11342,7 +11833,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11357,7 +11849,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11372,7 +11865,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11387,7 +11881,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11402,7 +11897,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11417,7 +11913,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11432,7 +11929,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11447,7 +11945,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11462,7 +11961,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11477,7 +11977,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11492,7 +11993,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11507,7 +12009,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11522,7 +12025,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11537,7 +12041,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11552,7 +12057,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11567,7 +12073,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11582,7 +12089,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11597,7 +12105,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11612,7 +12121,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11627,7 +12137,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11642,7 +12153,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11657,7 +12169,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11672,7 +12185,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11687,7 +12201,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11702,7 +12217,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11717,7 +12233,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11732,7 +12249,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11747,7 +12265,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11762,7 +12281,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11796,7 +12316,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11830,7 +12351,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11864,7 +12386,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11898,7 +12421,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11932,7 +12456,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11966,7 +12491,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12000,7 +12526,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12034,7 +12561,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12068,7 +12596,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12102,7 +12631,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "location",
@@ -12112,7 +12642,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12146,7 +12677,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12180,7 +12712,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12215,7 +12748,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12249,7 +12783,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12283,7 +12818,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12317,7 +12853,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12351,7 +12888,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12386,7 +12924,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "metal"
+      "se": "metal",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12420,7 +12959,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12455,7 +12995,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12489,7 +13030,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12523,7 +13065,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12557,7 +13100,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12591,7 +13135,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12625,7 +13170,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12659,7 +13205,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12693,7 +13240,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12727,7 +13275,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12761,7 +13310,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12795,7 +13345,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12829,7 +13380,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12863,7 +13415,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12897,7 +13450,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12931,7 +13485,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12965,7 +13520,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -12999,7 +13555,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13033,7 +13590,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13067,7 +13625,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13101,7 +13660,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13135,7 +13695,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13169,7 +13730,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13203,7 +13765,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13237,7 +13800,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13265,7 +13829,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13293,7 +13858,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13321,7 +13887,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13349,7 +13916,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13377,7 +13945,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13405,7 +13974,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13433,7 +14003,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13461,7 +14032,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13489,7 +14061,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13517,7 +14090,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13545,7 +14119,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13573,7 +14148,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13601,7 +14177,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13629,7 +14206,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13657,7 +14235,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13685,7 +14264,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13713,7 +14293,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13741,7 +14322,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13769,7 +14351,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13797,7 +14380,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13825,7 +14409,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13853,7 +14438,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13881,7 +14467,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13909,7 +14496,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13937,7 +14525,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13965,7 +14554,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -13993,7 +14583,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14021,7 +14612,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14049,7 +14641,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14077,7 +14670,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14105,7 +14699,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14133,7 +14728,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14161,7 +14757,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14189,7 +14786,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14217,7 +14815,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14245,7 +14844,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14273,7 +14873,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14301,7 +14902,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14329,7 +14931,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14357,7 +14960,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14385,7 +14989,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14413,7 +15018,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14441,7 +15047,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14469,7 +15076,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14497,7 +15105,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14525,7 +15134,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14553,7 +15163,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14581,7 +15192,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14609,7 +15221,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14637,7 +15250,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14665,7 +15279,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14693,7 +15308,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14721,7 +15337,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14749,7 +15366,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14777,7 +15395,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14805,7 +15424,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14833,7 +15453,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14861,7 +15482,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14889,7 +15511,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14917,7 +15540,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14945,7 +15569,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -14973,7 +15598,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15001,7 +15627,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15029,7 +15656,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15057,7 +15685,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15085,7 +15714,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15113,7 +15743,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15141,7 +15772,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15169,7 +15801,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15197,7 +15830,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15225,7 +15859,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15253,7 +15888,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15281,7 +15917,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15309,7 +15946,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15337,7 +15975,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15365,7 +16004,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15394,7 +16034,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15422,7 +16063,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15450,7 +16092,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15478,7 +16121,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15506,7 +16150,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15534,7 +16179,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "location",
@@ -15544,7 +16190,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-b-faceless.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -15572,7 +16219,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "location",
@@ -15582,7 +16230,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15610,7 +16259,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15638,7 +16288,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15666,7 +16317,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15694,7 +16346,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15722,7 +16375,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15750,7 +16404,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15778,7 +16433,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15806,7 +16462,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15834,7 +16491,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15862,7 +16520,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15890,7 +16549,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15918,7 +16578,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15946,7 +16607,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -15974,7 +16636,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16002,7 +16665,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16030,7 +16694,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16058,7 +16723,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16086,7 +16752,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16114,7 +16781,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16142,7 +16810,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16170,7 +16839,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16198,7 +16868,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16226,7 +16897,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16254,7 +16926,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16282,7 +16955,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16310,7 +16984,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16338,7 +17013,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16366,7 +17042,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16394,7 +17071,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16422,7 +17100,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16450,7 +17129,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16478,7 +17158,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16507,7 +17188,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16535,7 +17217,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16563,7 +17246,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16585,7 +17269,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -16595,7 +17280,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16617,7 +17303,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16639,7 +17326,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16661,7 +17349,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16683,7 +17372,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16705,7 +17395,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16727,7 +17418,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16749,7 +17441,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16771,7 +17464,8 @@
           "height": 184,
           "expression": "serious"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -16781,7 +17475,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16796,7 +17491,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16811,7 +17507,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16826,7 +17523,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16841,7 +17539,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16856,7 +17555,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16871,7 +17571,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16886,7 +17587,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16901,7 +17603,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16916,7 +17619,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16931,7 +17635,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16946,7 +17651,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16961,7 +17667,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16976,7 +17683,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -16991,7 +17699,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17006,7 +17715,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17021,7 +17731,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17036,7 +17747,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17064,7 +17776,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17092,7 +17805,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17120,7 +17834,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17148,7 +17863,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17176,7 +17892,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17205,7 +17922,8 @@
           "expression": "reserved"
         }
       ],
-      "se": "knock"
+      "se": "knock",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17233,7 +17951,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17261,7 +17980,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17289,7 +18009,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17317,7 +18038,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17345,7 +18067,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17373,7 +18096,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17401,7 +18125,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17429,7 +18154,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17458,7 +18184,8 @@
           "expression": "reserved"
         }
       ],
-      "se": "door-open"
+      "se": "door-open",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17492,7 +18219,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17526,7 +18254,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17560,7 +18289,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17594,7 +18324,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17628,7 +18359,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17662,7 +18394,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17696,7 +18429,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17730,7 +18464,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17764,7 +18499,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17798,7 +18534,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17832,7 +18569,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17866,7 +18604,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17900,7 +18639,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17934,7 +18674,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -17968,7 +18709,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18002,7 +18744,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18036,7 +18779,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18070,7 +18814,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18104,7 +18849,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18138,7 +18884,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18172,7 +18919,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18206,7 +18954,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18240,7 +18989,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18274,7 +19024,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18308,7 +19059,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18342,7 +19094,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18376,7 +19129,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18410,7 +19164,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18444,7 +19199,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18478,7 +19234,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18512,7 +19269,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18546,7 +19304,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18580,7 +19339,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18614,7 +19374,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18648,7 +19409,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18682,7 +19444,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18716,7 +19479,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18750,7 +19514,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18784,7 +19549,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18818,7 +19584,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18852,7 +19619,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18886,7 +19654,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18920,7 +19689,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18954,7 +19724,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -18988,7 +19759,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19022,7 +19794,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19056,7 +19829,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19090,7 +19864,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19124,7 +19899,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19158,7 +19934,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19192,7 +19969,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19226,7 +20004,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19260,7 +20039,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19294,7 +20074,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19328,7 +20109,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19362,7 +20144,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19397,7 +20180,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "chair"
+      "se": "chair",
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19431,7 +20215,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -19465,7 +20250,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "tension"
     }
   ],
   "source_lines": 758,

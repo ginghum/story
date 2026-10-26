@@ -11,7 +11,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -26,7 +27,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -42,7 +44,8 @@
       "cg": null,
       "cgAlt": null,
       "cast": [],
-      "se": "water"
+      "se": "water",
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -57,7 +60,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -72,7 +76,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -94,7 +99,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -109,7 +115,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -124,7 +131,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -139,7 +147,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -154,7 +163,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -169,7 +179,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -184,7 +195,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -199,7 +211,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -214,7 +227,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -236,7 +250,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -251,7 +266,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -266,7 +282,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -288,7 +305,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -303,7 +321,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -318,7 +337,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -333,7 +353,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -348,7 +369,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -370,7 +392,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -385,7 +408,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -407,7 +431,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -423,7 +448,8 @@
       "cg": null,
       "cgAlt": null,
       "cast": [],
-      "se": "ui"
+      "se": "ui",
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -438,7 +464,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -460,7 +487,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -475,7 +503,8 @@
       "tone": "",
       "cg": "assets/cg/prologue-a.webp",
       "cgAlt": "船から学園を望むプラス",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "location",
@@ -492,7 +521,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -514,7 +544,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -536,7 +567,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -558,7 +590,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -580,7 +613,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -602,7 +636,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -624,7 +659,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -646,7 +682,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -668,7 +705,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -690,7 +728,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -712,7 +751,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -734,7 +774,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -756,7 +797,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -778,7 +820,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -800,7 +843,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -822,7 +866,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -844,7 +889,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -866,7 +912,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -888,7 +935,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -910,7 +958,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -932,7 +981,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -954,7 +1004,8 @@
           "height": 184,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -982,7 +1033,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1010,7 +1062,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1038,7 +1091,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1066,7 +1120,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1094,7 +1149,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1122,7 +1178,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1150,7 +1207,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1178,7 +1236,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1206,7 +1265,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1234,7 +1294,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1262,7 +1323,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1290,7 +1352,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1318,7 +1381,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1346,7 +1410,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1374,7 +1439,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1402,7 +1468,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1430,7 +1497,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1458,7 +1526,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1486,7 +1555,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1514,7 +1584,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1542,7 +1613,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1570,7 +1642,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1598,7 +1671,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1626,7 +1700,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1654,7 +1729,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1682,7 +1758,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1710,7 +1787,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1738,7 +1816,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1766,7 +1845,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1794,7 +1874,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1822,7 +1903,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -1845,7 +1927,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1873,7 +1956,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1901,7 +1985,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1929,7 +2014,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1957,7 +2043,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1985,7 +2072,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2013,7 +2101,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2041,7 +2130,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2069,7 +2159,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2097,7 +2188,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2125,7 +2217,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2153,7 +2246,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2181,7 +2275,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2209,7 +2304,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2237,7 +2333,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2265,7 +2362,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2293,7 +2391,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2321,7 +2420,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2349,7 +2449,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2377,7 +2478,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2405,7 +2507,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2434,7 +2537,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "bell"
+      "se": "bell",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2462,7 +2566,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2491,7 +2596,8 @@
           "expression": "exasperated"
         }
       ],
-      "se": "run"
+      "se": "run",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2519,7 +2625,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2547,7 +2654,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -2570,7 +2678,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2598,7 +2707,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2626,7 +2736,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2654,7 +2765,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2682,7 +2794,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2710,7 +2823,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2738,7 +2852,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2766,7 +2881,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2794,7 +2910,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2822,7 +2939,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2850,7 +2968,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2878,7 +2997,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2906,7 +3026,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2934,7 +3055,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2962,7 +3084,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -2990,7 +3113,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3019,7 +3143,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "bell"
+      "se": "bell",
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3047,7 +3172,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3075,7 +3201,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3103,7 +3230,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3131,7 +3259,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3159,7 +3288,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3187,7 +3317,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -3215,7 +3346,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "location",
@@ -3238,7 +3370,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3266,7 +3399,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3295,7 +3429,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3323,7 +3458,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3351,7 +3487,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3379,7 +3516,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3407,7 +3545,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3435,7 +3574,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3463,7 +3603,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3491,7 +3632,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3519,7 +3661,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3548,7 +3691,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3576,7 +3720,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3612,7 +3757,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3648,7 +3794,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3684,7 +3831,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3720,7 +3868,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3756,7 +3905,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3792,7 +3942,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3828,7 +3979,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3864,7 +4016,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3900,7 +4053,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3936,7 +4090,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -3972,7 +4127,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4008,7 +4164,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4044,7 +4201,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4080,7 +4238,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4116,7 +4275,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4152,7 +4312,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4188,7 +4349,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4224,7 +4386,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4260,7 +4423,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4296,7 +4460,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4332,7 +4497,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4368,7 +4534,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4404,7 +4571,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4440,7 +4608,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4476,7 +4645,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4512,7 +4682,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4548,7 +4719,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4584,7 +4756,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4620,7 +4793,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4656,7 +4830,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4692,7 +4867,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4728,7 +4904,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4764,7 +4941,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4800,7 +4978,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4836,7 +5015,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4872,7 +5052,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4908,7 +5089,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4944,7 +5126,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -4980,7 +5163,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5016,7 +5200,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5052,7 +5237,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5088,7 +5274,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5124,7 +5311,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5160,7 +5348,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5196,7 +5385,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5233,7 +5423,8 @@
           "anonymous": true
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5269,7 +5460,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5305,7 +5497,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5341,7 +5534,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5377,7 +5571,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5413,7 +5608,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5449,7 +5645,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5485,7 +5682,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5521,7 +5719,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5557,7 +5756,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5593,7 +5793,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5629,7 +5830,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5665,7 +5867,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5701,7 +5904,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5737,7 +5941,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5773,7 +5978,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5810,7 +6016,8 @@
           "anonymous": true
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5846,7 +6053,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5882,7 +6090,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5918,7 +6127,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5954,7 +6164,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -5990,7 +6201,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6026,7 +6238,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6062,7 +6275,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6097,7 +6311,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6132,7 +6347,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6167,7 +6383,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6202,7 +6419,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6237,7 +6455,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6272,7 +6491,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6307,7 +6527,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6342,7 +6563,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6377,7 +6599,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6412,7 +6635,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6447,7 +6671,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6482,7 +6707,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6517,7 +6743,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6552,7 +6779,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6587,7 +6815,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6622,7 +6851,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6657,7 +6887,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6692,7 +6923,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6727,7 +6959,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6762,7 +6995,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "battle"
     },
     {
       "type": "line",
@@ -6797,7 +7031,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6832,7 +7067,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6867,7 +7103,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6902,7 +7139,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6937,7 +7175,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -6972,7 +7211,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7007,7 +7247,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7042,7 +7283,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7077,7 +7319,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7112,7 +7355,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7147,7 +7391,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7182,7 +7427,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7217,7 +7463,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7252,7 +7499,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7287,7 +7535,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7323,7 +7572,8 @@
           "anonymous": true
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7358,7 +7608,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7393,7 +7644,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7428,7 +7680,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7463,7 +7716,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7498,7 +7752,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7532,7 +7787,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7566,7 +7822,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7600,7 +7857,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7634,7 +7892,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7668,7 +7927,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7702,7 +7962,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7736,7 +7997,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7770,7 +8032,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7804,7 +8067,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7838,7 +8102,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7872,7 +8137,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7906,7 +8172,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7940,7 +8207,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -7974,7 +8242,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8008,7 +8277,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8042,7 +8312,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8076,7 +8347,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8110,7 +8382,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8144,7 +8417,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8178,7 +8452,8 @@
           "height": 180,
           "expression": "stern"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8212,7 +8487,8 @@
           "height": 180,
           "expression": "puzzled"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8246,7 +8522,8 @@
           "height": 180,
           "expression": "puzzled"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8280,7 +8557,8 @@
           "height": 180,
           "expression": "puzzled"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8314,7 +8592,8 @@
           "height": 180,
           "expression": "puzzled"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8348,7 +8627,8 @@
           "height": 180,
           "expression": "puzzled"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8376,7 +8656,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8404,7 +8685,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8432,7 +8714,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8460,7 +8743,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8488,7 +8772,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8516,7 +8801,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8544,7 +8830,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8572,7 +8859,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8600,7 +8888,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8628,7 +8917,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8656,7 +8946,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8684,7 +8975,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8712,7 +9004,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8740,7 +9033,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8768,7 +9062,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8796,7 +9091,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8824,7 +9120,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8852,7 +9149,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8880,7 +9178,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8908,7 +9207,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8936,7 +9236,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8964,7 +9265,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -8992,7 +9294,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9020,7 +9323,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9048,7 +9352,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9076,7 +9381,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9104,7 +9410,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9132,7 +9439,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9160,7 +9468,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9188,7 +9497,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -9216,7 +9526,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -9239,7 +9550,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9267,7 +9579,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9295,7 +9608,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9323,7 +9637,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9351,7 +9666,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9379,7 +9695,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9407,7 +9724,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9435,7 +9753,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -9458,7 +9777,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9486,7 +9806,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9514,7 +9835,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9542,7 +9864,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9570,7 +9893,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9598,7 +9922,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9626,7 +9951,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9654,7 +9980,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9682,7 +10009,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9710,7 +10038,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9738,7 +10067,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9766,7 +10096,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9794,7 +10125,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9822,7 +10154,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9850,7 +10183,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9878,7 +10212,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9906,7 +10241,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9934,7 +10270,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9962,7 +10299,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9990,7 +10328,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10018,7 +10357,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10046,7 +10386,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10074,7 +10415,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10102,7 +10444,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -10125,7 +10468,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10153,7 +10497,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10181,7 +10526,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10209,7 +10555,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10237,7 +10584,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10266,7 +10614,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "crowd"
+      "se": "crowd",
+      "bgm": "training"
     },
     {
       "type": "location",
@@ -10289,7 +10638,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10317,7 +10667,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10345,7 +10696,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10374,7 +10726,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10402,7 +10755,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10430,7 +10784,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10458,7 +10813,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10486,7 +10842,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10514,7 +10871,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10542,7 +10900,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10570,7 +10929,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10598,7 +10958,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10626,7 +10987,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10654,7 +11016,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10682,7 +11045,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10710,7 +11074,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10738,7 +11103,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10766,7 +11132,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10794,7 +11161,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10822,7 +11190,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10850,7 +11219,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10878,7 +11248,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10906,7 +11277,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10934,7 +11306,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10962,7 +11335,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -10990,7 +11364,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11018,7 +11393,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11046,7 +11422,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11074,7 +11451,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11102,7 +11480,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11130,7 +11509,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11158,7 +11538,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11186,7 +11567,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11214,7 +11596,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11242,7 +11625,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11270,7 +11654,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11298,7 +11683,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11326,7 +11712,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11354,7 +11741,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11382,7 +11770,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11410,7 +11799,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11438,7 +11828,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11466,7 +11857,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11495,7 +11887,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11523,7 +11916,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11551,7 +11945,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11579,7 +11974,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11607,7 +12003,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11635,7 +12032,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11663,7 +12061,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11691,7 +12090,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11719,7 +12119,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11747,7 +12148,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11775,7 +12177,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11803,7 +12206,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11831,7 +12235,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11859,7 +12264,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11887,7 +12293,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11921,7 +12328,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11955,7 +12363,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -11989,7 +12398,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12023,7 +12433,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12057,7 +12468,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12091,7 +12503,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12125,7 +12538,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12159,7 +12573,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12193,7 +12608,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12227,7 +12643,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12261,7 +12678,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12295,7 +12713,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12329,7 +12748,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12363,7 +12783,8 @@
           "height": 155,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12397,7 +12818,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12431,7 +12853,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12465,7 +12888,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12499,7 +12923,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12533,7 +12958,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12567,7 +12993,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12601,7 +13028,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12635,7 +13063,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12670,7 +13099,8 @@
           "expression": "smile"
         }
       ],
-      "se": "chime"
+      "se": "chime",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12704,7 +13134,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12738,7 +13169,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12772,7 +13204,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12806,7 +13239,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -12840,7 +13274,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "location",
@@ -12863,7 +13298,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -12891,7 +13327,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -12919,7 +13356,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -12947,7 +13385,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -12975,7 +13414,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13003,7 +13443,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13031,7 +13472,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13059,7 +13501,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13087,7 +13530,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13115,7 +13559,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13143,7 +13588,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13171,7 +13617,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13199,7 +13646,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13227,7 +13675,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13255,7 +13704,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13283,7 +13733,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13311,7 +13762,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13339,7 +13791,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13368,7 +13821,8 @@
           "expression": "exasperated"
         }
       ],
-      "se": "door-close"
+      "se": "door-close",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13396,7 +13850,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -13419,7 +13874,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13447,7 +13903,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13475,7 +13932,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13503,7 +13961,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13531,7 +13990,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13559,7 +14019,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13587,7 +14048,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -13610,7 +14072,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13639,7 +14102,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "door-open"
+      "se": "door-open",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13667,7 +14131,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13701,7 +14166,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13735,7 +14201,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13769,7 +14236,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13803,7 +14271,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13837,7 +14306,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13871,7 +14341,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13905,7 +14376,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13939,7 +14411,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -13973,7 +14446,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14007,7 +14481,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14041,7 +14516,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14075,7 +14551,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14109,7 +14586,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14143,7 +14621,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14177,7 +14656,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14211,7 +14691,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14245,7 +14726,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14279,7 +14761,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14313,7 +14796,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14347,7 +14831,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14381,7 +14866,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14415,7 +14901,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14449,7 +14936,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14483,7 +14971,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14517,7 +15006,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14551,7 +15041,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14585,7 +15076,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14619,7 +15111,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14653,7 +15146,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14687,7 +15181,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14721,7 +15216,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14755,7 +15251,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14789,7 +15286,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14823,7 +15321,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14857,7 +15356,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14891,7 +15391,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14925,7 +15426,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14959,7 +15461,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -14993,7 +15496,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15027,7 +15531,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15061,7 +15566,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15095,7 +15601,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15129,7 +15636,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15163,7 +15671,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15197,7 +15706,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15231,7 +15741,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15265,7 +15776,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15299,7 +15811,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15333,7 +15846,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15367,7 +15881,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15401,7 +15916,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15435,7 +15951,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15469,7 +15986,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15503,7 +16021,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15537,7 +16056,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15571,7 +16091,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -15605,7 +16126,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -15615,7 +16137,8 @@
       "tone": "evening",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15649,7 +16172,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15683,7 +16207,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15717,7 +16242,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15751,7 +16277,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15785,7 +16312,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15819,7 +16347,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15853,7 +16382,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15887,7 +16417,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15921,7 +16452,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15955,7 +16487,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -15989,7 +16522,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16024,7 +16558,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16058,7 +16593,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16093,7 +16629,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "crowd"
+      "se": "crowd",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16127,7 +16664,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16161,7 +16699,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16195,7 +16734,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16229,7 +16769,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16263,7 +16804,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16297,7 +16839,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16331,7 +16874,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16365,7 +16909,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16399,7 +16944,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16433,7 +16979,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16467,7 +17014,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16501,7 +17049,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16535,7 +17084,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16569,7 +17119,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16603,7 +17154,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16637,7 +17189,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16671,7 +17224,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16705,7 +17259,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16739,7 +17294,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16773,7 +17329,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16807,7 +17364,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16841,7 +17399,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16875,7 +17434,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16909,7 +17469,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16943,7 +17504,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -16977,7 +17539,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17011,7 +17574,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17045,7 +17609,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17080,7 +17645,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "whoosh"
+      "se": "whoosh",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17114,7 +17680,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17148,7 +17715,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17182,7 +17750,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17216,7 +17785,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17250,7 +17820,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17284,7 +17855,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17318,7 +17890,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17352,7 +17925,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17386,7 +17960,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17420,7 +17995,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17454,7 +18030,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17488,7 +18065,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17522,7 +18100,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17556,7 +18135,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17590,7 +18170,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17624,7 +18205,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17658,7 +18240,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17692,7 +18275,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17726,7 +18310,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17760,7 +18345,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17794,7 +18380,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17828,7 +18415,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17862,7 +18450,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17896,7 +18485,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17930,7 +18520,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17964,7 +18555,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -17998,7 +18590,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18032,7 +18625,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18066,7 +18660,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18100,7 +18695,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18134,7 +18730,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18168,7 +18765,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18202,7 +18800,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18236,7 +18835,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18270,7 +18870,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18304,7 +18905,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18338,7 +18940,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18372,7 +18975,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18406,7 +19010,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18440,7 +19045,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18474,7 +19080,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18508,7 +19115,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18542,7 +19150,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18576,7 +19185,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18610,7 +19220,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18644,7 +19255,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18678,7 +19290,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18712,7 +19325,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18746,7 +19360,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18780,7 +19395,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18814,7 +19430,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18849,7 +19466,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "heavy"
+      "se": "heavy",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18883,7 +19501,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18917,7 +19536,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18951,7 +19571,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -18985,7 +19606,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19019,7 +19641,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19053,7 +19676,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19087,7 +19711,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19121,7 +19746,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19156,7 +19782,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19190,7 +19817,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19224,7 +19852,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19258,7 +19887,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19292,7 +19922,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19326,7 +19957,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19360,7 +19992,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19394,7 +20027,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19428,7 +20062,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19462,7 +20097,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19496,7 +20132,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19531,7 +20168,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19565,7 +20203,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19599,7 +20238,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19633,7 +20273,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19667,7 +20308,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19701,7 +20343,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19735,7 +20378,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19769,7 +20413,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19803,7 +20448,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19837,7 +20483,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19871,7 +20518,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19905,7 +20553,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19939,7 +20588,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -19973,7 +20623,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20007,7 +20658,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20041,7 +20693,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20075,7 +20728,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20109,7 +20763,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20143,7 +20798,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20177,7 +20833,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20211,7 +20868,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20245,7 +20903,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20279,7 +20938,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20313,7 +20973,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20347,7 +21008,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20381,7 +21043,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20415,7 +21078,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20449,7 +21113,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20483,7 +21148,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20517,7 +21183,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20551,7 +21218,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20585,7 +21253,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20619,7 +21288,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20653,7 +21323,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20687,7 +21358,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20721,7 +21393,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20755,7 +21428,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20789,7 +21463,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "line",
@@ -20823,7 +21498,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "training"
     },
     {
       "type": "location",
@@ -20852,7 +21528,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -20886,7 +21563,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -20920,7 +21598,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -20954,7 +21633,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -20988,7 +21668,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21022,7 +21703,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21056,7 +21738,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21071,7 +21754,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21086,7 +21770,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21101,7 +21786,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21116,7 +21802,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21131,7 +21818,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21146,7 +21834,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21161,7 +21850,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21176,7 +21866,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21191,7 +21882,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21206,7 +21898,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21221,7 +21914,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21236,7 +21930,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21251,7 +21946,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21266,7 +21962,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21281,7 +21978,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21296,7 +21994,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21311,7 +22010,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21326,7 +22026,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21341,7 +22042,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21356,7 +22058,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21371,7 +22074,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21386,7 +22090,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21401,7 +22106,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21416,7 +22122,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21431,7 +22138,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21446,7 +22154,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21461,7 +22170,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21476,7 +22186,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21491,7 +22202,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21506,7 +22218,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21522,7 +22235,8 @@
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
       "cast": [],
-      "se": "cloth"
+      "se": "cloth",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21537,7 +22251,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21552,7 +22267,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21567,7 +22283,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21582,7 +22299,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21597,7 +22315,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21612,7 +22331,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21627,7 +22347,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21642,7 +22363,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21657,7 +22379,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21672,7 +22395,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21687,7 +22411,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21702,7 +22427,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21717,7 +22443,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21732,7 +22459,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21747,7 +22475,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21762,7 +22491,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21777,7 +22507,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21792,7 +22523,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21807,7 +22539,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21822,7 +22555,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21837,7 +22571,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21852,7 +22587,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21867,7 +22603,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21882,7 +22619,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21897,7 +22635,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21912,7 +22651,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21927,7 +22667,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21942,7 +22683,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21957,7 +22699,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21972,7 +22715,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -21987,7 +22731,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22002,7 +22747,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22017,7 +22763,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22032,7 +22779,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22047,7 +22795,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22062,7 +22811,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22077,7 +22827,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22092,7 +22843,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22107,7 +22859,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22122,7 +22875,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22137,7 +22891,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22152,7 +22907,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22167,7 +22923,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22182,7 +22939,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22197,7 +22955,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22212,7 +22971,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22227,7 +22987,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22242,7 +23003,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22257,7 +23019,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22272,7 +23035,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22287,7 +23051,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22302,7 +23067,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22317,7 +23083,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22332,7 +23099,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22348,7 +23116,8 @@
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
       "cast": [],
-      "se": "knock"
+      "se": "knock",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22363,7 +23132,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22378,7 +23148,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22393,7 +23164,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22408,7 +23180,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22423,7 +23196,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22438,7 +23212,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22453,7 +23228,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22468,7 +23244,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22483,7 +23260,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -22493,7 +23271,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22508,7 +23287,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22523,7 +23303,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22538,7 +23319,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22553,7 +23335,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22568,7 +23351,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22583,7 +23367,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22598,7 +23383,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22613,7 +23399,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22628,7 +23415,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22643,7 +23431,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22658,7 +23447,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22673,7 +23463,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22688,7 +23479,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22703,7 +23495,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22718,7 +23511,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22733,7 +23527,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22748,7 +23543,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22763,7 +23559,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22778,7 +23575,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22793,7 +23591,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22808,7 +23607,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22823,7 +23623,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22839,7 +23640,8 @@
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
       "cast": [],
-      "se": "steps"
+      "se": "steps",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22855,7 +23657,8 @@
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
       "cast": [],
-      "se": "cloth"
+      "se": "cloth",
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22870,7 +23673,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22885,7 +23689,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22900,7 +23705,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22915,7 +23721,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22930,7 +23737,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22945,7 +23753,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22960,7 +23769,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "line",
@@ -22975,7 +23785,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "bgm": "reflection"
     },
     {
       "type": "location",
@@ -22985,7 +23796,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23000,7 +23812,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23015,7 +23828,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23030,7 +23844,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23045,7 +23860,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23060,7 +23876,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23075,7 +23892,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23090,7 +23908,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23105,7 +23924,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23120,7 +23940,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23135,7 +23956,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23150,7 +23972,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23165,7 +23988,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23180,7 +24004,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23195,7 +24020,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23210,7 +24036,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -23225,7 +24052,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     }
   ],
   "source_lines": 803,

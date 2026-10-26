@@ -1,0 +1,58 @@
+{
+  "tracks": [
+    {
+      "id": "daily",
+      "title": "いつもの学園",
+      "bpm": 96,
+      "duration": 40.0,
+      "file": "assets/bgm/daily.mp3",
+      "peak": 0.4171,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "calm",
+      "title": "頁をひらいて",
+      "bpm": 80,
+      "duration": 48.0,
+      "file": "assets/bgm/calm.mp3",
+      "peak": 0.411,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "training",
+      "title": "一歩ずつ、その先へ",
+      "bpm": 112,
+      "duration": 34.285714285714285,
+      "file": "assets/bgm/training.mp3",
+      "peak": 0.4782,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "battle",
+      "title": "届くまで",
+      "bpm": 132,
+      "duration": 29.09090909090909,
+      "file": "assets/bgm/battle.mp3",
+      "peak": 0.4878,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "tension",
+      "title": "扉の向こう",
+      "bpm": 88,
+      "duration": 43.63636363636363,
+      "file": "assets/bgm/tension.mp3",
+      "peak": 0.3441,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "reflection",
+      "title": "残った言葉",
+      "bpm": 72,
+      "duration": 53.333333333333336,
+      "file": "assets/bgm/reflection.mp3",
+      "peak": 0.4129,
+      "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    }
+  ]
+}

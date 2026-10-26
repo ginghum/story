@@ -10,7 +10,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -25,7 +26,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -40,7 +42,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -55,7 +58,8 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "tension"
     },
     {
       "type": "line",
@@ -71,7 +75,8 @@
       "cg": null,
       "cgAlt": "物語の挿絵",
       "cast": [],
-      "se": "hit"
+      "se": "hit",
+      "bgm": "tension"
     },
     {
       "type": "location",
@@ -81,7 +86,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -115,7 +121,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -149,7 +156,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -183,7 +191,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -217,7 +226,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -251,7 +261,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -285,7 +296,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -319,7 +331,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -353,7 +366,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -387,7 +401,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -421,7 +436,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -455,7 +471,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -489,7 +506,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -523,7 +541,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -557,7 +576,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -591,7 +611,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -625,7 +646,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -659,7 +681,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -693,7 +716,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -727,7 +751,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -761,7 +786,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -795,7 +821,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -829,7 +856,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -863,7 +891,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -897,7 +926,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -931,7 +961,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -965,7 +996,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -999,7 +1031,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1033,7 +1066,8 @@
           "height": 169,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1067,7 +1101,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1101,7 +1136,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1135,7 +1171,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1169,7 +1206,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -1179,7 +1217,8 @@
       "tone": "",
       "cg": "assets/cg/episode01-d.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1214,7 +1253,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1248,7 +1288,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -1258,7 +1299,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1292,7 +1334,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1326,7 +1369,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1360,7 +1404,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1394,7 +1439,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1428,7 +1474,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1462,7 +1509,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1496,7 +1544,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -1506,7 +1555,8 @@
       "tone": "",
       "cg": "assets/cg/episode01-d.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1540,7 +1590,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1574,7 +1625,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1608,7 +1660,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1642,7 +1695,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1676,7 +1730,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1710,7 +1765,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1744,7 +1800,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1778,7 +1835,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1812,7 +1870,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1846,7 +1905,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1880,7 +1940,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1914,7 +1975,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1948,7 +2010,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -1982,7 +2045,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2016,7 +2080,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2050,7 +2115,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2084,7 +2150,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2118,7 +2185,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2152,7 +2220,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2186,7 +2255,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2220,7 +2290,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2254,7 +2325,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2288,7 +2360,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2322,7 +2395,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2356,7 +2430,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2390,7 +2465,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2424,7 +2500,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2458,7 +2535,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2492,7 +2570,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2526,7 +2605,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2560,7 +2640,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2594,7 +2675,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2628,7 +2710,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2662,7 +2745,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2696,7 +2780,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -2706,7 +2791,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2740,7 +2826,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2774,7 +2861,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2808,7 +2896,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2842,7 +2931,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2876,7 +2966,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2910,7 +3001,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2944,7 +3036,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -2978,7 +3071,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3012,7 +3106,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3046,7 +3141,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3080,7 +3176,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3114,7 +3211,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3148,7 +3246,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3182,7 +3281,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3216,7 +3316,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3250,7 +3351,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3284,7 +3386,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3318,7 +3421,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3352,7 +3456,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3386,7 +3491,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3420,7 +3526,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3454,7 +3561,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3488,7 +3596,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3522,7 +3631,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3556,7 +3666,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3590,7 +3701,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3624,7 +3736,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3659,7 +3772,8 @@
           "expression": "annoyed"
         }
       ],
-      "se": "run"
+      "se": "run",
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -3669,7 +3783,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3703,7 +3818,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3738,7 +3854,8 @@
           "expression": "annoyed"
         }
       ],
-      "se": "bell"
+      "se": "bell",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3772,7 +3889,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3806,7 +3924,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3840,7 +3959,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3874,7 +3994,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3908,7 +4029,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3942,7 +4064,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -3976,7 +4099,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4010,7 +4134,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4044,7 +4169,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4078,7 +4204,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4112,7 +4239,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4146,7 +4274,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4180,7 +4309,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4214,7 +4344,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4248,7 +4379,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4282,7 +4414,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4316,7 +4449,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4350,7 +4484,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4384,7 +4519,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4418,7 +4554,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4452,7 +4589,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4486,7 +4624,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4520,7 +4659,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4554,7 +4694,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4588,7 +4729,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4622,7 +4764,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4656,7 +4799,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4690,7 +4834,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4724,7 +4869,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4758,7 +4904,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4792,7 +4939,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4826,7 +4974,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4860,7 +5009,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4894,7 +5044,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4928,7 +5079,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4962,7 +5114,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -4996,7 +5149,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -5031,7 +5185,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "door-open"
+      "se": "door-open",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -5065,7 +5220,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -5075,7 +5231,8 @@
       "tone": "",
       "cg": "assets/cg/episode01-c.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5109,7 +5266,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5143,7 +5301,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5177,7 +5336,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5211,7 +5371,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5245,7 +5406,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5279,7 +5441,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5313,7 +5476,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5348,7 +5512,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "steps"
+      "se": "steps",
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5382,7 +5547,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5416,7 +5582,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5450,7 +5617,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5484,7 +5652,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5518,7 +5687,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5552,7 +5722,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5586,7 +5757,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5620,7 +5792,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5654,7 +5827,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5688,7 +5862,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5722,7 +5897,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5756,7 +5932,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5790,7 +5967,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5824,7 +6002,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5858,7 +6037,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5892,7 +6072,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5926,7 +6107,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5960,7 +6142,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -5994,7 +6177,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -6028,7 +6212,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -6062,7 +6247,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -6096,7 +6282,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -6130,7 +6317,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -6164,7 +6352,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "location",
@@ -6174,7 +6363,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6209,7 +6399,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6243,7 +6434,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6277,7 +6469,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6311,7 +6504,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6345,7 +6539,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6379,7 +6574,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6413,7 +6609,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6447,7 +6644,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6481,7 +6679,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6515,7 +6714,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6549,7 +6749,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6583,7 +6784,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6617,7 +6819,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6651,7 +6854,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6685,7 +6889,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -6695,7 +6900,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6729,7 +6935,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6763,7 +6970,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6797,7 +7005,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6831,7 +7040,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6865,7 +7075,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6899,7 +7110,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6933,7 +7145,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -6967,7 +7180,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7001,7 +7215,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7035,7 +7250,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7070,7 +7286,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7104,7 +7321,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7138,7 +7356,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7172,7 +7391,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7206,7 +7426,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7240,7 +7461,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7274,7 +7496,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7308,7 +7531,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7342,7 +7566,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7376,7 +7601,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7410,7 +7636,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7444,7 +7671,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7478,7 +7706,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7512,7 +7741,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7546,7 +7776,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7580,7 +7811,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7614,7 +7846,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7648,7 +7881,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7682,7 +7916,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7716,7 +7951,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7750,7 +7986,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7784,7 +8021,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7818,7 +8056,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7852,7 +8091,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7886,7 +8126,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7920,7 +8161,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7954,7 +8196,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -7988,7 +8231,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8022,7 +8266,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8056,7 +8301,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8090,7 +8336,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8124,7 +8371,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8158,7 +8406,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8192,7 +8441,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8226,7 +8476,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -8236,7 +8487,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8270,7 +8522,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8304,7 +8557,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8338,7 +8592,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8372,7 +8627,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8400,7 +8656,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8428,7 +8685,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8456,7 +8714,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8484,7 +8743,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8512,7 +8772,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8540,7 +8801,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8568,7 +8830,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8596,7 +8859,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8624,7 +8888,8 @@
           "height": 175,
           "expression": "surprised"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8652,7 +8917,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8680,7 +8946,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8708,7 +8975,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8736,7 +9004,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8764,7 +9033,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8792,7 +9062,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8827,7 +9098,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "chair"
+      "se": "chair",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8861,7 +9133,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8895,7 +9168,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8929,7 +9203,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8963,7 +9238,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -8997,7 +9273,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9031,7 +9308,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9065,7 +9343,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9099,7 +9378,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9133,7 +9413,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9167,7 +9448,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9201,7 +9483,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9235,7 +9518,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9269,7 +9553,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9303,7 +9588,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9337,7 +9623,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9371,7 +9658,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9405,7 +9693,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9439,7 +9728,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9474,7 +9764,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9508,7 +9799,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9542,7 +9834,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9576,7 +9869,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9610,7 +9904,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9644,7 +9939,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9678,7 +9974,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9712,7 +10009,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9746,7 +10044,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9780,7 +10079,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9814,7 +10114,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9848,7 +10149,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9882,7 +10184,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9916,7 +10219,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9950,7 +10254,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -9984,7 +10289,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10018,7 +10324,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10052,7 +10359,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10086,7 +10394,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10120,7 +10429,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10154,7 +10464,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10189,7 +10500,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "tableware"
+      "se": "tableware",
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10223,7 +10535,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10257,7 +10570,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10291,7 +10605,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10325,7 +10640,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10359,7 +10675,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10393,7 +10710,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10427,7 +10745,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10461,7 +10780,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10495,7 +10815,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10529,7 +10850,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10563,7 +10885,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10597,7 +10920,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10631,7 +10955,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10665,7 +10990,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10699,7 +11025,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10733,7 +11060,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10767,7 +11095,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10801,7 +11130,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10835,7 +11165,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10869,7 +11200,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10903,7 +11235,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10937,7 +11270,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -10971,7 +11305,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "line",
@@ -11005,7 +11340,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "daily"
     },
     {
       "type": "location",
@@ -11015,7 +11351,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11049,7 +11386,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11083,7 +11421,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11117,7 +11456,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11151,7 +11491,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11185,7 +11526,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11219,7 +11561,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11253,7 +11596,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11287,7 +11631,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11321,7 +11666,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11355,7 +11701,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11377,7 +11724,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11411,7 +11759,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11445,7 +11794,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11479,7 +11829,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11513,7 +11864,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11547,7 +11899,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11581,7 +11934,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11615,7 +11969,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11649,7 +12004,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11683,7 +12039,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11718,7 +12075,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "rustle"
+      "se": "rustle",
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11752,7 +12110,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "location",
@@ -11762,7 +12121,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11796,7 +12156,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11830,7 +12191,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11864,7 +12226,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11898,7 +12261,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11932,7 +12296,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -11966,7 +12331,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12000,7 +12366,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12034,7 +12401,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12068,7 +12436,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12102,7 +12471,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "bgm": "calm"
     },
     {
       "type": "line",
@@ -12137,7 +12507,8 @@
           "expression": "neutral"
         }
       ],
-      "se": "steps"
+      "se": "steps",
+      "bgm": "calm"
     }
   ],
   "source_lines": 347,
