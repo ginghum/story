@@ -420,11 +420,11 @@
     "generator": "built-in image_gen"
   },
   {
-    "id": "episode11-quiet-talk",
-    "prompt": "Edit episode11-c: remove departed Yukimero and all background members; serious private Lance/Kobal conversation after screening.",
-    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "id": "episode11-quiet-talk-kobal-v2",
+    "prompt": "Edit the private Lance and Kobal conversation illustration: change only the cyan-haired man on the right to his canonically chubby physique, with round plump cheeks, a softer chin, fuller upper arms and hands, broad waist and a visibly rounded belly beneath his white sweater and brown robe. Preserve his identity, glasses, checked scarf, gesture, pose, expression, the slim purple-haired Lance, the room, table, papers, bag, composition, anime style and sunset lighting.",
+    "prompt_record": "Body-type correction for the illustration shared by episode 11 ending and episode 12 opening; built-in image_gen edit, 2026-10-26.",
     "folder": "cg",
-    "file": "assets/cg/episode11-quiet-talk.webp",
+    "file": "assets/cg/episode11-quiet-talk-kobal-v2.webp",
     "generator": "built-in image_gen"
   },
   {

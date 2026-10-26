@@ -190,12 +190,12 @@ PLANS[11]=[
  (scene('オタクサークル／撮影と感想会','clubroom',['ランス']),[
   cue('立つ場所が空けられた。',cg='episode11-b')]),
  (scene('オタクサークル／片づけの時間','clubroom',['ランス'],cg='episode11-c'),[
-  cue('戻ってきても、ランスはその声を思い返していた。',cg='episode11-quiet-talk')])
+  cue('戻ってきても、ランスはその声を思い返していた。',cg='episode11-quiet-talk-kobal-v2')])
 ]
 
 
 PLANS[12]=[
- (scene('オタクサークル／片づけの後','clubroom',['ランス','コバル'],cg='episode11-quiet-talk'),[
+ (scene('オタクサークル／片づけの後','clubroom',['ランス','コバル'],cg='episode11-quiet-talk-kobal-v2'),[
   cue('ランスの掌に、硬い感触が生まれた。',cg=None)]),
  (scene('離れ校舎／夕方の入口','campus',['ランス','ゆきめろ'],cg='episode12-outside-corrected'),[]),
  (scene('決闘委員会／星二十個と契約','arena-reception',['ランス','コバル'],cg='episode12-c-v2'),[]),
