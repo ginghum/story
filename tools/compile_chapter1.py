@@ -27,9 +27,8 @@ PLANS={1:[
   cue('目を開くと、天井があった。',location='学生寮／三人の部屋・朝',bg='dorm-morning',cast=TRIO,tone='',cut=True,expressions={'プラス':'pain'}),
   cue('ユージは起き上がり、部屋の時計を見た。',expressions={'プラス':'smile'})]),
  (scene('学生寮／台所・朝','dorm-morning',TRIO,cg='episode01-d'),[
-  cue('廊下へ出ると、隣の部屋の扉にあった名札が、',location='学生寮／廊下',bg='corridor',cg=None,cut=True),
-  cue('プラスは流しの前で、コップをどこへ置くべきか',location='学生寮／台所',bg='dorm-morning',cg='episode01-d',cut=True),
-  cue('プラスは最後のパンを口へ入れ、ローブを羽織った。',cg=None)]),
+  cue('プラスは最後のパンを口へ入れ、ローブを羽織った。',cg=None),
+  cue('隣の部屋の扉にあった名札が、',location='学生寮／廊下',bg='corridor',cg=None,cut=True)]),
  (scene('学園敷地内／通学路','campus',TRIO),[
   cue('プラス「寮って、普通、学校の近くにねえの！」',cg='episode01-a'),
   cue('校舎の入口で、靴底が石を擦った。',cg=None),

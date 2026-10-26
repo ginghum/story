@@ -19,23 +19,22 @@
       {
         "scene": 2,
         "start": 38,
-        "end": 84,
+        "end": 82,
         "location": "学生寮／台所・朝",
-        "source_lines": 43,
+        "source_lines": 42,
         "locations": [
           "学生寮／台所・朝",
-          "学生寮／廊下",
-          "学生寮／台所"
+          "学生寮／廊下"
         ],
         "reviewed": true,
         "review_date": "2026-10-26",
         "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
-        "note": "廊下の名札と台所の会話で場所を切り替え、朝食CGは着替え前で終了。"
+        "note": "朝食を終えてから廊下の名札に気づき、そのまま登校。台所への戻りカットインを削除。"
       },
       {
         "scene": 3,
-        "start": 85,
-        "end": 155,
+        "start": 83,
+        "end": 153,
         "location": "学園敷地内／通学路",
         "source_lines": 64,
         "locations": [
@@ -49,8 +48,8 @@
       },
       {
         "scene": 4,
-        "start": 156,
-        "end": 188,
+        "start": 154,
+        "end": 186,
         "location": "校舎／教室・授業",
         "source_lines": 30,
         "locations": [
@@ -63,8 +62,8 @@
       },
       {
         "scene": 5,
-        "start": 189,
-        "end": 250,
+        "start": 187,
+        "end": 248,
         "location": "校舎／教室・休み時間",
         "source_lines": 60,
         "locations": [
@@ -78,8 +77,8 @@
       },
       {
         "scene": 6,
-        "start": 251,
-        "end": 335,
+        "start": 249,
+        "end": 333,
         "location": "学園／食堂・昼",
         "source_lines": 83,
         "locations": [
@@ -92,8 +91,8 @@
       },
       {
         "scene": 7,
-        "start": 336,
-        "end": 370,
+        "start": 334,
+        "end": 368,
         "location": "学園敷地内／食堂前",
         "source_lines": 31,
         "locations": [

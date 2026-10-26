@@ -1292,6 +1292,1231 @@
       "bgm": "daily"
     },
     {
+      "type": "line",
+      "text": "プラスは流しの前で、コップをどこへ置くべきか少し迷った。",
+      "speaker": "",
+      "character": null,
+      "raw": "プラスは流しの前で、コップをどこへ置くべきか少し迷った。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "昨夜使ったものと、棚に並ぶものは、形が微妙に違う。取っ手の欠けたカップには、細い針金で輪がつけられていた。",
+      "speaker": "",
+      "character": null,
+      "raw": "昨夜使ったものと、棚に並ぶものは、形が微妙に違う。取っ手の欠けたカップには、細い針金で輪がつけられていた。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「これ、ランスが直した？」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「これ、ランスが直した？」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「そう」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「そう」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「金属、こういうのにも使えんのな」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「金属、こういうのにも使えんのな」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「だからって、何でも俺に直させようとすんなよ」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「だからって、何でも俺に直させようとすんなよ」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「まだ頼んでねえって」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「まだ頼んでねえって」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "ユージは、焼きかけのパンを見ながら笑った。",
+      "speaker": "",
+      "character": null,
+      "raw": "ユージは、焼きかけのパンを見ながら笑った。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "笑っていたら、端が焦げた。",
+      "speaker": "",
+      "character": null,
+      "raw": "笑っていたら、端が焦げた。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「あっ、やべ」",
+      "speaker": "ユージ",
+      "character": "yuji",
+      "raw": "ユージ「あっ、やべ」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「そっち見ろよ」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「そっち見ろよ」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "ユージが焦げた方を自分の皿へ置く。",
+      "speaker": "",
+      "character": null,
+      "raw": "ユージが焦げた方を自分の皿へ置く。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "プラスは、その皿を見てから、手を伸ばした。",
+      "speaker": "",
+      "character": null,
+      "raw": "プラスは、その皿を見てから、手を伸ばした。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「俺、それでいい」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「俺、それでいい」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「いや。俺がやったし」",
+      "speaker": "ユージ",
+      "character": "yuji",
+      "raw": "ユージ「いや。俺がやったし」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「俺、焦げてるの嫌いかどうか分かんねえから、食ってみる」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「俺、焦げてるの嫌いかどうか分かんねえから、食ってみる」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "記憶の話を、食事の好みを確かめる理由として使う。ユージは変な顔をしたが、パンを渡した。プラスは端をかじり、少し口を止めた。",
+      "speaker": "",
+      "character": null,
+      "raw": "記憶の話を、食事の好みを確かめる理由として使う。ユージは変な顔をしたが、パンを渡した。プラスは端をかじり、少し口を止めた。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「……苦え」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「……苦え」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「見れば分かるだろ」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「見れば分かるだろ」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「分かった。焦げすぎは嫌い」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「分かった。焦げすぎは嫌い」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "それでも残りは食べた。",
+      "speaker": "",
+      "character": null,
+      "raw": "それでも残りは食べた。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "ユージは、焦げていない方を半分に割り、プラスの皿へ置いた。何も言わなかったので、プラスも何も言わずに受け取った。",
+      "speaker": "",
+      "character": null,
+      "raw": "ユージは、焦げていない方を半分に割り、プラスの皿へ置いた。何も言わなかったので、プラスも何も言わずに受け取った。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「教科書、もらってねえけど。どっかで受け取んの？」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「教科書、もらってねえけど。どっかで受け取んの？」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「いらねえ。授業で使うもんは向こうにある」",
+      "speaker": "ユージ",
+      "character": "yuji",
+      "raw": "ユージ「いらねえ。授業で使うもんは向こうにある」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「手帳だけ？」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「手帳だけ？」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「あと頭」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「あと頭」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「持ってる」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「持ってる」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「使えって意味だよ」",
+      "speaker": "ランス",
+      "character": "lance",
+      "raw": "ランス「使えって意味だよ」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": "assets/cg/episode01-d.webp",
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "プラスは最後のパンを口へ入れ、ローブを羽織った。袖へ腕を通しながら、封筒の中の手紙をもう一度見た。指示は昨日と同じだった。カス高へ向かうように。それだけ。",
+      "speaker": "",
+      "character": null,
+      "raw": "プラスは最後のパンを口へ入れ、ローブを羽織った。袖へ腕を通しながら、封筒の中の手紙をもう一度見た。指示は昨日と同じだった。カス高へ向かうように。それだけ。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "薄いカードが、紙の間から滑り出す。",
+      "speaker": "",
+      "character": null,
+      "raw": "薄いカードが、紙の間から滑り出す。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "昨日は船を降りることばかり考えていて、ろくに確かめていなかった。",
+      "speaker": "",
+      "character": null,
+      "raw": "昨日は船を降りることばかり考えていて、ろくに確かめていなかった。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「プラス！　あとで！」",
+      "speaker": "ユージ",
+      "character": "yuji",
+      "raw": "ユージ「プラス！　あとで！」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "exasperated"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "「おう！」",
+      "speaker": "プラス",
+      "character": "plus",
+      "raw": "プラス「おう！」",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "exasperated"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "カードを封筒へ戻し、胸元へしまう。",
+      "speaker": "",
+      "character": null,
+      "raw": "カードを封筒へ戻し、胸元へしまう。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "exasperated"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
+      "type": "line",
+      "text": "出る前に、二段ベッドの上を振り返った。枕の少し上に、さっき自分が頭をぶつけた場所がある。今夜は覚えておこう、と考えながら、プラスは廊下へ飛び出した。",
+      "speaker": "",
+      "character": null,
+      "raw": "出る前に、二段ベッドの上を振り返った。枕の少し上に、さっき自分が頭をぶつけた場所がある。今夜は覚えておこう、と考えながら、プラスは廊下へ飛び出した。",
+      "effect": false,
+      "scene": 2,
+      "location": "学生寮／台所・朝",
+      "bg": "assets/bg/dorm-morning.webp",
+      "tone": "",
+      "cg": null,
+      "cgAlt": "物語の挿絵",
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "smile"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "exasperated"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
+      "bgm": "daily"
+    },
+    {
       "type": "location",
       "scene": 2,
       "location": "学生寮／廊下",
@@ -1304,10 +2529,10 @@
     },
     {
       "type": "line",
-      "text": "廊下へ出ると、隣の部屋の扉にあった名札が、一枚なくなっていた。外した跡だけ、周りより白い。昨日は、三人分並んでいたはずだった。",
+      "text": "隣の部屋の扉にあった名札が、一枚なくなっていた。外した跡だけ、周りより白い。昨日は、三人分並んでいたはずだった。",
       "speaker": "",
       "character": null,
-      "raw": "廊下へ出ると、隣の部屋の扉にあった名札が、一枚なくなっていた。外した跡だけ、周りより白い。昨日は、三人分並んでいたはずだった。",
+      "raw": "隣の部屋の扉にあった名札が、一枚なくなっていた。外した跡だけ、周りより白い。昨日は、三人分並んでいたはずだった。",
       "effect": false,
       "scene": 2,
       "location": "学生寮／廊下",
@@ -1326,7 +2551,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "exasperated"
         },
         {
           "id": "lance",
@@ -1361,7 +2586,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "exasperated"
         },
         {
           "id": "lance",
@@ -1502,1277 +2727,6 @@
           "name": "ユージ",
           "height": 175,
           "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "この建物のあちこちで、似たような朝が始まっている。",
-      "speaker": "",
-      "character": null,
-      "raw": "この建物のあちこちで、似たような朝が始まっている。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／廊下",
-      "bg": "assets/bg/corridor.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "location",
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "プラスは流しの前で、コップをどこへ置くべきか少し迷った。",
-      "speaker": "",
-      "character": null,
-      "raw": "プラスは流しの前で、コップをどこへ置くべきか少し迷った。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "昨夜使ったものと、棚に並ぶものは、形が微妙に違う。取っ手の欠けたカップには、細い針金で輪がつけられていた。",
-      "speaker": "",
-      "character": null,
-      "raw": "昨夜使ったものと、棚に並ぶものは、形が微妙に違う。取っ手の欠けたカップには、細い針金で輪がつけられていた。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「これ、ランスが直した？」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「これ、ランスが直した？」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「そう」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「そう」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「金属、こういうのにも使えんのな」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「金属、こういうのにも使えんのな」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「だからって、何でも俺に直させようとすんなよ」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「だからって、何でも俺に直させようとすんなよ」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「まだ頼んでねえって」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「まだ頼んでねえって」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "ユージは、焼きかけのパンを見ながら笑った。",
-      "speaker": "",
-      "character": null,
-      "raw": "ユージは、焼きかけのパンを見ながら笑った。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "笑っていたら、端が焦げた。",
-      "speaker": "",
-      "character": null,
-      "raw": "笑っていたら、端が焦げた。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「あっ、やべ」",
-      "speaker": "ユージ",
-      "character": "yuji",
-      "raw": "ユージ「あっ、やべ」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「そっち見ろよ」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「そっち見ろよ」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "ユージが焦げた方を自分の皿へ置く。",
-      "speaker": "",
-      "character": null,
-      "raw": "ユージが焦げた方を自分の皿へ置く。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "プラスは、その皿を見てから、手を伸ばした。",
-      "speaker": "",
-      "character": null,
-      "raw": "プラスは、その皿を見てから、手を伸ばした。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「俺、それでいい」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「俺、それでいい」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「いや。俺がやったし」",
-      "speaker": "ユージ",
-      "character": "yuji",
-      "raw": "ユージ「いや。俺がやったし」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「俺、焦げてるの嫌いかどうか分かんねえから、食ってみる」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「俺、焦げてるの嫌いかどうか分かんねえから、食ってみる」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "記憶の話を、食事の好みを確かめる理由として使う。ユージは変な顔をしたが、パンを渡した。プラスは端をかじり、少し口を止めた。",
-      "speaker": "",
-      "character": null,
-      "raw": "記憶の話を、食事の好みを確かめる理由として使う。ユージは変な顔をしたが、パンを渡した。プラスは端をかじり、少し口を止めた。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「……苦え」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「……苦え」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「見れば分かるだろ」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「見れば分かるだろ」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「分かった。焦げすぎは嫌い」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「分かった。焦げすぎは嫌い」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "それでも残りは食べた。",
-      "speaker": "",
-      "character": null,
-      "raw": "それでも残りは食べた。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "ユージは、焦げていない方を半分に割り、プラスの皿へ置いた。何も言わなかったので、プラスも何も言わずに受け取った。",
-      "speaker": "",
-      "character": null,
-      "raw": "ユージは、焦げていない方を半分に割り、プラスの皿へ置いた。何も言わなかったので、プラスも何も言わずに受け取った。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「教科書、もらってねえけど。どっかで受け取んの？」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「教科書、もらってねえけど。どっかで受け取んの？」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「いらねえ。授業で使うもんは向こうにある」",
-      "speaker": "ユージ",
-      "character": "yuji",
-      "raw": "ユージ「いらねえ。授業で使うもんは向こうにある」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「手帳だけ？」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「手帳だけ？」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「あと頭」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「あと頭」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "surprised"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「持ってる」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「持ってる」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「使えって意味だよ」",
-      "speaker": "ランス",
-      "character": "lance",
-      "raw": "ランス「使えって意味だよ」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": "assets/cg/episode01-d.webp",
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "プラスは最後のパンを口へ入れ、ローブを羽織った。袖へ腕を通しながら、封筒の中の手紙をもう一度見た。指示は昨日と同じだった。カス高へ向かうように。それだけ。",
-      "speaker": "",
-      "character": null,
-      "raw": "プラスは最後のパンを口へ入れ、ローブを羽織った。袖へ腕を通しながら、封筒の中の手紙をもう一度見た。指示は昨日と同じだった。カス高へ向かうように。それだけ。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "薄いカードが、紙の間から滑り出す。",
-      "speaker": "",
-      "character": null,
-      "raw": "薄いカードが、紙の間から滑り出す。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "昨日は船を降りることばかり考えていて、ろくに確かめていなかった。",
-      "speaker": "",
-      "character": null,
-      "raw": "昨日は船を降りることばかり考えていて、ろくに確かめていなかった。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "neutral"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「プラス！　あとで！」",
-      "speaker": "ユージ",
-      "character": "yuji",
-      "raw": "ユージ「プラス！　あとで！」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "「おう！」",
-      "speaker": "プラス",
-      "character": "plus",
-      "raw": "プラス「おう！」",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "カードを封筒へ戻し、胸元へしまう。",
-      "speaker": "",
-      "character": null,
-      "raw": "カードを封筒へ戻し、胸元へしまう。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
-        },
-        {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "neutral"
-        }
-      ],
-      "bgm": "daily"
-    },
-    {
-      "type": "line",
-      "text": "出る前に、二段ベッドの上を振り返った。枕の少し上に、さっき自分が頭をぶつけた場所がある。今夜は覚えておこう、と考えながら、プラスは廊下へ飛び出した。",
-      "speaker": "",
-      "character": null,
-      "raw": "出る前に、二段ベッドの上を振り返った。枕の少し上に、さっき自分が頭をぶつけた場所がある。今夜は覚えておこう、と考えながら、プラスは廊下へ飛び出した。",
-      "effect": false,
-      "scene": 2,
-      "location": "学生寮／台所",
-      "bg": "assets/bg/dorm-morning.webp",
-      "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
-      "cast": [
-        {
-          "id": "plus",
-          "name": "プラス",
-          "height": 184,
-          "expression": "smile"
-        },
-        {
-          "id": "yuji",
-          "name": "ユージ",
-          "height": 175,
-          "expression": "exasperated"
         },
         {
           "id": "lance",
@@ -12511,7 +12465,7 @@
       "bgm": "calm"
     }
   ],
-  "source_lines": 347,
+  "source_lines": 346,
   "source_scenes": 7,
-  "source_hash": "84a16c10418b7ddcb4496d65f17d953ca383713cc3b9a7e0bceb7abe074adada"
+  "source_hash": "b0bfa7edf17317152014481c210d867e157a034dc026d40d3406ea0d31b40e14"
 }
