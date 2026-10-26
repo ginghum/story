@@ -26,7 +26,7 @@ def main():
     if not any(actor['id']==id for actor in cast):cast.append(dict(id=id,name=name,height=h,expression=expr))
    cast=cast[:3];cg=ART[n].get(sn);track='reflection' if n==5 else 'calm' if bg in ['library','newsroom'] else 'daily'
    if bg=='arena-floor':track='battle'
-   loc=('過去／' if n==5 and 2<=sn<=20 else '')+{'newsroom':'新聞部','library':'勉強サークル','classroom':'故郷の学校' if n==5 else '教室','clubroom':'サークル部室','arena-floor':'闘技場','dorm-night':'学生寮・夜'}.get(bg,bg or '記憶')
+   loc=('過去／' if n==5 and 2<=sn<=20 else '')+{'old-school-corridor':'旧校舎／廊下','gumon-office':'旧校舎／グモンの部長室','corridor':'校舎／廊下','dorm':'学生寮／寮室','cafeteria':'学園／食堂','campus':'学園敷地内','club-corridor':'サークル棟／廊下','arena-reception':'闘技場／受付・通路','newsroom':'新聞部','library':'勉強サークル','classroom':'故郷の学校' if n==5 else '教室','clubroom':'サークル部室','arena-floor':'闘技場','dorm-night':'学生寮・夜'}.get(bg,bg or '記憶')
    state=dict(scene=sn,location=loc,bg=f'assets/bg/{bg}.webp' if bg else None,cg=f'assets/cg/{cg}.webp' if cg else None,cgAlt=TITLES[n-1],tone='dark' if not bg else '',cast=cast,bgm=track)
    entries.append(dict(type='location',**{**state,'cast':[]}))
    for raw in part.splitlines():
