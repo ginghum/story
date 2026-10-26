@@ -1,0 +1,57 @@
+{
+  "id": "chapter1-episode17",
+  "title": "第1章　第17話　その続きを、聞かせてくれ",
+  "status": "playable; all source scenes, 19 staging points and 4 minor-move points reviewed",
+  "source_lines": 816,
+  "source_scenes": 6,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 81,
+      "location": "夢／届かなかった手",
+      "source_lines": 80,
+      "reviewed": true
+    },
+    {
+      "scene": 2,
+      "start": 82,
+      "end": 157,
+      "location": "寮裏の練習場／変えたあとの動き",
+      "source_lines": 73,
+      "reviewed": true
+    },
+    {
+      "scene": 3,
+      "start": 158,
+      "end": 209,
+      "location": "学園／それぞれの午後",
+      "source_lines": 50,
+      "reviewed": true
+    },
+    {
+      "scene": 4,
+      "start": 210,
+      "end": 352,
+      "location": "勉強サークル／言葉と確かめたいこと",
+      "source_lines": 142,
+      "reviewed": true
+    },
+    {
+      "scene": 5,
+      "start": 353,
+      "end": 422,
+      "location": "勉強サークル／今年加わった条件",
+      "source_lines": 69,
+      "reviewed": true
+    },
+    {
+      "scene": 6,
+      "start": 423,
+      "end": 827,
+      "location": "勉強サークル／条件を読む",
+      "source_lines": 402,
+      "reviewed": true
+    }
+  ]
+}

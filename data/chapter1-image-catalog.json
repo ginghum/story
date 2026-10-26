@@ -610,5 +610,111 @@
     "file": "assets/cg/episode14-e.webp",
     "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
     "generator": "reused original illustration"
+  },
+  {
+    "id": "x-shaken",
+    "file": "assets/characters/x-shaken.webp",
+    "prompt": "Use case: identity-preserve. Full body transparent visual novel character sprite. Preserve the reference X exactly: slim180cm young man, fluffy light brown hair, blue eyes, pale blue open-collar shirt, brown long school robe, gray trousers, black leather shoes. New pose and expression: shaken by a traumatic memory, strained rigid posture, widened unsettled blue eyes with restrained fear beneath anger, lips slightly parted, a tiny sweat bead; empty hands held tensely near sides, NO book or bag. Both feet fully visible, modest margins. Match delicate anime linework and shading, same proportions and outfit. No injuries or blood, no monstrous transformation. True transparent background, no ground or shadows, one person, no text.",
+    "references": [
+      "assets/characters/x-stern.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode17-morning-practice",
+    "file": "assets/cg/episode17-morning-practice.webp",
+    "prompt": "Use case: illustration-story. Wide landscape 16:9 polished anime visual novel illustration, delicate faces, richly detailed stone imperial academy. Characters identity refs: image1 Plus tall184cm long dark purple ponytail/white hooded shirt and brown robe; Lance short169cm navy hair/gold eyes/black glasses/black zip shirt/brown robe. Image2 Yuji blond bob/turquoise eyes/white sweater and black tie/brown robe175cm. Image3 Konke violet short hair/red eyes/white shirt loose tie/brown robe177cm. New NONCOMBAT scene: cool early morning in a SMALL partly roofed practice yard behind a dorm, damp stone floor and pale dawn sky, no arena or audience. Plus center-left holding a small flat rounded metal practice piece in BOTH hands waist-high and concentrating on balance; Lance to his right points gently at Plus foot placement, no weapons; Yuji and Konke a step behind calmly observe and discuss. All four healthy unbandaged, no spear shield or armor, no impacts or sparks, no fighting. Full mid-wide composition showing grounded feet and all four people. Warm subtle friendship after a nightmare. No extra people, no writing, no glowing magic.",
+    "references": [
+      "assets/cg/episode14-spar-night-r2.webp",
+      "assets/characters/yuji-neutral.webp",
+      "assets/characters/konke-neutral.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode15-e",
+    "file": "assets/cg/episode15-e.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "資料を抱えて食堂を急ぐXと、すれ違うプラス・ユージ・ランス",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode15-d-v5",
+    "file": "assets/cg/episode15-d-v5.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "Xの視点から見る、生徒会室で待つ9人の役員",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode15-c",
+    "file": "assets/cg/episode15-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "役員会議へ急ぐX",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode15-a",
+    "file": "assets/cg/episode15-a.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "勉強サークルへの再訪",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode16-a",
+    "file": "assets/cg/episode16-a.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "残されたノート",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode16-b",
+    "file": "assets/cg/episode16-b.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "箱の重さとXの沈黙",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode16-c",
+    "file": "assets/cg/episode16-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "片づけられる箱とルサイ",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode17-c",
+    "file": "assets/cg/episode17-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "返事のない挨拶",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode17-a",
+    "file": "assets/cg/episode17-a.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "熱を帯びた教室",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode17-b-r3",
+    "file": "assets/cg/episode17-b-r3.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "決闘を迫るXと間へ入るルサイ",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode17-e",
+    "file": "assets/cg/episode17-e.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "alt": "Xの机から湯気が立ち、異様な暑さに気づくプラスと近づくルサイ",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode15-empty-snacks",
+    "file": "assets/cg/episode15-empty-snacks.webp",
+    "prompt": "Use case: precise-object-edit. Edit this exact anime story CG, preserving all three character identities, faces, costumes, positions, room, lighting, books and cups. Story correction: all snacks have ALREADY been eaten before X returned, and Lusai is showing him an EMPTY container. REMOVE EVERY intact cake/cookie/pastry from both plates, from the tong tips, and from inside the glass container. The container must be empty except one tiny crumb. Replace the plate in white-haired Lusai hand with a small OPEN shallow snack container with just a single tiny crumb visible; his other hand is relaxed holding the matching empty lid, NO tongs or food. X in center has received no sweets, remains slightly disappointed and looks toward the empty container. Purple-haired Plus on left has empty hands and an apologetic smile, not eating. No replacement food, no full cakes anywhere, no writing. Preserve detailed rendering and original framing.",
+    "references": [
+      "assets/cg/episode15-b.webp"
+    ],
+    "generator": "built-in image_gen"
   }
 ]

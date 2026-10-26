@@ -1869,6 +1869,156 @@
         "source_lines": 42,
         "reviewed": true
       }
+    ],
+    "chapter1-episode15": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 129,
+        "location": "食堂／わからないところの違い",
+        "source_lines": 126,
+        "reviewed": true
+      },
+      {
+        "scene": 2,
+        "start": 130,
+        "end": 325,
+        "location": "校舎／役員会議へ急ぐX",
+        "source_lines": 188,
+        "reviewed": true
+      },
+      {
+        "scene": 3,
+        "start": 326,
+        "end": 542,
+        "location": "勉強サークル／再訪",
+        "source_lines": 211,
+        "reviewed": true
+      },
+      {
+        "scene": 4,
+        "start": 543,
+        "end": 684,
+        "location": "勉強サークル／戻ってきた部長",
+        "source_lines": 141,
+        "reviewed": true
+      },
+      {
+        "scene": 5,
+        "start": 685,
+        "end": 742,
+        "location": "校舎／一個でも増えた答え",
+        "source_lines": 56,
+        "reviewed": true
+      }
+    ],
+    "chapter1-episode16": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 57,
+        "location": "学生寮／教わった線を残す朝",
+        "source_lines": 55,
+        "reviewed": true
+      },
+      {
+        "scene": 2,
+        "start": 58,
+        "end": 140,
+        "location": "勉強サークル／互いに教え合う",
+        "source_lines": 81,
+        "reviewed": true
+      },
+      {
+        "scene": 3,
+        "start": 141,
+        "end": 293,
+        "location": "勉強サークル／菓子の数と古い名前",
+        "source_lines": 151,
+        "reviewed": true
+      },
+      {
+        "scene": 4,
+        "start": 294,
+        "end": 359,
+        "location": "勉強サークル／答えないことと知らないこと",
+        "source_lines": 65,
+        "reviewed": true
+      },
+      {
+        "scene": 5,
+        "start": 360,
+        "end": 594,
+        "location": "勉強サークル／マイナスという名前",
+        "source_lines": 230,
+        "reviewed": true
+      },
+      {
+        "scene": 6,
+        "start": 595,
+        "end": 659,
+        "location": "学園／何が起きたかを話す",
+        "source_lines": 64,
+        "reviewed": true
+      },
+      {
+        "scene": 7,
+        "start": 660,
+        "end": 780,
+        "location": "勉強サークル／戻っていた箱",
+        "source_lines": 119,
+        "reviewed": true
+      }
+    ],
+    "chapter1-episode17": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 81,
+        "location": "夢／届かなかった手",
+        "source_lines": 80,
+        "reviewed": true
+      },
+      {
+        "scene": 2,
+        "start": 82,
+        "end": 157,
+        "location": "寮裏の練習場／変えたあとの動き",
+        "source_lines": 73,
+        "reviewed": true
+      },
+      {
+        "scene": 3,
+        "start": 158,
+        "end": 209,
+        "location": "学園／それぞれの午後",
+        "source_lines": 50,
+        "reviewed": true
+      },
+      {
+        "scene": 4,
+        "start": 210,
+        "end": 352,
+        "location": "勉強サークル／言葉と確かめたいこと",
+        "source_lines": 142,
+        "reviewed": true
+      },
+      {
+        "scene": 5,
+        "start": 353,
+        "end": 422,
+        "location": "勉強サークル／今年加わった条件",
+        "source_lines": 69,
+        "reviewed": true
+      },
+      {
+        "scene": 6,
+        "start": 423,
+        "end": 827,
+        "location": "勉強サークル／条件を読む",
+        "source_lines": 402,
+        "reviewed": true
+      }
     ]
   }
 }

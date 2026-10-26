@@ -83,3 +83,18 @@ if any(m['id']=='chapter1-episode14' for m in manifest):
  assert all('night' in x['bg'] for x in e14 if 6<=x['scene']<=10)
  assert all(x.get('cg')!='assets/cg/episode13-a.webp' for x in e13), 'Do not use the original incorrect sling CG'
  print('PASS: episode 12–14 injury/treatment boundary, trap reveal, pin release and nighttime staging.')
+if any(m['id']=='chapter1-episode17' for m in manifest):
+ e15,e16,e17=[episode(n) for n in [15,16,17]]
+ for es in [e15,e16,e17]:
+  assert all(not c['expression'].startswith('bandaged') and not (c['id']=='lance' and c['expression']=='hurt') for x in es for c in x['cast'])
+  assert all(not x['cast'] and not x.get('cg') for x in es if x['location'].startswith(('Xの記憶','夢／'))), 'Keep memories faceless and separate from current-time portraits'
+ assert all(not x['cast'] for x in e15 if x.get('cg')=='assets/cg/episode15-d-v5.webp')
+ leave=next(i for i,x in enumerate(e17) if x.get('raw','').startswith('四人で同じ道を歩く時間が終わり、'))
+ assert all(c['id'] not in ['lance','yuji','konke'] for x in e17[leave:] for c in x['cast']), 'Plus visits the club alone'
+ practice=next(i for i,x in enumerate(e17) if x.get('raw')=='プラスは、金属片を元の質量へ戻して置いた。')
+ assert all(x.get('cg')!='assets/cg/episode17-morning-practice.webp' for x in e17[practice:])
+ exit=next(i for i,x in enumerate(e17) if x.get('raw')=='扉へ向かう。')
+ assert all(c['id']!='x' for x in e17[exit:] for c in x['cast'])
+ assert all(x.get('bgm')!='battle' for x in e17 if x['scene']==6), 'The challenge is a negotiation; combat has not begun'
+ assert any(c['id']=='x' and c['expression']=='shaken' for x in e16 for c in x['cast'])
+ print('PASS: episode 15–17 healing, faceless memories, council viewpoint, solo club visit, practice prop exit, X exit and challenge staging.')

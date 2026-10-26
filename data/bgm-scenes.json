@@ -1552,6 +1552,261 @@
           "track": "reflection"
         }
       ]
+    },
+    "chapter1-episode15": {
+      "source_scenes": 5,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "daily"
+        },
+        {
+          "scene": 2,
+          "track": "calm"
+        },
+        {
+          "scene": 3,
+          "track": "calm"
+        },
+        {
+          "scene": 4,
+          "track": "daily"
+        },
+        {
+          "scene": 5,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "食堂／わからないところの違い",
+          "track": "daily"
+        },
+        {
+          "entry": 130,
+          "scene": 2,
+          "location": "校舎／役員会議へ急ぐX",
+          "track": "calm"
+        },
+        {
+          "entry": 267,
+          "scene": 2,
+          "location": "生徒会室／来月度の連絡",
+          "track": "tension"
+        },
+        {
+          "entry": 305,
+          "scene": 2,
+          "location": "生徒会室／転校生の到着確認",
+          "track": "calm"
+        },
+        {
+          "entry": 543,
+          "scene": 4,
+          "location": "勉強サークル／戻ってきた部長",
+          "track": "daily"
+        },
+        {
+          "entry": 685,
+          "scene": 5,
+          "location": "校舎／一個でも増えた答え",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode16": {
+      "source_scenes": 7,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "daily"
+        },
+        {
+          "scene": 2,
+          "track": "calm"
+        },
+        {
+          "scene": 3,
+          "track": "daily"
+        },
+        {
+          "scene": 4,
+          "track": "tension"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "reflection"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "学生寮／教わった線を残す朝",
+          "track": "daily"
+        },
+        {
+          "entry": 58,
+          "scene": 2,
+          "location": "勉強サークル／互いに教え合う",
+          "track": "calm"
+        },
+        {
+          "entry": 141,
+          "scene": 3,
+          "location": "勉強サークル／菓子の数と古い名前",
+          "track": "daily"
+        },
+        {
+          "entry": 206,
+          "scene": 3,
+          "location": "勉強サークル／残されたノート",
+          "track": "reflection"
+        },
+        {
+          "entry": 294,
+          "scene": 4,
+          "location": "勉強サークル／答えないことと知らないこと",
+          "track": "tension"
+        },
+        {
+          "entry": 479,
+          "scene": 5,
+          "location": "Xの記憶／声と暗い床",
+          "track": null
+        },
+        {
+          "entry": 512,
+          "scene": 5,
+          "location": "勉強サークル／その手を離せ",
+          "track": "tension"
+        },
+        {
+          "entry": 566,
+          "scene": 5,
+          "location": "勉強サークル／その手を離せ",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode17": {
+      "source_scenes": 6,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "tension"
+        },
+        {
+          "scene": 2,
+          "track": "training"
+        },
+        {
+          "scene": 3,
+          "track": "tension"
+        },
+        {
+          "scene": 4,
+          "track": "calm"
+        },
+        {
+          "scene": 5,
+          "track": "calm"
+        },
+        {
+          "scene": 6,
+          "track": "calm"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "夢／届かなかった手",
+          "track": "tension"
+        },
+        {
+          "entry": 29,
+          "scene": 1,
+          "location": "学生寮／二人ともここにいる",
+          "track": null
+        },
+        {
+          "entry": 80,
+          "scene": 1,
+          "location": "学生寮／二人ともここにいる",
+          "track": "reflection"
+        },
+        {
+          "entry": 82,
+          "scene": 2,
+          "location": "寮裏の練習場／変えたあとの動き",
+          "track": "training"
+        },
+        {
+          "entry": 158,
+          "scene": 3,
+          "location": "学園／それぞれの午後",
+          "track": "tension"
+        },
+        {
+          "entry": 210,
+          "scene": 4,
+          "location": "勉強サークル／言葉と確かめたいこと",
+          "track": "calm"
+        },
+        {
+          "entry": 303,
+          "scene": 4,
+          "location": "勉強サークル／慣性・密度・熱容量",
+          "track": "reflection"
+        },
+        {
+          "entry": 353,
+          "scene": 5,
+          "location": "勉強サークル／今年加わった条件",
+          "track": "calm"
+        },
+        {
+          "entry": 492,
+          "scene": 6,
+          "location": "勉強サークル／条件を読む",
+          "track": null
+        },
+        {
+          "entry": 508,
+          "scene": 6,
+          "location": "Xの記憶／消えない声",
+          "track": "tension"
+        },
+        {
+          "entry": 750,
+          "scene": 6,
+          "location": "勉強サークル／そのために何を賭ける",
+          "track": null
+        },
+        {
+          "entry": 755,
+          "scene": 6,
+          "location": "勉強サークル／そのために何を賭ける",
+          "track": "tension"
+        },
+        {
+          "entry": 824,
+          "scene": 6,
+          "location": "勉強サークル／そのために何を賭ける",
+          "track": "reflection"
+        }
+      ]
     }
   }
 }

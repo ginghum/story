@@ -1703,6 +1703,282 @@
         "sound": "tableware",
         "text": "机へ三つの容器が並ぶ。"
       }
+    ],
+    "chapter1-episode15": [
+      {
+        "entry": 8,
+        "scene": 1,
+        "sound": "chair",
+        "text": "ユージは汁物の椀を少しずらした。二人の箸がぶつかる場所に置いておくと、ろくなことにならない。昼の食堂は、椅子を引く音と、何種類もの話し声で埋まっていた。窓際を歩く生徒のローブが、机の角を撫でていく。"
+      },
+      {
+        "entry": 47,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "ユージは余白へ筆記具を走らせた。"
+      },
+      {
+        "entry": 87,
+        "scene": 1,
+        "sound": "steps",
+        "text": "ランスは笑いかけたあと、教材へ目を落とした。わからない場所は、笑ってもそのまま残る。ユージが、もう一度、最初の式を書こうとした。そのとき、通路の向こうから足音が近づいた。"
+      },
+      {
+        "entry": 126,
+        "scene": 1,
+        "sound": "tableware",
+        "text": "四人は皿を片づけた。"
+      },
+      {
+        "entry": 147,
+        "scene": 2,
+        "sound": "door-open",
+        "text": "生徒会室の扉へ手をかけたところで、指定時刻になった。"
+      },
+      {
+        "entry": 187,
+        "scene": 2,
+        "sound": "chair",
+        "text": "タイタンが笑い、椅子が一度きしんだ。"
+      },
+      {
+        "entry": 194,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "紙をめくる音が、幾つか重なった。"
+      },
+      {
+        "entry": 306,
+        "scene": 2,
+        "sound": "chair",
+        "text": "ミューが、待っていたように椅子を引いた。"
+      },
+      {
+        "entry": 338,
+        "scene": 3,
+        "sound": "knock",
+        "text": "プラスが、扉を叩いた。"
+      },
+      {
+        "entry": 339,
+        "scene": 3,
+        "sound": "chair",
+        "text": "二度目の音が消える前に、中で椅子が引かれた。扉が少し開き、眼鏡の向こうから、こちらを見る目が現れる。"
+      },
+      {
+        "entry": 367,
+        "scene": 3,
+        "sound": "tableware",
+        "text": "白い髪を後ろで結んだ青年が、皿を二枚持ってきた。眼鏡の奥で笑い、プラスとランスの前へ一枚ずつ置く。薄い焼き色のついた菓子が載っていた。端の方だけ少し濃く、真ん中はふっくらしている。"
+      },
+      {
+        "entry": 467,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "紙を二人の間へ置き、次の式を指す。"
+      },
+      {
+        "entry": 504,
+        "scene": 3,
+        "sound": "tableware",
+        "text": "ほかの部員が席を立ち、教材を棚へ戻していく。誰かが休憩を終えて、奥の机で別の課題を始めた。ルサイは空いた皿を下げ、飲み物だけを足した。プラスは礼を言ってから、紙の続きを見た。"
+      },
+      {
+        "entry": 544,
+        "scene": 4,
+        "sound": "door-open",
+        "text": "Xが戻ってきたのは、二人が次の練習問題へ進んだころだった。扉が開く音に、ツクリの筆記具が止まる。ドーマは背筋を伸ばし、すぐに顔を向けた。"
+      },
+      {
+        "entry": 616,
+        "scene": 4,
+        "sound": "tableware",
+        "text": "ルサイが、容器の蓋を閉じた。"
+      },
+      {
+        "entry": 638,
+        "scene": 4,
+        "sound": "tableware",
+        "text": "ルサイが皿を重ねる。"
+      },
+      {
+        "entry": 733,
+        "scene": 5,
+        "sound": "steps",
+        "text": "三人の足音が、廊下へ重なった。"
+      }
+    ],
+    "chapter1-episode16": [
+      {
+        "entry": 60,
+        "scene": 2,
+        "sound": "knock",
+        "text": "二度、軽く音を鳴らした。"
+      },
+      {
+        "entry": 63,
+        "scene": 2,
+        "sound": "door-open",
+        "text": "返事を待ってから開ける。"
+      },
+      {
+        "entry": 96,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "ドーマが、自分の記録を一枚出した。間違えた式の下に、直した式と理由が並んでいる。"
+      },
+      {
+        "entry": 149,
+        "scene": 3,
+        "sound": "tableware",
+        "text": "ルサイは二人の前へ皿を置き、ドーマとツクリにも配る。"
+      },
+      {
+        "entry": 214,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "ツクリが一冊を引き出した。"
+      },
+      {
+        "entry": 386,
+        "scene": 5,
+        "sound": "tableware",
+        "text": "部室の奥で、皿を重ねる音がした。"
+      },
+      {
+        "entry": 511,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "机へついた手の下で、紙の端が擦れる。"
+      },
+      {
+        "entry": 521,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "プラスは、離す前に元の質量へ戻した。箱がわずかに沈み、冊子が小さく音を立てる。"
+      },
+      {
+        "entry": 588,
+        "scene": 5,
+        "sound": "door-open",
+        "text": "ランスが扉を開ける。"
+      },
+      {
+        "entry": 700,
+        "scene": 7,
+        "sound": "door-close",
+        "text": "扉が閉まる。"
+      },
+      {
+        "entry": 777,
+        "scene": 7,
+        "sound": "steps",
+        "text": "ルサイの靴音が、隣で鳴る。"
+      }
+    ],
+    "chapter1-episode17": [
+      {
+        "entry": 7,
+        "scene": 1,
+        "sound": "chair",
+        "text": "椅子が倒れ、その向こうで別の生徒が喉を押さえた。"
+      },
+      {
+        "entry": 46,
+        "scene": 1,
+        "sound": "water",
+        "text": "水の容器を取り、少し飲んだ。"
+      },
+      {
+        "entry": 99,
+        "scene": 2,
+        "sound": "metal",
+        "text": "床へ置き、プラスの方へ押す。"
+      },
+      {
+        "entry": 123,
+        "scene": 2,
+        "sound": "metal",
+        "text": "プラスは、金属片を元の質量へ戻して置いた。"
+      },
+      {
+        "entry": 175,
+        "scene": 3,
+        "sound": "knock",
+        "text": "勉強サークルの扉の前へ着くと、二度叩いた。"
+      },
+      {
+        "entry": 177,
+        "scene": 3,
+        "sound": "door-open",
+        "text": "ツクリの声がしてから、開けた。"
+      },
+      {
+        "entry": 186,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "紙をめくる音がした。"
+      },
+      {
+        "entry": 229,
+        "scene": 4,
+        "sound": "chair",
+        "text": "奥で、Xが椅子を引いた。"
+      },
+      {
+        "entry": 241,
+        "scene": 4,
+        "sound": "tableware",
+        "text": "ルサイが皿を持ってくる。"
+      },
+      {
+        "entry": 249,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "ドーマが棚の下段を示した。"
+      },
+      {
+        "entry": 297,
+        "scene": 4,
+        "sound": "chair",
+        "text": "ルサイは、空いた椅子を少し引いた。"
+      },
+      {
+        "entry": 339,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "プラスは、用語集を閉じた。"
+      },
+      {
+        "entry": 417,
+        "scene": 5,
+        "sound": "chair",
+        "text": "椅子を少し引いた。"
+      },
+      {
+        "entry": 489,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "プラスは、紙を教材へ挟んだ。"
+      },
+      {
+        "entry": 619,
+        "scene": 6,
+        "sound": "chair",
+        "text": "ドーマ自身が、先に椅子を引いた。"
+      },
+      {
+        "entry": 753,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "ドーマが、紙を一枚持ってきた。"
+      },
+      {
+        "entry": 819,
+        "scene": 6,
+        "sound": "door-close",
+        "text": "扉が閉まる。"
+      }
     ]
   }
 }

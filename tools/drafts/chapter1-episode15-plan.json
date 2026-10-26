@@ -1,0 +1,49 @@
+{
+  "id": "chapter1-episode15",
+  "title": "第1章　第15話　簡単だって、言われても",
+  "status": "playable; all source scenes, 19 staging points and 4 minor-move points reviewed",
+  "source_lines": 722,
+  "source_scenes": 5,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 129,
+      "location": "食堂／わからないところの違い",
+      "source_lines": 126,
+      "reviewed": true
+    },
+    {
+      "scene": 2,
+      "start": 130,
+      "end": 325,
+      "location": "校舎／役員会議へ急ぐX",
+      "source_lines": 188,
+      "reviewed": true
+    },
+    {
+      "scene": 3,
+      "start": 326,
+      "end": 542,
+      "location": "勉強サークル／再訪",
+      "source_lines": 211,
+      "reviewed": true
+    },
+    {
+      "scene": 4,
+      "start": 543,
+      "end": 684,
+      "location": "勉強サークル／戻ってきた部長",
+      "source_lines": 141,
+      "reviewed": true
+    },
+    {
+      "scene": 5,
+      "start": 685,
+      "end": 742,
+      "location": "校舎／一個でも増えた答え",
+      "source_lines": 56,
+      "reviewed": true
+    }
+  ]
+}

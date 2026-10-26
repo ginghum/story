@@ -1,0 +1,65 @@
+{
+  "id": "chapter1-episode16",
+  "title": "第1章　第16話　その話だけは、聞いてはいけない",
+  "status": "playable; all source scenes, 19 staging points and 4 minor-move points reviewed",
+  "source_lines": 765,
+  "source_scenes": 7,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 57,
+      "location": "学生寮／教わった線を残す朝",
+      "source_lines": 55,
+      "reviewed": true
+    },
+    {
+      "scene": 2,
+      "start": 58,
+      "end": 140,
+      "location": "勉強サークル／互いに教え合う",
+      "source_lines": 81,
+      "reviewed": true
+    },
+    {
+      "scene": 3,
+      "start": 141,
+      "end": 293,
+      "location": "勉強サークル／菓子の数と古い名前",
+      "source_lines": 151,
+      "reviewed": true
+    },
+    {
+      "scene": 4,
+      "start": 294,
+      "end": 359,
+      "location": "勉強サークル／答えないことと知らないこと",
+      "source_lines": 65,
+      "reviewed": true
+    },
+    {
+      "scene": 5,
+      "start": 360,
+      "end": 594,
+      "location": "勉強サークル／マイナスという名前",
+      "source_lines": 230,
+      "reviewed": true
+    },
+    {
+      "scene": 6,
+      "start": 595,
+      "end": 659,
+      "location": "学園／何が起きたかを話す",
+      "source_lines": 64,
+      "reviewed": true
+    },
+    {
+      "scene": 7,
+      "start": 660,
+      "end": 780,
+      "location": "勉強サークル／戻っていた箱",
+      "source_lines": 119,
+      "reviewed": true
+    }
+  ]
+}

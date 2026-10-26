@@ -283,12 +283,104 @@ PLANS[14]=[
 ]
 
 
+PLANS[15]=[
+ (scene('食堂／わからないところの違い','cafeteria',T),[
+  cue('向かいでコンケが笑った。',cast=['プラス','ランス','コンケ']),
+  cue('ユージは汁物の椀を少しずらした。',cast=T),
+  cue('プラスが顔を上げる。',cg='episode15-e'),
+  cue('プラス「……その手があった」',cg=None,cast=T)]),
+ (scene('校舎／役員会議へ急ぐX','corridor',['X'],cg='episode15-c'),[
+  cue('扉を開けると、その声の主が窓を背に座っていた。',location='生徒会室／来月度の連絡',cast=[],cg='episode15-d-v5',cut=True),
+  cue('X「最後に、例の転校生について」',location='生徒会室／転校生の到着確認'),
+  cue('Xは、返事の代わりに軽く会釈した。',location='生徒会室／残った申請書',cast=['X'],cg=None)]),
+ (scene('勉強サークル／再訪','club-corridor',D),[
+  cue('ドーマ「こんにちは プラスさん ランスさん」',cast=['プラス','ランス','ドーマ']),
+  cue('机の間を歩くと、焼いた甘い匂いがした。',location='勉強サークル／手作りのフィナンシェ',bg='library',cast=['プラス','ランス','ルサイ'],cut=True),
+  cue('そのあとで、四人の前へ紙が広がった。',location='勉強サークル／途中の線から',cast=['プラス','ランス','ツクリ'],cg='episode15-a',cut=True)]),
+ (scene('勉強サークル／戻ってきた部長','library',['プラス','ランス','X']),[
+  cue('ルサイが飲み物を持ってきた。',cast=['プラス','X','ルサイ']),
+  cue('X「……おやつは？」',cg='episode15-empty-snacks'),
+  cue('ルサイが、容器の蓋を閉じた。',cg=None),
+  cue('ツクリが、新しい紙を二枚出した。',cast=['プラス','ランス','X'],cg=None),
+  cue('扉へ向かうところで、ルサイが声をかけた。',cast=['プラス','ランス','ルサイ'])]),
+ (scene('校舎／一個でも増えた答え','corridor',D,tone='evening'),[
+  cue('歩いてきたコンケが、二人を見つけて足を緩める。',cast=['プラス','ランス','コンケ']),
+  cue('そのころ、勉強サークルの部室では、',location='勉強サークル／空になった皿',bg='library',cast=['X','ルサイ'],tone='evening',cut=True)])
+]
+PLANS[16]=[
+ (scene('学生寮／教わった線を残す朝','dorm-morning',T),[
+  cue('学校へ向かう道で、コンケと合流した。',location='学園／次に聞く場所',bg='campus',cast=['プラス','ランス','コンケ'],cut=True)]),
+ (scene('勉強サークル／互いに教え合う','club-corridor',D),[
+  cue('返事を待ってから開ける。',location='勉強サークル／単位と工程',bg='library',cast=['プラス','ランス','ドーマ'],cut=True),
+  cue('奥の席を離れたXが、二人の紙を見た。',cast=['プラス','ランス','X']),
+  cue('次の問題では、ドーマが手を止めた。',cast=['プラス','ランス','ドーマ'])]),
+ (scene('勉強サークル／菓子の数と古い名前','library',['プラス','X','ルサイ']),[
+  cue('Xは立ち上がり、資料を持ってそちらへ移った。',cast=['X','ルサイ']),
+  cue('プラス「……ルサイさんって、Xさんに、普通に言うんだな」',cast=['プラス','ランス','ツクリ']),
+  cue('休憩を終える前に、ツクリが棚へ向かった。',location='勉強サークル／残されたノート',cast=['プラス','ツクリ','ドーマ']),
+  cue('ツクリが一冊を引き出した。',cg='episode16-a')]),
+ (scene('勉強サークル／答えないことと知らないこと','library',['プラス','ランス','X']),[
+  cue('ルサイが、机のそばへ来た。',cast=['プラス','X','ルサイ']),
+  cue('ランスが、自分の紙を少し寄せる。',cast=['プラス','ランス','ツクリ'],cg='episode16-a')]),
+ (scene('勉強サークル／マイナスという名前','library',['プラス','ランス','ツクリ']),[
+  cue('プラスはそちらへ向かった。',cast=['プラス','X']),
+  cue('二人で箱を持ち上げる。',location='勉強サークル／箱の重さ',cast=['プラス','ルサイ','X'],cg='episode16-b'),
+  cue('その瞬間、Xの耳から、部室の音が遠ざかった。',location='Xの記憶／声と暗い床',bg='old-school-corridor',cast=[],cg=None,tone='night',cut=True),
+  cue('プラスが、こちらを見ている。',location='勉強サークル／その手を離せ',bg='library',cast=['プラス','X','ルサイ'],tone='',expressions={'x_shaken':True},cut=True),
+  cue('底が机へ触れる。',cg=None),
+  cue('プラスは、入口の方へ動きかけた。',cast=['プラス','ランス','X']),
+  cue('ルサイはカップを布で持ち、紙のない場所へ移す。',cast=['プラス','X','ルサイ']),
+  cue('ランスが扉を開ける。',cast=D,cg=None),
+  cue('部室を出ると、廊下はいつもと同じだった。',location='校舎／指は同じように動く',bg='corridor',cast=D,tone='evening',cut=True)]),
+ (scene('学園／何が起きたかを話す','campus',D,tone='evening'),[]),
+ (scene('勉強サークル／戻っていた箱','library',['X','ルサイ'],tone='evening',cg='episode16-c'),[
+  cue('ツクリは、入口へ向かいかけてから戻った。',cast=['X','ツクリ','ドーマ'],cg=None),
+  cue('部室に残ったのは、Xとルサイだけになった。',cast=['X','ルサイ'],cg='episode16-c'),
+  cue('ルサイが、扉を開けた。',location='校舎／その角まで一緒に',bg='corridor',cast=['X','ルサイ'],cg=None,tone='evening',cut=True)])
+]
+PLANS[17]=[
+ (scene('夢／届かなかった手','old-school-corridor',tone='night'),[
+  cue('目が開いた。',location='学生寮／二人ともここにいる',bg='dorm-night',cast=[],tone='',cut=True),
+  cue('ユージ「……早えな」',cast=P),
+  cue('ランスも、その声で起きた。',cast=T)]),
+ (scene('寮裏の練習場／変えたあとの動き','training',T),[
+  cue('先に来ていたコンケが手を上げた。',cast=['プラス','ランス','コンケ']),
+  cue('プラスは金属片を持ち上げた。',cg='episode17-morning-practice'),
+  cue('プラスは、金属片を元の質量へ戻して置いた。',cg=None,cast=T),
+  cue('コンケが、持っていた用具をプラスへ渡す。',cast=['プラス','ランス','コンケ']),
+  cue('ランスが位置を確かめ、ユージが正面へ用具を持つ。',cast=T)]),
+ (scene('学園／それぞれの午後','campus',T),[
+  cue('四人で同じ道を歩く時間が終わり、',cast=['プラス']),
+  cue('勉強サークルの扉の前へ着くと、',location='勉強サークル／返事のない挨拶',bg='club-corridor',cut=True),
+  cue('ツクリの声がしてから、開けた。',bg='library',cast=['プラス','ツクリ','X']),
+  cue('プラス「Xさん、こんにちは」',cg='episode17-c'),
+  cue('プラスは、ツクリの隣へ座った。',cast=['プラス','ツクリ','ドーマ'],cg=None)]),
+ (scene('勉強サークル／言葉と確かめたいこと','library',['プラス','ツクリ','ドーマ']),[
+  cue('厚い辞書と、分野ごとの用語集が並んでいる。',location='勉強サークル／慣性・密度・熱容量'),
+  cue('ルサイが、席の横へ来た。',cast=['プラス','ルサイ']),
+  cue('ルサイは立ち上がった。',cast=['プラス','ルサイ','X'])]),
+ (scene('勉強サークル／今年加わった条件','library',['プラス','ツクリ','ドーマ']),[
+  cue('二冊を重ね、Xの机へ向かった。',cast=['プラス','X']),
+  cue('プラスは、隣の椅子へ座った。',cg='episode17-a')]),
+ (scene('勉強サークル／条件を読む','library',['プラス','X'],cg='episode17-a'),[
+  cue('プラス「……やっぱ、Xさん、優しいよな」',cg=None),
+  cue('あの床が、戻ってきた。',location='Xの記憶／消えない声',bg='old-school-corridor',cast=[],tone='night',cut=True),
+  cue('今の部室だった。',location='勉強サークル／そのために何を賭ける',bg='library',cast=['プラス','X'],tone='',expressions={'x_shaken':True},cut=True),
+  cue('ルサイ「Xくん」',cast=['プラス','X','ルサイ'],cg='episode17-e'),
+  cue('X「ならば、そのために何を賭ける？」',cg=None),
+  cue('ルサイは、その間へ身体を入れた。',cg='episode17-b-r3'),
+  cue('Xは、書かれた紙を持ち上げた。',cg=None,cast=['プラス','X','ルサイ']),
+  cue('扉へ向かう。',cast=['プラス','ルサイ']),
+  cue('ルサイ「……プラスくん。少し、お時間をいただけますか」',cast=['プラス','ルサイ'])])
+]
+
 def compile_episode(n,body,title):
  parts=body.split('　　　　　＊');assert len(parts)==len(PLANS[n]);entries=[];reports=[]
  for sn,(part,(initial,cues)) in enumerate(zip(parts,PLANS[n]),1):
   st=dict(initial);expr={};camera=st['cast'][:3];seen=set();start=len(entries)
   def portrait(name):
    emotion=expr.get(name,c.CHAR[name][2])
+   if name=='X' and expr.get('x_shaken'):return 'shaken'
    if name=='ランス' and (n==13 or (n==14 and sn==1) or (n==12 and sn==10 and expr.get('lance_treated'))):return 'hurt'
    if name=='プラス':
     if n==7:return {'smile':'bandaged-smile','surprised':'bandaged-surprised','serious':'bandaged-serious'}.get(emotion,'bandaged')
@@ -321,7 +413,7 @@ def compile_episode(n,body,title):
      if 'cast' in q:camera=st['cast'][:3]
      expr.update(q.get('expressions',{}))
      if q['cut']:loc()
-    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in ['担当者','保健委員','先生','決闘委員','通りがかりの生徒','別の生徒','別の親衛隊員','医療係の生徒','部員の男子']) else '';text=m.group(2) if name else segment
+    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in ['担当者','保健委員','先生','決闘委員','通りがかりの生徒','別の生徒','別の親衛隊員','医療係の生徒','部員の男子','タイタン','アシャラ','ベレー','タナカ','セレナ','ミュー','クラリーヌ','ツキチヨ','ジャッジ','回想の声','勉強サークルの男子']) else '';text=m.group(2) if name else segment
     if name in st['cast'] and name not in camera:
      keep=[x for x in camera if x not in ['プラス',name]];camera=(['プラス'] if 'プラス' in st['cast'] else [])+keep[-1:]+[name]
     if name in c.CHAR:
@@ -338,11 +430,11 @@ def main():
  import argparse
  parser=argparse.ArgumentParser();parser.add_argument('episodes',nargs='*',type=int);args=parser.parse_args();ns=args.episodes or sorted(PLANS)
  source_path=ROOT.parent/'source-current.json'
- titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない',12:'君のためなら、勝てばよかった',13:'欲しかったのは、それじゃない',14:'帰ってきたら、何を話そう'}
+ titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない',12:'君のためなら、勝てばよかった',13:'欲しかったのは、それじゃない',14:'帰ってきたら、何を話そう',15:'簡単だって、言われても',16:'その話だけは、聞いてはいけない',17:'その続きを、聞かせてくれ'}
  source=json.loads(source_path.read_text()) if source_path.exists() else {'chapters':[{'id':f'chapter1-episode{n}','title':f'第1章　第{n}話　{titles[n]}','body':(ROOT/f'data/source/chapter1-episode{n}.txt').read_text()} for n in ns]}
  manifest=json.loads((ROOT/'data/episodes.json').read_text());review=json.loads((ROOT/'data/chapter1-scene-review.json').read_text())
- desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。',12:'星二十個と居場所を賭けたランスの決闘。その勝利が、守りたかった人へ届くとは限らなかった。',13:'返ってきた星と、届かなかった言葉。月明かりの下でプラスとユージが次の一歩を考える。',14:'同室の友と、星の動かない勝負。勝ち負けの先で、帰る部屋の明かりを確かめる。'}
- images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup',12:'episode12-a',13:'episode13-b',14:'episode14-b-v2'}
+ desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。',12:'星二十個と居場所を賭けたランスの決闘。その勝利が、守りたかった人へ届くとは限らなかった。',13:'返ってきた星と、届かなかった言葉。月明かりの下でプラスとユージが次の一歩を考える。',14:'同室の友と、星の動かない勝負。勝ち負けの先で、帰る部屋の明かりを確かめる。',15:'試験のわからない一行から、勉強サークルへ。残された線と、なくなったおやつ。',16:'古いノートと星を失った人々。軽くした箱が、Xの記憶を揺らす。',17:'届かなかった夢の手と、変わる部室の熱。すべての星と、三つの情報を賭ける約束。'}
+ images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup',12:'episode12-a',13:'episode13-b',14:'episode14-b-v2',15:'episode15-a',16:'episode16-a',17:'episode17-b-r3'}
  for n in ns:
   id=f'chapter1-episode{n}';ch=next(ch for ch in source['chapters'] if ch['id']==id);report=compile_episode(n,ch['body'],ch['title']);review['episodes'][id]=report;manifest['episodes']=[ep for ep in manifest['episodes'] if ep['id']!=id];manifest['episodes'].append(dict(id=id,title=ch['title'],file=f'data/{id}.json',image=c.CG(images[n]),description=desc[n]));print(id,len(report),'scenes')
  manifest['episodes'].sort(key=lambda ep:0 if ep['id']=='prologue' else int(ep['id'].split('episode')[-1]));(ROOT/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');(ROOT/'data/chapter1-scene-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')

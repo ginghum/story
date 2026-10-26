@@ -996,6 +996,189 @@
         "match": "机へ三つの容器が並ぶ。",
         "sound": "tableware"
       }
+    ],
+    "chapter1-episode15": [
+      {
+        "match": "椅子を引く音と、何種類もの話し声で埋まっていた。",
+        "sound": "chair"
+      },
+      {
+        "match": "ユージは余白へ筆記具を走らせた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "通路の向こうから足音が近づいた。",
+        "sound": "steps"
+      },
+      {
+        "match": "四人は皿を片づけた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "生徒会室の扉へ手をかけたところで、指定時刻になった。",
+        "sound": "door-open"
+      },
+      {
+        "match": "椅子が一度きしんだ。",
+        "sound": "chair"
+      },
+      {
+        "match": "紙をめくる音が、幾つか重なった。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ミューが、待っていたように椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスが、扉を叩いた。",
+        "sound": "knock"
+      },
+      {
+        "match": "二度目の音が消える前に、中で椅子が引かれた。",
+        "sound": "chair"
+      },
+      {
+        "match": "皿を二枚持ってきた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "紙を二人の間へ置き、次の式を指す。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ルサイは空いた皿を下げ、飲み物だけを足した。",
+        "sound": "tableware"
+      },
+      {
+        "match": "扉が開く音に、ツクリの筆記具が止まる。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ルサイが、容器の蓋を閉じた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "ルサイが皿を重ねる。",
+        "sound": "tableware"
+      },
+      {
+        "match": "三人の足音が、廊下へ重なった。",
+        "sound": "steps"
+      }
+    ],
+    "chapter1-episode16": [
+      {
+        "match": "二度、軽く音を鳴らした。",
+        "sound": "knock"
+      },
+      {
+        "match": "返事を待ってから開ける。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ドーマが、自分の記録を一枚出した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ルサイは二人の前へ皿を置き、ドーマとツクリにも配る。",
+        "sound": "tableware"
+      },
+      {
+        "match": "ツクリが一冊を引き出した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "部室の奥で、皿を重ねる音がした。",
+        "sound": "tableware"
+      },
+      {
+        "match": "冊子が小さく音を立てる。",
+        "sound": "rustle"
+      },
+      {
+        "match": "紙の端が擦れる。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ランスが扉を開ける。",
+        "sound": "door-open"
+      },
+      {
+        "match": "扉が閉まる。",
+        "sound": "door-close"
+      },
+      {
+        "match": "ルサイの靴音が、隣で鳴る。",
+        "sound": "steps"
+      }
+    ],
+    "chapter1-episode17": [
+      {
+        "match": "椅子が倒れ、その向こうで別の生徒が喉を押さえた。",
+        "sound": "chair"
+      },
+      {
+        "match": "水の容器を取り、少し飲んだ。",
+        "sound": "water"
+      },
+      {
+        "match": "床へ置き、プラスの方へ押す。",
+        "sound": "metal"
+      },
+      {
+        "match": "プラスは、金属片を元の質量へ戻して置いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "勉強サークルの扉の前へ着くと、二度叩いた。",
+        "sound": "knock"
+      },
+      {
+        "match": "ツクリの声がしてから、開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "紙をめくる音がした。",
+        "sound": "rustle"
+      },
+      {
+        "match": "奥で、Xが椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "ルサイが皿を持ってくる。",
+        "sound": "tableware"
+      },
+      {
+        "match": "ドーマが棚の下段を示した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは、用語集を閉じた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "椅子を少し引いた。",
+        "sound": "chair",
+        "occurrences": 2
+      },
+      {
+        "match": "紙を教材へ挟んだ。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ドーマ自身が、先に椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "ドーマが、紙を一枚持ってきた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "扉が閉まる。",
+        "sound": "door-close"
+      }
     ]
   }
 }
