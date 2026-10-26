@@ -529,14 +529,15 @@
     "generator": "built-in image_gen"
   },
   {
-    "id": "episode14-light-evasion-r2",
-    "prompt": "Use case: identity-preserve / precise-object-edit. Keep same two exact men and moonlit small practice yard, but redraw a CLEAR FRONTAL anatomy composition: LANCE is on the RIGHT of the picture, facing almost front slightly left. PLUS is on the LEFT of the picture, both feet off the ground as he deliberately lightens himself and springs back from a controlled push. Lance's RIGHT SHOULDER is at SCREEN LEFT of his chest, and the RIGHT ARM from that shoulder extends left into Plus's chest with a broad flat silver metal plate. Trace that right arm clearly from shoulder to elbow to plate; this is the ONLY raised pushing arm. Lance's LEFT shoulder/arm at SCREEN RIGHT is EMPTY and hangs low beside his hip. No shield or plate on that left arm. Lance navy hair yellow eyes glasses brown robe black zip-neck top, Plus long purple ponytail white hoodie brown robe. No injury bandages or pads anywhere. Keep all feet readable, dry dirt boundary lines, lanterns and moon, no spectators or arena, no lettering.",
+    "id": "episode14-light-evasion-hair-v3",
+    "prompt": "Edit only Plus on the left of the nighttime shield-evasion illustration: change his incorrect high ponytail to one long dark-purple low ponytail tied at the nape below the ears, matching his official character reference. Preserve his layered bangs and all poses, expressions, clothing, Lance, shield, composition and moonlit courtyard. Also restore his reference physique: narrow shoulders, lean chest and arms, slim waist, natural head-to-body ratio, with a loose white hoodie over a tall slender frame.",
     "references": [
       "/workspace/scratch/e0ba8f01bcc1/generated_images/exec-4c52d2ae-0769-4e97-ac58-37ecf10ad972.png"
     ],
     "folder": "cg",
-    "file": "assets/cg/episode14-light-evasion-r2.webp",
-    "generator": "built-in image_gen"
+    "file": "assets/cg/episode14-light-evasion-hair-v3.webp",
+    "generator": "built-in image_gen",
+    "prompt_record": "Built-in image_gen edit using the original fight illustration and Plus character reference; hairstyle correction, 2026-10-26."
   },
   {
     "id": "episode14-ground-control-r2",

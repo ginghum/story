@@ -263,7 +263,7 @@ PLANS[14]=[
  (scene('能力練習場／いつもより速い槍','training-night',D,cg='episode14-spar-night-r2'),[]),
  (scene('能力練習場／軽くしても残る形','training-night',D,cg='episode14-spar-night-r2'),[]),
  (scene('能力練習場／身体を軽くする','training-night',D,cg='episode14-spar-night-r2'),[
-  cue('足が、床から離れた。',cg='episode14-light-evasion-r2'),
+  cue('足が、床から離れた。',cg='episode14-light-evasion-hair-v3'),
   cue('右手に、今度は長い槍が作られた。',cg='episode14-spar-night-r2')]),
  (scene('能力練習場／見届ける四人','training-night',['ユージ','ゆきめろ','コバル','コンケ']),[]),
  (scene('能力練習場／もう一手、その先へ','training-night',D,cg='episode14-spar-night-r2'),[
