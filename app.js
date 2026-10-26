@@ -15,6 +15,7 @@ function persist(){const episodes={...(disk.episodes||{}),[episodeId]:{index:che
 let errorTimer=null;
 function clearError(){clearTimeout(errorTimer);errorTimer=null;$('#load-error').hidden=true;}
 function error(s,{temporary=false}={}){clearError();$('#error-message').textContent=s;$('#load-error').hidden=false;if(temporary)errorTimer=setTimeout(clearError,6000);}
+if(!$('#error-message')||!$('#dismiss-error')){const message=document.createElement('span'),close=document.createElement('button');message.id='error-message';close.id='dismiss-error';close.type='button';close.textContent='×';close.setAttribute('aria-label','案内を閉じる');$('#load-error').replaceChildren(message,close);}
 $('#dismiss-error').onclick=clearError;
 function screen(id){clearError();window.storySfx?.stop();cancelSceneTransition();if(id!=='game'&&document.fullscreenElement&&document.fullscreenElement!==document.documentElement){try{Promise.resolve(document.exitFullscreen()).catch(()=>{});}catch{}}dialogPaused=false;stopModes();clearTimeout(cutinTimer);clearTyping();activeScreen=id;$$('.screen').forEach(el=>el.classList.toggle('active',el.id===id));$('#stage').classList.remove('ui-hidden');updateBadges();}
 function savedEpisode(id){if(disk.episodes?.[id])return disk.episodes[id];if(id==='prologue'&&!disk.episodes)return {index:disk.index||0,highest:Number.isInteger(disk.highest)?disk.highest:-1,read:!!disk.read};return {index:0,highest:-1,read:false};}
