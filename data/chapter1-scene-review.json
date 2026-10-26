@@ -1,0 +1,670 @@
+{
+  "episodes": {
+    "chapter1-episode1": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 37,
+        "location": "？？？",
+        "source_lines": 36,
+        "locations": [
+          "？？？",
+          "学生寮／三人の部屋・朝"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "夢は人物を見せず、起床後に朝の寮へ暗転して切替。"
+      },
+      {
+        "scene": 2,
+        "start": 38,
+        "end": 84,
+        "location": "学生寮／台所・朝",
+        "source_lines": 43,
+        "locations": [
+          "学生寮／台所・朝",
+          "学生寮／廊下",
+          "学生寮／台所"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "廊下の名札と台所の会話で場所を切り替え、朝食CGは着替え前で終了。"
+      },
+      {
+        "scene": 3,
+        "start": 85,
+        "end": 155,
+        "location": "学園敷地内／通学路",
+        "source_lines": 64,
+        "locations": [
+          "学園敷地内／通学路",
+          "校舎／教室"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "通学CGは教室へ持ち越さない。"
+      },
+      {
+        "scene": 4,
+        "start": 156,
+        "end": 188,
+        "location": "校舎／教室・授業",
+        "source_lines": 30,
+        "locations": [
+          "校舎／教室・授業"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "授業CGでは全立ち絵を抑制し、式を理解する内面を全文収録。"
+      },
+      {
+        "scene": 5,
+        "start": 189,
+        "end": 250,
+        "location": "校舎／教室・休み時間",
+        "source_lines": 60,
+        "locations": [
+          "校舎／教室・休み時間",
+          "校舎／廊下"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ツクリとドーマは出会いの台詞から表示。紙束CGで5人の位置関係を補足。"
+      },
+      {
+        "scene": 6,
+        "start": 251,
+        "end": 335,
+        "location": "学園／食堂・昼",
+        "source_lines": 83,
+        "locations": [
+          "学園／食堂・昼"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ランスが席取りに離れた間は立ち絵を消し、戻った描写で復帰。"
+      },
+      {
+        "scene": 7,
+        "start": 336,
+        "end": 370,
+        "location": "学園敷地内／食堂前",
+        "source_lines": 31,
+        "locations": [
+          "学園敷地内／食堂前",
+          "図書館／入口"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "別れたユージとランスを消し、ツクリとドーマの案内へ切替。図書館の入口を追加。"
+      }
+    ],
+    "chapter1-episode2": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 175,
+        "location": "図書館／勉強サークル",
+        "source_lines": 169,
+        "locations": [
+          "図書館／勉強サークル",
+          "図書館／入口"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ルサイとXは登場後に表示。試験、休憩の会話へカメラを切替。図書館退館でCGを解除。"
+      },
+      {
+        "scene": 2,
+        "start": 176,
+        "end": 251,
+        "location": "学園敷地内／午後の通り",
+        "source_lines": 72,
+        "locations": [
+          "学園敷地内／午後の通り",
+          "学園／購買通り"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "バルーの登場後に新聞売りのCGを表示。"
+      },
+      {
+        "scene": 3,
+        "start": 252,
+        "end": 351,
+        "location": "中央購買／店内",
+        "source_lines": 95,
+        "locations": [
+          "中央購買／店内",
+          "学園／中庭"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "遭遇CGからヒカルを除去。ユージが消えた描写でCGを終了し、ヒカル登場後に立ち絵を表示。"
+      },
+      {
+        "scene": 4,
+        "start": 352,
+        "end": 495,
+        "location": "学園敷地内／離れ校舎への道",
+        "source_lines": 141,
+        "locations": [
+          "学園敷地内／離れ校舎への道",
+          "離れ校舎／オタクサークル前"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "親衛隊は茶色のローブ・暗いグレーの顔のないモブ。ゆきめろの退室でCGを解除。"
+      },
+      {
+        "scene": 5,
+        "start": 496,
+        "end": 548,
+        "location": "学園敷地内／夕方の帰り道",
+        "source_lines": 51,
+        "locations": [
+          "学園敷地内／夕方の帰り道",
+          "学生寮／三人の部屋・夕方"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "帰寮まではプラス1人。ユージ、ランスは部屋での描写に合わせて復帰。"
+      }
+    ],
+    "chapter1-episode3": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 116,
+        "location": "学生寮／三人の部屋・夕食",
+        "source_lines": 116,
+        "locations": [
+          "学生寮／三人の部屋・夕食"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "夕食は夜の寮。衣装の回想で現在の立ち絵を着替えさせない。"
+      },
+      {
+        "scene": 2,
+        "start": 117,
+        "end": 216,
+        "location": "学生寮／三人の部屋・夜",
+        "source_lines": 97,
+        "locations": [
+          "学生寮／三人の部屋・夜",
+          "学生寮／廊下・夜",
+          "学生寮そば／能力練習場・夜"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "練習場は夜の背景。コンケは登場前に出さない。"
+      },
+      {
+        "scene": 3,
+        "start": 217,
+        "end": 258,
+        "location": "能力練習場／試合区画",
+        "source_lines": 41,
+        "locations": [
+          "能力練習場／試合区画"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "試合前はルール確認と相手の能力提示を区別。"
+      },
+      {
+        "scene": 4,
+        "start": 259,
+        "end": 317,
+        "location": "能力練習場／試合区画",
+        "source_lines": 59,
+        "locations": [
+          "能力練習場／試合区画"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "攻撃前は真剣な表情、最初に打たれた箇所から苦痛へ変更。"
+      },
+      {
+        "scene": 5,
+        "start": 318,
+        "end": 386,
+        "location": "能力練習場／試合区画",
+        "source_lines": 69,
+        "locations": [
+          "能力練習場／試合区画"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "左拳を重くする試行は負傷前。包帯を描かない。"
+      },
+      {
+        "scene": 6,
+        "start": 387,
+        "end": 468,
+        "location": "能力練習場／試合区画",
+        "source_lines": 82,
+        "locations": [
+          "能力練習場／試合区画"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "右拳の決着CGを夜の練習場へ修正。コンケは決着後に痛めた表情。"
+      },
+      {
+        "scene": 7,
+        "start": 469,
+        "end": 518,
+        "location": "能力練習場／試合区画",
+        "source_lines": 50,
+        "locations": [
+          "能力練習場／試合区画"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "コンケの退場後は表示しない。右腕は処置前なので包帯はまだない。"
+      },
+      {
+        "scene": 8,
+        "start": 519,
+        "end": 570,
+        "location": "学園／保健の窓口",
+        "source_lines": 49,
+        "locations": [
+          "学園／保健の窓口",
+          "学園敷地内／夜の帰り道",
+          "学生寮／入口"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "右腕の処置CGを使用し、帰路から右腕の包帯と支持具を維持。"
+      },
+      {
+        "scene": 9,
+        "start": 571,
+        "end": 611,
+        "location": "学生寮／三人の部屋・就寝前",
+        "source_lines": 40,
+        "locations": [
+          "学生寮／三人の部屋・就寝前"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "帰寮後も右腕の負傷差分。消灯後は立ち絵を消す。"
+      },
+      {
+        "scene": 10,
+        "start": 612,
+        "end": 649,
+        "location": "？？？",
+        "source_lines": 37,
+        "locations": [
+          "？？？"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "夢の人物の顔は不鮮明なまま。現在の仲間の立ち絵を重ねない。"
+      },
+      {
+        "scene": 11,
+        "start": 650,
+        "end": 673,
+        "location": "学生寮／三人の部屋・深夜",
+        "source_lines": 23,
+        "locations": [
+          "学生寮／三人の部屋・深夜"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "深夜の部屋を暗くし、眠る仲間の立ち絵は表示しない。"
+      }
+    ],
+    "chapter1-episode4": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 64,
+        "location": "学生寮／三人の部屋・朝",
+        "source_lines": 64,
+        "locations": [
+          "学生寮／三人の部屋・朝"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "起床時も右腕の包帯・支持具を維持。ユージは起きる台詞から表示。"
+      },
+      {
+        "scene": 2,
+        "start": 65,
+        "end": 182,
+        "location": "学生寮／三人の部屋・朝",
+        "source_lines": 117,
+        "locations": [
+          "学生寮／三人の部屋・朝",
+          "学生寮そば／能力練習場・朝"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "練習用の棒に合わせ、CGの尖った槍先を丸い棒へ変更。"
+      },
+      {
+        "scene": 3,
+        "start": 183,
+        "end": 226,
+        "location": "学園敷地内／朝の通学路",
+        "source_lines": 40,
+        "locations": [
+          "学園敷地内／朝の通学路",
+          "校舎／教室",
+          "校舎／廊下"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "授業、廊下へ場所を切替。"
+      },
+      {
+        "scene": 4,
+        "start": 227,
+        "end": 276,
+        "location": "学園／食堂前",
+        "source_lines": 49,
+        "locations": [
+          "学園／食堂前"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ユーヒは初対面の台詞から表示。取材の相手と待つ同居人を区別。"
+      },
+      {
+        "scene": 5,
+        "start": 277,
+        "end": 361,
+        "location": "学園／食堂前・午後",
+        "source_lines": 80,
+        "locations": [
+          "学園／食堂前・午後",
+          "校舎／新聞部前の廊下",
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "編集部の各人物を紹介に合わせて表示。最大3人の会話カメラに調整。"
+      },
+      {
+        "scene": 6,
+        "start": 362,
+        "end": 440,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 79,
+        "locations": [
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "取材CGの右腕の支持具を確認。話者と受け答えに合わせて表情を変更。"
+      },
+      {
+        "scene": 7,
+        "start": 441,
+        "end": 515,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 75,
+        "locations": [
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "退室したバルーを一時的に外し、戻る描写で復帰。"
+      },
+      {
+        "scene": 8,
+        "start": 516,
+        "end": 582,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 66,
+        "locations": [
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "マイナスは名前の手がかりだけで、実物の立ち絵を登場させない。"
+      },
+      {
+        "scene": 9,
+        "start": 583,
+        "end": 629,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 47,
+        "locations": [
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "CGは右腕を包帯で支え、自由な左手を顎へ添えていることを拡大確認。"
+      },
+      {
+        "scene": 10,
+        "start": 630,
+        "end": 682,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 53,
+        "locations": [
+          "新聞部／夕陽新聞編集部"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "同じ編集部での連続会話に、不要な場所カットインを繰り返さない。"
+      },
+      {
+        "scene": 11,
+        "start": 683,
+        "end": 710,
+        "location": "新聞部／夕陽新聞編集部",
+        "source_lines": 25,
+        "locations": [
+          "新聞部／夕陽新聞編集部",
+          "校舎／新聞部前の廊下",
+          "学園敷地内／中庭への道"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "退出時に編集部の人物を消し、中庭へ向かう移動を表示。"
+      }
+    ],
+    "chapter1-episode5": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 44,
+        "location": "学園／中庭の大きな木",
+        "source_lines": 44,
+        "locations": [
+          "学園／中庭の大きな木"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "木の下にマイナスを出さず、不在の背景を用意。"
+      },
+      {
+        "scene": 2,
+        "start": 45,
+        "end": 92,
+        "location": "学園敷地内／闘技場への道",
+        "source_lines": 44,
+        "locations": [
+          "学園敷地内／闘技場への道",
+          "闘技場／通路",
+          "闘技場／観客席"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "観戦するグレード1同士の戦闘用に、匿名モブ2人のCGを追加。"
+      },
+      {
+        "scene": 3,
+        "start": 93,
+        "end": 141,
+        "location": "闘技場／通路",
+        "source_lines": 48,
+        "locations": [
+          "闘技場／通路"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ダイと再会するまでプラス1人。"
+      },
+      {
+        "scene": 4,
+        "start": 142,
+        "end": 202,
+        "location": "闘技場／決闘委員会受付",
+        "source_lines": 58,
+        "locations": [
+          "闘技場／決闘委員会受付"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "受付では黒い生徒手帳の既存修正版を使用。"
+      },
+      {
+        "scene": 5,
+        "start": 203,
+        "end": 241,
+        "location": "闘技場／武器なし競技面",
+        "source_lines": 38,
+        "locations": [
+          "闘技場／武器なし競技面"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "競技面では資料を預けたダイを手ぶらの戦闘差分に変更。"
+      },
+      {
+        "scene": 6,
+        "start": 242,
+        "end": 302,
+        "location": "闘技場／武器なし競技面",
+        "source_lines": 61,
+        "locations": [
+          "闘技場／武器なし競技面"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "プラスの右腕を保護し、左手で攻撃するCG。瞬間移動に短い明滅を追加。"
+      },
+      {
+        "scene": 7,
+        "start": 303,
+        "end": 359,
+        "location": "闘技場／武器なし競技面",
+        "source_lines": 57,
+        "locations": [
+          "闘技場／武器なし競技面"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "瞬間移動の出現先を読もうとする過程を省略しない。"
+      },
+      {
+        "scene": 8,
+        "start": 360,
+        "end": 426,
+        "location": "闘技場／武器なし競技面",
+        "source_lines": 67,
+        "locations": [
+          "闘技場／武器なし競技面"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "制圧CGでは、負傷した右腕へ触れず自由な左腕と肩を抑える。"
+      },
+      {
+        "scene": 9,
+        "start": 427,
+        "end": 494,
+        "location": "闘技場／武器なし競技面",
+        "source_lines": 67,
+        "locations": [
+          "闘技場／武器なし競技面",
+          "闘技場／競技面脇の確認場所"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "差し出す手は自由な左手。星が減った確認で受付脇へ切替。"
+      },
+      {
+        "scene": 10,
+        "start": 495,
+        "end": 538,
+        "location": "闘技場／通路",
+        "source_lines": 43,
+        "locations": [
+          "闘技場／通路"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "資料を受け取ったダイは通常差分へ戻り、退場後は消す。"
+      },
+      {
+        "scene": 11,
+        "start": 539,
+        "end": 656,
+        "location": "闘技場／案内板前",
+        "source_lines": 116,
+        "locations": [
+          "闘技場／案内板前",
+          "闘技場／武器あり競技面の観客席"
+        ],
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち画面の各シーン確認、画像の拡大確認、データ検証",
+        "note": "ユージは右手で能力を使う。背面からの構図へ変更して左右を確認。ヒカルの鞭は1本。"
+      }
+    ]
+  }
+}

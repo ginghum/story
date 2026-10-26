@@ -1,0 +1,292 @@
+[
+  {
+    "id": "episode02-yuji",
+    "prompt": "Use case: precise-object-edit. Wide anime story illustration, same academy courtyard and delicate rendering. Preserve ONLY Plus on left with long dark-purple tied hair brown robe white shirt and blond Yuji center in the same modest high-neck long-sleeve frilly maid-style white navy dress with blue ribbons. Yuji sees Plus, embarrassed wide eyes, recoils half-step and grasps skirt hem ready to run; Plus has friendly surprised expression and raises hand to greet. REMOVE Hikaru, the tall blond man on right, completely; no replacement named character. Background observers if any are faceless charcoal-gray anonymous humans under brown hooded robes, no detailed faces. Sunny afternoon. Preserve exact identities, no text, no magical effects. Whole image one scene no panels.",
+    "folder": "cg",
+    "file": "assets/cg/episode02-yuji.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "tsukuri-worried",
+    "prompt": "Use case: identity-preserve. Full body game sprite true transparency. Preserve reference girl's exact light lavender silver ponytail, gray eyes, brown hooded school robe over white shirt gray skirt, black knee socks and loafers,157cm slim body and pose clutching closed plain black book. Face: worried startled speaking expression, eyebrows raised, small open mouth, one small sweat drop. Do not make crying or panicking. Same detailed anime style. Whole head and both feet within frame with margins. Single character no backdrop no ground shadow no text.",
+    "folder": "characters",
+    "file": "assets/characters/tsukuri-worried.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "hikaru-cold",
+    "prompt": "Use case: identity-preserve. Full body game sprite on true transparency. Same tall184cm blond blue-eyed man and exact school outfit as reference: brown robe white shirt black vest loose black tie fitted pants gold chains black heeled shoes. Arms lowered, one hand resting at hip, black whip coiled on belt, not raised. Face: dismissive cold expression, narrow blue eyes, one eyebrow very slightly lifted, closed mouth without smile. Same detailed anime rendering. Head to both shoes fully framed with small margins, one character no backdrop no ground shadow no writing.",
+    "folder": "characters",
+    "file": "assets/characters/hikaru-cold.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "konke-hurt",
+    "prompt": "Use case: identity-preserve. Full body game sprite on true transparency. Keep same purple bob-haired red-eyed slim178cm young man and brown school robe untucked white shirt loosened black tie wide dark slacks black-white sneakers. Post-sparring reaction: furious embarrassed pained scowl, brows sharply drawn, mouth tense partly open, left arm held protectively near lower chest, right hand relaxed by side. No bandages, no blood, no broken limbs or visible wounds, no poison. Tired slightly slumped stance with both feet grounded. Preserve identity and anime style. Head and both feet visible with margins, no background no ground shadow no lettering.",
+    "folder": "characters",
+    "file": "assets/characters/konke-hurt.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "dai-neutral",
+    "prompt": "Identity-preserving transparent full-body sprite. Reference Dai: lime-green hair blue eyes,182cm, brown school robe over black suit, polite gentle smile, holds a thin pale folder, open hand explaining; complete feet, no background/shadows/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "characters",
+    "file": "assets/characters/dai-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "yuhi-neutral",
+    "prompt": "Identity-preserving transparent full-body sprite. Reference Yuhi: orange short hair brown newsboy cap, camera at neck, layered shirt/vest/brown robe,170cm, cheerful reporter with notebook and pencil; complete feet, no background/shadows/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "characters",
+    "file": "assets/characters/yuhi-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "newsroom",
+    "prompt": "Background extraction from episode04-b-r3: same cramped editorial office with desks, paper manuscripts, shelves files boxes and cutting board, tall school windows, warm afternoon anime painting. Remove every person and face, no readable text, clear foreground for sprite overlay,16:9.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "bg",
+    "file": "assets/bg/newsroom.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "chick-neutral",
+    "prompt": "Identity-preserving transparent full-body sprite. Reference Chick: black messy hair rectangular glasses, tired calm editor,176cm, brown robe, holds manuscripts at chest; complete feet, no background/shadows/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "characters",
+    "file": "assets/characters/chick-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "courtyard-tree",
+    "prompt": "16:9 detailed anime visual novel empty courtyard dominated by enormous shade tree, low grass roots with flattened sitting patch but no belongings, dappled afternoon light, stone path and imperial school architecture in distance. No people/silhouettes/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "bg",
+    "file": "assets/bg/courtyard-tree.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "sunny-neutral",
+    "prompt": "Identity-preserving transparent full-body sprite. Reference Sunny: orange ponytail orange eyes,159cm, brown robe white blouse gray skirt socks short brown boots; closed plain black handbook at chest, cheerful responsible expression; complete feet, no background/shadows/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "characters",
+    "file": "assets/characters/sunny-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "arena-reception",
+    "prompt": "16:9 detailed anime visual novel empty imperial arena reception side corridor, stone vaulted arches, wooden registration desk, closed plain black handbooks, brass blank display, passage to arena, afternoon daylight. No people/silhouettes/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "bg",
+    "file": "assets/bg/arena-reception.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "morpheus-neutral",
+    "prompt": "Identity-preserving transparent full-body sprite. Reference Morpheus: red-magenta hair tied in low side ponytail, sleepy violet eyes,165cm, brown robe white shirt dark trousers, gentle smile and manuscript; complete feet, no background/shadows/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "characters",
+    "file": "assets/characters/morpheus-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "arena-floor",
+    "prompt": "16:9 detailed anime visual novel empty arena seen from competition floor at eye level. Worn pale stone repaired floor, circular spectator tiers, railings arches scientific lamps, afternoon light, open space for fighter sprites. No people/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "bg",
+    "file": "assets/bg/arena-floor.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode05-hold",
+    "prompt": "16:9 tactical school sparring CG. Reference Plus long purple ponytail brown robe white hoodie, anatomical RIGHT wrist forearm elbow bandaged safely in white sling. Reference Dai lime-green hair black suit brown robe behind Plus, gently controls free LEFT arm and shoulder while Plus kneels assessing defeat. Do not twist or touch right arm. Imperial stone arena afternoon, no blood/text.",
+    "prompt_record": "Production specification reconstructed from generation request after session resumed.",
+    "folder": "cg",
+    "file": "assets/cg/episode05-hold.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode04-practice-staff",
+    "folder": "cg",
+    "prompt": "Use case: precise-object-edit. Change ONLY the weapon held by blue-haired glasses-wearing Lance on right. Replace the sharp spearhead with a simple smooth cylindrical blunt rounded end, making his weapon an unsharpened metal PRACTICE STAFF. No blade, no spearhead, no cutting edge. Keep exact staff length and position, both hands and pose, all three men identities clothes and expressions, Plus's anatomical RIGHT arm in white bandages and sling (viewer left side), his free LEFT hand reaching forward, Yuji behind, entire morning school practice-ground setting, light, anime rendering. No other changes. No text.",
+    "file": "assets/cg/episode04-practice-staff.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "plus-bandaged-smile",
+    "folder": "characters",
+    "prompt": "Use case: identity-preserve. Full body game sprite on TRUE transparency. Edit ONLY facial expression of reference Plus, preserve EXACT body pose outfit face identity long dark purple tied ponytail, all existing clean white bandages on ANATOMICAL RIGHT forearm wrist and elbow with supporting white sling across torso, free LEFT arm by side. Keep same height and anatomy, white hooded top brown robe black pants shoes. New expression: relaxed friendly genuine small smile, eyes open normally, no grimace, natural cheerful conversation, mouth slightly open. Full head and complete shoes visible with same margins as reference, no background or ground shadow, no text. Do not alter or mirror the injured arm.",
+    "file": "assets/characters/plus-bandaged-smile.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "plus-bandaged-surprised",
+    "folder": "characters",
+    "prompt": "Use case: identity-preserve. Full body game sprite on TRUE transparency. Edit ONLY facial expression of reference Plus, preserve EXACT body pose outfit face identity long dark purple tied ponytail, all existing clean white bandages on ANATOMICAL RIGHT forearm wrist and elbow with supporting white sling across torso, free LEFT arm by side. Keep same height and anatomy, white hooded top brown robe black pants shoes. New expression: surprised attentive face, brows raised and eyes wide, small open mouth, hearing an unexpected clue about his forgotten family. Full head and complete shoes visible with same margins as reference, no background or ground shadow, no text. Do not alter or mirror the injured arm.",
+    "file": "assets/characters/plus-bandaged-surprised.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "plus-bandaged-serious",
+    "folder": "characters",
+    "prompt": "Use case: identity-preserve. Full body game sprite on TRUE transparency. Edit ONLY facial expression of reference Plus, preserve EXACT body pose outfit face identity long dark purple tied ponytail, all existing clean white bandages on ANATOMICAL RIGHT forearm wrist and elbow with supporting white sling across torso, free LEFT arm by side. Keep same height and anatomy, white hooded top brown robe black pants shoes. New expression: focused determined serious face, eyebrows slightly drawn, mouth closed, eyes level and alert, no smile, no anger or tears. Full head and complete shoes visible with same margins as reference, no background or ground shadow, no text. Do not alter or mirror the injured arm.",
+    "file": "assets/characters/plus-bandaged-serious.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "dai-battle",
+    "folder": "characters",
+    "prompt": "Use case: identity-preserve. Full body transparent game sprite. Preserve EXACT Dai from reference: tall182cm slim man, short lime-green hair, blue eyes, brown hooded school robe over open white shirt and black high-neck underlayer, black fitted suit pants polished black shoes. For duel scene remove ALL papers, notebook, folder and other props. BOTH HANDS EMPTY and fully anatomically clear, relaxed open guard at waist and chest height, composed focused eyes and slight confident polite smile, no clenched aggressive teeth. Brown robe and outfit unchanged, no armor weapons or effects. Same anime rendering, entire head and both shoes visible with margins, true alpha background, no ground shadow or text.",
+    "file": "assets/characters/dai-battle.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode05-observed-duel",
+    "folder": "cg",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel illustration viewed from school arena spectator stands looking down toward circular pale stone competition floor. EXACTLY TWO anonymous students duel modestly and cautiously on floor. One slender166cm human and one broad182cm human, both wear BROWN hooded school robes; all non-robe parts, blank featureless faces, hands, necks, inner clothes pants and shoes are very dark CHARCOAL GRAY, same faceless NPC design as reference1. No visible eyes noses mouths or skin tones. Slender student has just thrown a tiny plain pebble that drops to ground, broad one steps sideways with open hands to evade. No weapons, no exaggerated magic, no fire/explosions, no injury. Tired alert stances but not brutal. Imperial stone arena tiers and railings from reference2, warm afternoon light, empty distant seats or indistinct dark forms only, no readable text or scoreboard symbols. Fine anime painted style matching references, no Plus or other named people.",
+    "file": "assets/cg/episode05-observed-duel.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode05-yuji-battle-v3",
+    "folder": "cg",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel battle illustration. Change the camera composition to make handedness clear: CAMERA BEHIND AND OVER YUJI'S RIGHT SHOULDER. In lower LEFT foreground Yuji (short blond bob, cream school sweater under brown hooded robe) is seen from BACK THREE-QUARTER; his BACK and RIGHT shoulder are visible, face only in small side profile. His RIGHT forearm extends FORWARD away from camera toward picture center, right palm repels an approaching black whip with a tiny air ripple. His LEFT arm stays low, largely hidden on far side. Thus clearly use his right arm, not a front-facing left arm. Across open pale stone arena floor stands Hikaru: tall short golden blond blue-eyed man in brown robe, black vest white shirt black trousers gold chains, calm cruel focus, his RIGHT hand holds exactly ONE thin continuous black whip arcing into center and ending freely. His LEFT hand is empty at hip. Yuji brown sleeve is worn/torn no blood, serious fatigued but upright. Imperial arena stone tiers and high arches in afternoon sun. No Plus, no bystanders in foreground, no text, no blood. Preserve reference identities and detailed anime style; exactly two men and four total arms. Do not reuse old front-facing Yuji pose.",
+    "file": "assets/cg/episode05-yuji-battle-v3.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "tsukuri-neutral",
+    "prompt": "Use case: identity-preserve. Game full body standing sprite, true transparent background. Preserve exact girl in reference: light lavender silver ponytail, gray eyes, brown hooded school robe, white shirt and gray pleated skirt, black knee socks and loafers, slim 157cm student. Same delicate anime rendering and exact costume. Standing relaxed holding a CLOSED plain black notebook against chest. Gentle slightly cautious small smile rather than alarm, mouth closed. Head and both feet fully in frame with margins, character alone, front three-quarter view. Remove gray backdrop and all ground shadows. No letters, no extra props.",
+    "folder": "characters",
+    "file": "assets/characters/tsukuri-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "doma-neutral",
+    "prompt": "Use case: background-extraction. Game full body standing sprite on true transparent background. Preserve precisely this girl's identity, face, black straight long hair and blunt bangs, rectangular glasses, subtle calm neutral expression, brown hooded school robe fastened at collar, white uniform and gray skirt, black socks and loafers, slim160cm. Hands relaxed behind back. Match original fine anime style and proportions. Entire head and feet visible with margins. Remove gray background and any ground shadow. One person only, no text.",
+    "folder": "characters",
+    "file": "assets/characters/doma-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "library",
+    "prompt": "Use case: illustration-story. Wide 16:9 visual novel background ONLY, no people, no silhouettes. Reference for matching fine anime painting and imperial stone architecture. Interior enormous school library, towering wooden bookcases extending to distant back wall, upper gallery with more shelves, tall arched windows on right, long oak study tables with books and papers, warm quiet afternoon sunlight, imperial science fantasy school. Camera eye level along clear central aisle, foreground floor and tables for character overlay. No text, no lettering, no logos. Rich detailed environment, same world as reference.",
+    "folder": "bg",
+    "file": "assets/bg/library.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "corridor",
+    "prompt": "Use case: illustration-story. 16:9 visual novel background, NO people. Match reference anime background world. Interior school stone corridor, tall windows on left with bright day sun, classroom wooden doors on right, an open side classroom doorway in midground showing plain desks, vaulted stone ceiling, subtle brass electric lights combine imperial old architecture with scientific academy. Clear foreground to overlay standing characters. No readable text, no silhouettes, no posters with faces.",
+    "folder": "bg",
+    "file": "assets/bg/corridor.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "dorm-morning",
+    "prompt": "Use case: lighting-weather. Visual novel background, landscape16:9. Keep same cramped shared dorm room layout as reference: wooden bunk beds on right, thin floor mattress, desk and shelves on left, small kitchenette glimpsed by far left doorway. Change lighting to early morning: cool soft dawn daylight through rear window, electric lamps OFF. Bedding rumpled, no people or portraits. Anime painted background matching reference, detailed but modest student room, not luxurious. No writing or text.",
+    "folder": "bg",
+    "file": "assets/bg/dorm-morning.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "lusai-neutral",
+    "prompt": "Use case: identity-preserve. Full body anime visual novel character sprite, true transparent background. Preserve white hair tied in low ponytail, narrow rectangular glasses, calm kind smile, gray eyes, brown hooded robe over open-collar white shirt and dark slacks, slim176cm man, holds CLOSED plain black book in left arm. Relaxed professional welcoming pose. Match reference delicate detailed anime style precisely. One character only centered, full head and both feet visible with margins. No shadows beneath feet, no gray or white background, no text or watermark.",
+    "folder": "characters",
+    "file": "assets/characters/lusai-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "baroo-neutral",
+    "prompt": "Use case: identity-preserve. Full body anime visual novel character sprite, true transparent background. Preserve short coral pink bob hair, amber eyes, red bow and cream sweater, brown hooded robe, gray skirt, loose white socks and black platform loafers, small151cm girl. Cheerful newspaper seller pose, holds folded newspaper bundle with abstract illegible printed gray blocks, other hand welcoming. No readable words. Match reference delicate detailed anime style precisely. One character only centered, full head and both feet visible with margins. No shadows beneath feet, no gray or white background, no text or watermark.",
+    "folder": "characters",
+    "file": "assets/characters/baroo-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "hikaru-neutral",
+    "prompt": "Use case: identity-preserve. Full body anime visual novel character sprite, true transparent background. Preserve short golden blond hair, blue eyes, slim tall184cm man, confident arrogant reserved smile, brown hooded robe over black vest white shirt loose black tie, fitted black pants, heeled black shoes, thin ornamental gold chains. Lower both arms naturally; thin black whip COILED and hanging on belt by hip, NOT brandished in conversation. One open hand gesturing slightly. Match reference delicate detailed anime style precisely. One character only centered, full head and both feet visible with margins. No shadows beneath feet, no gray or white background, no text or watermark.",
+    "folder": "characters",
+    "file": "assets/characters/hikaru-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "yukimero-neutral",
+    "prompt": "Use case: identity-preserve. Full body anime visual novel character sprite, true transparent background. Preserve petite146cm girl, light lavender curly twin tails with pink bows, light blue eyes, elaborate lavender-pink-white lolita frilly dress, white frilly stockings and pink platform shoes. For this story scene remove ONLY brown outer robe: she is wearing full modest high-neck long-sleeve lolita dress with knee-length skirt, no school robe. Slightly shy cute expression, hands held together near chest. Faithful reference identity. Match reference delicate detailed anime style precisely. One character only centered, full head and both feet visible with margins. No shadows beneath feet, no gray or white background, no text or watermark.",
+    "folder": "characters",
+    "file": "assets/characters/yukimero-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "konke-neutral",
+    "prompt": "Use case: identity-preserve. Full body anime visual novel character sprite, true transparent background. Preserve purple short bob hair, red eyes, slim178cm young man, brown hooded long robe, untucked white shirt loose black tie black undershirt, wide dark trousers and black white trainers. Cocky provocative small smirk, one hand on hip, other relaxed at side with fingers visible, no poison yet. Same proportions and clothing details. Match reference delicate detailed anime style precisely. One character only centered, full head and both feet visible with margins. No shadows beneath feet, no gray or white background, no text or watermark.",
+    "folder": "characters",
+    "file": "assets/characters/konke-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "library-entrance",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel environment background ONLY, no people. Match reference painting and fantasy imperial academy architecture. Exterior entrance to enormous school library, tall arched windows, ornate stone lintel above large dark oak doors, deep building extends to right, quiet courtyard stone paving, warm afternoon light, climbing greenery, eye level foreground clear for character overlay. Scientific imperial fantasy world, no words or signage, no people or silhouettes.",
+    "folder": "bg",
+    "file": "assets/bg/library-entrance.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "courtyard",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel background ONLY, no people. Use reference imperial fantasy science school stone architecture style. Secluded landscaped central school courtyard, stone colonnades around perimeter, flower beds and low garden walls, sunlit afternoon, open paved center suitable for a cosplay club gathering, soft green trees, refined grand academy in distance. Foreground space for overlay characters. No people, silhouettes, letters, posters, text.",
+    "folder": "bg",
+    "file": "assets/bg/courtyard.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "club-corridor",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel background no people. Side corridor of old detached imperial school building, plaster and stone walls, tall windows with late afternoon sunlight, wooden clubroom doors left and right, overlapping colorful anime-style abstract posters and event papers on wall but no visible faces or readable words. One open door reveals shelves of manga and figurines seen as tiny indistinct shapes. Modest lively club building, not a cathedral. Clear center foreground for sprites. Match fine anime painting and architecture of reference.",
+    "folder": "bg",
+    "file": "assets/bg/club-corridor.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "training-night",
+    "prompt": "Use case: lighting-weather. Keep precisely same empty outdoor school ability practice ground, stone walls and distant structures, training targets and sandy ground as reference. Change to early night, deep navy blue sky, stars just appearing, practice area illuminated by tall warm electric floodlights and wall lamps, targets visible white in light. No sunset sunlight. No characters or silhouettes, no letters. Wide16:9 visual novel painted anime background.",
+    "folder": "bg",
+    "file": "assets/bg/training-night.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "infirmary",
+    "prompt": "Use case: illustration-story. Wide16:9 anime visual novel environment only no characters. Imperial academy infirmary at night, stone walls tall arched windows showing deep blue night, clean white curtained medical examination beds, first aid cabinet, rolling metal tray, bandage rolls, small reception desk in background, warm electric ceiling lamps. Modest scientific medical station with old imperial architecture, fine anime painting same world as reference. Clear foreground for sprites. No people, no human shapes, no text or logos.",
+    "folder": "bg",
+    "file": "assets/bg/infirmary.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "campus-night",
+    "prompt": "Use case: lighting-weather. Preserve same school campus stone paths and imperial architecture in reference. Change lighting to NIGHT: deep navy sky with few stars, warm streetlamp pools and lit windows, moonlight on stone, entirely no daylight or sun. No people or silhouettes. Wide16:9 fine anime visual novel background.",
+    "folder": "bg",
+    "file": "assets/bg/campus-night.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "dorm-night",
+    "prompt": "Use case: lighting-weather. Preserve exact cramped shared dormitory room layout and wooden bunk bed on right, small desk and shelves on left, floor mattress and kitchenette behind doorway. Change only to NIGHT: outside window dark blue with moonlight, room lit by small warm desk lamp and ceiling electric light. No golden sunlight coming through windows. No people, no portraits, no readable text. Detailed anime visual novel landscape16:9.",
+    "folder": "bg",
+    "file": "assets/bg/dorm-night.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "plus-bandaged",
+    "prompt": "Use case: identity-preserve. Transparent full body game sprite. Preserve same Plus identity exactly, long dark-purple hair tied in ponytail, red-brown eyes, tall184cm man, brown hooded school robe over white open collar shirt black slacks black white shoes. Edit ONLY injury and expression: his ANATOMICAL RIGHT forearm wrist and elbow (viewer LEFT) covered in clean white medical bandage and supported by white sling across torso. Right forearm bent across lower chest, right hand relaxed, left arm unharmed and at side. Slightly tired but friendly restrained small smile, no visible blood. Keep complete head and both shoes visible with margins, true alpha background, no shadow, single person, no text.",
+    "folder": "characters",
+    "file": "assets/characters/plus-bandaged.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode03-impact-night",
+    "prompt": "Use case: lighting-weather. Keep same exact two men, identities, poses and anatomically correct impact action from reference: Plus at left with long dark purple ponytail punching with anatomical RIGHT fist into purple short-haired Konke's LEFT blocking forearm in front of chest; NO face punch. No bandages yet. Change only location lighting and background to NIGHT ability training ground. Deep navy sky, stone practice ground enclosed by low stone wall and targets, warm floodlights plus moonlight, not daytime city plaza. Match existing anime rendering, expressive motion, minimal abstract sparks at contact. Wide16:9 illustration no lettering. Preserve hands and arms anatomically.",
+    "folder": "cg",
+    "file": "assets/cg/episode03-impact-night.webp",
+    "generator": "built-in image_gen"
+  }
+]

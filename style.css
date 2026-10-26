@@ -41,3 +41,9 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 @keyframes scene-close{from{opacity:0}to{opacity:1}}
 @keyframes scene-open{from{opacity:1}to{opacity:0}}
 .cg-frame[data-tone="dark"] img{filter:brightness(.32) saturate(.55)}
+
+.episode-list{display:grid;gap:24px;max-width:1040px}.episode-list .episode-card{width:100%;max-width:none}.episode-list .episode-content p{white-space:pre-line}.ending h2{font-size:clamp(20px,3.4cqw,38px);max-width:85%;line-height:1.5}.ending #next-episode{max-width:90%;white-space:normal}
+
+.flash.blink{animation:teleport-blink .22s ease-out}@keyframes teleport-blink{0%{opacity:0}25%{opacity:.3}100%{opacity:0}}@media(prefers-reduced-motion:reduce){.flash.blink{animation:none}}
+
+.loading-toast{position:fixed;left:50%;top:22px;transform:translateX(-50%);z-index:70;padding:12px 22px;background:#101925ee;border:1px solid #a08b5b;color:#eee6d4;font-size:13px;pointer-events:none;white-space:nowrap}.loading-toast[hidden]{display:none}

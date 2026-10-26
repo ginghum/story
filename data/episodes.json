@@ -1,0 +1,46 @@
+{
+  "episodes": [
+    {
+      "id": "prologue",
+      "title": "プロローグ",
+      "file": "data/prologue.json",
+      "image": "assets/cg/prologue-a.webp",
+      "description": "海の向こうの学園へ。プラスの、新しい一日が始まる。"
+    },
+    {
+      "id": "chapter1-episode1",
+      "title": "第1章　第1話　この学園で、友達になろう",
+      "file": "data/chapter1-episode1.json",
+      "image": "assets/cg/episode01-a.webp",
+      "description": "初めての朝、初めての授業。仲間と歩いて、この学園を知っていく。"
+    },
+    {
+      "id": "chapter1-episode2",
+      "title": "第1章　第2話　知ってるあいつは、知らない顔をする",
+      "file": "data/chapter1-episode2.json",
+      "image": "assets/cg/episode02-a.webp",
+      "description": "図書館、新聞、中庭、離れ校舎。友達の知らない顔に出会う午後。"
+    },
+    {
+      "id": "chapter1-episode3",
+      "title": "第1章　第3話　今夜はまだ、眠るには早い",
+      "file": "data/chapter1-episode3.json",
+      "image": "assets/cg/episode03-d.webp",
+      "description": "今夜の練習相手は、ふたりの元同居人。重さを変える力で、何ができるのか。"
+    },
+    {
+      "id": "chapter1-episode4",
+      "title": "第1章　第4話　俺のことも、載っていますか",
+      "file": "data/chapter1-episode4.json",
+      "image": "assets/cg/episode04-d.webp",
+      "description": "夕陽新聞編集部での取材。名前と能力が、過去を探す手がかりになる。"
+    },
+    {
+      "id": "chapter1-episode5",
+      "title": "第1章　第5話　次の相手は、誰だろう",
+      "file": "data/chapter1-episode5.json",
+      "image": "assets/cg/episode05-d.webp",
+      "description": "会いたい人を探す午後、初めての正式な決闘。そして、闘技場で見た友達の姿。"
+    }
+  ]
+}
