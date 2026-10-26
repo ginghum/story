@@ -56,3 +56,16 @@ if any(m['id']=='chapter1-episode6' for m in manifest):
  assert all(c['expression'].startswith('bandaged') for x in e for c in x['cast'] if c['id']=='plus')
  assert all(not x.get('cg') for x in e if x['scene'] in [10,11,12]), 'Do not carry the stick CG into rest or unarmed training'
  print('PASS: episode 6 bed continuity, flashback isolation, Lance entrance, protected right arm and practice-stick exit.')
+# Later episodes cross a treatment boundary, change locations mid-paragraph,
+# and revisit the same characters in flashbacks.
+if any(m['id']=='chapter1-episode10' for m in manifest):
+ e7,e8,e9,e10=[episode(n) for n in [7,8,9,10]]
+ assert all(c['expression'].startswith('bandaged') for x in e7 for c in x['cast'] if c['id']=='plus')
+ assert all(not c['expression'].startswith('bandaged') for seq in [e8,e9,e10] for x in seq for c in x['cast'] if c['id']=='plus')
+ assert all(c['id']!='yuji' for x in e8 if 5<=x['scene']<=8 for c in x['cast']), 'Yuji is away at his own club during the interview'
+ assert all(c['id']!='plus' for x in e9 if 1<=x['scene']<=4 or x['scene']==6 for c in x['cast']), 'Current Plus must not leak into Konke flashbacks'
+ assert all(not x.get('cg') or x['cg']!='assets/cg/episode09-b-faceless.webp' for x in e9 if x['scene']>=11), 'Do not carry corridor combat into the office'
+ assert all(c['id']=='plus' for x in e10 if x['scene']==7 and x.get('raw','').startswith('返事はなかった。') for c in x['cast']), 'Konke is down after the finish'
+ assert any(x.get('cg')=='assets/cg/episode10-konke-mirror.webp' for x in e10 if x['scene']==6)
+ assert all(not x.get('cg') or x['cg']!='assets/cg/episode10-tree-faceless.webp' for x in e10 if x['scene']!=13), 'Do not reveal Minus before the final scene'
+ print('PASS: episode 7–10 healing boundary, interview attendance, flashbacks, combat exits, mirror CG and final cameo timing.')

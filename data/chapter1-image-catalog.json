@@ -295,5 +295,96 @@
     "purpose": "夜の練習場、右腕負傷継続、ランスの左手に丸い棒",
     "generated": "2026-10-26",
     "reviewed": true
+  },
+  {
+    "file": "assets/bg/old-school-corridor.webp",
+    "purpose": "旧校舎の廊下",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/bg/old-school-exterior.webp",
+    "purpose": "旧校舎の外観",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/bg/gumon-office.webp",
+    "purpose": "グモンの部長室",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/characters/gumon-neutral.webp",
+    "purpose": "グモンの透過立ち絵",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/characters/oga-neutral.webp",
+    "purpose": "オーガの透過立ち絵",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/characters/konke-reserved.webp",
+    "purpose": "悩むコンケ・真剣な表情",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode08-bread-theft.webp",
+    "purpose": "パン強奪、モブ配色修正",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode07-left-impact.webp",
+    "purpose": "右腕を保護した左拳の決着",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode07-sword-ready.webp",
+    "purpose": "左手で剣を受け取る",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode10-konke-mirror.webp",
+    "purpose": "割れた鏡のコンケ",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode09-b-faceless.webp",
+    "purpose": "オーガとヒカル、背景モブ修正",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode10-yuji-carry.webp",
+    "purpose": "ヒカルがユージを運ぶ",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
+  },
+  {
+    "file": "assets/cg/episode10-tree-faceless.webp",
+    "purpose": "グモンとマイナス、背景モブ修正",
+    "generated": "2026-10-26",
+    "generator": "built-in image_gen",
+    "reviewed": true
   }
 ]

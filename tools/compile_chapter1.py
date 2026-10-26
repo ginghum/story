@@ -276,7 +276,7 @@ EPISODE_TITLES={'chapter1-episode1': '第1章\u3000第1話\u3000この学園で�
 EPISODE_TITLES['chapter1-episode6']='第1章　第6話　いつも通りが、うまくできない'
 
 def main():
- source=json.load(open(SOURCE)) if SOURCE.exists() else {'chapters':[{'id':p.stem,'title':EPISODE_TITLES[p.stem],'body':p.read_text()} for p in (ROOT/'data/source').glob('*.txt')]};reports={};episodes=[dict(id='prologue',title='プロローグ',file='data/prologue.json',image='assets/cg/prologue-a.webp',description='海の向こうの学園へ。プラスの、新しい一日が始まる。')]
+ source=json.load(open(SOURCE)) if SOURCE.exists() else {'chapters':[{'id':p.stem,'title':EPISODE_TITLES[p.stem],'body':p.read_text()} for p in (ROOT/'data/source').glob('*.txt') if p.stem in EPISODE_TITLES]};reports={};episodes=[dict(id='prologue',title='プロローグ',file='data/prologue.json',image='assets/cg/prologue-a.webp',description='海の向こうの学園へ。プラスの、新しい一日が始まる。')]
  for n in sorted(PLANS):
   reports[f'chapter1-episode{n}']=compile_episode(n,source);id=f'chapter1-episode{n}';ch=next(c for c in source['chapters'] if c['id']==id)
   image={1:'episode01-a',2:'episode02-a',3:'episode03-d',4:'episode04-d',5:'episode05-d'}[n]
@@ -290,3 +290,8 @@ if __name__=='__main__':
  if (ROOT/'data/source/chapter1-episode6.txt').exists():
   import compile_episode6
   compile_episode6.main()
+  compile_episode6.c.default_expression=compile_episode6.original_expression
+  compile_episode6.c.CHAR['プラス']=('plus',184,'smile')
+ if (ROOT/'data/source/chapter1-episode10.txt').exists():
+  import compile_continuation
+  compile_continuation.main()

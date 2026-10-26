@@ -48,6 +48,34 @@
       "file": "data/chapter1-episode6.json",
       "image": "assets/cg/episode06-a-r3.webp",
       "description": "ユージが語る契約の過去。いつもの笑顔の奥を知り、プラスとランスは夜の練習へ向かう。"
+    },
+    {
+      "id": "chapter1-episode7",
+      "title": "第1章　第7話　その笑顔は、誰のもの",
+      "file": "data/chapter1-episode7.json",
+      "image": "assets/cg/episode07-a-r3.webp",
+      "description": "友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。"
+    },
+    {
+      "id": "chapter1-episode8",
+      "title": "第1章　第8話　ちょっと様子を、見に来ただけ",
+      "file": "data/chapter1-episode8.json",
+      "image": "assets/cg/episode08-d.webp",
+      "description": "治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。"
+    },
+    {
+      "id": "chapter1-episode9",
+      "title": "第1章　第9話　あの人の前では、格好つけたい",
+      "file": "data/chapter1-episode9.json",
+      "image": "assets/cg/episode09-a.webp",
+      "description": "コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。"
+    },
+    {
+      "id": "chapter1-episode10",
+      "title": "第1章　第10話　放っておけと、言われても",
+      "file": "data/chapter1-episode10.json",
+      "image": "assets/cg/episode10-tree-faceless.webp",
+      "description": "割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。"
     }
   ]
 }
