@@ -900,5 +900,83 @@
     "file": "assets/cg/episode21-c.webp",
     "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
     "generator": "reused original illustration"
+  },
+  {
+    "id": "episode14-talk-kobal-v3",
+    "file": "assets/cg/episode14-talk-kobal-v3.webp",
+    "prompt": "Use case: precise-object-edit. Edit ONLY the cyan-haired glasses-wearing Kobal on the RIGHT of image1. Use image2 as his exact BODY BUILD reference: visibly chubby/round, full soft cheeks, thick neck, rounded shoulders, broad torso and a prominent rounded belly under white sweater and open brown robe, gray checked scarf. He is not muscular, not slim and not merely broad-shouldered. Adjust his crouching posture and clothing drape naturally to accommodate this round belly. Preserve his cyan hair/glasses/pleasant slightly apologetic expression. Preserve other THREE characters Plus left purple low ponytail white hoodie, navy-haired glasses Lance center-left and lavender twin-tail Yukimero center-right EXACTLY, their sizes, seating, hands, faces and poses. Keep moonlit stone practice yard, full moon, lights, detailed anime style, same crop and composition. No text, no added people or props.",
+    "references": [
+      "assets/cg/episode14-talk-night.webp",
+      "assets/cg/episode11-quiet-talk-kobal-v2.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode18-training-clear-lane-v3",
+    "file": "assets/cg/episode18-training-clear-lane-v3.webp",
+    "prompt": "Use case: illustration-story. Correct the FIRST anime training illustration; second image is identity reference ONLY for Yaoi. Preserve delicate detailed anime art, ornate covered stone practice yard, soft late-afternoon sunlight. EXACTLY THREE characters, no spectators anywhere: Plus184cm slim lanky purple-eyed boy with long dark-purple LOW ponytail brown robe white hoodie black cargo pants white sneakers; Yaoi155cm petite black bob-haired gray-eyed girl with glasses white outfit brown robe at FAR LEFT perimeter; Ojo154cm petite silver twin-tail red-eyed girl brown robe white elaborate frilled dress at FAR RIGHT. Plus moves sideways in center, alert focused exhausted, bending knees in a plausible dodge, both feet/legs and hands clear. Ojo fires several SMALL golden explosive spheres toward EMPTY FLOOR beside Plus, dust and small sparks. Yaoi's anatomical hands have TRANSFORMED INTO THIN BRANCHING WOODEN ROOTS directly emerging from BOTH sleeve cuffs, no normal fingers holding loose vines. These roots grow DOWN to floor along far left then OUTWARD around the OUTER PERIMETER and columns to form protective leafy screen. Crucial: all roots at least one meter away from Plus's shoes and legs, NO vines crossing his path, no roots around ankles/knees/waist/arms, no entanglement or restraint. Center practice lane entirely root-free, unobstructed footing. Yaoi supports safely, is not attacking him. Omit all three background boys rather than misdrawing friends. No gigantic destruction, no blood, no bandages, no text. Wide single scene with coherent anatomy.",
+    "references": [
+      "assets/cg/episode18-b.webp",
+      "assets/characters/yaoi-neutral.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode14-light-evasion-proportions-v4",
+    "file": "assets/cg/episode14-light-evasion-proportions-v4.webp",
+    "prompt": "Use case: illustration-story. Redraw image1 retaining moonlit practice yard, exact characters/outfits/action and detailed anime art, while correcting body scale. Same distance from camera, neutral eye-level 3/4 view, NO extreme low-angle or wide-angle giant limbs. Plus at LEFT is184cm slim lanky, long dark-purple hair tied LOW at nape with a small gold tie, purple eyes, brown robe WHITE hoodie black cargo pants white sneakers. He is lightly airborne evading, knees slightly bent, normal thin arms, head proportional to torso, not childlike. Lance at RIGHT is169cm significantly SHORTER slim compact boy, navy short hair amber eyes rectangular glasses brown robe BLACK fitted zipped top dark trousers blue/white sneakers, no bulky chest or huge thighs. Lance uses a small plain metal shield on left forearm toward Plus, free right hand at side. Make his actual standing body short and narrow rather than merely changing head size; his shoulder width clearly less than taller Plus's. Both have correct normal anatomy exactly two arms/legs, keep15cm natural standing height difference despite airborne Plus. Healthy, no bandages or bruises. Keep hair reference, no high ponytail or short haircut. No text.",
+    "references": [
+      "assets/cg/episode14-light-evasion-hair-v3.webp",
+      "assets/characters/plus-smile.webp",
+      "assets/characters/lance-neutral.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode14-spar-proportions-v3",
+    "file": "assets/cg/episode14-spar-proportions-v3.webp",
+    "prompt": "Use case: illustration-story. Redraw this moonlit friendly sparring CG with correct compact slim body builds and authentic height difference. Preserve identities, moonlit ornate stone practice yard and fine anime rendering. Neutral eye-height medium-wide view, BOTH men same ground plane and distance, modest lens, full bodies visible, normal-size shoes and thighs. Lance LEFT169cm, short navy hair amber eyes rectangular glasses, narrow slim compact frame brown robe BLACK zipped top and black trousers blue/white sneakers. Plus RIGHT184cm fifteen centimeters TALLER, slim lanky long limbs, purple eyes dark-purple LOW nape ponytail white hoodie brown robe black cargo pants white sneakers. Lance holds plain metal spear in RIGHT hand and small metal shield in LEFT, Plus throws RIGHT closed fist into shield while free left fist stays near ribs. Correct anatomy exactly two arms each. Lance low fighting stance, clearly smaller shoulders and shorter torso than tall Plus, no bulky muscles or oversized legs. Plus athletic but not muscular; no balloon chest. Faces focused not furious. Night dark blue sky, warm lamps, no sunlight, no injuries/bandages, no text.",
+    "references": [
+      "assets/cg/episode14-spar-night-r2.webp",
+      "assets/characters/plus-smile.webp",
+      "assets/characters/lance-neutral.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode19-wrist-control-anatomy-v4",
+    "file": "assets/cg/episode19-wrist-control-anatomy-v4.webp",
+    "prompt": "Use case: illustration-story. References1 and2 are character identity references; reference3 is ornate arena/style ONLY. Create a NEW composition, NOT a flying horizontal throw. Wide anime illustration, sunlit imperial stone arena, two boys full bodies. X at LEFT facing right,180cm brown-haired blue-eyed pale blue shirt gray trousers black shoes brown robe; Plus at RIGHT facing left184cm slim dark-purple LOW nape ponytail purple eyes white hoodie black cargo pants white sneakers brown robe. Moment: X has intercepted Plus's RIGHT wrist and steps outside his leg to unbalance him. Plus is STILL MOSTLY UPRIGHT with torso leaning30degrees, knees flexed, one foot skidding/heel lifting, NOT horizontally airborne. Plus's anatomical RIGHT SHOULDER faces camera and is fully visible. His RIGHT UPPER ARM extends FORWARD from that visible shoulder down-left toward X at WAIST HEIGHT, elbow naturally slightly bent in front of stomach, forearm extends down-left to X's grip. Show an obvious continuous shoulder->upper arm->elbow->forearm->wrist->clenched hand, ordinary limb lengths. Right arm BELOW shoulder level entirely, no arm above/behind head, no arm hidden by hair, no impossible shoulder twist. X uses his LEFT hand to grip that RIGHT wrist from side, guiding it OUTWARD and DOWN at waist height; X's own upper arm elbow forearm all visible. Plus's FREE LEFT arm stays flexed at his own chest with open left hand, separated from grip. X's free right hand by his waist. Exactly4arms/4hands total, five digits on visible open hands. The controlled off-balance motion comes from foot positioning and torso turn, not joint dislocation. Tiny covered scorch on Plus RIGHT robe shoulder, no exposed injury, no bandages, no book/props/text. Natural15cm? X180 Plus184 actual4cm height difference. Delicate expressive faces, plausible anatomy is highest priority, restrained dust, no motion blur on arms.",
+    "references": [
+      "assets/characters/plus-smile.webp",
+      "assets/characters/x-stern.webp",
+      "assets/cg/episode19-c.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode18-training-night-v3",
+    "file": "assets/cg/episode18-training-night-v3.webp",
+    "prompt": "Use case: lighting-weather. Create NIGHTTIME variant of this exact corrected anime training scene. Preserve all three characters' exact faces identities poses costumes body proportions and correct anatomy, roots directly emerging from Yaoi sleeve cuffs at far left, clear empty root-free practice lane around Plus, Ojo small explosive spheres on right, same camera crop and stone architecture. Change ONLY time and lighting: outside through every opening deep dark blue NIGHT SKY, no sun, no daytime sky and no golden daylight. Warm PRACTICE LAMPS mounted on columns illuminate figures and floor, gold projectiles give small warm highlights; cool moonlit ambient shadows. Dark blue night visible at roof/window openings, not bright sky. Retain visibility of characters, not black silhouette. Plus tired with very subtle covered soot on robe from hours of practice, no blood or bandages. No spectators, no added objects or text.",
+    "references": [
+      "assets/cg/episode18-training-clear-lane-v3.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
+  },
+  {
+    "id": "episode13-hand-deflection-v4",
+    "file": "assets/cg/episode13-hand-deflection-v4.webp",
+    "prompt": "Use case: precise-object-edit. Preserve this exact anime scene's corrected body sizes (Plus right184cm clearly taller than Lance left169cm), identity, low purple ponytail, faces, sunset backdrop, wardrobe and injuries. Correct ONLY hand interaction: Lance's LEFT arm reaches toward Plus at center, but his LEFT HAND and the small rectangular metal plate must be LOWERED to waist/chest-bottom height, CLEARLY separated from Plus's shoulder/upper arm. Lance generates a small slanted plain silver metal plate from his LEFT PALM. Plus's reaching anatomical RIGHT HAND (currently extended before his chest) moves leftward toward Lance, fingertips sliding against the face of that plate, his right forearm deflected OUTWARD, normal wrist and elbow. Thus two hands and plate meet IN THE GAP BETWEEN THEIR TORSOS at waist level, not at shoulder. Remove existing plate from Lance's wrist/Plus's upper-arm region completely. Lance's left palm supports plate, visible fingers naturally around its lower edge, Plus's right fingers brush face of plate; no hand touching shoulder, no shield strapped on wrist. Their free hands remain by their sides. Exactly two arms/hands each, correct normal anatomy. Keep small shoulder and right hand dressings on Lance, covered healthy Plus. No other changes, no text.",
+    "references": [
+      "assets/cg/episode13-road-block-proportions-v3.webp"
+    ],
+    "generator": "built-in image_gen",
+    "review": "anatomy, height, root clearance, night lighting and original prose timing; 2026-10-26"
   }
 ]

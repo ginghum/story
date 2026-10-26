@@ -229,7 +229,8 @@ PLANS[13]=[
  (scene('保健委員会／もう戦わないで','corridor',['プラス','ランス','ゆきめろ']),[
   cue('手帳をポケットへ押し込み、廊下を歩き出す。',cast=T,cg=None)]),
  (scene('学園／夕方の帰り道','campus',T,tone='evening'),[
-  cue('ランスの左手が、プラスの腕へ伸びた。',cg='episode13-road-block-r2'),
+  cue('胸元を掴む前に、ランスの掌から小さな金属板が生まれた。',cg='episode13-hand-deflection-v4'),
+  cue('プラスは、靴で土を削って止まった。',cg=None),
   cue('ユージが、間へ入った。',cg=None),
   cue('最後に、寮の方へ足を向けた。',cg='episode13-c')]),
  (scene('学園／寮までの長い道','campus',T,cg='episode13-c'),[
@@ -260,13 +261,13 @@ PLANS[14]=[
   cue('コンケは、練習場の柵へ寄りかかっていた。',cast=['プラス','ランス','コンケ']),
   cue('ユージは、二人を中央へ呼んだ。',cast=T),
   cue('ユージは、二人から離れた。',cast=D)]),
- (scene('能力練習場／いつもより速い槍','training-night',D,cg='episode14-spar-night-r2'),[]),
- (scene('能力練習場／軽くしても残る形','training-night',D,cg='episode14-spar-night-r2'),[]),
- (scene('能力練習場／身体を軽くする','training-night',D,cg='episode14-spar-night-r2'),[
-  cue('足が、床から離れた。',cg='episode14-light-evasion-hair-v3'),
-  cue('右手に、今度は長い槍が作られた。',cg='episode14-spar-night-r2')]),
+ (scene('能力練習場／いつもより速い槍','training-night',D,cg='episode14-spar-proportions-v3'),[]),
+ (scene('能力練習場／軽くしても残る形','training-night',D,cg='episode14-spar-proportions-v3'),[]),
+ (scene('能力練習場／身体を軽くする','training-night',D,cg='episode14-spar-proportions-v3'),[
+  cue('足が、床から離れた。',cg='episode14-light-evasion-proportions-v4'),
+  cue('右手に、今度は長い槍が作られた。',cg='episode14-spar-proportions-v3')]),
  (scene('能力練習場／見届ける四人','training-night',['ユージ','ゆきめろ','コバル','コンケ']),[]),
- (scene('能力練習場／もう一手、その先へ','training-night',D,cg='episode14-spar-night-r2'),[
+ (scene('能力練習場／もう一手、その先へ','training-night',D,cg='episode14-spar-proportions-v3'),[
   cue('プラスは落とす方向へ腕を回し、背中を床へ押さえた。',cg='episode14-ground-control-r2'),
   cue('プラスは、すぐに手を離した。',cg=None,cast=T)]),
  (scene('能力練習場／今夜は話せなくても','training-night',T),[
@@ -275,7 +276,7 @@ PLANS[14]=[
  (scene('校舎／昨日の続きが話したい','classroom',T),[
   cue('サークル活動が終わったあと、六人は昨日の練習場に集まった。',location='能力練習場／役に立たなくても帰る部屋',bg='training-night',cast=T,cut=True)]),
  (scene('能力練習場／一個ずつ話す','training-night',['プラス','ランス','ゆきめろ','コバル','ユージ','コンケ']),[
-  cue('ゆきめろは、しゃがんだ。',cg='episode14-talk-night')]),
+  cue('ゆきめろは、しゃがんだ。',cg='episode14-talk-kobal-v3')]),
  (scene('学園／まだ痛くても一緒に歩く','campus-night',T),[]),
  (scene('オタクサークル／同じ机で違う感想','clubroom',['ランス','ゆきめろ','コバル']),[]),
  (scene('学生寮／同じ部屋の明かり','dorm-night',T),[

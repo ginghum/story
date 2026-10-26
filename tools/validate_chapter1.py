@@ -115,3 +115,15 @@ if any(m['id']=='chapter1-episode21' for m in manifest):
  assert all(not e['cast'] and e.get('cg')=='assets/cg/episode21-b.webp' for e in e21 if e['scene']==13)
  assert e21[-1]['raw']=='第一章　完'
  print('PASS: finale healing, past/current separation, invisibility, fist impact/exit, gurney attendance, dream and chapter ending.')
+
+if any(m['id']=='chapter1-episode21' for m in manifest):
+ e13,e18,e19=[episode(n) for n in [13,18,19]]
+ metal=next(i for i,e in enumerate(e13) if e.get('raw')=='胸元を掴む前に、ランスの掌から小さな金属板が生まれた。')
+ stop=next(i for i,e in enumerate(e13) if e.get('raw')=='プラスは、靴で土を削って止まった。')
+ assert all((e.get('cg')=='assets/cg/episode13-hand-deflection-v4.webp')==(metal<=i<stop) for i,e in enumerate(e13))
+ night=next(i for i,e in enumerate(e18) if e.get('raw')=='練習場の明かりがつく。')
+ assert all(e.get('cg')!='assets/cg/episode18-training-clear-lane-v3.webp' for e in e18[night:])
+ fall=next(i for i,e in enumerate(e19) if e.get('raw')=='床へ、背中が落ちた。')
+ stand=next(i for i,e in enumerate(e19) if i>fall and e.get('raw')=='立った。')
+ assert all(not e.get('cg') and not e['cast'] for e in e19[fall:stand])
+ print('PASS: corrected metal-plate timing, nighttime CG, wrist-control landing and portrait restoration.')

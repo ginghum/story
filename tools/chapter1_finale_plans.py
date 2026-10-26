@@ -22,15 +22,15 @@ PLANS={
  (scene('寮裏の練習場／冷気と高温','training',Y),[
   cue('オジョーが、片手を上げた。',cast=Y)]),
  (scene('寮裏の練習場／十五秒の耐久訓練','training',Y),[
-  cue('小さな弾が、来た。',cg='episode18-b'),
+  cue('小さな弾が、来た。',cg='episode18-training-clear-lane-v3'),
   cue('ユージ「止め！　二秒、ちょっと！」',cg=None,cast=['プラス','ユージ','オジョー'],expressions={'plus_training_hurt':True}),
   cue('ヤオイが、そばへ来た。',cast=['プラス','ヤオイ','ランス']),
-  cue('次は、四秒だった。',cg='episode18-b',cast=Y),
+  cue('次は、四秒だった。',cg='episode18-training-clear-lane-v3',cast=Y),
   cue('ユージ「止め！　五秒！」',cg=None,cast=['プラス','ユージ','ランス']),
-  cue('弾が、左の床で弾けた。',cg='episode18-b'),
+  cue('弾が、左の床で弾けた。',cg='episode18-training-clear-lane-v3'),
   cue('ヤオイは、根で栄養を渡し、休む時間を取らせた。',cg=None,cast=Y),
   cue('練習場の明かりがつく。',bg='training-night',tone='night'),
-  cue('弾が並ぶ。',cg='episode18-b'),
+  cue('弾が並ぶ。',cg='episode18-training-night-v3'),
   cue('弾幕が止まった。',cg=None,cast=T),
   cue('ヤオイの根が、プラスの背中を支える。',cast=['プラス','ヤオイ','オジョー'])]),
  (scene('寮裏の練習場／治して明日へ','training-night',Y,tone='night'),[
@@ -61,8 +61,8 @@ PLANS={
   cue('プラスは、返事をする前に動いた。',cg='episode19-heat-evasion')]),
  (scene('闘技場／客席まで届く熱','arena',STUDY),[]),
  (scene('闘技場／腕を取られた先','arena-floor',PX,cg='episode19-heat-evasion'),[
-  cue('手首を、横から取られた。',cg='episode19-counter-throw-r2'),
-  cue('Xの足が、近くへ来る。',cg=None),
+  cue('手首を、横から取られた。',cg='episode19-wrist-control-anatomy-v4'),
+  cue('床へ、背中が落ちた。',cg=None,cast=[]),
   cue('立った。',cg=None,cast=PX),
   cue('それを放つ瞬間だけが、遠くなった。',cg=None,cast=['X'])]),
  (scene('回想／Xの入学と勉強サークル','library',['X','ルサイ'],cg='episode19-b'),[]),
