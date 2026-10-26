@@ -17,3 +17,5 @@
 再生成: `python tools/compile_chapter1.py`（全話）、`python tools/compile_continuation.py 11`（続話）。戦闘・SE演出は `tools/enhance_battles_audio.py` で再適用されます。SEの再生成は `python tools/generate_sfx.py`。
 
 検証: `python tools/validate_chapter1.py`、`node tools/test_chapter_runtime.cjs`、`node tools/test_sound.cjs`。
+
+SEは全12エピソードの205か所へ配置。21種類の選択試聴が可能です。`data/se-cues.json` は原文で確認した動作の指定、`data/se-review.json` は実際の表示行との対応です。`python tools/annotate_sfx.py` で再配置、`python tools/validate_sfx.py` で全話・WAVを検証できます。文字送りごとの音や常時ループはありません。

@@ -5122,7 +5122,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -9253,7 +9254,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -9757,7 +9759,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "water"
     },
     {
       "type": "line",
@@ -12842,7 +12845,8 @@
           "height": 184,
           "expression": "pain"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -13071,7 +13075,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -13631,7 +13636,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -15771,7 +15777,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -19465,7 +19472,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -21071,7 +21079,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "se": "run"
     },
     {
       "type": "line",
@@ -23803,7 +23812,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",

@@ -7,10 +7,10 @@ const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/st
  const sandbox={window,document,Map,Set,fetch:async()=>({ok:true,arrayBuffer:async()=>new ArrayBuffer(1)})};vm.runInNewContext(fs.readFileSync('sound.js','utf8'),sandbox);
  const api=window.storySfx,config={seEnabled:true,seVolume:.5};
  assert.equal(api.play('hit',config),false,'no playback before user gesture');
- assert.equal(await api.preview('hit',config),true);assert.equal(decode,8);assert.equal(gain.gain.value,.325);
+ assert.equal(await api.preview('hit',config),true);assert.equal(decode,21);assert.equal(gain.gain.value,.325);
  for(let i=0;i<8;i++)api.play('heavy',config);assert.equal(started,9);assert.equal(stopped,5,'four voice cap');
  api.volume({...config,seEnabled:false});assert.equal(stopped,9);assert.equal(gain.gain.value,0);
  assert.equal(api.play('hit',{...config,seEnabled:false}),false);assert.equal(api.play('hit',{...config,seVolume:0}),false);
  document.hidden=true;assert.equal(api.play('hit',config),false);handlers.visibilitychange();
- console.log('PASS: gesture gate, eight cached buffers, volume, mute, four-voice cap, hidden-page suppression.');
+ console.log('PASS: gesture gate, 21 cached buffers, volume, mute, four-voice cap, hidden-page suppression.');
 })();

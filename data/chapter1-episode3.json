@@ -554,7 +554,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -1404,7 +1405,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -3784,7 +3786,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -3954,7 +3957,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "location",
@@ -4552,7 +4556,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -7904,7 +7909,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -8380,7 +8386,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -8890,7 +8897,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "water"
     },
     {
       "type": "line",
@@ -11853,7 +11861,8 @@
           "height": 169,
           "expression": "annoyed"
         }
-      ]
+      ],
+      "se": "whoosh"
     },
     {
       "type": "line",
@@ -19129,7 +19138,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -19163,7 +19173,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -20503,7 +20514,8 @@
       "tone": "dream",
       "cg": "assets/cg/episode03-b.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -20638,7 +20650,8 @@
       "tone": "dream",
       "cg": "assets/cg/episode03-b.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "tableware"
     },
     {
       "type": "line",

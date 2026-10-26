@@ -1,0 +1,694 @@
+{
+  "description": "本文の実動作・音描写を確認したSE指定。回想内の実動作は含むが、想起・仮定・比喩には付けない。",
+  "episodes": {
+    "prologue": [
+      {
+        "match": "波を越えるたびに船首が持ち上がり",
+        "sound": "water"
+      },
+      {
+        "match": "船の前方で短い電子音が鳴った。",
+        "sound": "ui"
+      },
+      {
+        "match": "廊下に始業を告げる鐘が響いた。",
+        "sound": "bell"
+      },
+      {
+        "match": "ユージが駆け出す。",
+        "sound": "run"
+      },
+      {
+        "match": "昼の鐘が鳴る頃には",
+        "sound": "bell"
+      },
+      {
+        "match": "食器の触れ合う音が天井に反響し",
+        "sound": "tableware"
+      },
+      {
+        "match": "食器の音とは違う、乾いた音がした。",
+        "sound": "hit"
+      },
+      {
+        "match": "大きな音がして、男が倒れた。",
+        "sound": "heavy"
+      },
+      {
+        "match": "背中にぶつかった椅子が跳ね",
+        "sound": "heavy"
+      },
+      {
+        "match": "渡された手帳を開き",
+        "sound": "rustle"
+      },
+      {
+        "match": "通路の奥から、歓声が押し寄せてくる。",
+        "sound": "crowd"
+      },
+      {
+        "match": "競技面の端に立った生徒が、手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは自分の手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "競技面で、決着を知らせる音が鳴った。",
+        "sound": "chime"
+      },
+      {
+        "match": "入口の扉は閉じる時にぎい、と鳴った。",
+        "sound": "door-close"
+      },
+      {
+        "match": "扉が開いた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "プラスが拍手した。",
+        "sound": "crowd"
+      },
+      {
+        "match": "空中のボールが横へ跳ねた。",
+        "sound": "hit"
+      },
+      {
+        "match": "槍が走った。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "地面に、どす、と鈍い音を立てて収まる。",
+        "sound": "heavy"
+      },
+      {
+        "match": "プラスは慌てて手帳を閉じた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "下で、布団が擦れる音がした。",
+        "sound": "cloth"
+      },
+      {
+        "match": "壁を軽く叩く音がした。",
+        "sound": "knock"
+      },
+      {
+        "match": "床のきしむ音がひとつ。",
+        "sound": "steps"
+      },
+      {
+        "match": "布団を引き上げる音がふたつ。",
+        "sound": "cloth"
+      }
+    ],
+    "chapter1-episode1": [
+      {
+        "match": "がん、と音がした。",
+        "sound": "hit"
+      },
+      {
+        "match": "プラスが洗ったコップを並べる。",
+        "sound": "tableware"
+      },
+      {
+        "match": "昨日と同じ階段を駆け上がる。",
+        "sound": "run"
+      },
+      {
+        "match": "直後に、始業を知らせる音が鳴った。",
+        "sound": "bell"
+      },
+      {
+        "match": "前の扉が開く。",
+        "sound": "door-open"
+      },
+      {
+        "match": "先生が机の間を歩いた。",
+        "sound": "steps"
+      },
+      {
+        "match": "休み時間、ユージが紙を裏返した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "机へ紙を置くと",
+        "sound": "rustle"
+      },
+      {
+        "match": "ランスが空いた椅子を足で引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "ランスは小皿をずらした。",
+        "sound": "tableware"
+      },
+      {
+        "match": "三人で食器を返した。",
+        "sound": "tableware"
+      },
+      {
+        "match": "プラスは、なるほど、と紙を畳んだ。",
+        "sound": "rustle"
+      },
+      {
+        "match": "知らない午後へ、一歩踏み出した。",
+        "sound": "steps"
+      }
+    ],
+    "chapter1-episode2": [
+      {
+        "match": "床を踏む音が小さかった。",
+        "sound": "steps"
+      },
+      {
+        "match": "小さく靴底の擦れる音がして",
+        "sound": "steps"
+      },
+      {
+        "match": "ルサイは机の端へ、薄い紙を置いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "近くで、ツクリが椅子を引いてくれる。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは頁を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ドーマは頁をめくった。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ルサイが小皿を机の端に置いた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "午後の学園へ歩き出した。",
+        "sound": "steps"
+      },
+      {
+        "match": "プラスは、紙を折る向きを変えた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "扉の中で、椅子が動いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "扉を開けると、ユージがいた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "プラスは、新聞を机へ置いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "廊下を歩く足音が、扉の前を通り過ぎた。",
+        "sound": "steps"
+      }
+    ],
+    "chapter1-episode3": [
+      {
+        "match": "プラスは、机へ椅子を寄せた。",
+        "sound": "chair"
+      },
+      {
+        "match": "ユージはプラスの皿へ、汁と具を入れた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "ランスはそれをプラスへ返し、食器を流しへ運んだ。",
+        "sound": "tableware"
+      },
+      {
+        "match": "プラスはカップを、元の場所へ戻した。",
+        "sound": "tableware"
+      },
+      {
+        "match": "三人で扉を出る。",
+        "sound": "steps"
+      },
+      {
+        "match": "コンケは、少し離れたところで手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "地面に、濁った滴が落ちる。",
+        "sound": "water"
+      },
+      {
+        "match": "滴が、顔の前へ飛んだ。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "扉は、昨日と同じように鳴った。",
+        "sound": "door-open"
+      },
+      {
+        "match": "階段では、ランスが先を歩いた。",
+        "sound": "steps"
+      },
+      {
+        "match": "氷が、内側へ崩れる音がした。",
+        "sound": "tableware"
+      },
+      {
+        "match": "新しいものが机へ置かれた。",
+        "sound": "tableware"
+      }
+    ],
+    "chapter1-episode4": [
+      {
+        "match": "床のきしむ音がする。",
+        "sound": "steps"
+      },
+      {
+        "match": "封筒に紙を入れる。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ランスが手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "掌に金属が現れ、細く長く伸びる。",
+        "sound": "metal"
+      },
+      {
+        "match": "教室の中で、椅子が動く。",
+        "sound": "chair"
+      },
+      {
+        "match": "紙を揃える音が漏れていた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "扉が開いた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ユーヒは、笑いながら椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "チックは手元の紙を揃えた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "バルーが扉を閉めて戻ってきた。",
+        "sound": "door-close"
+      },
+      {
+        "match": "紙を机へ置く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "チックが、椅子を少し近づけた。",
+        "sound": "chair"
+      },
+      {
+        "match": "まだ何も書いていない紙を一枚置いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ダイが、机の端の紙を揃えた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは小さく手を上げ、扉を閉めた。",
+        "sound": "door-close"
+      }
+    ],
+    "chapter1-episode5": [
+      {
+        "match": "道順の紙を、封筒へ戻した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "中へ入ると、遠くから歓声がした。",
+        "sound": "crowd"
+      },
+      {
+        "match": "床を踏む音が、建物の中で重なる。",
+        "sound": "steps"
+      },
+      {
+        "match": "歓声が上がる。",
+        "sound": "crowd"
+      },
+      {
+        "match": "プラスは手帳を開いた。",
+        "sound": "rustle",
+        "occurrences": 2
+      },
+      {
+        "match": "ダイは手帳を開き、準備に使える時間をサニーへ確認した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "足音は、横でした。",
+        "sound": "steps"
+      },
+      {
+        "match": "足音が、普通に聞こえた。",
+        "sound": "steps"
+      },
+      {
+        "match": "ダイは、ゆっくり歩いた。",
+        "sound": "steps"
+      },
+      {
+        "match": "拍手がした。",
+        "sound": "crowd"
+      },
+      {
+        "match": "プラスは手帳を開く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ダイは自然に頭を下げ、通路の先へ歩いた。",
+        "sound": "steps"
+      },
+      {
+        "match": "遠くから、歓声がした。",
+        "sound": "crowd"
+      },
+      {
+        "match": "拍手と歓声が上がった。",
+        "sound": "crowd"
+      }
+    ],
+    "chapter1-episode6": [
+      {
+        "match": "頭の上では、まだ歓声が鳴っている。",
+        "sound": "crowd"
+      },
+      {
+        "match": "白い仕切りの向こうから、器具を片づける音がする。",
+        "sound": "tableware"
+      },
+      {
+        "match": "扉が勢いよく開いた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "プラスは今度こそ椅子に座った。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは椅子を引き寄せた。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは用意されていた水を取り、手の届くところへ置いた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "ランスは歩き出した。",
+        "sound": "steps"
+      },
+      {
+        "match": "その手の中に、金属の短い棒が生まれた。",
+        "sound": "metal"
+      }
+    ],
+    "chapter1-episode7": [
+      {
+        "match": "プラスは椅子に座った。",
+        "sound": "chair"
+      },
+      {
+        "match": "ランスが金属を生み出す。",
+        "sound": "metal"
+      },
+      {
+        "match": "剣が床へ落ちた。",
+        "sound": "metal"
+      },
+      {
+        "match": "布が裂ける、小さな音がした。",
+        "sound": "cloth"
+      },
+      {
+        "match": "前腕を打たれ、熱い痛みが走った。",
+        "sound": "whip"
+      },
+      {
+        "match": "鞭が空振りする。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "三人で歩き出す。",
+        "sound": "steps"
+      }
+    ],
+    "chapter1-episode8": [
+      {
+        "match": "二人の足音が、少しずつ速くなる。",
+        "sound": "steps"
+      },
+      {
+        "match": "二人で、少しだけ走った。",
+        "sound": "run"
+      },
+      {
+        "match": "プラスは扉をたたいた。",
+        "sound": "knock"
+      },
+      {
+        "match": "モルペウスは隣で、別の紙を揃えている。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ユーヒが椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "モルペウスが、プラスの前の水を少し寄せた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "インタビューが終わると、ユーヒが紙をまとめた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは、礼を言って扉を閉めた。",
+        "sound": "door-close"
+      },
+      {
+        "match": "ユージは先に歩き出した。",
+        "sound": "steps"
+      },
+      {
+        "match": "近くの教室から、椅子を引く音がした。",
+        "sound": "chair"
+      },
+      {
+        "match": "すれ違った生徒の足音を確かめていた。",
+        "sound": "steps"
+      },
+      {
+        "match": "コンケは、扉を開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "扉が閉まった。",
+        "sound": "door-close"
+      }
+    ],
+    "chapter1-episode9": [
+      {
+        "match": "コンケは扉を開け、少し頭を下げて中へ入った。",
+        "sound": "door-open"
+      },
+      {
+        "match": "背中が壁へ当たった。",
+        "sound": "heavy"
+      },
+      {
+        "match": "短い音がして、相手の膝が落ちた。",
+        "sound": "hit"
+      },
+      {
+        "match": "コンケは殴った。",
+        "sound": "hit"
+      },
+      {
+        "match": "もう一度殴る。",
+        "sound": "hit"
+      },
+      {
+        "match": "別の教室の扉も開く。",
+        "sound": "door-open"
+      },
+      {
+        "match": "お湯を注ぐ音がした。",
+        "sound": "water"
+      },
+      {
+        "match": "プラスの前へ、青い液体の入ったカップが置かれた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "オーガは、カップを置いた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "何かが倒れ、壁へ当たる。",
+        "sound": "heavy"
+      },
+      {
+        "match": "持っていたものが床へ落ちる。",
+        "sound": "metal"
+      },
+      {
+        "match": "身体へ蹴りが入り、廊下の壁へよろめいた。",
+        "sound": "hit"
+      },
+      {
+        "match": "入口の椅子が、足に押されて倒れた。",
+        "sound": "heavy"
+      },
+      {
+        "match": "そのとき、廊下で大きな音がした。",
+        "sound": "heavy"
+      },
+      {
+        "match": "扉が鳴った。",
+        "sound": "knock"
+      },
+      {
+        "match": "扉が開いた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "椅子が、少し鳴った。",
+        "sound": "chair"
+      }
+    ],
+    "chapter1-episode10": [
+      {
+        "match": "拳の先で、細い金属の縁が鳴った。",
+        "sound": "metal"
+      },
+      {
+        "match": "椅子が、鳴った。",
+        "sound": "chair"
+      },
+      {
+        "match": "布へ水を含ませ、プラスの前へ置いた。",
+        "sound": "water"
+      },
+      {
+        "match": "少しだけ足をずらし、扉を開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "棒が、床へ落ちる。",
+        "sound": "metal"
+      },
+      {
+        "match": "部長室の扉が、大きく開いた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ヒカルは、廊下を歩き出した。",
+        "sound": "steps"
+      },
+      {
+        "match": "ヒカルの靴音が、遠ざかった。",
+        "sound": "steps"
+      },
+      {
+        "match": "生徒は鞄を持ち直し、走り出した。",
+        "sound": "run"
+      },
+      {
+        "match": "頁が、静かに鳴った。",
+        "sound": "rustle"
+      }
+    ],
+    "chapter1-episode11": [
+      {
+        "match": "プラスは、笑いながら梯子を降りた。",
+        "sound": "steps"
+      },
+      {
+        "match": "ランスが、先に扉を開ける。",
+        "sound": "door-open"
+      },
+      {
+        "match": "地面へ小さな金属片を三つ置いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "表紙を開く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ランスは表紙を閉じる。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ランスが、細い金属の輪を作った。",
+        "sound": "metal"
+      },
+      {
+        "match": "ユージが、紙を畳んだ。",
+        "sound": "rustle"
+      },
+      {
+        "match": "代わりに、教材を一枚捲る。",
+        "sound": "rustle"
+      },
+      {
+        "match": "少し後ろで、教材が捲られた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "プラスは、椅子を戻した。",
+        "sound": "chair"
+      },
+      {
+        "match": "端の椅子を少し引いて座った。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは、匙を入れた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "コンケが、椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは、自分の手帳を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "購買の方へ歩き出した。",
+        "sound": "steps"
+      },
+      {
+        "match": "ランスも椅子を取り、足りない列へ並べる。",
+        "sound": "chair"
+      },
+      {
+        "match": "コバルが感想会の机へ紙を広げる。",
+        "sound": "rustle"
+      },
+      {
+        "match": "コバルも一つ持ってきた。",
+        "sound": "chair"
+      }
+    ]
+  }
+}

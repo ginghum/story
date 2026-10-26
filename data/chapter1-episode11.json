@@ -452,7 +452,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -1846,7 +1847,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -2554,7 +2556,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -3702,7 +3705,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -4038,7 +4042,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -5168,7 +5173,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -9694,7 +9700,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -11162,7 +11169,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -12214,7 +12222,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -13546,7 +13555,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -14824,7 +14834,8 @@
           "height": 178,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -14926,7 +14937,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -17422,7 +17434,8 @@
       "tone": "",
       "cg": "assets/cg/episode11-e-blue-soup.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -18005,7 +18018,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -18413,7 +18427,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -18623,7 +18638,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -19359,7 +19375,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -21018,7 +21035,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",

@@ -180,7 +180,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -1978,7 +1979,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -3011,7 +3013,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -4930,7 +4933,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -5014,7 +5018,8 @@
           "height": 182,
           "expression": "brown"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -7935,7 +7940,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -9568,7 +9574,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "water"
     },
     {
       "type": "line",
@@ -9673,7 +9680,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -10093,7 +10101,8 @@
       "tone": "",
       "cg": "assets/cg/episode09-a.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -12205,7 +12214,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -12375,7 +12385,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -12443,7 +12454,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -15381,7 +15393,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -16493,7 +16506,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -17190,7 +17204,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "se": "knock"
     },
     {
       "type": "line",
@@ -17442,7 +17457,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -19380,7 +19396,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",

@@ -1,0 +1,1258 @@
+{
+  "episodes": {
+    "prologue": [
+      {
+        "entry": 2,
+        "scene": 1,
+        "sound": "water",
+        "text": "波を越えるたびに船首が持ち上がり、遅れて船底が水面を叩く。白い飛沫が窓を濡らし、乾きかけた塩の跡に新しい筋を重ねていった。"
+      },
+      {
+        "entry": 25,
+        "scene": 1,
+        "sound": "ui",
+        "text": "船の前方で短い電子音が鳴った。"
+      },
+      {
+        "entry": 103,
+        "scene": 2,
+        "sound": "bell",
+        "text": "ちょうどその時、廊下に始業を告げる鐘が響いた。"
+      },
+      {
+        "entry": 105,
+        "scene": 2,
+        "sound": "run",
+        "text": "ユージが駆け出す。"
+      },
+      {
+        "entry": 124,
+        "scene": 3,
+        "sound": "bell",
+        "text": "昼の鐘が鳴る頃には、プラスのノートは文字と図で埋まっていた。先生の言葉を聞きながら取ったはずなのに、自分でも首をかしげる線がある。その余白に、プラスは小さく『ユージ』と書いた。"
+      },
+      {
+        "entry": 134,
+        "scene": 4,
+        "sound": "tableware",
+        "text": "入口を抜けると、熱い油と焼いた肉の匂いが流れてきた。食器の触れ合う音が天井に反響し、あちこちの席から、笑い声や友達を呼ぶ声が重なる。"
+      },
+      {
+        "entry": 143,
+        "scene": 4,
+        "sound": "hit",
+        "text": "食器の音とは違う、乾いた音がした。"
+      },
+      {
+        "entry": 190,
+        "scene": 4,
+        "sound": "heavy",
+        "text": "大きな音がして、男が倒れた。"
+      },
+      {
+        "entry": 206,
+        "scene": 4,
+        "sound": "heavy",
+        "text": "背中にぶつかった椅子が跳ね、床から足が離れる。周囲の景色が横へ滑り、壁が、思っていたよりずっと早く迫ってきた。"
+      },
+      {
+        "entry": 249,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "渡された手帳を開き、その名前を見た時だけ、青年の目がわずかに細くなった。"
+      },
+      {
+        "entry": 348,
+        "scene": 6,
+        "sound": "crowd",
+        "text": "通路の奥から、歓声が押し寄せてくる。階段を上り、最後の角を曲がったところで、視界が一気に開けた。"
+      },
+      {
+        "entry": 352,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "競技面の端に立った生徒が、手帳を開いた。"
+      },
+      {
+        "entry": 392,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "プラスは自分の手帳を開いた。"
+      },
+      {
+        "entry": 429,
+        "scene": 6,
+        "sound": "chime",
+        "text": "競技面で、決着を知らせる音が鳴った。表示板の星が、ひとつの名前から別の名前へ移る。歓声が上がり、同じだけ落胆の声も上がった。プラスはそれを見上げてから、ふと、手帳を閉じたヤオイへ視線を戻した。"
+      },
+      {
+        "entry": 453,
+        "scene": 7,
+        "sound": "door-close",
+        "text": "期待するなと言われても、プラスには比べる部屋がなかった。ユージが案内した寮は、校舎の並びから少し離れた場所にあった。壁の塗装は雨筋に沿って色が薄くなり、入口の扉は閉じる時にぎい、と鳴った。"
+      },
+      {
+        "entry": 463,
+        "scene": 7,
+        "sound": "door-open",
+        "text": "扉が開いた。"
+      },
+      {
+        "entry": 534,
+        "scene": 8,
+        "sound": "hit",
+        "text": "それでも、空中のボールが横へ跳ねた。ぼん、という音を残し、離れた的に当たって落ちる。"
+      },
+      {
+        "entry": 536,
+        "scene": 8,
+        "sound": "crowd",
+        "text": "プラスが拍手した。"
+      },
+      {
+        "entry": 565,
+        "scene": 8,
+        "sound": "whoosh",
+        "text": "槍が走った。"
+      },
+      {
+        "entry": 617,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "地面に、どす、と鈍い音を立てて収まる。"
+      },
+      {
+        "entry": 626,
+        "scene": 8,
+        "sound": "rustle",
+        "text": "プラスは慌てて手帳を閉じた。"
+      },
+      {
+        "entry": 637,
+        "scene": 8,
+        "sound": "rustle",
+        "text": "ボールを戻してから、プラスは手帳を閉じた。"
+      },
+      {
+        "entry": 713,
+        "scene": 9,
+        "sound": "cloth",
+        "text": "下で、布団が擦れる音がした。"
+      },
+      {
+        "entry": 768,
+        "scene": 9,
+        "sound": "knock",
+        "text": "隣の部屋から、壁を軽く叩く音がした。"
+      },
+      {
+        "entry": 801,
+        "scene": 9,
+        "sound": "steps",
+        "text": "床のきしむ音がひとつ。"
+      },
+      {
+        "entry": 802,
+        "scene": 9,
+        "sound": "cloth",
+        "text": "布団を引き上げる音がふたつ。"
+      }
+    ],
+    "chapter1-episode1": [
+      {
+        "entry": 4,
+        "scene": 1,
+        "sound": "hit",
+        "text": "がん、と音がした。"
+      },
+      {
+        "entry": 39,
+        "scene": 2,
+        "sound": "tableware",
+        "text": "朝の台所は、三人で入るには狭かった。ユージがパンを出し、ランスが湯を沸かし、プラスが洗ったコップを並べる。誰かが一歩動くたび、別の誰かが横を向いた。昨日は気にならなかった床の冷たさが、靴下越しに足へ伝わる。"
+      },
+      {
+        "entry": 113,
+        "scene": 3,
+        "sound": "run",
+        "text": "昨日と同じ階段を駆け上がる。"
+      },
+      {
+        "entry": 116,
+        "scene": 3,
+        "sound": "bell",
+        "text": "直後に、始業を知らせる音が鳴った。"
+      },
+      {
+        "entry": 154,
+        "scene": 3,
+        "sound": "door-open",
+        "text": "前の扉が開く。"
+      },
+      {
+        "entry": 164,
+        "scene": 4,
+        "sound": "steps",
+        "text": "先生が机の間を歩いた。"
+      },
+      {
+        "entry": 190,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "休み時間、ユージが紙を裏返した。"
+      },
+      {
+        "entry": 216,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "机へ紙を置くと、紫がかった銀髪の少女が、ほっと肩を下ろした。"
+      },
+      {
+        "entry": 271,
+        "scene": 6,
+        "sound": "chair",
+        "text": "席へ戻ると、ランスが空いた椅子を足で引いた。"
+      },
+      {
+        "entry": 290,
+        "scene": 6,
+        "sound": "tableware",
+        "text": "プラスがそちらを気にしていると、ランスは小皿をずらした。"
+      },
+      {
+        "entry": 311,
+        "scene": 6,
+        "sound": "tableware",
+        "text": "昼休みが終わる前に、三人で食器を返した。返却口では、違う店の皿が同じ台へ流れていく。並んだ皿の中に、自分たちが選ばなかった料理の残りがあった。明日はあれも食べたい、とプラスは思った。"
+      },
+      {
+        "entry": 357,
+        "scene": 7,
+        "sound": "rustle",
+        "text": "プラスは、なるほど、と紙を畳んだ。"
+      },
+      {
+        "entry": 370,
+        "scene": 7,
+        "sound": "steps",
+        "text": "外の賑やかさが、一枚の扉の向こうで薄くなる。プラスは手帳を確かめ、知らない午後へ、一歩踏み出した。"
+      }
+    ],
+    "chapter1-episode2": [
+      {
+        "entry": 3,
+        "scene": 1,
+        "sound": "steps",
+        "text": "床を踏む音が小さかった。"
+      },
+      {
+        "entry": 18,
+        "scene": 1,
+        "sound": "steps",
+        "text": "プラスが振り向くと、そこには書架の背表紙が並んでいた。人が立つだけの隙間はある。けれど、声の主が見当たらない。小さく靴底の擦れる音がして、同じ場所に白髪を後ろで結んだ眼鏡の青年がいた。片手を軽く上げている。"
+      },
+      {
+        "entry": 30,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "ルサイは机の端へ、薄い紙を置いた。"
+      },
+      {
+        "entry": 64,
+        "scene": 1,
+        "sound": "chair",
+        "text": "近くで、ツクリが椅子を引いてくれる。ドーマは既に座り、定規でまっすぐに線を引いていた。"
+      },
+      {
+        "entry": 75,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "プラスは頁を開いた。"
+      },
+      {
+        "entry": 92,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "ドーマは頁をめくった。"
+      },
+      {
+        "entry": 132,
+        "scene": 1,
+        "sound": "tableware",
+        "text": "しばらくすると、ルサイが小皿を机の端に置いた。"
+      },
+      {
+        "entry": 175,
+        "scene": 1,
+        "sound": "steps",
+        "text": "プラスは手帳を確かめ、午後の学園へ歩き出した。"
+      },
+      {
+        "entry": 220,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "プラスは、紙を折る向きを変えた。"
+      },
+      {
+        "entry": 382,
+        "scene": 4,
+        "sound": "chair",
+        "text": "扉の中で、椅子が動いた。"
+      },
+      {
+        "entry": 512,
+        "scene": 5,
+        "sound": "door-open",
+        "text": "扉を開けると、ユージがいた。"
+      },
+      {
+        "entry": 522,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "プラスは、新聞を机へ置いた。"
+      },
+      {
+        "entry": 524,
+        "scene": 5,
+        "sound": "steps",
+        "text": "小さな台所で、冷蔵庫の動く音がした。廊下を歩く足音が、扉の前を通り過ぎた。プラスは、空いた椅子へ腰を下ろした。"
+      }
+    ],
+    "chapter1-episode3": [
+      {
+        "entry": 16,
+        "scene": 1,
+        "sound": "chair",
+        "text": "プラスは、机へ椅子を寄せた。"
+      },
+      {
+        "entry": 41,
+        "scene": 1,
+        "sound": "tableware",
+        "text": "ユージはプラスの皿へ、汁と具を入れた。"
+      },
+      {
+        "entry": 111,
+        "scene": 1,
+        "sound": "tableware",
+        "text": "ユージは昼と同じように、まずしまえと言った。手紙を読み返しても、使い道を指定する文はない。送り主を示す名前もない。三人で封筒を見て、結局、答えは出なかった。ランスはそれをプラスへ返し、食器を流しへ運んだ。"
+      },
+      {
+        "entry": 116,
+        "scene": 1,
+        "sound": "tableware",
+        "text": "朝に見た針金の取っ手は、そのままだった。プラスはカップを、元の場所へ戻した。"
+      },
+      {
+        "entry": 135,
+        "scene": 2,
+        "sound": "steps",
+        "text": "三人で扉を出る。"
+      },
+      {
+        "entry": 235,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "コンケは、少し離れたところで手帳を開いた。"
+      },
+      {
+        "entry": 249,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "プラスは手帳を開いた。"
+      },
+      {
+        "entry": 264,
+        "scene": 4,
+        "sound": "water",
+        "text": "地面に、濁った滴が落ちる。"
+      },
+      {
+        "entry": 269,
+        "scene": 4,
+        "sound": "hit",
+        "text": "プラスは顔を引き、腕で受けた。"
+      },
+      {
+        "entry": 278,
+        "scene": 4,
+        "sound": "hit",
+        "text": "肩へ拳が当たった。"
+      },
+      {
+        "entry": 290,
+        "scene": 4,
+        "sound": "hit",
+        "text": "そこへ、反対の拳が短く入った。"
+      },
+      {
+        "entry": 331,
+        "scene": 5,
+        "sound": "whoosh",
+        "text": "拳だけが、届かなかった場所を通った。"
+      },
+      {
+        "entry": 333,
+        "scene": 5,
+        "sound": "hit",
+        "text": "横腹へ蹴りが入った。"
+      },
+      {
+        "entry": 351,
+        "scene": 5,
+        "sound": "whoosh",
+        "text": "滴が、顔の前へ飛んだ。"
+      },
+      {
+        "entry": 400,
+        "scene": 6,
+        "sound": "hit",
+        "text": "朝、曲がり角でランスに袖を引かれた時より、小さい動きだった。毒のついた手の外側へ、身体を寄せる。コンケの右拳が、プラスの脇へ当たった。"
+      },
+      {
+        "entry": 435,
+        "scene": 6,
+        "sound": "heavy",
+        "text": "鈍い音がした。"
+      },
+      {
+        "entry": 462,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "少し遅れて、表紙が閉じた。"
+      },
+      {
+        "entry": 463,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "プラスも、自分の手帳を閉じた。"
+      },
+      {
+        "entry": 567,
+        "scene": 8,
+        "sound": "door-open",
+        "text": "扉は、昨日と同じように鳴った。"
+      },
+      {
+        "entry": 568,
+        "scene": 8,
+        "sound": "steps",
+        "text": "階段では、ランスが先を歩いた。"
+      },
+      {
+        "entry": 620,
+        "scene": 10,
+        "sound": "tableware",
+        "text": "低い机の上には、飲み物のグラスが並んでいた。氷が、内側へ崩れる音がした。マイクの表面が、掌に少し冷たかった。"
+      },
+      {
+        "entry": 629,
+        "scene": 10,
+        "sound": "tableware",
+        "text": "誰かの歌に混ざり、誰かへマイクを渡し、戻ってきたマイクをまた受け取った。グラスの中身がなくなり、新しいものが机へ置かれた。明るかったはずの時間が、いつの間にか夜になっていた。"
+      }
+    ],
+    "chapter1-episode4": [
+      {
+        "entry": 17,
+        "scene": 1,
+        "sound": "steps",
+        "text": "床のきしむ音がする。"
+      },
+      {
+        "entry": 63,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "封筒に紙を入れる。"
+      },
+      {
+        "entry": 138,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "ランスが手帳を開いた。"
+      },
+      {
+        "entry": 139,
+        "scene": 2,
+        "sound": "metal",
+        "text": "掌に金属が現れ、細く長く伸びる。"
+      },
+      {
+        "entry": 197,
+        "scene": 3,
+        "sound": "chair",
+        "text": "教室の中で、椅子が動く。"
+      },
+      {
+        "entry": 294,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "扉の前には、夕陽新聞編集部、と書かれた表示があった。その下に、もっと小さく、新聞部の名がある。隙間から、人の話す声と、紙を揃える音が漏れていた。"
+      },
+      {
+        "entry": 296,
+        "scene": 5,
+        "sound": "door-open",
+        "text": "扉が開いた。"
+      },
+      {
+        "entry": 340,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "チックは手元の紙を揃えた。"
+      },
+      {
+        "entry": 357,
+        "scene": 5,
+        "sound": "chair",
+        "text": "ユーヒは、笑いながら椅子を引いた。"
+      },
+      {
+        "entry": 467,
+        "scene": 7,
+        "sound": "door-close",
+        "text": "バルーが扉を閉めて戻ってきた。"
+      },
+      {
+        "entry": 489,
+        "scene": 7,
+        "sound": "rustle",
+        "text": "紙を机へ置く。"
+      },
+      {
+        "entry": 497,
+        "scene": 7,
+        "sound": "chair",
+        "text": "チックが、椅子を少し近づけた。"
+      },
+      {
+        "entry": 512,
+        "scene": 7,
+        "sound": "rustle",
+        "text": "その隣へ、まだ何も書いていない紙を一枚置いた。"
+      },
+      {
+        "entry": 675,
+        "scene": 10,
+        "sound": "rustle",
+        "text": "ダイが、机の端の紙を揃えた。"
+      },
+      {
+        "entry": 691,
+        "scene": 11,
+        "sound": "door-close",
+        "text": "プラスは小さく手を上げ、扉を閉めた。"
+      }
+    ],
+    "chapter1-episode5": [
+      {
+        "entry": 42,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "道順の紙を、封筒へ戻した。"
+      },
+      {
+        "entry": 61,
+        "scene": 2,
+        "sound": "crowd",
+        "text": "中へ入ると、遠くから歓声がした。"
+      },
+      {
+        "entry": 64,
+        "scene": 2,
+        "sound": "steps",
+        "text": "床を踏む音が、建物の中で重なる。"
+      },
+      {
+        "entry": 84,
+        "scene": 2,
+        "sound": "crowd",
+        "text": "歓声が上がる。"
+      },
+      {
+        "entry": 173,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "プラスは手帳を開いた。"
+      },
+      {
+        "entry": 212,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "ダイは手帳を開き、準備に使える時間をサニーへ確認した。"
+      },
+      {
+        "entry": 235,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "プラスは手帳を開いた。"
+      },
+      {
+        "entry": 252,
+        "scene": 6,
+        "sound": "teleport",
+        "text": "ダイは、消えた。"
+      },
+      {
+        "entry": 254,
+        "scene": 6,
+        "sound": "steps",
+        "text": "足音は、横でした。"
+      },
+      {
+        "entry": 260,
+        "scene": 6,
+        "sound": "steps",
+        "text": "足音が、普通に聞こえた。"
+      },
+      {
+        "entry": 268,
+        "scene": 6,
+        "sound": "teleport",
+        "text": "届く前に、ダイが消えた。"
+      },
+      {
+        "entry": 269,
+        "scene": 6,
+        "sound": "whoosh",
+        "text": "プラスの拳は、空いた場所を通った。"
+      },
+      {
+        "entry": 273,
+        "scene": 6,
+        "sound": "hit",
+        "text": "背中の斜め後ろから、軽く肩を打たれた。"
+      },
+      {
+        "entry": 289,
+        "scene": 6,
+        "sound": "hit",
+        "text": "脇腹へ短い拳が当たる。"
+      },
+      {
+        "entry": 314,
+        "scene": 7,
+        "sound": "teleport",
+        "text": "ダイが消えた。"
+      },
+      {
+        "entry": 349,
+        "scene": 7,
+        "sound": "teleport",
+        "text": "消えた。"
+      },
+      {
+        "entry": 355,
+        "scene": 7,
+        "sound": "steps",
+        "text": "ダイは、ゆっくり歩いた。"
+      },
+      {
+        "entry": 377,
+        "scene": 8,
+        "sound": "teleport",
+        "text": "ダイが消えた。"
+      },
+      {
+        "entry": 418,
+        "scene": 8,
+        "sound": "chime",
+        "text": "「そこまで！　ダイさん、離れてください」"
+      },
+      {
+        "entry": 423,
+        "scene": 8,
+        "sound": "crowd",
+        "text": "拍手がした。"
+      },
+      {
+        "entry": 439,
+        "scene": 9,
+        "sound": "rustle",
+        "text": "プラスは手帳を開く。"
+      },
+      {
+        "entry": 463,
+        "scene": 9,
+        "sound": "rustle",
+        "text": "プラスは手帳を閉じた。"
+      },
+      {
+        "entry": 522,
+        "scene": 10,
+        "sound": "steps",
+        "text": "ダイは自然に頭を下げ、通路の先へ歩いた。"
+      },
+      {
+        "entry": 555,
+        "scene": 11,
+        "sound": "crowd",
+        "text": "遠くから、歓声がした。"
+      },
+      {
+        "entry": 592,
+        "scene": 11,
+        "sound": "whip",
+        "text": "鞭が、そこへ来た。"
+      },
+      {
+        "entry": 595,
+        "scene": 11,
+        "sound": "whip",
+        "text": "音がした。"
+      },
+      {
+        "entry": 604,
+        "scene": 11,
+        "sound": "whip",
+        "text": "もう一度、鞭が来た。"
+      },
+      {
+        "entry": 616,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "ユージが床へ落ちた。"
+      },
+      {
+        "entry": 636,
+        "scene": 11,
+        "sound": "crowd",
+        "text": "拍手と歓声が上がった。"
+      }
+    ],
+    "chapter1-episode6": [
+      {
+        "entry": 2,
+        "scene": 1,
+        "sound": "crowd",
+        "text": "頭の上では、まだ歓声が鳴っている。次の試合の組み合わせが読み上げられ、誰かの名前に大勢が応じる。その床一枚の下を、ユージを乗せた担架が進んでいた。"
+      },
+      {
+        "entry": 26,
+        "scene": 2,
+        "sound": "tableware",
+        "text": "保健室には、床を踏むたびにかすかに響く、乾いた静けさがあった。白い仕切りの向こうから、器具を片づける音がする。窓際には椅子が並び、廊下から来る生徒の声は、扉が閉まるたびに小さくなった。"
+      },
+      {
+        "entry": 29,
+        "scene": 2,
+        "sound": "door-open",
+        "text": "待っていると、扉が勢いよく開いた。"
+      },
+      {
+        "entry": 47,
+        "scene": 2,
+        "sound": "chair",
+        "text": "プラスは今度こそ椅子に座った。"
+      },
+      {
+        "entry": 87,
+        "scene": 3,
+        "sound": "chair",
+        "text": "プラスは椅子を引き寄せた。"
+      },
+      {
+        "entry": 387,
+        "scene": 6,
+        "sound": "tableware",
+        "text": "プラスは用意されていた水を取り、手の届くところへ置いた。ユージがそれを持つのを、二人で待った。ひと口飲むまでに、少し時間がかかった。"
+      },
+      {
+        "entry": 453,
+        "scene": 7,
+        "sound": "steps",
+        "text": "ランスは歩き出した。"
+      },
+      {
+        "entry": 532,
+        "scene": 9,
+        "sound": "metal",
+        "text": "その手の中に、金属の短い棒が生まれた。"
+      }
+    ],
+    "chapter1-episode7": [
+      {
+        "entry": 24,
+        "scene": 2,
+        "sound": "chair",
+        "text": "プラスは椅子に座った。"
+      },
+      {
+        "entry": 285,
+        "scene": 6,
+        "sound": "metal",
+        "text": "ランスが金属を生み出す。"
+      },
+      {
+        "entry": 389,
+        "scene": 7,
+        "sound": "metal",
+        "text": "剣が床へ落ちた。"
+      },
+      {
+        "entry": 390,
+        "scene": 7,
+        "sound": "heavy",
+        "text": "重い音が、客席まで響いた。"
+      },
+      {
+        "entry": 402,
+        "scene": 7,
+        "sound": "cloth",
+        "text": "布が裂ける、小さな音がした。"
+      },
+      {
+        "entry": 427,
+        "scene": 8,
+        "sound": "whip",
+        "text": "前腕を打たれ、熱い痛みが走った。"
+      },
+      {
+        "entry": 429,
+        "scene": 8,
+        "sound": "whip",
+        "text": "跳ばずに、小さく足を引いた。鞭が床を打つ。"
+      },
+      {
+        "entry": 467,
+        "scene": 9,
+        "sound": "whoosh",
+        "text": "鞭が空振りする。プラス自身も引きすぎて上体を揺らしたが、足を置き直した。"
+      },
+      {
+        "entry": 483,
+        "scene": 10,
+        "sound": "whip",
+        "text": "鞭に腕の横を打たれ、痛みで考えが途切れる。"
+      },
+      {
+        "entry": 539,
+        "scene": 11,
+        "sound": "hit",
+        "text": "拳が、ヒカルの胸の下へ入った。"
+      },
+      {
+        "entry": 540,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "音がした。"
+      },
+      {
+        "entry": 551,
+        "scene": 11,
+        "sound": "chime",
+        "text": "「止め！」"
+      },
+      {
+        "entry": 706,
+        "scene": 14,
+        "sound": "steps",
+        "text": "三人で歩き出す。"
+      }
+    ],
+    "chapter1-episode8": [
+      {
+        "entry": 51,
+        "scene": 2,
+        "sound": "steps",
+        "text": "二人の足音が、少しずつ速くなる。"
+      },
+      {
+        "entry": 58,
+        "scene": 2,
+        "sound": "run",
+        "text": "二人で、少しだけ走った。"
+      },
+      {
+        "entry": 188,
+        "scene": 5,
+        "sound": "knock",
+        "text": "プラスは扉をたたいた。"
+      },
+      {
+        "entry": 193,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "ユーヒはその原稿を覗き込み、何かを指していた。モルペウスは隣で、別の紙を揃えている。奥にはダイがいて、手元の記録を確認していた。バルーは机へ寄りかかり、二人の言い合いを楽しそうに聞いている。"
+      },
+      {
+        "entry": 218,
+        "scene": 5,
+        "sound": "chair",
+        "text": "ユーヒが椅子を引いた。"
+      },
+      {
+        "entry": 293,
+        "scene": 6,
+        "sound": "tableware",
+        "text": "モルペウスが、プラスの前の水を少し寄せた。"
+      },
+      {
+        "entry": 296,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "インタビューが終わると、ユーヒが紙をまとめた。"
+      },
+      {
+        "entry": 420,
+        "scene": 9,
+        "sound": "door-close",
+        "text": "プラスは、礼を言って扉を閉めた。"
+      },
+      {
+        "entry": 430,
+        "scene": 9,
+        "sound": "steps",
+        "text": "ユージは先に歩き出した。"
+      },
+      {
+        "entry": 596,
+        "scene": 12,
+        "sound": "chair",
+        "text": "近くの教室から、椅子を引く音がした。"
+      },
+      {
+        "entry": 632,
+        "scene": 13,
+        "sound": "steps",
+        "text": "ユージが、すれ違った生徒の足音を確かめていた。"
+      },
+      {
+        "entry": 647,
+        "scene": 13,
+        "sound": "door-open",
+        "text": "コンケは、扉を開けた。"
+      },
+      {
+        "entry": 651,
+        "scene": 13,
+        "sound": "door-close",
+        "text": "扉が閉まった。"
+      }
+    ],
+    "chapter1-episode9": [
+      {
+        "entry": 8,
+        "scene": 1,
+        "sound": "door-open",
+        "text": "コンケは扉を開け、少し頭を下げて中へ入った。"
+      },
+      {
+        "entry": 82,
+        "scene": 3,
+        "sound": "heavy",
+        "text": "背中が壁へ当たった。"
+      },
+      {
+        "entry": 108,
+        "scene": 3,
+        "sound": "hit",
+        "text": "言い終わる前に、拳が入った。"
+      },
+      {
+        "entry": 115,
+        "scene": 3,
+        "sound": "hit",
+        "text": "短い音がして、相手の膝が落ちた。"
+      },
+      {
+        "entry": 118,
+        "scene": 3,
+        "sound": "hit",
+        "text": "グモンの肩へ拳が当たった。"
+      },
+      {
+        "entry": 185,
+        "scene": 4,
+        "sound": "hit",
+        "text": "コンケは殴った。"
+      },
+      {
+        "entry": 188,
+        "scene": 4,
+        "sound": "hit",
+        "text": "もう一度殴る。"
+      },
+      {
+        "entry": 323,
+        "scene": 7,
+        "sound": "door-open",
+        "text": "別の教室の扉も開く。"
+      },
+      {
+        "entry": 373,
+        "scene": 8,
+        "sound": "water",
+        "text": "お湯を注ぐ音がした。"
+      },
+      {
+        "entry": 380,
+        "scene": 8,
+        "sound": "tableware",
+        "text": "プラスの前へ、青い液体の入ったカップが置かれた。"
+      },
+      {
+        "entry": 408,
+        "scene": 8,
+        "sound": "tableware",
+        "text": "オーガは、カップを置いた。"
+      },
+      {
+        "entry": 533,
+        "scene": 10,
+        "sound": "heavy",
+        "text": "何かが倒れ、壁へ当たる。"
+      },
+      {
+        "entry": 538,
+        "scene": 10,
+        "sound": "metal",
+        "text": "相手の腕が払われ、持っていたものが床へ落ちる。"
+      },
+      {
+        "entry": 540,
+        "scene": 10,
+        "sound": "hit",
+        "text": "身体へ蹴りが入り、廊下の壁へよろめいた。"
+      },
+      {
+        "entry": 640,
+        "scene": 10,
+        "sound": "heavy",
+        "text": "入口の椅子が、足に押されて倒れた。"
+      },
+      {
+        "entry": 681,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "そのとき、廊下で大きな音がした。"
+      },
+      {
+        "entry": 717,
+        "scene": 12,
+        "sound": "knock",
+        "text": "そう思ったところで、扉が鳴った。"
+      },
+      {
+        "entry": 726,
+        "scene": 12,
+        "sound": "door-open",
+        "text": "扉が開いた。"
+      },
+      {
+        "entry": 783,
+        "scene": 12,
+        "sound": "chair",
+        "text": "椅子が、少し鳴った。"
+      }
+    ],
+    "chapter1-episode10": [
+      {
+        "entry": 16,
+        "scene": 1,
+        "sound": "hit",
+        "text": "頬をかすめた拳が、扉へ当たった。"
+      },
+      {
+        "entry": 47,
+        "scene": 2,
+        "sound": "hit",
+        "text": "その下から、腹へ拳が入った。"
+      },
+      {
+        "entry": 190,
+        "scene": 6,
+        "sound": "metal",
+        "text": "拳の先で、細い金属の縁が鳴った。"
+      },
+      {
+        "entry": 312,
+        "scene": 7,
+        "sound": "hit",
+        "text": "拳が、コンケの胸の下へ入った。"
+      },
+      {
+        "entry": 327,
+        "scene": 8,
+        "sound": "chair",
+        "text": "椅子が、鳴った。"
+      },
+      {
+        "entry": 345,
+        "scene": 8,
+        "sound": "water",
+        "text": "机の隅にあった、水の入った瓶も手にする。布へ水を含ませ、プラスの前へ置いた。"
+      },
+      {
+        "entry": 387,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "廊下で、大きな音がした。"
+      },
+      {
+        "entry": 456,
+        "scene": 8,
+        "sound": "door-open",
+        "text": "少しだけ足をずらし、扉を開けた。"
+      },
+      {
+        "entry": 459,
+        "scene": 9,
+        "sound": "whip",
+        "text": "廊下では、ヒカルの鞭が壁を打った。"
+      },
+      {
+        "entry": 465,
+        "scene": 9,
+        "sound": "metal",
+        "text": "棒が、床へ落ちる。"
+      },
+      {
+        "entry": 485,
+        "scene": 9,
+        "sound": "door-open",
+        "text": "そのとき、部長室の扉が、大きく開いた。"
+      },
+      {
+        "entry": 552,
+        "scene": 9,
+        "sound": "steps",
+        "text": "ヒカルは、廊下を歩き出した。"
+      },
+      {
+        "entry": 679,
+        "scene": 11,
+        "sound": "steps",
+        "text": "ヒカルの靴音が、遠ざかった。"
+      },
+      {
+        "entry": 734,
+        "scene": 12,
+        "sound": "run",
+        "text": "生徒は鞄を持ち直し、走り出した。"
+      },
+      {
+        "entry": 844,
+        "scene": 13,
+        "sound": "rustle",
+        "text": "頁が、静かに鳴った。"
+      }
+    ],
+    "chapter1-episode11": [
+      {
+        "entry": 13,
+        "scene": 1,
+        "sound": "steps",
+        "text": "プラスは、笑いながら梯子を降りた。"
+      },
+      {
+        "entry": 54,
+        "scene": 1,
+        "sound": "door-open",
+        "text": "ランスが、先に扉を開ける。"
+      },
+      {
+        "entry": 78,
+        "scene": 2,
+        "sound": "metal",
+        "text": "ランスは、地面へ小さな金属片を三つ置いた。"
+      },
+      {
+        "entry": 119,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "表紙を開く。"
+      },
+      {
+        "entry": 131,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "ランスは表紙を閉じる。"
+      },
+      {
+        "entry": 172,
+        "scene": 3,
+        "sound": "metal",
+        "text": "ランスが、細い金属の輪を作った。"
+      },
+      {
+        "entry": 333,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "ユージが、紙を畳んだ。"
+      },
+      {
+        "entry": 379,
+        "scene": 6,
+        "sound": "rustle",
+        "text": "代わりに、教材を一枚捲る。"
+      },
+      {
+        "entry": 417,
+        "scene": 7,
+        "sound": "rustle",
+        "text": "少し後ろで、教材が捲られた。"
+      },
+      {
+        "entry": 459,
+        "scene": 8,
+        "sound": "chair",
+        "text": "プラスは、椅子を戻した。"
+      },
+      {
+        "entry": 498,
+        "scene": 9,
+        "sound": "chair",
+        "text": "コンケが、端の椅子を少し引いて座った。"
+      },
+      {
+        "entry": 501,
+        "scene": 9,
+        "sound": "tableware",
+        "text": "プラスは、匙を入れた。"
+      },
+      {
+        "entry": 593,
+        "scene": 10,
+        "sound": "chair",
+        "text": "コンケが、椅子を引いた。"
+      },
+      {
+        "entry": 617,
+        "scene": 10,
+        "sound": "rustle",
+        "text": "プラスは、自分の手帳を開いた。"
+      },
+      {
+        "entry": 629,
+        "scene": 10,
+        "sound": "steps",
+        "text": "コンケは、ああと短く返し、購買の方へ歩き出した。"
+      },
+      {
+        "entry": 638,
+        "scene": 11,
+        "sound": "chair",
+        "text": "ランスも椅子を取り、足りない列へ並べる。"
+      },
+      {
+        "entry": 672,
+        "scene": 12,
+        "sound": "rustle",
+        "text": "コバルが感想会の机へ紙を広げる。"
+      },
+      {
+        "entry": 712,
+        "scene": 14,
+        "sound": "camera",
+        "text": "もう一枚。今度は、こっちを向いて。"
+      },
+      {
+        "entry": 749,
+        "scene": 15,
+        "sound": "chair",
+        "text": "椅子を壁際へ運んでいると、コバルも一つ持ってきた。"
+      }
+    ]
+  }
+}

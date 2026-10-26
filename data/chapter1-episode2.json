@@ -112,7 +112,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -622,7 +623,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -958,7 +960,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -2036,7 +2039,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -2410,7 +2414,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -2988,7 +2993,8 @@
           "height": 160,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -4348,7 +4354,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -5762,7 +5769,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "location",
@@ -6872,7 +6880,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -11024,7 +11033,8 @@
           "height": 146,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -15138,7 +15148,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -15448,7 +15459,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -15516,7 +15528,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",

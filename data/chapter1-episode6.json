@@ -54,7 +54,8 @@
           "height": 184,
           "expression": "bandaged-serious"
         }
-      ]
+      ],
+      "se": "crowd"
     },
     {
       "type": "line",
@@ -558,7 +559,8 @@
           "height": 184,
           "expression": "bandaged-serious"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -624,7 +626,8 @@
           "height": 184,
           "expression": "bandaged-serious"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -1128,7 +1131,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -1749,7 +1753,8 @@
       "tone": "",
       "cg": "assets/cg/episode06-a-r3.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -8041,7 +8046,8 @@
       "tone": "",
       "cg": "assets/cg/episode06-a-r3.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -9676,7 +9682,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -11816,7 +11823,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",

@@ -1,7 +1,7 @@
 /* Original sound effects. Audio is unlocked only by a user gesture. */
 (()=>{
  'use strict';
- const names=['hit','heavy','whoosh','teleport','whip','rustle','chime','camera'];
+ const names=['hit','heavy','whoosh','teleport','whip','rustle','chime','camera','door-open','door-close','knock','steps','run','chair','tableware','water','metal','bell','crowd','cloth','ui'];
  let context,master,ready=false,loading,serial=0;
  const buffers=new Map(),voices=new Set();
  function stop(){serial++;for(const voice of voices){try{voice.stop();}catch{}}voices.clear();}

@@ -486,7 +486,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -1846,7 +1847,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -4372,7 +4374,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -4406,7 +4409,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -6330,7 +6334,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -9436,7 +9441,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -9492,7 +9498,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -10910,7 +10917,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -11488,7 +11496,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -15228,7 +15237,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-close"
     },
     {
       "type": "line",
@@ -15976,7 +15986,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -16248,7 +16259,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -16758,7 +16770,8 @@
           "height": 176,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -22300,7 +22313,8 @@
           "height": 170,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -22760,7 +22774,8 @@
           "height": 184,
           "expression": "bandaged-smile"
         }
-      ]
+      ],
+      "se": "door-close"
     },
     {
       "type": "line",

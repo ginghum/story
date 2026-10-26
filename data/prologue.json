@@ -41,7 +41,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "se": "water"
     },
     {
       "type": "line",
@@ -421,7 +422,8 @@
       "tone": "",
       "cg": null,
       "cgAlt": null,
-      "cast": []
+      "cast": [],
+      "se": "ui"
     },
     {
       "type": "line",
@@ -2431,7 +2433,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "bell"
     },
     {
       "type": "line",
@@ -2487,7 +2490,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "se": "run"
     },
     {
       "type": "line",
@@ -3014,7 +3018,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "bell"
     },
     {
       "type": "line",
@@ -3289,7 +3294,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -3541,7 +3547,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -5225,7 +5232,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -5801,7 +5809,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -7313,7 +7322,8 @@
           "expression": "brown",
           "anonymous": true
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -10255,7 +10265,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "crowd"
     },
     {
       "type": "location",
@@ -10362,7 +10373,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -11482,7 +11494,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -12656,7 +12669,8 @@
           "height": 155,
           "expression": "smile"
         }
-      ]
+      ],
+      "se": "chime"
     },
     {
       "type": "line",
@@ -13353,7 +13367,8 @@
           "height": 175,
           "expression": "exasperated"
         }
-      ]
+      ],
+      "se": "door-close"
     },
     {
       "type": "line",
@@ -13623,7 +13638,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -16007,7 +16023,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -16075,7 +16092,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "crowd"
     },
     {
       "type": "line",
@@ -17061,7 +17079,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whoosh"
     },
     {
       "type": "line",
@@ -18829,7 +18848,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -19135,7 +19155,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -19509,7 +19530,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -21499,7 +21521,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "se": "cloth"
     },
     {
       "type": "line",
@@ -22324,7 +22347,8 @@
       "tone": "night",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "se": "knock"
     },
     {
       "type": "line",
@@ -22814,7 +22838,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -22829,7 +22854,8 @@
       "tone": "dark",
       "cg": "assets/cg/prologue-c.webp",
       "cgAlt": "三人で過ごす寮の夜",
-      "cast": []
+      "cast": [],
+      "se": "cloth"
     },
     {
       "type": "line",

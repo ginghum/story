@@ -495,7 +495,8 @@
       "tone": "",
       "cg": "assets/cg/episode06-a-r3.webp",
       "cgAlt": "物語の挿絵",
-      "cast": []
+      "cast": [],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -6591,7 +6592,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -9665,7 +9667,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "metal"
     },
     {
       "type": "line",
@@ -10030,7 +10033,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "cloth"
     },
     {
       "type": "line",
@@ -10712,7 +10716,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -11809,7 +11814,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whoosh"
     },
     {
       "type": "line",
@@ -19219,7 +19225,8 @@
           "height": 169,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",

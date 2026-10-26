@@ -1420,7 +1420,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -1616,7 +1617,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "run"
     },
     {
       "type": "line",
@@ -5250,7 +5252,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "se": "knock"
     },
     {
       "type": "line",
@@ -5384,7 +5387,8 @@
           "height": 151,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -6234,7 +6238,8 @@
           "height": 182,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -8760,7 +8765,8 @@
           "height": 182,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "tableware"
     },
     {
       "type": "line",
@@ -8862,7 +8868,8 @@
           "height": 165,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -12970,7 +12977,8 @@
           "height": 184,
           "expression": "smile"
         }
-      ]
+      ],
+      "se": "door-close"
     },
     {
       "type": "location",
@@ -13232,7 +13240,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -18054,7 +18063,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chair"
     },
     {
       "type": "line",
@@ -19044,7 +19054,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "steps"
     },
     {
       "type": "line",
@@ -19446,7 +19457,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-open"
     },
     {
       "type": "line",
@@ -19558,7 +19570,8 @@
           "height": 175,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "door-close"
     },
     {
       "type": "line",

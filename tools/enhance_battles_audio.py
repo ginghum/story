@@ -29,19 +29,10 @@ def enhance():
     if s==8 and raw=='ダイの腕が、すぐに離れた。':active=None
     if active:
      e['cg']='assets/cg/'+active+'.webp';e['cgAlt']='右腕を支持具で保護し、左腕でダイに挑むプラス'
-   if not raw:continue
-   if (e.get('effect')=='teleport' or re.search(r'^(ダイ[はが]、?消えた。|消えた。|届く前に、ダイが消えた。)$',raw)):e['se']='teleport'
-   elif raw in ['鈍い音がした。','横腹へ蹴りが入った。','鞭が床を打つ。'] or re.search(r'拳[がを].*(当たった|当たる|入った)。',raw):e['se']='heavy' if '鈍い' in raw else 'whip' if '鞭' in raw else 'hit'
-   elif raw in ['そこへ、反対の拳が短く入った。','背中の斜め後ろから、軽く肩を打たれた。','プラスは顔を引き、腕で受けた。']:e['se']='hit'
-   elif raw in ['拳だけが、届かなかった場所を通った。','プラスの拳は、空いた場所を通った。']:e['se']='whoosh'
-   elif re.search(r'(表紙が閉じた。|手帳を閉じた。)$',raw) and not e.get('speaker'):e['se']='rustle'
-   elif raw.startswith(('サニー「始め','サニー「そこまで','サニー「止め')):e['se']='chime'
-   elif raw in ['鞭が、そこへ来た。','もう一度、鞭が来た。','跳ばずに、小さく足を引いた。鞭が床を打つ。','鞭に腕の横を打たれ、痛みで考えが途切れる。','廊下では、ヒカルの鞭が壁を打った。']:e['se']='whip'
-   elif raw in ['ユージが床へ落ちた。','重い音が、客席まで響いた。','廊下で、大きな音がした。']:e['se']='heavy'
-   elif raw=='音がした。' and n in [5,7]:e['se']='whip' if n==5 else 'heavy'
-   elif n==11 and raw=='もう一枚。今度は、こっちを向いて。':e['se']='camera'
   save(p,d)
   if n in [3,5]:
    for sn in ([4,5,6] if n==3 else [6,7,8]):
     es=[e for e in d['entries'] if e['scene']==sn and e['type']=='line'];print(n,sn,sum(bool(e.get('cg')) for e in es),'/',len(es),'CG')
+ from annotate_sfx import annotate
+ annotate()
 if __name__=='__main__':enhance()
