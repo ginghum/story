@@ -1,7 +1,7 @@
 /* Original instrumental BGM. Gesture-gated, two-buffer cache, one crossfade pair. */
 (()=>{
  'use strict';
- const titles={daily:'いつもの学園',calm:'頁をひらいて',training:'一歩ずつ、その先へ',battle:'届くまで',tension:'扉の向こう',reflection:'残った言葉'};
+ const titles={"daily":"いつもの学園","calm":"頁をひらいて","training":"一歩ずつ、その先へ","battle":"届くまで","tension":"扉の向こう","reflection":"残った言葉","underground":"石の下の静寂","forest-battle":"木陰を駆ける","festival":"帝国創立記念日","finale":"幸運の檻を越えて","homecoming":"晴れた明日も"};
  const buffers=new Map(),voices=new Set();let context,master,current=null,wanted=null,override=null,settings={bgmEnabled:true,bgmVolume:.35},paused=false,version=0,pending=null,controller=null,saved=null;
  const effective=()=>override||wanted;
  const enabled=()=>settings.bgmEnabled!==false&&Number(settings.bgmVolume)>0;

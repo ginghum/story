@@ -1,0 +1,4156 @@
+[
+  {
+    "id": "plus",
+    "name": "プラス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "184cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "無所属"
+      },
+      {
+        "label": "能力",
+        "value": "質量を変化させる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/plus/portrait.webp?v=32c08e3b39e3",
+      "original": "characters-data/plus/original.webp?v=cc90eff1d1a9"
+    }
+  },
+  {
+    "id": "yuji",
+    "name": "ユージ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "コスプレサークル"
+      },
+      {
+        "label": "能力",
+        "value": "空中でものを弾く"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/yuji/portrait.webp?v=1f74c6efde51",
+      "original": "characters-data/yuji/original.webp?v=39f19e689df0"
+    }
+  },
+  {
+    "id": "lance",
+    "name": "ランス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "169cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "オタクサークル"
+      },
+      {
+        "label": "能力",
+        "value": "金属を生成する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/lance/portrait.webp?v=47b7062ac9c1",
+      "original": "characters-data/lance/original.webp?v=6d523236e79d"
+    }
+  },
+  {
+    "id": "hikaru",
+    "name": "ヒカル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "184cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "コスプレサークル"
+      },
+      {
+        "label": "立場",
+        "value": "コスプレサークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "物体を変形させる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hikaru/portrait.webp?v=11c54d6de9a6",
+      "original": "characters-data/hikaru/original.webp?v=02e24557a693"
+    }
+  },
+  {
+    "id": "kobal",
+    "name": "コバル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "オタクサークル"
+      },
+      {
+        "label": "立場",
+        "value": "オタクサークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "チャージパンチを放つ"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/kobal/portrait.webp?v=02d81d8a9d34",
+      "original": "characters-data/kobal/original.webp?v=3e11e01f22e6"
+    }
+  },
+  {
+    "id": "yukimero",
+    "name": "ゆきめろ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "146cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "オタクサークル"
+      },
+      {
+        "label": "能力",
+        "value": "手から綿を出す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/yukimero/portrait.webp?v=871f58093edd",
+      "original": "characters-data/yukimero/original.webp?v=612eb9e81b37"
+    }
+  },
+  {
+    "id": "yaoi",
+    "name": "ヤオイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "155cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "立場",
+        "value": "腐女子サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "自然と化す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/yaoi/portrait.webp?v=093ff9f25591",
+      "original": "characters-data/yaoi/original.webp?v=c0b0075a92e1"
+    }
+  },
+  {
+    "id": "x",
+    "name": "X（エックス）",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "立場",
+        "value": "勉強サークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "低温と高温を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/x/portrait.webp?v=d233d17a9364",
+      "original": "characters-data/x/original.webp?v=5213851d8991"
+    }
+  },
+  {
+    "id": "lusai",
+    "name": "ルサイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "立場",
+        "value": "勉強サークル副部長"
+      },
+      {
+        "label": "能力",
+        "value": "透明化"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/lusai/portrait.webp?v=8410168f4ae9",
+      "original": "characters-data/lusai/original.webp?v=08dc7df98edf"
+    }
+  },
+  {
+    "id": "doma",
+    "name": "ドーマ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "レーザー"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/doma/portrait.webp?v=2330a8f269ff",
+      "original": "characters-data/doma/original.webp?v=26b7f5619dbd"
+    }
+  },
+  {
+    "id": "tsukuri",
+    "name": "ツクリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "157cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "鍵を開ける"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/tsukuri/portrait.webp?v=105060fe337d",
+      "original": "characters-data/tsukuri/original.webp?v=d0629be634f2"
+    }
+  },
+  {
+    "id": "konke",
+    "name": "コンケ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "177cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "不良サークル"
+      },
+      {
+        "label": "能力",
+        "value": "毒を生成する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/konke/portrait.webp?v=af251fdc4fd2",
+      "original": "characters-data/konke/original.webp?v=b05f192ed0da"
+    }
+  },
+  {
+    "id": "gumon",
+    "name": "グモン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "189cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "不良サークル"
+      },
+      {
+        "label": "立場",
+        "value": "不良サークル部長／平和主義者"
+      },
+      {
+        "label": "能力",
+        "value": "無敵になる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/gumon/portrait.webp?v=cfe9c55a8bc5",
+      "original": "characters-data/gumon/original.webp?v=dee257df4411"
+    }
+  },
+  {
+    "id": "oga",
+    "name": "オーガ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "197cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "不良サークル"
+      },
+      {
+        "label": "立場",
+        "value": "不良サークル副部長"
+      },
+      {
+        "label": "能力",
+        "value": "他人の能力を強化する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/oga/portrait.webp?v=8d12cae842d8",
+      "original": "characters-data/oga/original.webp?v=4466e9464e17"
+    }
+  },
+  {
+    "id": "ojo",
+    "name": "オジョー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "154cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "令嬢サークル"
+      },
+      {
+        "label": "立場",
+        "value": "令嬢サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "爆発弾を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ojo/portrait.webp?v=2572c96ce2de",
+      "original": "characters-data/ojo/original.webp?v=2929f9cecd2b"
+    }
+  },
+  {
+    "id": "yuhi",
+    "name": "ユーヒ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "新聞部"
+      },
+      {
+        "label": "立場",
+        "value": "新聞部部長（編集長）"
+      },
+      {
+        "label": "能力",
+        "value": "空を飛ぶ"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/yuhi/portrait.webp?v=5033de23f6a5",
+      "original": "characters-data/yuhi/original.webp?v=5ad45afcb16c"
+    }
+  },
+  {
+    "id": "chick",
+    "name": "チック",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "新聞部"
+      },
+      {
+        "label": "立場",
+        "value": "新聞部副部長・編集者"
+      },
+      {
+        "label": "能力",
+        "value": "少しだけ時間を戻す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/chick/portrait.webp?v=c99fc6cd2f40",
+      "original": "characters-data/chick/original.webp?v=2007d141ece9"
+    }
+  },
+  {
+    "id": "baroo",
+    "name": "バルー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "151cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "新聞部"
+      },
+      {
+        "label": "能力",
+        "value": "物同士を引き合わせる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/baroo/portrait.webp?v=6b4d565d6f43",
+      "original": "characters-data/baroo/original.webp?v=e4f8de7aab0a"
+    }
+  },
+  {
+    "id": "dai",
+    "name": "ダイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "182cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "新聞部"
+      },
+      {
+        "label": "能力",
+        "value": "マーク地点への瞬間移動"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/dai/portrait.webp?v=414c245e6ee6",
+      "original": "characters-data/dai/original.webp?v=068bb89aaa4a"
+    }
+  },
+  {
+    "id": "milk",
+    "name": "ミルク",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "161cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "不明"
+      },
+      {
+        "label": "所属",
+        "value": "未所属"
+      },
+      {
+        "label": "立場",
+        "value": "生徒会長代理"
+      },
+      {
+        "label": "能力",
+        "value": "傷を癒す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/milk/portrait.webp?v=bb1d8501c4e0",
+      "original": "characters-data/milk/original.webp?v=1cc627c8217e"
+    }
+  },
+  {
+    "id": "oriha",
+    "name": "オリハ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "オタクサークル"
+      },
+      {
+        "label": "能力",
+        "value": "体をオリハルコンに変える"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/oriha/portrait.webp?v=92d0f0f659cc",
+      "original": "characters-data/oriha/original.webp?v=33ca139ec26b"
+    }
+  },
+  {
+    "id": "minus",
+    "name": "マイナス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "未所属"
+      },
+      {
+        "label": "能力",
+        "value": "質量を変化させる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/minus/portrait.webp?v=a428be54e74c",
+      "original": "characters-data/minus/original.webp?v=d3c8ef42887b"
+    }
+  },
+  {
+    "id": "sigma",
+    "name": "シグマ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "177cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "未所属"
+      },
+      {
+        "label": "能力",
+        "value": "人を酔わせられる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/sigma/portrait.webp?v=ddaba608ff2e",
+      "original": "characters-data/sigma/original.webp?v=b33a372ef26f"
+    }
+  },
+  {
+    "id": "ruto",
+    "name": "ルト",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "オカルト&昆虫サークル"
+      },
+      {
+        "label": "立場",
+        "value": "オカルト部門部長"
+      },
+      {
+        "label": "能力",
+        "value": "影を踏んだ相手の能力を封じる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ruto/portrait.webp?v=fb6c7f1e9139",
+      "original": "characters-data/ruto/original.webp?v=bca8e74b5681"
+    }
+  },
+  {
+    "id": "bug",
+    "name": "バグ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "オカルト&昆虫サークル"
+      },
+      {
+        "label": "立場",
+        "value": "昆虫部門部長"
+      },
+      {
+        "label": "能力",
+        "value": "網を飛ばす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/bug/portrait.webp?v=151ef741bf41",
+      "original": "characters-data/bug/original.webp?v=569f344ce77e"
+    }
+  },
+  {
+    "id": "wan",
+    "name": "ワン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "オカルト&昆虫サークル"
+      },
+      {
+        "label": "能力",
+        "value": "念写"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/wan/portrait.webp?v=3b07cc59bbc7",
+      "original": "characters-data/wan/original.webp?v=f9e81fc44399"
+    }
+  },
+  {
+    "id": "vine",
+    "name": "ヴァイン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "162cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "オカルト&昆虫サークル"
+      },
+      {
+        "label": "能力",
+        "value": "相手の心を読む"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/vine/portrait.webp?v=5c978065b544",
+      "original": "characters-data/vine/original.webp?v=ec82ac9631a0"
+    }
+  },
+  {
+    "id": "bonbori",
+    "name": "ボンボリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "162cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "美食サークル"
+      },
+      {
+        "label": "能力",
+        "value": "超聴覚"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/bonbori/portrait.webp?v=9acb9508bb97",
+      "original": "characters-data/bonbori/original.webp?v=32e2cafb7341"
+    }
+  },
+  {
+    "id": "hoozuki",
+    "name": "ホオズキ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "162cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "美食サークル"
+      },
+      {
+        "label": "能力",
+        "value": "超視力"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hoozuki/portrait.webp?v=85b74821f068",
+      "original": "characters-data/hoozuki/original.webp?v=26fcebf7a583"
+    }
+  },
+  {
+    "id": "kagachi",
+    "name": "カガチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "193cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "美食サークル"
+      },
+      {
+        "label": "立場",
+        "value": "美食サークル部長／反生徒会連合"
+      },
+      {
+        "label": "能力",
+        "value": "巨大化"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/kagachi/portrait.webp?v=2601a7e4e940",
+      "original": "characters-data/kagachi/original.webp?v=0069b2ac2885"
+    }
+  },
+  {
+    "id": "dankachi",
+    "name": "ダンカチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "158cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "建設委員会"
+      },
+      {
+        "label": "能力",
+        "value": "どんな道具も使いこなす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/dankachi/portrait.webp?v=7fc62fd6ba6b",
+      "original": "characters-data/dankachi/original.webp?v=613896cc6ad8"
+    }
+  },
+  {
+    "id": "deji",
+    "name": "デヂ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "142cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "建設委員会"
+      },
+      {
+        "label": "立場",
+        "value": "建設委員会部長・現場監督"
+      },
+      {
+        "label": "能力",
+        "value": "レジンを操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/deji/portrait.webp?v=9de8d1e7eb96",
+      "original": "characters-data/deji/original.webp?v=6b0b1672dbb0"
+    }
+  },
+  {
+    "id": "leorka",
+    "name": "レオルカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "183cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "美術サークル"
+      },
+      {
+        "label": "能力",
+        "value": "手のひらサイズの物体を生成する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/leorka/portrait.webp?v=79e0d6b8b7cb",
+      "original": "characters-data/leorka/original.webp?v=3bb4f8292621"
+    }
+  },
+  {
+    "id": "torie",
+    "name": "トリエ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "美術サークル"
+      },
+      {
+        "label": "立場",
+        "value": "美術サークル副部長"
+      },
+      {
+        "label": "能力",
+        "value": "反射するバリアを張る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/torie/portrait.webp?v=deacb358bb3f",
+      "original": "characters-data/torie/original.webp?v=aabcef0d141d"
+    }
+  },
+  {
+    "id": "beret",
+    "name": "ベレー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "152cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "美術サークル"
+      },
+      {
+        "label": "立場",
+        "value": "美術サークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "他人の運を吸い取る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/beret/portrait.webp?v=0cfacea53735",
+      "original": "characters-data/beret/original.webp?v=73b40686e662"
+    }
+  },
+  {
+    "id": "romanchi",
+    "name": "ロマンチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "183cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "令嬢サークル"
+      },
+      {
+        "label": "能力",
+        "value": "無限収納のポケット"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/romanchi/portrait.webp?v=b57a9a3a82ca",
+      "original": "characters-data/romanchi/original.webp?v=f9efcaee1913"
+    }
+  },
+  {
+    "id": "masa",
+    "name": "マサ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "185cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "自由サークル"
+      },
+      {
+        "label": "立場",
+        "value": "自由サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "筋力が上昇する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/masa/portrait.webp?v=80156e9e7452",
+      "original": "characters-data/masa/original.webp?v=a3e787d9742e"
+    }
+  },
+  {
+    "id": "rokka",
+    "name": "ロッカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "178cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "自由サークル"
+      },
+      {
+        "label": "能力",
+        "value": "雪を作り出す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/rokka/portrait.webp?v=e9b3c58d61f9",
+      "original": "characters-data/rokka/original.webp?v=1a786e6250b8"
+    }
+  },
+  {
+    "id": "makura",
+    "name": "マクラ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "自由サークル"
+      },
+      {
+        "label": "能力",
+        "value": "相手をネガティブにする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/makura/portrait.webp?v=9296fb669df7",
+      "original": "characters-data/makura/original.webp?v=a4559f80bcb3"
+    }
+  },
+  {
+    "id": "tsukuyomi",
+    "name": "ツクヨミ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "168cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "自由サークル"
+      },
+      {
+        "label": "能力",
+        "value": "物を喋らせる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/tsukuyomi/portrait.webp?v=201a80ef0cc3",
+      "original": "characters-data/tsukuyomi/original.webp?v=23a39d4301bf"
+    }
+  },
+  {
+    "id": "zenomura",
+    "name": "ゼノムラ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "171cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "なんでも屋サークル"
+      },
+      {
+        "label": "立場",
+        "value": "なんでも屋サークル代表"
+      },
+      {
+        "label": "能力",
+        "value": "幻覚を見せる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/zenomura/portrait.webp?v=79230063ddf9",
+      "original": "characters-data/zenomura/original.webp?v=89de7dbaf15e"
+    }
+  },
+  {
+    "id": "bane",
+    "name": "ベイン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "なんでも屋サークル"
+      },
+      {
+        "label": "能力",
+        "value": "ゴーレムを操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/bane/portrait.webp?v=2df19089fefb",
+      "original": "characters-data/bane/original.webp?v=8dc2eac2d4e7"
+    }
+  },
+  {
+    "id": "eris",
+    "name": "エリス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "なんでも屋サークル"
+      },
+      {
+        "label": "能力",
+        "value": "風を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/eris/portrait.webp?v=c162a1e89d9c",
+      "original": "characters-data/eris/original.webp?v=2d5a4699de80"
+    }
+  },
+  {
+    "id": "morpheus",
+    "name": "モルペウス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "165cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "新聞部"
+      },
+      {
+        "label": "能力",
+        "value": "夢を見せる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/morpheus/portrait.webp?v=f566077d70de",
+      "original": "characters-data/morpheus/original.webp?v=238d1b69275b"
+    }
+  },
+  {
+    "id": "devil",
+    "name": "デビル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "153cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "eスポーツサークル"
+      },
+      {
+        "label": "立場",
+        "value": "eスポーツサークル部長／反生徒会連合"
+      },
+      {
+        "label": "能力",
+        "value": "周囲の機械を操作する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/devil/portrait.webp?v=83ea5c71629d",
+      "original": "characters-data/devil/original.webp?v=8b503146382b"
+    }
+  },
+  {
+    "id": "bell",
+    "name": "ベル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "163cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "eスポーツサークル"
+      },
+      {
+        "label": "能力",
+        "value": "なんでも作り方がわかる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/bell/portrait.webp?v=8fc9580e1e6f",
+      "original": "characters-data/bell/original.webp?v=40ca1d28c5fb"
+    }
+  },
+  {
+    "id": "guardian",
+    "name": "ガーディアン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "サッカーサークル"
+      },
+      {
+        "label": "立場",
+        "value": "副部長／ゴールキーパー"
+      },
+      {
+        "label": "能力",
+        "value": "壁を作り出す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/guardian/portrait.webp?v=694c58140f12",
+      "original": "characters-data/guardian/original.webp?v=512e023d1553"
+    }
+  },
+  {
+    "id": "mimari",
+    "name": "ミマリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "154cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "サッカーサークル"
+      },
+      {
+        "label": "能力",
+        "value": "洗脳する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/mimari/portrait.webp?v=4dedfc854e30",
+      "original": "characters-data/mimari/original.webp?v=48f5b7d282bf"
+    }
+  },
+  {
+    "id": "ashara",
+    "name": "アシャラ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "186cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "サッカーサークル"
+      },
+      {
+        "label": "立場",
+        "value": "サッカーサークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "雷を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ashara/portrait.webp?v=27eb2449d753",
+      "original": "characters-data/ashara/original.webp?v=a6654724d98d"
+    }
+  },
+  {
+    "id": "dancho",
+    "name": "ダンチョー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "186cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "将棋サークル"
+      },
+      {
+        "label": "能力",
+        "value": "身体を泥と化す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/dancho/portrait.webp?v=8b7b4d78e500",
+      "original": "characters-data/dancho/original.webp?v=d2ee2e4737d9"
+    }
+  },
+  {
+    "id": "paster",
+    "name": "パスター",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "179cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "天文サークル"
+      },
+      {
+        "label": "立場",
+        "value": "天文サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "フェンリルに変身する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/paster/portrait.webp?v=6fce52ca3648",
+      "original": "characters-data/paster/original.webp?v=75d2c66bfa5d"
+    }
+  },
+  {
+    "id": "itoguchi",
+    "name": "イトグチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "188cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "未所属"
+      },
+      {
+        "label": "立場",
+        "value": "生徒会副会長"
+      },
+      {
+        "label": "能力",
+        "value": "概念と物体を消滅させる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/itoguchi/portrait.webp?v=a65dee4837c2",
+      "original": "characters-data/itoguchi/original.webp?v=6ac1e01d3167"
+    }
+  },
+  {
+    "id": "muchiko",
+    "name": "ムチコ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "175cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "立場",
+        "value": "腐女子サークル副部長"
+      },
+      {
+        "label": "能力",
+        "value": "高速移動"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/muchiko/portrait.webp?v=60e017c07f2d",
+      "original": "characters-data/muchiko/original.webp?v=94a66b7b0fd0"
+    }
+  },
+  {
+    "id": "junko",
+    "name": "ジュンコ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "158cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "能力",
+        "value": "針を飛ばす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/junko/portrait.webp?v=16e1d5ef573b",
+      "original": "characters-data/junko/original.webp?v=d3fc2cf53c68"
+    }
+  },
+  {
+    "id": "kirara",
+    "name": "キララ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "151cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "能力",
+        "value": "傷を悪化させる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/kirara/portrait.webp?v=a0add38f6ab3",
+      "original": "characters-data/kirara/original.webp?v=9ab2419a6aec"
+    }
+  },
+  {
+    "id": "machio",
+    "name": "マチオ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "能力",
+        "value": "金縛り"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/machio/portrait.webp?v=16a5a013a533",
+      "original": "characters-data/machio/original.webp?v=a6399c79ea1f"
+    }
+  },
+  {
+    "id": "hime",
+    "name": "ヒメ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "181cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "腐女子サークル"
+      },
+      {
+        "label": "能力",
+        "value": "ダメージを地面に流す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hime/portrait.webp?v=5676c26969ba",
+      "original": "characters-data/hime/original.webp?v=55be63326cb7"
+    }
+  },
+  {
+    "id": "mu",
+    "name": "ミュー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "150cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "アイドルグループ「S.O.Bright」"
+      },
+      {
+        "label": "立場",
+        "value": "S.O.Brightリーダー／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "ダイヤモンドを操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/mu/portrait.webp?v=19716548d4fe",
+      "original": "characters-data/mu/original.webp?v=c71f3f6210b6"
+    }
+  },
+  {
+    "id": "zeta",
+    "name": "ゼータ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "157cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "アイドルグループ「S.O.Bright」"
+      },
+      {
+        "label": "能力",
+        "value": "年齢を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/zeta/portrait.webp?v=bc9d17005fc2",
+      "original": "characters-data/zeta/original.webp?v=2c1fb2d502fb"
+    }
+  },
+  {
+    "id": "empress",
+    "name": "エンプレス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "174cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "未所属"
+      },
+      {
+        "label": "立場",
+        "value": "カース帝国女帝／生徒会長"
+      },
+      {
+        "label": "能力",
+        "value": "捕食した人間の能力を得る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/empress/portrait.webp?v=51a415ee3a23",
+      "original": "characters-data/empress/original.webp?v=e354e521c70c"
+    }
+  },
+  {
+    "id": "clarine",
+    "name": "クラリーヌ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "165cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "吹奏楽サークル"
+      },
+      {
+        "label": "立場",
+        "value": "吹奏楽サークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "石化"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/clarine/portrait.webp?v=06c5eedef0b0",
+      "original": "characters-data/clarine/original.webp?v=860d8ac310c5"
+    }
+  },
+  {
+    "id": "chuba",
+    "name": "チュウバ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "167cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "吹奏楽サークル"
+      },
+      {
+        "label": "能力",
+        "value": "音弾を飛ばす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/chuba/portrait.webp?v=c72b04af329b",
+      "original": "characters-data/chuba/original.webp?v=dea56f2f83e9"
+    }
+  },
+  {
+    "id": "hattan",
+    "name": "ハッタン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "186cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "不良サークル"
+      },
+      {
+        "label": "能力",
+        "value": "分身する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hattan/portrait.webp?v=d108e3706655",
+      "original": "characters-data/hattan/original.webp?v=05c029658ff6"
+    }
+  },
+  {
+    "id": "grav",
+    "name": "グラブ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "不良サークル"
+      },
+      {
+        "label": "能力",
+        "value": "重力操作"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/grav/portrait.webp?v=8a04a031b78b",
+      "original": "characters-data/grav/original.webp?v=628270e7ded5"
+    }
+  },
+  {
+    "id": "mikael",
+    "name": "ミカエル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "153cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "帰宅サークル"
+      },
+      {
+        "label": "能力",
+        "value": "転移ゲートの作成"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/mikael/portrait.webp?v=b91dd9826862",
+      "original": "characters-data/mikael/original.webp?v=7d5bb63d82c2"
+    }
+  },
+  {
+    "id": "tsukichiyo",
+    "name": "ツキチヨ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "忍者サークル"
+      },
+      {
+        "label": "立場",
+        "value": "忍者サークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "視覚を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/tsukichiyo/portrait.webp?v=1b5f65653464",
+      "original": "characters-data/tsukichiyo/original.webp?v=908a6aba43d0"
+    }
+  },
+  {
+    "id": "meimei",
+    "name": "メイメイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "172cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "忍者サークル"
+      },
+      {
+        "label": "能力",
+        "value": "縄を生成する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/meimei/portrait.webp?v=af4d8886d4bf",
+      "original": "characters-data/meimei/original.webp?v=7b43a5bf89be"
+    }
+  },
+  {
+    "id": "titan",
+    "name": "タイタン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "220cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "ボディビルサークル"
+      },
+      {
+        "label": "立場",
+        "value": "ボディビルサークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "未来を読む"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/titan/portrait.webp?v=08575716c0d3",
+      "original": "characters-data/titan/original.webp?v=0fdce44e9107"
+    }
+  },
+  {
+    "id": "bunbu",
+    "name": "ブンブ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "204cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "ボディビルサークル"
+      },
+      {
+        "label": "能力",
+        "value": "球体になる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/bunbu/portrait.webp?v=35f1e4f364f9",
+      "original": "characters-data/bunbu/original.webp?v=d7d68e954b82"
+    }
+  },
+  {
+    "id": "tanaka",
+    "name": "タナカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "172cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "生活サークル"
+      },
+      {
+        "label": "立場",
+        "value": "生活サークル部長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "普通の状態になる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/tanaka/portrait.webp?v=6b9fdd3bc215",
+      "original": "characters-data/tanaka/original.webp?v=917684fb0341"
+    }
+  },
+  {
+    "id": "kamatsuka",
+    "name": "カマツカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "158cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "生活サークル"
+      },
+      {
+        "label": "能力",
+        "value": "布を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/kamatsuka/portrait.webp?v=737d35a0e0bc",
+      "original": "characters-data/kamatsuka/original.webp?v=ecf141d82424"
+    }
+  },
+  {
+    "id": "sunny",
+    "name": "サニー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "159cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "能力",
+        "value": "ガラスを操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/sunny/portrait.webp?v=8b5166286051",
+      "original": "characters-data/sunny/original.webp?v=dc3a61788007"
+    }
+  },
+  {
+    "id": "will",
+    "name": "ウィル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "173cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "能力",
+        "value": "落とし穴をつくる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/will/portrait.webp?v=cbb0f40abbdd",
+      "original": "characters-data/will/original.webp?v=c13abb98ae3e"
+    }
+  },
+  {
+    "id": "doppel",
+    "name": "ドッペル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "174cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "能力",
+        "value": "性別を変更する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/doppel/portrait.webp?v=dad3c3c31c1a",
+      "original": "characters-data/doppel/original.webp?v=fe8f45bd8161"
+    }
+  },
+  {
+    "id": "van",
+    "name": "ヴァン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "186cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "能力",
+        "value": "言葉を現実にする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/van/portrait.webp?v=bbb15ce474db",
+      "original": "characters-data/van/original.webp?v=f899a365317a"
+    }
+  },
+  {
+    "id": "judge",
+    "name": "ジャッジ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "152cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "立場",
+        "value": "決闘委員会会長／生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "嘘を真実にする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/judge/portrait.webp?v=895a92618c73",
+      "original": "characters-data/judge/original.webp?v=74fa59488bd5"
+    }
+  },
+  {
+    "id": "jend",
+    "name": "ジェンド",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "152cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "決闘委員会"
+      },
+      {
+        "label": "能力",
+        "value": "現実を嘘にする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/jend/portrait.webp?v=aac8cdfceef0",
+      "original": "characters-data/jend/original.webp?v=88f8e8c681cd"
+    }
+  },
+  {
+    "id": "don",
+    "name": "ドン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "173cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "色を塗り変える"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/don/portrait.webp?v=7e994faf09f7",
+      "original": "characters-data/don/original.webp?v=0432d0c4ed44"
+    }
+  },
+  {
+    "id": "chaka",
+    "name": "チャカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "183cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "目を閉じるとIQが上がる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/chaka/portrait.webp?v=4601ac6ec0b7",
+      "original": "characters-data/chaka/original.webp?v=a102e5c40b7d"
+    }
+  },
+  {
+    "id": "sakuo",
+    "name": "サクオ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "正確な時間が分かる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/sakuo/portrait.webp?v=da506d14fc70",
+      "original": "characters-data/sakuo/original.webp?v=63b1d1ef9427"
+    }
+  },
+  {
+    "id": "natori",
+    "name": "ナトリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "179cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "糸を作り出す"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/natori/portrait.webp?v=0d3f8de63ac5",
+      "original": "characters-data/natori/original.webp?v=677fbc4f08b3"
+    }
+  },
+  {
+    "id": "shiika",
+    "name": "シイカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "162cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "雨雲をつくる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/shiika/portrait.webp?v=6aa5977d037c",
+      "original": "characters-data/shiika/original.webp?v=6053da10558e"
+    }
+  },
+  {
+    "id": "yayoi",
+    "name": "ヤヨイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "ゴムになる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/yayoi/portrait.webp?v=7cd21f9617a9",
+      "original": "characters-data/yayoi/original.webp?v=8fb57c3d25c7"
+    }
+  },
+  {
+    "id": "hiyoko",
+    "name": "ヒヨコ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "156cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "勉強サークル"
+      },
+      {
+        "label": "能力",
+        "value": "土を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hiyoko/portrait.webp?v=f93da200a4c3",
+      "original": "characters-data/hiyoko/original.webp?v=310610d95949"
+    }
+  },
+  {
+    "id": "soi",
+    "name": "ソイ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "173cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "薬学サークル"
+      },
+      {
+        "label": "立場",
+        "value": "薬学サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "一日一回の不死身"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/soi/portrait.webp?v=2859104355e1",
+      "original": "characters-data/soi/original.webp?v=23e6373f0343"
+    }
+  },
+  {
+    "id": "an",
+    "name": "アン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "薬学サークル"
+      },
+      {
+        "label": "能力",
+        "value": "毒を蓄積する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/an/portrait.webp?v=a7a417d12e51",
+      "original": "characters-data/an/original.webp?v=8b28f53e0826"
+    }
+  },
+  {
+    "id": "hat",
+    "name": "ハット",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "182cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "演劇サークル"
+      },
+      {
+        "label": "立場",
+        "value": "演劇サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "体感速度を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hat/portrait.webp?v=7d5a5db77b22",
+      "original": "characters-data/hat/original.webp?v=317fe038acd6"
+    }
+  },
+  {
+    "id": "mane",
+    "name": "マーネ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "演劇サークル"
+      },
+      {
+        "label": "能力",
+        "value": "水を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/mane/portrait.webp?v=78282361b7d2",
+      "original": "characters-data/mane/original.webp?v=8af4a17d0800"
+    }
+  },
+  {
+    "id": "himeyuri",
+    "name": "ヒメユリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "178cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "演劇サークル"
+      },
+      {
+        "label": "能力",
+        "value": "人の感情を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/himeyuri/portrait.webp?v=027d88e22996",
+      "original": "characters-data/himeyuri/original.webp?v=15eb2416a572"
+    }
+  },
+  {
+    "id": "balalaika",
+    "name": "バラライカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "172cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "軍事サークル"
+      },
+      {
+        "label": "立場",
+        "value": "軍事サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "体を銃器に変える"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/balalaika/portrait.webp?v=20331b9685de",
+      "original": "characters-data/balalaika/original.webp?v=3dbd8531ac80"
+    }
+  },
+  {
+    "id": "serena",
+    "name": "セレナ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "186cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "保健委員会"
+      },
+      {
+        "label": "立場",
+        "value": "保健委員会会長・生徒会役員"
+      },
+      {
+        "label": "能力",
+        "value": "傷を与えると傷が癒える"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/serena/portrait.webp?v=b66d63b78620",
+      "original": "characters-data/serena/original.webp?v=12f3c7bfc7e3"
+    }
+  },
+  {
+    "id": "rindou",
+    "name": "リンドウ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "保健委員会"
+      },
+      {
+        "label": "能力",
+        "value": "物と物をくっつける"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/rindou/portrait.webp?v=d0b873d6e798",
+      "original": "characters-data/rindou/original.webp?v=7f71ff823bd9"
+    }
+  },
+  {
+    "id": "helios",
+    "name": "ヘリオス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "保健委員会"
+      },
+      {
+        "label": "能力",
+        "value": "動物を惹きつける"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/helios/portrait.webp?v=d4b9d148472b",
+      "original": "characters-data/helios/original.webp?v=6bd395997bd2"
+    }
+  },
+  {
+    "id": "darkness",
+    "name": "ダークネス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "185cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "医学サークル"
+      },
+      {
+        "label": "立場",
+        "value": "医学サークル部長・反生徒会連合リーダー"
+      },
+      {
+        "label": "能力",
+        "value": "生命を創造する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/darkness/portrait.webp?v=20a51ad6e335",
+      "original": "characters-data/darkness/original.webp?v=107fed962f67"
+    }
+  },
+  {
+    "id": "luka",
+    "name": "ルカ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "168cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "医学サークル"
+      },
+      {
+        "label": "能力",
+        "value": "血液を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/luka/portrait.webp?v=447a293eb1d1",
+      "original": "characters-data/luka/original.webp?v=78e644c9ee72"
+    }
+  },
+  {
+    "id": "dream",
+    "name": "ドリーム",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "188cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "ナイトクラブ"
+      },
+      {
+        "label": "立場",
+        "value": "ナイトクラブ部長"
+      },
+      {
+        "label": "能力",
+        "value": "アルコールを操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/dream/portrait.webp?v=719cc41f0368",
+      "original": "characters-data/dream/original.webp?v=f5ce6a346730"
+    }
+  },
+  {
+    "id": "satera",
+    "name": "サテラ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "174cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "ナイトクラブ"
+      },
+      {
+        "label": "能力",
+        "value": "煙を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/satera/portrait.webp?v=39a193cbed78",
+      "original": "characters-data/satera/original.webp?v=29c16e6c1607"
+    }
+  },
+  {
+    "id": "matsumaro",
+    "name": "マツマロ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "187cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "茶道サークル"
+      },
+      {
+        "label": "立場",
+        "value": "茶道サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "気圧を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/matsumaro/portrait.webp?v=af50926c0ed4",
+      "original": "characters-data/matsumaro/original.webp?v=1acfd8bb10be"
+    }
+  },
+  {
+    "id": "ganashu",
+    "name": "がなしゅ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "170cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "メイドカフェ"
+      },
+      {
+        "label": "立場",
+        "value": "メイドカフェ部長"
+      },
+      {
+        "label": "能力",
+        "value": "傷が侵食する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ganashu/portrait.webp?v=d65756ae351f",
+      "original": "characters-data/ganashu/original.webp?v=2683995dfa97"
+    }
+  },
+  {
+    "id": "nine",
+    "name": "ナイン",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "190cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "野球サークル"
+      },
+      {
+        "label": "立場",
+        "value": "野球サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "攻撃が必中する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/nine/portrait.webp?v=e743910c5f51",
+      "original": "characters-data/nine/original.webp?v=3771066172d8"
+    }
+  },
+  {
+    "id": "ripia",
+    "name": "リピア",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "園芸サークル"
+      },
+      {
+        "label": "立場",
+        "value": "園芸サークル部長"
+      },
+      {
+        "label": "能力",
+        "value": "大地と一体化する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ripia/portrait.webp?v=04a0103e5a3f",
+      "original": "characters-data/ripia/original.webp?v=f75e70ba3977"
+    }
+  },
+  {
+    "id": "daiya",
+    "name": "ダイヤ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "177cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "衝撃波を起こす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/daiya/portrait.webp?v=978e54e3f17f",
+      "original": "characters-data/daiya/original.webp?v=0b7eac6003a8"
+    }
+  },
+  {
+    "id": "aqua",
+    "name": "アクア",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "5分後の予言"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/aqua/portrait.webp?v=d1cf4193cc9c",
+      "original": "characters-data/aqua/original.webp?v=943ba6a75399"
+    }
+  },
+  {
+    "id": "ruby",
+    "name": "ルビー",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "162cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "相手の動きを遅くする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/ruby/portrait.webp?v=c55a06d0a57a",
+      "original": "characters-data/ruby/original.webp?v=bd7b1fecf3cb"
+    }
+  },
+  {
+    "id": "garnet",
+    "name": "ガーネット",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "160cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "金属の爪をのばす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/garnet/portrait.webp?v=dde5d9e72e8e",
+      "original": "characters-data/garnet/original.webp?v=1955fa1dabc9"
+    }
+  },
+  {
+    "id": "emerald",
+    "name": "エメラルド",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "179cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "物質を浮かせる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/emerald/portrait.webp?v=bcdfb1145cf2",
+      "original": "characters-data/emerald/original.webp?v=c95ae48242fc"
+    }
+  },
+  {
+    "id": "spinel",
+    "name": "スピネル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "155cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "能力",
+        "value": "ドロドロの化け物に変身する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/spinel/portrait.webp?v=f9312cb9b631",
+      "original": "characters-data/spinel/original.webp?v=2296d793cd6a"
+    }
+  },
+  {
+    "id": "menou",
+    "name": "メノウ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "190cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "5"
+      },
+      {
+        "label": "所属",
+        "value": "遊び人サークル"
+      },
+      {
+        "label": "立場",
+        "value": "部長"
+      },
+      {
+        "label": "能力",
+        "value": "相手を支配する"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/menou/portrait.webp?v=9738fb3951f6",
+      "original": "characters-data/menou/original.webp?v=ed3a94f6ef1f"
+    }
+  },
+  {
+    "id": "sickness",
+    "name": "シックネス",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "174cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "医学サークル"
+      },
+      {
+        "label": "能力",
+        "value": "影を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/sickness/portrait.webp?v=be4b86d2ed08",
+      "original": "characters-data/sickness/original.webp?v=1779f32dc617"
+    }
+  },
+  {
+    "id": "wasabi",
+    "name": "ワサビ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "150cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "茶道サークル"
+      },
+      {
+        "label": "能力",
+        "value": "悪霊を飼う"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/wasabi/portrait.webp?v=f08a64a9ef68",
+      "original": "characters-data/wasabi/original.webp?v=71b71384989d"
+    }
+  },
+  {
+    "id": "nanahachi",
+    "name": "ナナハチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "190cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "2"
+      },
+      {
+        "label": "所属",
+        "value": "野球サークル"
+      },
+      {
+        "label": "能力",
+        "value": "手足を伸ばす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/nanahachi/portrait.webp?v=4a288c95c884",
+      "original": "characters-data/nanahachi/original.webp?v=11830432486f"
+    }
+  },
+  {
+    "id": "pop",
+    "name": "ぽっぷ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "149cm"
+      },
+      {
+        "label": "性別",
+        "value": "女"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "メイドカフェ"
+      },
+      {
+        "label": "能力",
+        "value": "静電気を起こす"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/pop/portrait.webp?v=ae47d0078067",
+      "original": "characters-data/pop/original.webp?v=58e92c003020"
+    }
+  },
+  {
+    "id": "jekyll",
+    "name": "ジキル",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "園芸サークル"
+      },
+      {
+        "label": "能力",
+        "value": "距離を遠ざける"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/jekyll/portrait.webp?v=bfa66cca3594",
+      "original": "characters-data/jekyll/original.webp?v=db70f104f5dc"
+    }
+  },
+  {
+    "id": "hyde",
+    "name": "ハイド",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "176cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "園芸サークル"
+      },
+      {
+        "label": "能力",
+        "value": "距離を近づける"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/hyde/portrait.webp?v=ad77307cfbc7",
+      "original": "characters-data/hyde/original.webp?v=db70f104f5dc"
+    }
+  },
+  {
+    "id": "senichi",
+    "name": "センイチ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "三年生"
+      },
+      {
+        "label": "身長",
+        "value": "180cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "4"
+      },
+      {
+        "label": "所属",
+        "value": "購買委員会"
+      },
+      {
+        "label": "立場",
+        "value": "購買委員会会長"
+      },
+      {
+        "label": "能力",
+        "value": "お金を食べると強くなる"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/senichi/portrait.webp?v=6f8bf66914e5",
+      "original": "characters-data/senichi/original.webp?v=e76da8091ea9"
+    }
+  },
+  {
+    "id": "tatohane",
+    "name": "タトハネ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "二年生"
+      },
+      {
+        "label": "身長",
+        "value": "179cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "3"
+      },
+      {
+        "label": "所属",
+        "value": "購買委員会"
+      },
+      {
+        "label": "能力",
+        "value": "炎を操る"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/tatohane/portrait.webp?v=474501fe3d92",
+      "original": "characters-data/tatohane/original.webp?v=2592ac6158fb"
+    }
+  },
+  {
+    "id": "mukuri",
+    "name": "ムクリ",
+    "facts": [
+      {
+        "label": "学年",
+        "value": "一年生"
+      },
+      {
+        "label": "身長",
+        "value": "167cm"
+      },
+      {
+        "label": "性別",
+        "value": "男"
+      },
+      {
+        "label": "Grade",
+        "value": "1"
+      },
+      {
+        "label": "所属",
+        "value": "購買委員会"
+      },
+      {
+        "label": "能力",
+        "value": "手際を良くする"
+      }
+    ],
+    "images": {
+      "portrait": "characters-data/mukuri/portrait.webp?v=2d6cd66ada91",
+      "original": "characters-data/mukuri/original.webp?v=5b6d5cc7aed5"
+    }
+  }
+]

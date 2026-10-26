@@ -53,6 +53,51 @@
       "file": "assets/bgm/reflection.mp3",
       "peak": 0.4129,
       "composition": "Original 16-bar composition and synthesis by tools/generate_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "underground",
+      "title": "石の下の静寂",
+      "bpm": 68,
+      "duration": 28.235294117647058,
+      "file": "assets/bgm/underground.mp3",
+      "peak": 0.3552,
+      "composition": "Original composition and additive synthesis by tools/generate_chapter2_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "forest-battle",
+      "title": "木陰を駆ける",
+      "bpm": 144,
+      "duration": 13.333333333333334,
+      "file": "assets/bgm/forest-battle.mp3",
+      "peak": 0.3162,
+      "composition": "Original composition and additive synthesis by tools/generate_chapter2_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "festival",
+      "title": "帝国創立記念日",
+      "bpm": 108,
+      "duration": 17.77777777777778,
+      "file": "assets/bgm/festival.mp3",
+      "peak": 0.3264,
+      "composition": "Original composition and additive synthesis by tools/generate_chapter2_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "finale",
+      "title": "幸運の檻を越えて",
+      "bpm": 138,
+      "duration": 13.91304347826087,
+      "file": "assets/bgm/finale.mp3",
+      "peak": 0.3286,
+      "composition": "Original composition and additive synthesis by tools/generate_chapter2_bgm.py; no third-party recordings."
+    },
+    {
+      "id": "homecoming",
+      "title": "晴れた明日も",
+      "bpm": 88,
+      "duration": 21.818181818181817,
+      "file": "assets/bgm/homecoming.mp3",
+      "peak": 0.3375,
+      "composition": "Original composition and additive synthesis by tools/generate_chapter2_bgm.py; no third-party recordings."
     }
   ]
 }

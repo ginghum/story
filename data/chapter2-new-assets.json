@@ -1,0 +1,341 @@
+{
+  "assets": [
+    {
+      "file": "assets/characters/milk-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of milk. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "milk"
+    },
+    {
+      "file": "assets/characters/minus-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of minus. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "minus"
+    },
+    {
+      "file": "assets/characters/sigma-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of sigma. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "sigma"
+    },
+    {
+      "file": "assets/characters/ruto-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of ruto. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "ruto"
+    },
+    {
+      "file": "assets/characters/bug-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of bug. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "bug"
+    },
+    {
+      "file": "assets/characters/wan-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of wan. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "wan"
+    },
+    {
+      "file": "assets/characters/vine-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of vine. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "vine"
+    },
+    {
+      "file": "assets/characters/beret-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of beret. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "beret"
+    },
+    {
+      "file": "assets/characters/leorka-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of leorka. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "leorka"
+    },
+    {
+      "file": "assets/characters/torie-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of torie. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "torie"
+    },
+    {
+      "file": "assets/characters/deji-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of deji. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "deji"
+    },
+    {
+      "file": "assets/characters/dankachi-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of dankachi. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "dankachi"
+    },
+    {
+      "file": "assets/characters/jend-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of jend. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "jend"
+    },
+    {
+      "file": "assets/characters/will-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of will. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "will"
+    },
+    {
+      "file": "assets/characters/kagachi-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of kagachi. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "kagachi"
+    },
+    {
+      "file": "assets/characters/oriha-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of oriha. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "oriha"
+    },
+    {
+      "file": "assets/characters/bonbori-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of bonbori. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "bonbori"
+    },
+    {
+      "file": "assets/characters/hoozuki-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of hoozuki. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "hoozuki"
+    },
+    {
+      "file": "assets/characters/empress-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of empress. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "empress"
+    },
+    {
+      "file": "assets/characters/serena-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of serena. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "serena"
+    },
+    {
+      "file": "assets/characters/ashara-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of ashara. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "ashara"
+    },
+    {
+      "file": "assets/characters/mu-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of mu. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "mu"
+    },
+    {
+      "file": "assets/characters/clarine-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of clarine. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "clarine"
+    },
+    {
+      "file": "assets/characters/tsukichiyo-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of tsukichiyo. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "tsukichiyo"
+    },
+    {
+      "file": "assets/characters/titan-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of titan. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "titan"
+    },
+    {
+      "file": "assets/characters/tanaka-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of tanaka. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "tanaka"
+    },
+    {
+      "file": "assets/characters/minus-masked-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of minus-masked. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "minus-masked"
+    },
+    {
+      "file": "assets/characters/x-suspended-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of x-suspended. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "x-suspended"
+    },
+    {
+      "file": "assets/characters/milk-worried.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of milk-worried. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "milk-worried"
+    },
+    {
+      "file": "assets/characters/milk-smile.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of milk-smile. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "milk-smile"
+    },
+    {
+      "file": "assets/characters/beret-serious.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of beret-serious. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "beret-serious"
+    },
+    {
+      "file": "assets/characters/deji-worried.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of deji-worried. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "deji-worried"
+    },
+    {
+      "file": "assets/characters/beret-past-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of beret-past. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "beret-past"
+    },
+    {
+      "file": "assets/characters/lance-armored-neutral.webp",
+      "type": "sprite",
+      "method": "built-in image_gen",
+      "prompt": "Canonical identity-preserving full-body visual novel sprite of lance-armored. Preserve face, hair and eye colors, build, outfit, and complete feet. Real transparent alpha background, no text. Neutral pose except for the specified expression or costume variant.",
+      "variant": "lance-armored"
+    },
+    {
+      "file": "assets/bg/ch2-prison.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of prison, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "prison"
+    },
+    {
+      "file": "assets/bg/ch2-forest.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of forest, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "forest"
+    },
+    {
+      "file": "assets/bg/ch2-gallery.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of gallery, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "gallery"
+    },
+    {
+      "file": "assets/bg/ch2-throne.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of throne, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "throne"
+    },
+    {
+      "file": "assets/bg/ch2-atelier.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of atelier, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "atelier"
+    },
+    {
+      "file": "assets/bg/ch2-council.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of council, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "council"
+    },
+    {
+      "file": "assets/bg/ch2-shelter.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of shelter, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "shelter"
+    },
+    {
+      "file": "assets/bg/ch2-restaurant.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of restaurant, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "restaurant"
+    },
+    {
+      "file": "assets/bg/ch2-construction.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of construction, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "construction"
+    },
+    {
+      "file": "assets/bg/ch2-karaoke.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of karaoke, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "karaoke"
+    },
+    {
+      "file": "assets/bg/ch2-rain.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of rain, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "rain"
+    },
+    {
+      "file": "assets/bg/ch2-forest-day.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of forest-day, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "forest-day"
+    },
+    {
+      "file": "assets/bg/ch2-memory-room.webp",
+      "type": "bg",
+      "method": "built-in image_gen",
+      "prompt": "Create a detailed empty painterly anime background of memory-room, coherent gothic fantasy academy architecture, wide 16:9, no people or text.",
+      "variant": "memory-room"
+    }
+  ],
+  "notes": [
+    "Neutral sprites derive from the matching START character portrait; expression variants preserve that identity.",
+    "X suspension variant retains brown hair, blue eyes, light blue shirt and grey trousers; no robe.",
+    "Past Beret derives from chapter2-episode23-b-longhair.webp; no school robe or red beret.",
+    "Lance armor derives from chapter2-episode22-b.webp.",
+    "Existing prose CGs are reused by canonical URL, preserving concurrent prose illustration updates.",
+    "All generated images were inspected; one malformed WebP encode was replaced and all final files decode successfully."
+  ]
+}

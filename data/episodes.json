@@ -193,6 +193,198 @@
       "image": "assets/cg/extra5-lusai-handshake.webp",
       "description": "君と並んで、歩いていた",
       "collection": "extras"
+    },
+    {
+      "id": "chapter2-episode1",
+      "title": "第2章　第1話　雨がやむまで、ここにいよう",
+      "file": "data/chapter2-episode1.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode1-a-handbook-v2.webp",
+      "description": "昇格した日の午後、道に迷った少女と雨を待つ。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode2",
+      "title": "第2章　第2話　あの優しさまで、嘘なのか",
+      "file": "data/chapter2-episode2.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode2-a.webp",
+      "description": "創立記念日の告知。画面の向こうに、知っている顔がある。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode3",
+      "title": "第2章　第3話　気のせいならば、それでいい",
+      "file": "data/chapter2-episode3.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode3-a.webp",
+      "description": "敗れた生徒を追い、プラスは地下の鉄格子へ辿り着く。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode4",
+      "title": "第2章　第4話　助けたいのに、動けない",
+      "file": "data/chapter2-episode4.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode4-a.webp",
+      "description": "助けるための手が届かない。仮面の人物と地下を走る。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode5",
+      "title": "第2章　第5話　何も知らずには、戻れない",
+      "file": "data/chapter2-episode5.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode5-a-v2.webp",
+      "description": "女帝と捕食の真実。知ってしまったあとで、何を選ぶのか。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode6",
+      "title": "第2章　第6話　いつもより少し、遅いだけ",
+      "file": "data/chapter2-episode6.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode6-a.webp",
+      "description": "帰ってこない同居人を捜し、二人は夜の裏山へ。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode7",
+      "title": "第2章　第7話　せっかくだから、付き合って",
+      "file": "data/chapter2-episode7.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-a.webp",
+      "description": "ユージが足を踏み入れた夜。遊びの続きへ、爆発が割り込む。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode8",
+      "title": "第2章　第8話　その続きを、ぶっ飛ばす",
+      "file": "data/chapter2-episode8.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "description": "友達へ伸ばした手を離さず、暗い森の戦いを終わらせる。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode9",
+      "title": "第2章　第9話　本当のことは、載っていない",
+      "file": "data/chapter2-episode9.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode9-a.webp",
+      "description": "自分たちが見た出来事と、新聞に載らないこと。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode10",
+      "title": "第2章　第10話　立ち話も、なんですから",
+      "file": "data/chapter2-episode10.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode10-a.webp",
+      "description": "美術の廊下を出た先で、温かい料理と新しい問いに出会う。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode11",
+      "title": "第2章　第11話　ここでは私も、笑わなくては",
+      "file": "data/chapter2-episode11.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode11-a.webp",
+      "description": "笑顔を求められる皇女が、姉のいる地下へ降りる。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode12",
+      "title": "第2章　第12話　話したいことが、増えていた",
+      "file": "data/chapter2-episode12.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode12-a.webp",
+      "description": "食卓で聞いたことを持ち帰り、病室で話を合わせる。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode13",
+      "title": "第2章　第13話　寄り道くらい、いいでしょう",
+      "file": "data/chapter2-episode13.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode13-intro.webp",
+      "description": "退院したランスの寄り道。祭典の準備と、展示への誘い。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode14",
+      "title": "第2章　第14話　これを綺麗と、呼べるのか",
+      "file": "data/chapter2-episode14.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode14-a.webp",
+      "description": "美しい展示の向こうに隠された、赤い木のある部屋。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode15",
+      "title": "第2章　第15話　見なかったことには、できなくて",
+      "file": "data/chapter2-episode15.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode15-intro.webp",
+      "description": "建設の仕事を手伝ったコンケが、見過ごせない声を聞く。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode16",
+      "title": "第2章　第16話　全部話せば、間に合うか",
+      "file": "data/chapter2-episode16.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode16-a-handbook-v2.webp",
+      "description": "六人分の手帳と、デヂが抱え込んでいた過去。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode17",
+      "title": "第2章　第17話　そこを少し、どいてくれ",
+      "file": "data/chapter2-episode17.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-a.webp",
+      "description": "いなくなったダンカチを捜し、アトリエの扉を押す。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode18",
+      "title": "第2章　第18話　私にできることは、ありますか",
+      "file": "data/chapter2-episode18.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode18-a.webp",
+      "description": "ミルクが差し出す協力と、自分で選ぶ決闘の条件。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode19",
+      "title": "第2章　第19話　終わったら、みんなで行こう",
+      "file": "data/chapter2-episode19.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode19-a-handbook-v2.webp",
+      "description": "明日の約束を、狭い寮室と夜の練習場で重ねる。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode20",
+      "title": "第2章　第20話　さあ皆様、ご覧ください",
+      "file": "data/chapter2-episode20.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-a.webp",
+      "description": "帝国創立記念日。華やかな舞台で、少女を送り出す。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode21",
+      "title": "第2章　第21話　あなたの幸運は、誰かの不幸",
+      "file": "data/chapter2-episode21.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+      "description": "当たらない拳の理由を探し、仲間たちが星を確かめる。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode22",
+      "title": "第2章　第22話　まだこちらも、終わっていない",
+      "file": "data/chapter2-episode22.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+      "description": "競技場と客席。それぞれの戦いは、まだ終わっていない。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode23",
+      "title": "第2章　第23話　誰も私を、見なかった",
+      "file": "data/chapter2-episode23.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-a.webp",
+      "description": "失われていく幸運と、誰にも見てもらえなかった作品。",
+      "collection": "chapter2"
+    },
+    {
+      "id": "chapter2-episode24",
+      "title": "第2章　第24話　晴れた明日も、一緒にいよう",
+      "file": "data/chapter2-episode24.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode24-a.webp",
+      "description": "残った仕事を終え、五人で晴れた日の約束を果たす。",
+      "collection": "chapter2"
     }
   ]
 }

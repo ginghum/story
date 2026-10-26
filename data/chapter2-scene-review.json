@@ -1,0 +1,4609 @@
+{
+  "chapter2-episode1": [
+    {
+      "scene": 1,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        0,
+        126
+      ],
+      "speakers": [
+        "プラス",
+        "ウィル",
+        "ユージ"
+      ],
+      "transition": "major",
+      "bgm": "battle"
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        127,
+        336
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ツクリ",
+        "ドーマ",
+        "ウィル"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        337,
+        417
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "旧校舎／不良サークル",
+      "background": "gumon-office",
+      "entries": [
+        418,
+        496
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "オーガ",
+        "グモン"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        497,
+        705
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "学園／雨宿りの軒下",
+      "background": "ch2-rain",
+      "entries": [
+        706,
+        1011
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode2": [
+    {
+      "scene": 1,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        0,
+        47
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 2,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        48,
+        115
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク",
+        "イトグチ",
+        "セレナ",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        116,
+        212
+      ],
+      "speakers": [
+        "ジャッジ",
+        "アシャラ",
+        "ミュー",
+        "セレナ",
+        "タイタン",
+        "タナカ",
+        "クラリーヌ",
+        "イトグチ",
+        "ベレー",
+        "ツキチヨ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        213,
+        287
+      ],
+      "speakers": [
+        "ミルク",
+        "セレナ",
+        "イトグチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 5,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        288,
+        429
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        430,
+        492
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        493,
+        578
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        579,
+        651
+      ],
+      "speakers": [
+        "プラス",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 9,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        652,
+        742
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode3": [
+    {
+      "scene": 1,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        0,
+        95
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        96,
+        204
+      ],
+      "speakers": [
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        205,
+        278
+      ],
+      "speakers": [
+        "プラス",
+        "ジャッジ"
+      ],
+      "transition": "major",
+      "bgm": "underground"
+    },
+    {
+      "scene": 4,
+      "location": "回想／寮裏の能力練習場",
+      "background": "training",
+      "entries": [
+        279,
+        418
+      ],
+      "speakers": [
+        "プラス",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 5,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        419,
+        532
+      ],
+      "speakers": [
+        "ジャッジ",
+        "ジェンド"
+      ],
+      "transition": "major",
+      "bgm": "underground"
+    },
+    {
+      "scene": 6,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        533,
+        718
+      ],
+      "speakers": [
+        "ジェンド"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    },
+    {
+      "scene": 7,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        719,
+        793
+      ],
+      "speakers": [
+        "ジェンド"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    }
+  ],
+  "chapter2-episode4": [
+    {
+      "scene": 1,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        0,
+        85
+      ],
+      "speakers": [
+        "ジェンド"
+      ],
+      "transition": "major",
+      "bgm": "underground"
+    },
+    {
+      "scene": 2,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        86,
+        181
+      ],
+      "speakers": [
+        "ジェンド",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    },
+    {
+      "scene": 3,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        182,
+        279
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "underground"
+    },
+    {
+      "scene": 4,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        280,
+        380
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    },
+    {
+      "scene": 5,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        381,
+        464
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "major",
+      "bgm": "underground"
+    },
+    {
+      "scene": 6,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        465,
+        559
+      ],
+      "speakers": [
+        "マイナス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    },
+    {
+      "scene": 7,
+      "location": "地下牢／鉄格子の通路",
+      "background": "ch2-prison",
+      "entries": [
+        560,
+        664
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "underground"
+    },
+    {
+      "scene": 8,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        665,
+        748
+      ],
+      "speakers": [
+        "シグマ",
+        "マイナス",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    }
+  ],
+  "chapter2-episode5": [
+    {
+      "scene": 1,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        0,
+        30
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス",
+        "シグマ"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 2,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        31,
+        99
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス",
+        "シグマ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 3,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        100,
+        156
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 4,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        157,
+        243
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 5,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        244,
+        301
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 6,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        302,
+        395
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 7,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        396,
+        443
+      ],
+      "speakers": [
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 8,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        444,
+        585
+      ],
+      "speakers": [
+        "グモン",
+        "プラス",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "地下／避難した部屋",
+      "background": "ch2-shelter",
+      "entries": [
+        586,
+        687
+      ],
+      "speakers": [
+        "プラス",
+        "シグマ",
+        "マイナス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 10,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        688,
+        746
+      ],
+      "speakers": [],
+      "transition": "major",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode6": [
+    {
+      "scene": 1,
+      "location": "図書館／閲覧室",
+      "background": "library",
+      "entries": [
+        0,
+        41
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 2,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        42,
+        91
+      ],
+      "speakers": [
+        "バルー",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "学生寮／寮室",
+      "background": "dorm",
+      "entries": [
+        92,
+        153
+      ],
+      "speakers": [
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        154,
+        242
+      ],
+      "speakers": [
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 5,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        243,
+        276
+      ],
+      "speakers": [
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        277,
+        357
+      ],
+      "speakers": [
+        "プラス",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 7,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        358,
+        423
+      ],
+      "speakers": [
+        "バグ",
+        "プラス",
+        "ランス",
+        "ヴァイン"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 8,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        424,
+        498
+      ],
+      "speakers": [
+        "バグ",
+        "プラス",
+        "ヴァイン",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 9,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        499,
+        633
+      ],
+      "speakers": [
+        "バグ",
+        "ランス",
+        "プラス",
+        "ヴァイン"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    }
+  ],
+  "chapter2-episode7": [
+    {
+      "scene": 1,
+      "location": "回想／同じ日の夕方・図書館",
+      "background": "library",
+      "entries": [
+        0,
+        54
+      ],
+      "speakers": [
+        "ユージ"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 2,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        55,
+        103
+      ],
+      "speakers": [
+        "ワン",
+        "ユージ"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        104,
+        174
+      ],
+      "speakers": [
+        "ユージ",
+        "ワン",
+        "バグ",
+        "ヴァイン"
+      ],
+      "transition": "major",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 4,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        175,
+        229
+      ],
+      "speakers": [
+        "ルト",
+        "ワン",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 5,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        230,
+        308
+      ],
+      "speakers": [
+        "ルト",
+        "ユージ",
+        "ワン"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 6,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        309,
+        388
+      ],
+      "speakers": [
+        "ユージ",
+        "レオルカ",
+        "ルト",
+        "ワン"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 7,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        389,
+        518
+      ],
+      "speakers": [
+        "ルト",
+        "レオルカ",
+        "ユージ",
+        "ワン"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 8,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        519,
+        596
+      ],
+      "speakers": [
+        "ユージ",
+        "ワン",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 9,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        597,
+        744
+      ],
+      "speakers": [
+        "レオルカ",
+        "ユージ",
+        "ワン",
+        "ルト",
+        "プラス",
+        "ランス",
+        "バグ",
+        "ヴァイン"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    }
+  ],
+  "chapter2-episode8": [
+    {
+      "scene": 1,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        0,
+        73
+      ],
+      "speakers": [
+        "プラス",
+        "レオルカ",
+        "ランス",
+        "バグ",
+        "ヴァイン"
+      ],
+      "transition": "major",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 2,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        74,
+        134
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "バグ",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 3,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        135,
+        206
+      ],
+      "speakers": [
+        "プラス",
+        "バグ",
+        "ランス",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 4,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        207,
+        270
+      ],
+      "speakers": [
+        "ワン",
+        "ユージ",
+        "ルト"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 5,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        271,
+        390
+      ],
+      "speakers": [
+        "レオルカ",
+        "バグ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 6,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        391,
+        467
+      ],
+      "speakers": [
+        "プラス",
+        "バグ",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 7,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        468,
+        503
+      ],
+      "speakers": [
+        "レオルカ",
+        "ルト"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 8,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        504,
+        585
+      ],
+      "speakers": [
+        "レオルカ",
+        "プラス",
+        "バグ",
+        "ルト",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 9,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        586,
+        658
+      ],
+      "speakers": [
+        "ヴァイン",
+        "プラス",
+        "バグ",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 10,
+      "location": "裏山／夜の広場",
+      "background": "ch2-forest",
+      "entries": [
+        659,
+        678
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "forest-battle"
+    },
+    {
+      "scene": 11,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        679,
+        727
+      ],
+      "speakers": [
+        "バグ",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 12,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        728,
+        801
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode9": [
+    {
+      "scene": 1,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        0,
+        16
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "新聞部／部室",
+      "background": "newsroom",
+      "entries": [
+        17,
+        76
+      ],
+      "speakers": [
+        "チック",
+        "ユーヒ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "新聞部／部室",
+      "background": "newsroom",
+      "entries": [
+        77,
+        159
+      ],
+      "speakers": [
+        "ユーヒ",
+        "プラス",
+        "チック"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "新聞部／部室",
+      "background": "newsroom",
+      "entries": [
+        160,
+        210
+      ],
+      "speakers": [
+        "プラス",
+        "チック",
+        "ユーヒ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 5,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        211,
+        231
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        232,
+        293
+      ],
+      "speakers": [
+        "プラス",
+        "ユージ",
+        "ランス",
+        "バグ",
+        "ルト",
+        "ワン",
+        "ヴァイン"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 7,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        294,
+        347
+      ],
+      "speakers": [
+        "ルト",
+        "ユージ",
+        "プラス",
+        "ワン",
+        "ヴァイン",
+        "バグ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 8,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        348,
+        412
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "ユージ",
+        "ルト",
+        "バグ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        413,
+        441
+      ],
+      "speakers": [
+        "ルト",
+        "ワン",
+        "ユージ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 10,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        442,
+        487
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 11,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        488,
+        529
+      ],
+      "speakers": [
+        "ヴァイン",
+        "ユージ",
+        "ワン",
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 12,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        530,
+        582
+      ],
+      "speakers": [
+        "ルト",
+        "プラス",
+        "バグ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode10": [
+    {
+      "scene": 1,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        0,
+        43
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 2,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        44,
+        71
+      ],
+      "speakers": [
+        "バグ",
+        "プラス",
+        "ルト"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "美術サークル／展示室",
+      "background": "ch2-gallery",
+      "entries": [
+        72,
+        150
+      ],
+      "speakers": [
+        "プラス",
+        "トリエ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        151,
+        259
+      ],
+      "speakers": [
+        "プラス",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        260,
+        302
+      ],
+      "speakers": [
+        "プラス",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        303,
+        360
+      ],
+      "speakers": [
+        "ボンボリ",
+        "プラス",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 7,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        361,
+        414
+      ],
+      "speakers": [
+        "ボンボリ",
+        "プラス",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 8,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        415,
+        468
+      ],
+      "speakers": [
+        "ボンボリ",
+        "プラス",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 9,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        469,
+        516
+      ],
+      "speakers": [
+        "プラス",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 10,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        517,
+        560
+      ],
+      "speakers": [
+        "プラス",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 11,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        561,
+        622
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 12,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        623,
+        681
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 13,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        682,
+        727
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ",
+        "ボンボリ",
+        "ホオズキ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 14,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        728,
+        802
+      ],
+      "speakers": [
+        "カガチ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 15,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        803,
+        876
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    }
+  ],
+  "chapter2-episode11": [
+    {
+      "scene": 1,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        0,
+        27
+      ],
+      "speakers": [],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        28,
+        84
+      ],
+      "speakers": [
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        85,
+        122
+      ],
+      "speakers": [
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        123,
+        154
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "回想／生徒会長代理に決まった日",
+      "background": "ch2-council",
+      "entries": [
+        155,
+        194
+      ],
+      "speakers": [
+        "イトグチ",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 6,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        195,
+        254
+      ],
+      "speakers": [
+        "ミルク",
+        "イトグチ"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        255,
+        289
+      ],
+      "speakers": [
+        "ミルク",
+        "イトグチ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        290,
+        311
+      ],
+      "speakers": [
+        "イトグチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 9,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        312,
+        353
+      ],
+      "speakers": [
+        "エンプレス",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 10,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        354,
+        385
+      ],
+      "speakers": [
+        "イトグチ",
+        "エンプレス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 11,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        386,
+        421
+      ],
+      "speakers": [
+        "ミルク",
+        "エンプレス",
+        "イトグチ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 12,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        422,
+        460
+      ],
+      "speakers": [
+        "エンプレス",
+        "イトグチ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 13,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        461,
+        494
+      ],
+      "speakers": [
+        "エンプレス",
+        "ジャッジ",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 14,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        495,
+        533
+      ],
+      "speakers": [
+        "ミルク",
+        "ジャッジ",
+        "エンプレス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 15,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        534,
+        568
+      ],
+      "speakers": [
+        "エンプレス",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 16,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        569,
+        614
+      ],
+      "speakers": [
+        "エンプレス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 17,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        615,
+        655
+      ],
+      "speakers": [
+        "エンプレス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 18,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        656,
+        713
+      ],
+      "speakers": [
+        "エンプレス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    }
+  ],
+  "chapter2-episode12": [
+    {
+      "scene": 1,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        0,
+        53
+      ],
+      "speakers": [
+        "カガチ",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 2,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        54,
+        95
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        96,
+        129
+      ],
+      "speakers": [
+        "カガチ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        130,
+        170
+      ],
+      "speakers": [
+        "カガチ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 5,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        171,
+        218
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 6,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        219,
+        252
+      ],
+      "speakers": [
+        "プラス",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 7,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        253,
+        289
+      ],
+      "speakers": [
+        "カガチ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 8,
+      "location": "美食サークル／レストラン",
+      "background": "ch2-restaurant",
+      "entries": [
+        290,
+        322
+      ],
+      "speakers": [
+        "ボンボリ",
+        "プラス",
+        "ホオズキ",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 9,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        323,
+        342
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 10,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        343,
+        383
+      ],
+      "speakers": [
+        "コンケ",
+        "ユージ",
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 11,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        384,
+        411
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 12,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        412,
+        451
+      ],
+      "speakers": [
+        "プラス",
+        "コンケ",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 13,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        452,
+        485
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 14,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        486,
+        516
+      ],
+      "speakers": [
+        "プラス",
+        "コンケ",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 15,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        517,
+        547
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 16,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        548,
+        592
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 17,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        593,
+        634
+      ],
+      "speakers": [
+        "ユージ",
+        "ランス",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 18,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        635,
+        668
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "コンケ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 19,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        669,
+        698
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 20,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        699,
+        741
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 21,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        742,
+        766
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 22,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        767,
+        797
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 23,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        798,
+        836
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "reflection"
+    }
+  ],
+  "chapter2-episode13": [
+    {
+      "scene": 1,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        0,
+        28
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "ユージ"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "学生寮／寮室",
+      "background": "dorm",
+      "entries": [
+        29,
+        60
+      ],
+      "speakers": [
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        61,
+        135
+      ],
+      "speakers": [
+        "ランス",
+        "ダンカチ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        136,
+        284
+      ],
+      "speakers": [
+        "ランス",
+        "ダンカチ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 5,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        285,
+        408
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        409,
+        545
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        546,
+        613
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode14": [
+    {
+      "scene": 1,
+      "location": "美術サークル／展示室",
+      "background": "ch2-gallery",
+      "entries": [
+        0,
+        38
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 2,
+      "location": "美術サークル／展示室",
+      "background": "ch2-gallery",
+      "entries": [
+        39,
+        155
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "美術サークル／展示室",
+      "background": "ch2-gallery",
+      "entries": [
+        156,
+        202
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        203,
+        333
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 5,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        334,
+        418
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 6,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        419,
+        525
+      ],
+      "speakers": [
+        "ランス",
+        "オリハ",
+        "ベレー",
+        "トリエ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 7,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        526,
+        570
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "校舎／夕暮れの休憩場所",
+      "background": "courtyard-tree",
+      "entries": [
+        571,
+        759
+      ],
+      "speakers": [
+        "オリハ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    }
+  ],
+  "chapter2-episode15": [
+    {
+      "scene": 1,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        0,
+        84
+      ],
+      "speakers": [
+        "ダンカチ",
+        "コンケ",
+        "デヂ"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        85,
+        139
+      ],
+      "speakers": [
+        "ダンカチ",
+        "コンケ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        140,
+        194
+      ],
+      "speakers": [
+        "ベレー",
+        "ダンカチ",
+        "デヂ",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 4,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        195,
+        245
+      ],
+      "speakers": [
+        "デヂ",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 5,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        246,
+        300
+      ],
+      "speakers": [
+        "ベレー",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 6,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        301,
+        351
+      ],
+      "speakers": [
+        "デヂ",
+        "ベレー",
+        "グモン"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 7,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        352,
+        404
+      ],
+      "speakers": [
+        "グモン",
+        "コンケ",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 8,
+      "location": "美術サークル／裏の通路",
+      "background": "old-school-corridor",
+      "entries": [
+        405,
+        442
+      ],
+      "speakers": [
+        "コンケ",
+        "デヂ",
+        "グモン",
+        "ダンカチ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 9,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        443,
+        504
+      ],
+      "speakers": [
+        "グモン",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 10,
+      "location": "旧校舎／不良サークル",
+      "background": "gumon-office",
+      "entries": [
+        505,
+        542
+      ],
+      "speakers": [
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 11,
+      "location": "中庭／祭典の準備",
+      "background": "courtyard",
+      "entries": [
+        543,
+        598
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 12,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        599,
+        620
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 13,
+      "location": "校舎／廊下",
+      "background": "corridor",
+      "entries": [
+        621,
+        658
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 14,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        659,
+        727
+      ],
+      "speakers": [
+        "ランス",
+        "コンケ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    }
+  ],
+  "chapter2-episode16": [
+    {
+      "scene": 1,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        0,
+        102
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 2,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        103,
+        140
+      ],
+      "speakers": [
+        "ダンカチ",
+        "ランス",
+        "プラス",
+        "コンケ"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 3,
+      "location": "裏山／昼の林",
+      "background": "ch2-forest-day",
+      "entries": [
+        141,
+        233
+      ],
+      "speakers": [
+        "ヴァイン",
+        "バグ",
+        "デヂ"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "裏山／排水路",
+      "background": "ch2-forest",
+      "entries": [
+        234,
+        340
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "デヂ",
+        "コンケ",
+        "バグ"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 5,
+      "location": "裏山／排水路",
+      "background": "ch2-forest",
+      "entries": [
+        341,
+        397
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "ヴァイン",
+        "バグ",
+        "コンケ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 6,
+      "location": "回想／建設委員会の作業場",
+      "background": "ch2-construction",
+      "entries": [
+        398,
+        490
+      ],
+      "speakers": [
+        "デヂ",
+        "ベレー"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 7,
+      "location": "回想／建設委員会の作業場",
+      "background": "ch2-construction",
+      "entries": [
+        491,
+        543
+      ],
+      "speakers": [
+        "ベレー",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 8,
+      "location": "裏山／排水路",
+      "background": "ch2-forest",
+      "entries": [
+        544,
+        652
+      ],
+      "speakers": [
+        "プラス",
+        "デヂ",
+        "ランス",
+        "コンケ",
+        "バグ",
+        "ヴァイン"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 9,
+      "location": "裏山／昼の林",
+      "background": "ch2-forest-day",
+      "entries": [
+        653,
+        675
+      ],
+      "speakers": [],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 10,
+      "location": "裏山／排水路",
+      "background": "ch2-forest",
+      "entries": [
+        676,
+        727
+      ],
+      "speakers": [
+        "プラス",
+        "デヂ",
+        "バグ",
+        "ヴァイン",
+        "コンケ"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 11,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        728,
+        780
+      ],
+      "speakers": [
+        "ダンカチ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 12,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        781,
+        820
+      ],
+      "speakers": [
+        "プラス",
+        "ダンカチ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 13,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        821,
+        855
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 14,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        856,
+        919
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "コンケ",
+        "デヂ"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    }
+  ],
+  "chapter2-episode17": [
+    {
+      "scene": 1,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "entries": [
+        0,
+        26
+      ],
+      "speakers": [
+        "コンケ",
+        "ランス",
+        "デヂ",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "calm"
+    },
+    {
+      "scene": 2,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        27,
+        111
+      ],
+      "speakers": [
+        "プラス",
+        "ベレー",
+        "ランス",
+        "デヂ",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 3,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        112,
+        189
+      ],
+      "speakers": [
+        "トリエ",
+        "コンケ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 4,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        190,
+        258
+      ],
+      "speakers": [
+        "ベレー",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 5,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        259,
+        323
+      ],
+      "speakers": [
+        "トリエ",
+        "プラス",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 6,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        324,
+        404
+      ],
+      "speakers": [
+        "プラス",
+        "ベレー",
+        "デヂ",
+        "コンケ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 7,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        405,
+        442
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        443,
+        483
+      ],
+      "speakers": [
+        "ダンカチ",
+        "デヂ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        484,
+        542
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス",
+        "デヂ",
+        "ダンカチ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode18": [
+    {
+      "scene": 1,
+      "location": "保健委員会／廊下",
+      "background": "corridor",
+      "entries": [
+        0,
+        63
+      ],
+      "speakers": [
+        "コンケ",
+        "ランス",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        64,
+        161
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        162,
+        274
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        275,
+        327
+      ],
+      "speakers": [
+        "ミルク",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        328,
+        416
+      ],
+      "speakers": [
+        "ベレー",
+        "プラス",
+        "ミルク",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        417,
+        497
+      ],
+      "speakers": [
+        "ジャッジ",
+        "ミルク",
+        "ベレー",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        498,
+        560
+      ],
+      "speakers": [
+        "プラス",
+        "ジャッジ",
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        561,
+        667
+      ],
+      "speakers": [
+        "プラス",
+        "ジャッジ",
+        "ミルク",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode19": [
+    {
+      "scene": 1,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        0,
+        77
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ルト",
+        "ランス",
+        "コンケ",
+        "デヂ",
+        "ダンカチ"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 2,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        78,
+        216
+      ],
+      "speakers": [
+        "デヂ",
+        "ランス",
+        "ダンカチ",
+        "プラス",
+        "コンケ",
+        "ルト",
+        "ワン",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 3,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        217,
+        241
+      ],
+      "speakers": [
+        "ミルク",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        242,
+        307
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ランス",
+        "コンケ",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 5,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        308,
+        346
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク",
+        "ユージ",
+        "コンケ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 6,
+      "location": "寮裏／能力練習場",
+      "background": "training-night",
+      "entries": [
+        347,
+        534
+      ],
+      "speakers": [
+        "ランス",
+        "ミルク",
+        "プラス",
+        "コンケ",
+        "ユージ"
+      ],
+      "transition": "inline",
+      "bgm": "training"
+    },
+    {
+      "scene": 7,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        535,
+        596
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ランス",
+        "ミルク",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        597,
+        630
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ユージ",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "夢／幼い日の少女",
+      "background": "dorm-night",
+      "entries": [
+        631,
+        657
+      ],
+      "speakers": [],
+      "transition": "major",
+      "bgm": "reflection"
+    }
+  ],
+  "chapter2-episode20": [
+    {
+      "scene": 1,
+      "location": "学生寮／寮室",
+      "background": "dorm",
+      "entries": [
+        0,
+        73
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        74,
+        128
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "カガチ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "中庭／祭典の準備",
+      "background": "courtyard",
+      "entries": [
+        129,
+        222
+      ],
+      "speakers": [
+        "ランス",
+        "プラス",
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "festival"
+    },
+    {
+      "scene": 4,
+      "location": "生徒会／会議室",
+      "background": "ch2-council",
+      "entries": [
+        223,
+        238
+      ],
+      "speakers": [
+        "エンプレス"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 5,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        239,
+        323
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "ミュー",
+        "ミルク",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        324,
+        364
+      ],
+      "speakers": [
+        "エンプレス",
+        "ジャッジ"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 7,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        365,
+        531
+      ],
+      "speakers": [
+        "ミュー",
+        "アシャラ",
+        "プラス",
+        "ランス",
+        "ユーヒ"
+      ],
+      "transition": "major",
+      "bgm": "finale"
+    },
+    {
+      "scene": 8,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        532,
+        572
+      ],
+      "speakers": [
+        "ランス",
+        "ミルク",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 9,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        573,
+        644
+      ],
+      "speakers": [
+        "ジャッジ",
+        "アシャラ",
+        "ミュー",
+        "プラス",
+        "ランス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 10,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        645,
+        735
+      ],
+      "speakers": [
+        "ミルク",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 11,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        736,
+        786
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    }
+  ],
+  "chapter2-episode21": [
+    {
+      "scene": 1,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        0,
+        24
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "finale"
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        25,
+        68
+      ],
+      "speakers": [
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        69,
+        109
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 4,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        110,
+        196
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        197,
+        236
+      ],
+      "speakers": [
+        "プラス",
+        "ランス",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        237,
+        276
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 7,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        277,
+        327
+      ],
+      "speakers": [
+        "コバル",
+        "オリハ",
+        "プラス",
+        "ゆきめろ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        328,
+        375
+      ],
+      "speakers": [
+        "ツクリ",
+        "プラス",
+        "ドーマ",
+        "ルサイ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 9,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        376,
+        444
+      ],
+      "speakers": [
+        "デヂ",
+        "バグ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 10,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        445,
+        477
+      ],
+      "speakers": [
+        "シグマ",
+        "プラス",
+        "ユーヒ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 11,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        478,
+        539
+      ],
+      "speakers": [
+        "ミルク",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 12,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        540,
+        581
+      ],
+      "speakers": [
+        "コンケ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 13,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        582,
+        621
+      ],
+      "speakers": [
+        "アシャラ",
+        "ミュー",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 14,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        622,
+        644
+      ],
+      "speakers": [
+        "ルサイ",
+        "デヂ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 15,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        645,
+        686
+      ],
+      "speakers": [
+        "トリエ",
+        "レオルカ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode22": [
+    {
+      "scene": 1,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        0,
+        36
+      ],
+      "speakers": [
+        "ミルク",
+        "ベレー"
+      ],
+      "transition": "major",
+      "bgm": "finale"
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        37,
+        84
+      ],
+      "speakers": [
+        "プラス",
+        "デヂ",
+        "バグ",
+        "オリハ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        85,
+        110
+      ],
+      "speakers": [
+        "ルサイ",
+        "ツクリ",
+        "ドーマ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        111,
+        194
+      ],
+      "speakers": [
+        "ランス",
+        "レオルカ",
+        "ゆきめろ",
+        "コバル"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        195,
+        217
+      ],
+      "speakers": [
+        "シグマ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        218,
+        351
+      ],
+      "speakers": [
+        "レオルカ",
+        "ランス",
+        "コバル"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        352,
+        468
+      ],
+      "speakers": [
+        "トリエ",
+        "プラス",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 8,
+      "location": "回想／トリエが追った作品",
+      "background": "ch2-gallery",
+      "entries": [
+        469,
+        541
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        542,
+        652
+      ],
+      "speakers": [
+        "トリエ",
+        "コンケ",
+        "プラス"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 10,
+      "location": "図書館／閲覧室",
+      "background": "library",
+      "entries": [
+        653,
+        678
+      ],
+      "speakers": [
+        "X"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 11,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        679,
+        746
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 12,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        747,
+        848
+      ],
+      "speakers": [
+        "プラス",
+        "X",
+        "ルサイ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 13,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        849,
+        866
+      ],
+      "speakers": [
+        "ツクリ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 14,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        867,
+        923
+      ],
+      "speakers": [
+        "ミルク",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    }
+  ],
+  "chapter2-episode23": [
+    {
+      "scene": 1,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        0,
+        19
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "major",
+      "bgm": "finale"
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        20,
+        36
+      ],
+      "speakers": [
+        "プラス",
+        "ツクリ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 3,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        37,
+        92
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 4,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        93,
+        118
+      ],
+      "speakers": [
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        119,
+        172
+      ],
+      "speakers": [
+        "ミルク",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 6,
+      "location": "回想／ベレーの生まれた街",
+      "background": "ch2-memory-room",
+      "entries": [
+        173,
+        395
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 7,
+      "location": "回想／ベレーの過去",
+      "background": "ch2-memory-room",
+      "entries": [
+        396,
+        528
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 8,
+      "location": "回想／ベレーの過去",
+      "background": "ch2-memory-room",
+      "entries": [
+        529,
+        606
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 9,
+      "location": "回想／領主の屋敷",
+      "background": "ch2-memory-room",
+      "entries": [
+        607,
+        700
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 10,
+      "location": "回想／ベレーの制作室",
+      "background": "ch2-memory-room",
+      "entries": [
+        701,
+        766
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 11,
+      "location": "回想／ベレーの制作室",
+      "background": "ch2-memory-room",
+      "entries": [
+        767,
+        832
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 12,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        833,
+        885
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "finale"
+    },
+    {
+      "scene": 13,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        886,
+        940
+      ],
+      "speakers": [
+        "バグ",
+        "デヂ",
+        "コバル",
+        "ランス",
+        "トリエ",
+        "レオルカ",
+        "ルサイ",
+        "X"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 14,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        941,
+        1002
+      ],
+      "speakers": [
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 15,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        1003,
+        1051
+      ],
+      "speakers": [
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 16,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        1052,
+        1083
+      ],
+      "speakers": [
+        "ランス",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 17,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        1084,
+        1178
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 18,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        1179,
+        1210
+      ],
+      "speakers": [
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 19,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        1211,
+        1238
+      ],
+      "speakers": [],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 20,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        1239,
+        1274
+      ],
+      "speakers": [
+        "ランス",
+        "コバル",
+        "X",
+        "ルサイ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 21,
+      "location": "闘技場／競技場",
+      "background": "arena-floor",
+      "entries": [
+        1275,
+        1292
+      ],
+      "speakers": [
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "finale"
+    },
+    {
+      "scene": 22,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        1293,
+        1334
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    }
+  ],
+  "chapter2-episode24": [
+    {
+      "scene": 1,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        0,
+        13
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 2,
+      "location": "回想／決着前の学生寮",
+      "background": "dorm",
+      "entries": [
+        14,
+        49
+      ],
+      "speakers": [
+        "ルト",
+        "ワン"
+      ],
+      "transition": "major",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 3,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        50,
+        74
+      ],
+      "speakers": [
+        "ジャッジ",
+        "ベレー",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "daily"
+    },
+    {
+      "scene": 4,
+      "location": "闘技場／観客席",
+      "background": "arena",
+      "entries": [
+        75,
+        112
+      ],
+      "speakers": [
+        "ウィル",
+        "コンケ",
+        "ランス",
+        "トリエ",
+        "レオルカ",
+        "ベレー"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 5,
+      "location": "闘技場／受付・通路",
+      "background": "arena-reception",
+      "entries": [
+        113,
+        152
+      ],
+      "speakers": [
+        "ツクリ",
+        "ルサイ",
+        "X",
+        "ドーマ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 6,
+      "location": "ミルクの寮／応接室",
+      "background": "ch2-council",
+      "entries": [
+        153,
+        195
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク",
+        "ジャッジ"
+      ],
+      "transition": "inline",
+      "bgm": "daily"
+    },
+    {
+      "scene": 7,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        196,
+        263
+      ],
+      "speakers": [
+        "デヂ",
+        "プラス",
+        "X",
+        "ダンカチ"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 8,
+      "location": "美術サークル／アトリエ",
+      "background": "ch2-atelier",
+      "entries": [
+        264,
+        305
+      ],
+      "speakers": [
+        "デヂ",
+        "X"
+      ],
+      "transition": "inline",
+      "bgm": "tension"
+    },
+    {
+      "scene": 9,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        306,
+        355
+      ],
+      "speakers": [
+        "デヂ",
+        "ダンカチ"
+      ],
+      "transition": "inline",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 10,
+      "location": "新聞部／部室",
+      "background": "newsroom",
+      "entries": [
+        356,
+        402
+      ],
+      "speakers": [
+        "チック",
+        "ユーヒ",
+        "X"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 11,
+      "location": "保健委員会／病室",
+      "background": "infirmary-day",
+      "entries": [
+        403,
+        431
+      ],
+      "speakers": [
+        "ユージ",
+        "デヂ"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 12,
+      "location": "図書館／閲覧室",
+      "background": "library",
+      "entries": [
+        432,
+        477
+      ],
+      "speakers": [
+        "ツクリ",
+        "ミルク",
+        "ドーマ",
+        "ルサイ",
+        "プラス",
+        "バグ",
+        "ゆきめろ",
+        "ランス",
+        "オリハ",
+        "コバル"
+      ],
+      "transition": "inline",
+      "bgm": "calm"
+    },
+    {
+      "scene": 13,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        478,
+        509
+      ],
+      "speakers": [
+        "ユーヒ",
+        "プラス"
+      ],
+      "transition": "inline",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 14,
+      "location": "学生寮／寮室",
+      "background": "dorm",
+      "entries": [
+        510,
+        540
+      ],
+      "speakers": [
+        "プラス",
+        "ユージ",
+        "ランス",
+        "コンケ",
+        "ミルク"
+      ],
+      "transition": "major",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 15,
+      "location": "カラオケ／五人の部屋",
+      "background": "ch2-karaoke",
+      "entries": [
+        541,
+        605
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク",
+        "ランス",
+        "ユージ",
+        "コンケ"
+      ],
+      "transition": "major",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 16,
+      "location": "カラオケ／五人の部屋",
+      "background": "ch2-karaoke",
+      "entries": [
+        606,
+        648
+      ],
+      "speakers": [
+        "プラス",
+        "ミルク",
+        "ユージ",
+        "コンケ"
+      ],
+      "transition": "inline",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 17,
+      "location": "カラオケ／五人の部屋",
+      "background": "ch2-karaoke",
+      "entries": [
+        649,
+        698
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "コンケ",
+        "ミルク",
+        "ランス"
+      ],
+      "transition": "inline",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 18,
+      "location": "学園／通学路",
+      "background": "campus",
+      "entries": [
+        699,
+        720
+      ],
+      "speakers": [
+        "プラス",
+        "コンケ",
+        "ミルク",
+        "ユージ"
+      ],
+      "transition": "major",
+      "bgm": "homecoming"
+    },
+    {
+      "scene": 19,
+      "location": "女帝の間／玉座の広間",
+      "background": "ch2-throne",
+      "entries": [
+        721,
+        760
+      ],
+      "speakers": [
+        "エンプレス",
+        "ツキチヨ"
+      ],
+      "transition": "major",
+      "bgm": "tension"
+    },
+    {
+      "scene": 20,
+      "location": "学生寮／寮室・夜",
+      "background": "dorm-night",
+      "entries": [
+        761,
+        780
+      ],
+      "speakers": [
+        "ユージ",
+        "プラス",
+        "ランス"
+      ],
+      "transition": "major",
+      "bgm": "reflection"
+    },
+    {
+      "scene": 21,
+      "location": "夢／自由サークルの部室",
+      "background": "library",
+      "entries": [
+        781,
+        807
+      ],
+      "speakers": [],
+      "transition": "major",
+      "bgm": "reflection"
+    }
+  ]
+}
