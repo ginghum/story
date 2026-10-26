@@ -2019,6 +2019,524 @@
         "source_lines": 402,
         "reviewed": true
       }
+    ],
+    "chapter1-episode18": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 76,
+        "location": "勉強サークル／せめてもの応援",
+        "source_lines": 76,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 2,
+        "start": 77,
+        "end": 110,
+        "location": "決闘委員会／条件の確認",
+        "source_lines": 33,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 3,
+        "start": 111,
+        "end": 176,
+        "location": "校舎／有線の連絡と合流",
+        "source_lines": 65,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 4,
+        "start": 177,
+        "end": 215,
+        "location": "校舎／Xの戦闘記録",
+        "source_lines": 38,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 5,
+        "start": 216,
+        "end": 332,
+        "location": "新聞サークル／映像で見る距離",
+        "source_lines": 116,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 6,
+        "start": 333,
+        "end": 392,
+        "location": "寮裏の練習場／二人の先客",
+        "source_lines": 59,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 7,
+        "start": 393,
+        "end": 469,
+        "location": "寮裏の練習場／冷気と高温",
+        "source_lines": 76,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 8,
+        "start": 470,
+        "end": 720,
+        "location": "寮裏の練習場／十五秒の耐久訓練",
+        "source_lines": 247,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 9,
+        "start": 721,
+        "end": 783,
+        "location": "寮裏の練習場／治して明日へ",
+        "source_lines": 60,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 10,
+        "start": 784,
+        "end": 817,
+        "location": "学生寮／十五秒の手応え",
+        "source_lines": 33,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 11,
+        "start": 818,
+        "end": 876,
+        "location": "学生寮／決闘の日の朝",
+        "source_lines": 57,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      }
+    ],
+    "chapter1-episode19": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 20,
+        "location": "闘技場／選手の通路",
+        "source_lines": 19,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 2,
+        "start": 21,
+        "end": 48,
+        "location": "闘技場／声を届ける客席",
+        "source_lines": 26,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 3,
+        "start": 49,
+        "end": 96,
+        "location": "闘技場／契約を読む審判",
+        "source_lines": 47,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 4,
+        "start": 97,
+        "end": 165,
+        "location": "闘技場／高温の決闘",
+        "source_lines": 68,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 5,
+        "start": 166,
+        "end": 187,
+        "location": "闘技場／客席まで届く熱",
+        "source_lines": 21,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 6,
+        "start": 188,
+        "end": 263,
+        "location": "闘技場／腕を取られた先",
+        "source_lines": 75,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 7,
+        "start": 264,
+        "end": 305,
+        "location": "回想／Xの入学と勉強サークル",
+        "source_lines": 40,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 8,
+        "start": 306,
+        "end": 362,
+        "location": "回想／みんながいた机",
+        "source_lines": 56,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 9,
+        "start": 363,
+        "end": 436,
+        "location": "回想／百五十個の星",
+        "source_lines": 73,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 10,
+        "start": 437,
+        "end": 466,
+        "location": "回想／イトグチへの挑戦",
+        "source_lines": 29,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 11,
+        "start": 467,
+        "end": 493,
+        "location": "闘技場／あの日の続きを拒む熱",
+        "source_lines": 26,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      }
+    ],
+    "chapter1-episode20": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 48,
+        "location": "回想／届かなかった拳",
+        "source_lines": 48,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 2,
+        "start": 49,
+        "end": 112,
+        "location": "回想／三個の星と二つの道",
+        "source_lines": 63,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 3,
+        "start": 113,
+        "end": 202,
+        "location": "回想／階段下の口",
+        "source_lines": 89,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 4,
+        "start": 203,
+        "end": 299,
+        "location": "回想／与えられた星と教育",
+        "source_lines": 96,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 5,
+        "start": 300,
+        "end": 398,
+        "location": "闘技場／傷つけ合う熱",
+        "source_lines": 98,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 6,
+        "start": 399,
+        "end": 458,
+        "location": "闘技場／今いる方へ呼ぶ声",
+        "source_lines": 59,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 7,
+        "start": 459,
+        "end": 506,
+        "location": "闘技場／友達に頼るために立つ",
+        "source_lines": 47,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 8,
+        "start": 507,
+        "end": 542,
+        "location": "闘技場／戻ってきた冷気",
+        "source_lines": 35,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 9,
+        "start": 543,
+        "end": 621,
+        "location": "闘技場／冷気と体術の間合い",
+        "source_lines": 77,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 10,
+        "start": 622,
+        "end": 676,
+        "location": "闘技場／拳を合わせるための一歩",
+        "source_lines": 54,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 11,
+        "start": 677,
+        "end": 776,
+        "location": "闘技場／二つの右拳",
+        "source_lines": 99,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 12,
+        "start": 777,
+        "end": 808,
+        "location": "闘技場／見ていた友達",
+        "source_lines": 31,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 13,
+        "start": 809,
+        "end": 868,
+        "location": "闘技場／約束は治療のあとで",
+        "source_lines": 59,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 14,
+        "start": 869,
+        "end": 899,
+        "location": "闘技場／今度は行き先を聞ける",
+        "source_lines": 30,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 15,
+        "start": 900,
+        "end": 938,
+        "location": "闘技場／担架の隣の足音",
+        "source_lines": 38,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      }
+    ],
+    "chapter1-episode21": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 31,
+        "location": "保健委員会／治った手と残る疲れ",
+        "source_lines": 29,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 2,
+        "start": 32,
+        "end": 107,
+        "location": "生徒会区画／専用エレベーターの受付",
+        "source_lines": 71,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 3,
+        "start": 108,
+        "end": 212,
+        "location": "生徒会室／Xが語る過去",
+        "source_lines": 103,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 4,
+        "start": 213,
+        "end": 292,
+        "location": "生徒会室／学園の底の真実",
+        "source_lines": 78,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 5,
+        "start": 293,
+        "end": 361,
+        "location": "生徒会室／謝罪と消えない怒り",
+        "source_lines": 67,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 6,
+        "start": 362,
+        "end": 421,
+        "location": "生徒会室／マイナス・ゼロへの道",
+        "source_lines": 59,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 7,
+        "start": 422,
+        "end": 508,
+        "location": "生徒会室／遅れて届いた返事",
+        "source_lines": 86,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 8,
+        "start": 509,
+        "end": 548,
+        "location": "生徒会室／知ったあとの義務",
+        "source_lines": 39,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 9,
+        "start": 549,
+        "end": 566,
+        "location": "校舎／いつもと同じ星の会話",
+        "source_lines": 16,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 10,
+        "start": 567,
+        "end": 672,
+        "location": "勉強サークル／戻るつもりの席",
+        "source_lines": 105,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 11,
+        "start": 673,
+        "end": 813,
+        "location": "学園／帰る場所へ",
+        "source_lines": 140,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 12,
+        "start": 814,
+        "end": 850,
+        "location": "学生寮／今日は休む",
+        "source_lines": 36,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 13,
+        "start": 851,
+        "end": 928,
+        "location": "夢／城の庭から望む街",
+        "source_lines": 77,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      },
+      {
+        "scene": 14,
+        "start": 929,
+        "end": 954,
+        "location": "学生寮／明日会いたい人",
+        "source_lines": 25,
+        "reviewed": true,
+        "review_date": "2026-10-26",
+        "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+      }
     ]
   }
 }

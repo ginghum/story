@@ -1,0 +1,119 @@
+{
+  "id": "chapter1-episode18",
+  "title": "第1章　第18話　明日のために、今日はもう一度",
+  "status": "playable; all source scenes and finale staging boundaries reviewed",
+  "source_lines": 860,
+  "source_scenes": 11,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 76,
+      "location": "勉強サークル／せめてもの応援",
+      "source_lines": 76,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 2,
+      "start": 77,
+      "end": 110,
+      "location": "決闘委員会／条件の確認",
+      "source_lines": 33,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 3,
+      "start": 111,
+      "end": 176,
+      "location": "校舎／有線の連絡と合流",
+      "source_lines": 65,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 4,
+      "start": 177,
+      "end": 215,
+      "location": "校舎／Xの戦闘記録",
+      "source_lines": 38,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 5,
+      "start": 216,
+      "end": 332,
+      "location": "新聞サークル／映像で見る距離",
+      "source_lines": 116,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 6,
+      "start": 333,
+      "end": 392,
+      "location": "寮裏の練習場／二人の先客",
+      "source_lines": 59,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 7,
+      "start": 393,
+      "end": 469,
+      "location": "寮裏の練習場／冷気と高温",
+      "source_lines": 76,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 8,
+      "start": 470,
+      "end": 720,
+      "location": "寮裏の練習場／十五秒の耐久訓練",
+      "source_lines": 247,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 9,
+      "start": 721,
+      "end": 783,
+      "location": "寮裏の練習場／治して明日へ",
+      "source_lines": 60,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 10,
+      "start": 784,
+      "end": 817,
+      "location": "学生寮／十五秒の手応え",
+      "source_lines": 33,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 11,
+      "start": 818,
+      "end": 876,
+      "location": "学生寮／決闘の日の朝",
+      "source_lines": 57,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    }
+  ]
+}

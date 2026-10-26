@@ -125,6 +125,34 @@
       "file": "data/chapter1-episode17.json",
       "image": "assets/cg/episode17-b-r3.webp",
       "description": "届かなかった夢の手と、変わる部室の熱。すべての星と、三つの情報を賭ける約束。"
+    },
+    {
+      "id": "chapter1-episode18",
+      "title": "第1章　第18話　明日のために、今日はもう一度",
+      "file": "data/chapter1-episode18.json",
+      "image": "assets/cg/episode18-a-v2.webp",
+      "description": "ノートと映像、十五秒の練習。明日の正午へ、友達とできることを積み重ねる。"
+    },
+    {
+      "id": "chapter1-episode19",
+      "title": "第1章　第19話　向かい合っても、遠いまま",
+      "file": "data/chapter1-episode19.json",
+      "image": "assets/cg/episode19-heat-evasion.webp",
+      "description": "全ての星と三つの情報。高温の決闘の中、Xを呼ぶ声が過去へ繋がる。"
+    },
+    {
+      "id": "chapter1-episode20",
+      "title": "第1章　第20話　お前一人に、勝たせない",
+      "file": "data/chapter1-episode20.json",
+      "image": "assets/cg/episode20-final-fists.webp",
+      "description": "失った仲間と、今ここにいる友達。熱と冷気の先で、二つの右拳がぶつかる。"
+    },
+    {
+      "id": "chapter1-episode21",
+      "title": "第1章　第21話　それでも俺は、友達になりたい",
+      "file": "data/chapter1-episode21.json",
+      "image": "assets/cg/episode21-handshake.webp",
+      "description": "約束の情報、遅れて届いた返事。そして帰る部屋と、夢の中で繋いだ手。第1章完結。"
     }
   ]
 }

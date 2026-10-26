@@ -1179,6 +1179,369 @@
         "match": "扉が閉まる。",
         "sound": "door-close"
       }
+    ],
+    "chapter1-episode18": [
+      {
+        "match": "ルサイが向かいへ椅子を寄せる。",
+        "sound": "chair"
+      },
+      {
+        "match": "薄いノートを一冊取り出した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "自分の手帳を出した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ケーブルを抜く。",
+        "sound": "metal"
+      },
+      {
+        "match": "四人の間へ、ノートを開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "四人は、紙をまとめた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ダイは、いつもの調子で扉を開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "歓声が鳴った。",
+        "sound": "crowd"
+      },
+      {
+        "match": "ノートを閉じた。",
+        "sound": "rustle",
+        "occurrences": 3
+      },
+      {
+        "match": "小さな弾が、来た。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "避けた先の床で、別の弾が弾けた。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "ローブが床を擦る。",
+        "sound": "cloth"
+      },
+      {
+        "match": "二つ目の爆発が、横から押した。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "水を飲む。",
+        "sound": "water"
+      },
+      {
+        "match": "最後の弾が、正面の床で弾けた。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "コンケが、水を差し出した。",
+        "sound": "water"
+      },
+      {
+        "match": "ヤオイが鞄から、小さな券を出した。",
+        "sound": "rustle"
+      },
+      {
+        "match": "透明な覆いが下りる。",
+        "sound": "metal"
+      },
+      {
+        "match": "ユージが、机の端を軽く叩いた。",
+        "sound": "hit"
+      },
+      {
+        "match": "手帳を出す。",
+        "sound": "rustle"
+      }
+    ],
+    "chapter1-episode19": [
+      {
+        "match": "近づく足音がした。",
+        "sound": "steps"
+      },
+      {
+        "match": "コンケが隣へ座り、",
+        "sound": "chair"
+      },
+      {
+        "match": "ジャッジは紙を一度下げた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "ジャッジ「レディ――ファイト！」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "靴底のすぐ後ろで、乾いた音がした。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "もう一つ、明るい塊が来る。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "光が、ローブの右肩へ当たった。",
+        "sound": "hit"
+      },
+      {
+        "match": "手首を、横から取られた。",
+        "sound": "cloth"
+      },
+      {
+        "match": "床へ、背中が落ちた。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "掴むより先に蹴られた。",
+        "sound": "hit"
+      },
+      {
+        "match": "さっきまで頭のあった場所へ、熱が落ちた。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "掌の先で、水が凍る。",
+        "sound": "metal"
+      },
+      {
+        "match": "ルサイが鞄を置いた。",
+        "sound": "cloth"
+      },
+      {
+        "match": "皿が、机を回る。",
+        "sound": "tableware"
+      },
+      {
+        "match": "紙の上へ、それぞれの星の数が並んだ。",
+        "sound": "rustle"
+      },
+      {
+        "match": "脇腹へ、衝撃が来る。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "さっきまで背後にあった床が焼ける。",
+        "sound": "heavy",
+        "override": true
+      }
+    ],
+    "chapter1-episode20": [
+      {
+        "match": "床へ落ちた膝が痛い。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "肩を打った。",
+        "sound": "hit"
+      },
+      {
+        "match": "腕の内側を、拳が通った。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "ルサイは、姿を消した。",
+        "sound": "teleport"
+      },
+      {
+        "match": "ルサイが、その腕を押した。",
+        "sound": "hit"
+      },
+      {
+        "match": "ルサイは、走った。",
+        "sound": "run"
+      },
+      {
+        "match": "ルサイが、僕を支えたまま透明化を解いた。",
+        "sound": "teleport"
+      },
+      {
+        "match": "膝が曲がり、身体が前へ落ちる。",
+        "sound": "cloth"
+      },
+      {
+        "match": "僕の手帳と並べ、星の譲渡を行う。",
+        "sound": "metal"
+      },
+      {
+        "match": "部室の扉を開けた日、",
+        "sound": "door-open"
+      },
+      {
+        "match": "肩に光が当たった。",
+        "sound": "hit"
+      },
+      {
+        "match": "プラスの拳が、左脇へ入った。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "Xの胸元へ、拳が当たる。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "ツクリが、その袖を掴む。",
+        "sound": "cloth"
+      },
+      {
+        "match": "薄い氷が、プラスの胸の高さへ飛んだ。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "氷がローブへ当たり、砕けた。",
+        "sound": "metal"
+      },
+      {
+        "match": "腹へ当たった。",
+        "sound": "hit"
+      },
+      {
+        "match": "Xの拳が、頬へ当たる。",
+        "sound": "hit"
+      },
+      {
+        "match": "Xの胸へ、一発入った。",
+        "sound": "hit"
+      },
+      {
+        "match": "プラスの肩へ拳が来た。",
+        "sound": "hit"
+      },
+      {
+        "match": "ぶつかった。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "Xが、倒れた。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "ジャッジ「そこまで！」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "ジャッジ「勝負あり。勝者、プラス・ゼロ！」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "歩く足音を聞いていた。",
+        "sound": "steps"
+      },
+      {
+        "match": "コンケが、鞄の口を閉じる。",
+        "sound": "cloth"
+      }
+    ],
+    "chapter1-episode21": [
+      {
+        "match": "小さな音が鳴り、金属の扉が左右へ開く。",
+        "sound": "metal"
+      },
+      {
+        "match": "扉が閉まった。",
+        "sound": "door-close",
+        "occurrences": 2
+      },
+      {
+        "match": "短い金属音が響いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "叩いてから返事を待つ。",
+        "sound": "knock"
+      },
+      {
+        "match": "中で、椅子の動く音がした。",
+        "sound": "chair"
+      },
+      {
+        "match": "プラスは扉を押した。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ジャッジが二人の間へ紙を置く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "机の上の時計が、短く音を立てた。",
+        "sound": "ui"
+      },
+      {
+        "match": "プラスは受け取り、一口だけ飲んだ。",
+        "sound": "water"
+      },
+      {
+        "match": "プラスが水を飲んだ。",
+        "sound": "water"
+      },
+      {
+        "match": "差し出された手を、握った。",
+        "sound": "cloth"
+      },
+      {
+        "match": "ツキチヨが、扉を開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ペンを置く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "夕方の鐘が鳴った。",
+        "sound": "bell"
+      },
+      {
+        "match": "問題集を閉じる音がした。",
+        "sound": "rustle"
+      },
+      {
+        "match": "鞄から出して、渡す。",
+        "sound": "rustle"
+      },
+      {
+        "match": "机の脇にいたコンケが、持っていたコップを置いた。",
+        "sound": "tableware"
+      },
+      {
+        "match": "プラスは、扉を開けた。",
+        "sound": "door-open"
+      },
+      {
+        "match": "ランスが、机の椅子を引いた。",
+        "sound": "chair"
+      },
+      {
+        "match": "匙を取った。",
+        "sound": "tableware"
+      },
+      {
+        "match": "灯りが消えた。",
+        "sound": "ui"
+      }
     ]
   }
 }

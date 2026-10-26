@@ -1,0 +1,144 @@
+"""Final chapter-one staging: full original prose, separate memories and injuries."""
+from compile_chapter1 import scene,cue,TRIO
+T=TRIO;D=['プラス','ランス'];PX=['プラス','X'];STUDY=['ルサイ','ツクリ','ドーマ'];Y=['プラス','ヤオイ','オジョー']
+CHARACTERS={'ヤオイ':('yaoi',155,'smile'),'オジョー':('ojo',154,'neutral'),'ジャッジ':('judge',152,'neutral'),'イトグチ':('itoguchi',188,'neutral')}
+SPEAKERS={'決闘委員の生徒','保健委員の生徒','受付の生徒','係の生徒','通りすがりの生徒','一年生の男子','一年生の女子','勉強サークルの男子','勉強サークルの女子','勉強サークルの男子の声','審判の声','暗がりの声','幼いプラス','姉','ツキチヨ'}
+TITLES={18:'明日のために、今日はもう一度',19:'向かい合っても、遠いまま',20:'お前一人に、勝たせない',21:'それでも俺は、友達になりたい'}
+DESCRIPTIONS={18:'ノートと映像、十五秒の練習。明日の正午へ、友達とできることを積み重ねる。',19:'全ての星と三つの情報。高温の決闘の中、Xを呼ぶ声が過去へ繋がる。',20:'失った仲間と、今ここにいる友達。熱と冷気の先で、二つの右拳がぶつかる。',21:'約束の情報、遅れて届いた返事。そして帰る部屋と、夢の中で繋いだ手。第1章完結。'}
+IMAGES={18:'episode18-a-v2',19:'episode19-heat-evasion',20:'episode20-final-fists',21:'episode21-handshake'}
+PLANS={
+18:[
+ (scene('勉強サークル／せめてもの応援','library',['プラス','ルサイ']),[]),
+ (scene('決闘委員会／条件の確認','arena-reception',['プラス','ルサイ']),[
+  cue('プラスも、別の廊下へ向かった。',location='校舎／友達へ向かう道',bg='corridor',cast=['プラス'])]),
+ (scene('校舎／有線の連絡と合流','corridor',['プラス']),[
+  cue('夕方になる前に、三人と合流できた。',location='校舎／四人で考える',bg='classroom',cast=T)]),
+ (scene('校舎／Xの戦闘記録','classroom',T),[
+  cue('コンケ「先に一回、使わせてんのか」',cast=['プラス','ランス','コンケ'])]),
+ (scene('新聞サークル／映像で見る距離','newsroom',['プラス','ダイ','ランス']),[
+  cue('最初の記録を再生する。',cg='episode18-a-v2'),
+  cue('プラスは映像の入った端末を持ち、ノートを閉じた。',cg=None,cast=T)]),
+ (scene('寮裏の練習場／二人の先客','training',Y,cg='episode18-c'),[]),
+ (scene('寮裏の練習場／冷気と高温','training',Y),[
+  cue('オジョーが、片手を上げた。',cast=Y)]),
+ (scene('寮裏の練習場／十五秒の耐久訓練','training',Y),[
+  cue('小さな弾が、来た。',cg='episode18-b'),
+  cue('ユージ「止め！　二秒、ちょっと！」',cg=None,cast=['プラス','ユージ','オジョー'],expressions={'plus_training_hurt':True}),
+  cue('ヤオイが、そばへ来た。',cast=['プラス','ヤオイ','ランス']),
+  cue('次は、四秒だった。',cg='episode18-b',cast=Y),
+  cue('ユージ「止め！　五秒！」',cg=None,cast=['プラス','ユージ','ランス']),
+  cue('弾が、左の床で弾けた。',cg='episode18-b'),
+  cue('ヤオイは、根で栄養を渡し、休む時間を取らせた。',cg=None,cast=Y),
+  cue('練習場の明かりがつく。',bg='training-night',tone='night'),
+  cue('弾が並ぶ。',cg='episode18-b'),
+  cue('弾幕が止まった。',cg=None,cast=T),
+  cue('ヤオイの根が、プラスの背中を支える。',cast=['プラス','ヤオイ','オジョー'])]),
+ (scene('寮裏の練習場／治して明日へ','training-night',Y,tone='night'),[
+  cue('保健委員会の窓口で、チケットを出した。',location='保健委員会／回復ポッド',bg='infirmary',cast=T,tone='',cut=True),
+  cue('寝台のような場所へ身体を横たえる。',cast=[],cg=None),
+  cue('治療を終えると、赤かった腕は元へ戻っていた。',cast=T,expressions={'plus_treated':True})]),
+ (scene('学生寮／十五秒の手応え','dorm-night',T),[
+  cue('コンケが帰る前に、条件の紙をもう一度見た。',cast=['プラス','ランス','コンケ']),
+  cue('コンケはうなずき、荷物を持った。',cast=T)]),
+ (scene('学生寮／決闘の日の朝','dorm-morning',T),[
+  cue('外へ出て、身体をほぐす。',location='寮裏の練習場／今までの足運び',bg='training',cast=D),
+  cue('午前の授業では、何度か時計へ目が向いた。',location='教室／正午を待つ',bg='classroom',cast=T,cut=True),
+  cue('廊下を、四人で歩いた。',location='学園／選手と観客の分かれ道',bg='campus',cast=T),
+  cue('別の道へ歩き出す。',cast=['プラス'],cg='episode18-d'),
+  cue('確認を受け、選手の通路へ案内された。',location='闘技場／選手の通路',bg='arena-reception',cast=['プラス'],cg=None)])
+],
+19:[
+ (scene('闘技場／選手の通路','arena-reception',['プラス']),[
+  cue('Xは、一度こちらを見た。',cast=PX)]),
+ (scene('闘技場／声を届ける客席','arena',['ユージ','ランス','コンケ']),[
+  cue('隣の区画へ、白い髪を結んだ青年が入ってきた。',cast=STUDY),
+  cue('ヤオイとオジョーが、通路を挟んだ席へ入る。',cast=['ユージ','ヤオイ','オジョー'])]),
+ (scene('闘技場／契約を読む審判','arena-floor',['プラス','X','ジャッジ'],cg='episode19-c'),[
+  cue('ジャッジが腕を上げた。',cg=None,cast=PX)]),
+ (scene('闘技場／高温の決闘','arena-floor',PX,cg='episode19-heat-evasion'),[
+  cue('光が、ローブの右肩へ当たった。',expressions={'plus_duel_hurt':True}),
+  cue('プラス「……使えた」',cg=None),
+  cue('プラスは、返事をする前に動いた。',cg='episode19-heat-evasion')]),
+ (scene('闘技場／客席まで届く熱','arena',STUDY),[]),
+ (scene('闘技場／腕を取られた先','arena-floor',PX,cg='episode19-heat-evasion'),[
+  cue('手首を、横から取られた。',cg='episode19-counter-throw-r2'),
+  cue('Xの足が、近くへ来る。',cg=None),
+  cue('立った。',cg=None,cast=PX),
+  cue('それを放つ瞬間だけが、遠くなった。',cg=None,cast=['X'])]),
+ (scene('回想／Xの入学と勉強サークル','library',['X','ルサイ'],cg='episode19-b'),[]),
+ (scene('回想／みんながいた机','library',['X','ルサイ'],cg='episode19-b'),[]),
+ (scene('回想／百五十個の星','gumon-office',['X','イトグチ']),[
+  cue('部室へ戻ると、僕は決闘の条件を説明した。',location='回想／仲間の星と残った三個',bg='library',cast=['X','ルサイ'],cg='episode19-b')]),
+ (scene('回想／イトグチへの挑戦','arena-floor',['X','イトグチ']),[
+  cue('僕は、冷気を放った。',cg='episode19-past-duel')]),
+ (scene('闘技場／あの日の続きを拒む熱','arena-floor',PX,cg='episode19-heat-evasion'),[])
+],
+20:[
+ (scene('回想／届かなかった拳','arena-floor',['X','イトグチ'],cg='episode19-past-duel'),[
+  cue('床へ落ちたとき、音が遠くなった。',cg=None,cast=[])]),
+ (scene('回想／三個の星と二つの道','arena',['ルサイ']),[
+  cue('ルサイは、姿を消した。',cast=[]),
+  cue('廊下へ入ったところで、',location='回想／透明な背中と行き先',bg='corridor',cast=[]),
+  cue('正面に、小柄な少年が立っていた。',cast=['ジャッジ'])]),
+ (scene('回想／階段下の口','old-school-corridor',tone='night'),[
+  cue('その一本の先端が、左右へ開いた。',cg='episode20-d-v2'),
+  cue('イトグチが、階段の前へ出た。',cg=None,cast=['イトグチ'])]),
+ (scene('回想／与えられた星と教育','infirmary',['X','ルサイ','イトグチ']),[
+  cue('訓練が始まった。',location='回想／冷気から生まれた高温',bg='training',cast=['X','イトグチ']),
+  cue('白いものではなかった。',cg='episode20-e'),
+  cue('久しぶりに部室の扉を開けた日、',location='回想／戻れる机',bg='library',cast=['X','ルサイ'],cg=None)]),
+ (scene('闘技場／傷つけ合う熱','arena-floor',PX,cg='episode19-heat-evasion'),[
+  cue('プラスの拳が、左脇へ入った。',cg=None),
+  cue('押し返されたXが、膝をついた。',cast=['プラス'])]),
+ (scene('闘技場／今いる方へ呼ぶ声','arena',STUDY,cg='episode20-c'),[]),
+ (scene('闘技場／友達に頼るために立つ','arena-floor',PX),[]),
+ (scene('闘技場／戻ってきた冷気','arena-floor',PX),[
+  cue('拳を上げる。',cg='episode20-cold-exchange')]),
+ (scene('闘技場／冷気と体術の間合い','arena-floor',PX,cg='episode20-cold-exchange'),[]),
+ (scene('闘技場／拳を合わせるための一歩','arena-floor',PX,cg='episode20-cold-exchange'),[]),
+ (scene('闘技場／二つの右拳','arena-floor',PX,cg='episode20-cold-exchange'),[
+  cue('ぶつかった。',cg='episode20-final-fists'),
+  cue('Xが、倒れた。',cg=None,cast=['プラス']),
+  cue('プラスも、膝をついた。',cast=[]),
+  cue('プラスが、立ち上がった。',cast=['プラス'])]),
+ (scene('闘技場／見ていた友達','arena',['ユージ','ランス','コンケ']),[
+  cue('ツクリが、ドーマの袖を掴んだままだった。',cast=STUDY),
+  cue('ヤオイが、椅子の背へ身体を戻す。',cast=['ユージ','ヤオイ','オジョー'])]),
+ (scene('闘技場／約束は治療のあとで','arena-floor',[]),[
+  cue('プラスは、寝台へ横になるよう言われた。',cg='episode20-gurney-friends')]),
+ (scene('闘技場／今度は行き先を聞ける','arena-reception',[],cg='episode20-gurney-friends'),[]),
+ (scene('闘技場／担架の隣の足音','arena-reception',['ユージ','ランス','コンケ']),[])
+],
+21:[
+ (scene('保健委員会／治った手と残る疲れ','infirmary-day',['プラス'],tone='evening'),[
+  cue('廊下へ出る。',location='校舎／待つ人のところへ',bg='corridor')]),
+ (scene('生徒会区画／専用エレベーターの受付','corridor',['プラス'],tone='evening'),[
+  cue('プラスは扉を押した。',location='生徒会室／約束の履行',bg='library',cast=['プラス','X','ジャッジ'],cg='episode21-a')]),
+ (scene('生徒会室／Xが語る過去','library',PX,cg='episode21-a'),[]),
+ (scene('生徒会室／学園の底の真実','library',PX,cg='episode21-a'),[]),
+ (scene('生徒会室／謝罪と消えない怒り','library',PX,cg='episode21-a'),[]),
+ (scene('生徒会室／マイナス・ゼロへの道','library',PX,cg='episode21-a'),[]),
+ (scene('生徒会室／遅れて届いた返事','library',['プラス','X','ジャッジ'],cg='episode21-a'),[
+  cue('差し出された手を、握った。',cg='episode21-handshake'),
+  cue('ツキチヨ「時間である」',cg=None),
+  cue('彼は抵抗せず、扉へ向かった。',cg='episode21-c'),
+  cue('扉が閉まった。',cg=None,cast=['プラス','ジャッジ'])]),
+ (scene('生徒会室／知ったあとの義務','library',['プラス','ジャッジ']),[]),
+ (scene('校舎／いつもと同じ星の会話','corridor',['プラス'],tone='evening'),[]),
+ (scene('勉強サークル／戻るつもりの席','library',['プラス','ルサイ','ツクリ'],tone='evening'),[
+  cue('ドーマ「言われたことは 守ってください」',cast=['プラス','ツクリ','ドーマ']),
+  cue('奥から、ルサイが来る。',cast=['プラス','ルサイ','ツクリ'])]),
+ (scene('学園／帰る場所へ','campus',['プラス'],tone='evening'),[
+  cue('寮の廊下へ入ると、',location='学生寮／帰ってきた部屋',bg='dorm',tone=''),
+  cue('プラス「ただいま！」',cast=T),
+  cue('机の脇にいたコンケが、持っていたコップを置いた。',cast=['プラス','ランス','コンケ']),
+  cue('ユージが近づいてきて、',cast=T),
+  cue('コンケが、横で笑った。',cast=['プラス','ユージ','コンケ']),
+  cue('ランスが目を上げる。',cast=T)]),
+ (scene('学生寮／今日は休む','dorm',T),[
+  cue('横になると、身体が寝床へ沈んだ。',cast=[]),
+  cue('灯りが消えた。',bg='dorm-night')]),
+ (scene('夢／城の庭から望む街','campus',cast=[],cg='episode21-b'),[]),
+ (scene('学生寮／明日会いたい人','dorm-night',cast=[]),[])
+]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "chapter1-episode19",
+  "title": "第1章　第19話　向かい合っても、遠いまま",
+  "status": "playable; all source scenes and finale staging boundaries reviewed",
+  "source_lines": 480,
+  "source_scenes": 11,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 20,
+      "location": "闘技場／選手の通路",
+      "source_lines": 19,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 2,
+      "start": 21,
+      "end": 48,
+      "location": "闘技場／声を届ける客席",
+      "source_lines": 26,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 3,
+      "start": 49,
+      "end": 96,
+      "location": "闘技場／契約を読む審判",
+      "source_lines": 47,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 4,
+      "start": 97,
+      "end": 165,
+      "location": "闘技場／高温の決闘",
+      "source_lines": 68,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 5,
+      "start": 166,
+      "end": 187,
+      "location": "闘技場／客席まで届く熱",
+      "source_lines": 21,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 6,
+      "start": 188,
+      "end": 263,
+      "location": "闘技場／腕を取られた先",
+      "source_lines": 75,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 7,
+      "start": 264,
+      "end": 305,
+      "location": "回想／Xの入学と勉強サークル",
+      "source_lines": 40,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 8,
+      "start": 306,
+      "end": 362,
+      "location": "回想／みんながいた机",
+      "source_lines": 56,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 9,
+      "start": 363,
+      "end": 436,
+      "location": "回想／百五十個の星",
+      "source_lines": 73,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 10,
+      "start": 437,
+      "end": 466,
+      "location": "回想／イトグチへの挑戦",
+      "source_lines": 29,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 11,
+      "start": 467,
+      "end": 493,
+      "location": "闘技場／あの日の続きを拒む熱",
+      "source_lines": 26,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    }
+  ]
+}

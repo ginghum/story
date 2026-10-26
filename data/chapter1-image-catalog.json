@@ -716,5 +716,188 @@
       "assets/cg/episode15-b.webp"
     ],
     "generator": "built-in image_gen"
+  },
+  {
+    "id": "ojo-neutral",
+    "file": "assets/characters/ojo-neutral.webp",
+    "prompt": "Use case: identity-preserve. Full-body transparent visual novel sprite of this EXACT petite154cm aristocratic young woman: long silver-gray ponytail with red hair accessory, red eyes, small haughty composed smile, white ornate high-neck layered frill dress, white stockings, black ankle strap heels, brown long school robe. Preserve identity and outfit. Remove parasol entirely, hand formerly holding it now relaxed down, other hand lightly at chest, ready to discuss a fight, no spell active. Match delicate anime linework and coloring used in reference. Entire head and both shoes visible with margins. True transparency, one person, no backdrop, no ground shadow, no text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/ojo-portrait.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "judge-neutral",
+    "file": "assets/characters/judge-neutral.webp",
+    "prompt": "Use case: identity-preserve. Full-body transparent visual novel sprite of exactly the reference petite152cm young man, short black bob, gray eyes, clever confident faint smile. Same brown school robe, white collared shirt, patterned dark tie, dark wide trousers and chunky black shoes. Holds plain pale sheet of referee paperwork near waist rather than black book. One relaxed hand gestures as if confirming a contract. Preserve masculine identity, proportions and exact clothing, delicate anime style. Head and both shoes fully framed, true transparency, no backdrop or ground shadow or writing.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/judge-portrait.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "itoguchi-neutral",
+    "file": "assets/characters/itoguchi-neutral.webp",
+    "prompt": "Use case: identity-preserve. Full-body transparent visual novel sprite of exactly reference: tall188cm serious silver-light-blue-haired young man, rectangular black eyeglasses with pale blue eyes visible, black high-button priest-like uniform with small white collar tab, silver pendant chain, black trousers and formal shoes, long brown school robe. Same calm severe expression. Empty hands resting naturally, REMOVE book. Preserve exact identity outfit proportions and anime rendering. One person head to shoes with margins, true transparency, no backdrop no floor shadows no text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/itoguchi-portrait.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode19-heat-evasion",
+    "file": "assets/cg/episode19-heat-evasion.webp",
+    "prompt": "Use case: illustration-story. Create a NEW wide16:9 anime action CG using reference solely for exact identities, clothing, detailed imperial stone arena and style. Plus tall184cm long purple ponytail white hooded shirt brown robe on left; X180cm fluffy light brown hair blue eyes pale blue shirt gray trousers brown robe on right. X stands on grounded feet and extends his anatomical RIGHT hand to release intense golden-orange HEAT across scorched stone. Plus is moving sideways LEFT with torso low but BOTH HANDS CLEARLY UP above waist in defensive motion, feet on the floor, NEVER putting hands or palms on hot ground. Two opponents several meters apart, no contact yet, no ice, no shield, no weapons, no wounds or bandages yet. Noon light, distant audience soft silhouettes, fluid running footwork visible. Important: no hand touching ground, no floating figure, no gore, no text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode19-a.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode20-cold-exchange",
+    "file": "assets/cg/episode20-cold-exchange.webp",
+    "prompt": "Use case: illustration-story. Wide16:9 polished detailed anime story CG, delicate faces and ornate imperial stone academy arena under noon daylight, soft distant audience. Exact identity and costumes from references, brown school robes. No lettering, no gore. Create NEW mid-battle moment before the finishing blow. Both men standing 2meters apart, tense defensive postures. X on right calmly directs anatomical RIGHT open palm downward to create THIN white frost lines across SMALL floor patches cutting off footwork. No giant ice wall or spikes, no fireballs now. Plus on left steps around the frost with arms defensively UP, anatomical RIGHT shoulder guarded close to body, LEFT fist slightly ahead, grounded visible shoes. Both weary with modest soot and superficial red marks on exposed forearms; Plus right shoulder robe lightly singed, no bandages or blood or fresh holes. X expression now focused and thoughtful, not rage. No contact punch in this frame. Preserve clothing and exact identities, make floor geometry and foot placement clear.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode20-a.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode20-final-fists",
+    "file": "assets/cg/episode20-final-fists.webp",
+    "prompt": "Use case: precise-object-edit. Rebuild the finishing impact of these EXACT two fighters in same ornate noon arena. Critical story correction: Plus punches with ANATOMICAL RIGHT CLOSED FIST; X also punches with ANATOMICAL RIGHT CLOSED FIST. Their two RIGHT fists meet KNUCKLE TO KNUCKLE at center. X is NOT blocking with an open palm, and neither fist is hitting face/chest. Plus anatomical LEFT hand stays back near face after pushing aside X left hand; X LEFT hand is off to his side, not in impact. Both feet grounded, Plus lighter right arm becomes heavy exactly at collision, X right forearm pushed backward toward his own chest. Show accurate two arms per person, clenched hand anatomy with tucked thumbs, clear elbow-to-wrist continuity. Preserve purple ponytail/white hoodie Plus and brown-haired blue-eyed/pale-blue-shirt X. A few shards of THIN frost near floor and orange reflected light, modest dirt/superficial scuffs only, no gore or blood or bandages. Wide16:9 dynamic full-body composition, no writing. The two closed right fists must be unmistakable.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode20-a.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode19-past-duel",
+    "file": "assets/cg/episode19-past-duel.webp",
+    "prompt": "Use case: illustration-story. Wide16:9 polished detailed anime story CG, delicate faces and ornate imperial stone academy arena under noon daylight, soft distant audience. Exact identity and costumes from references, brown school robes. No lettering, no gore. FLASHBACK: young X on LEFT fluffy brown hair blue eyes pale blue shirt gray trousers brown robe launching cold mist from one hand, surprised and shaken as it fails. Itoguchi on RIGHT tall188cm pale silver-blue hair black rectangular glasses black high-collar uniform white collar tab silver pendant brown robe stays composed; small black circular void in front of him intercepts the cold mist. Both on their own feet separated, no contact yet, no heat/flames, no red magic, no weapons or wounds. Preserve Itoguchi precise identity from second portrait. No Plus or purple ponytail here. Two people only, exact proportions, clear contrast of futile frost and calm defense.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode20-e.webp",
+      "/workspace/scratch/e0ba8f01bcc1/itoguchi-portrait.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "plus-battle-hurt",
+    "file": "assets/characters/plus-battle-hurt.webp",
+    "prompt": "Use case: identity-preserve. Transparent full-body visual novel sprite, exact tall184cm long-purple-ponytail violet-eyed Plus in white hoodie loose black trousers white black sneakers long brown school robe. Post-heat-duel state, exhausted pained determined face, anatomical RIGHT arm on SCREEN LEFT held protectively a little lower near his body; modest soot/singed mark on RIGHT robe shoulder SCREEN LEFT, mild superficial red skin at right hand knuckles, small dirt scuffs only. Left side SCREEN RIGHT has no shoulder tear. Clothing stays covering shoulders. No blood or open wounds, no bandages, no sling. Empty hands, grounded stance, entire head and both feet visible. Preserve exact proportions and delicate anime style, TRUE transparent background no floor/shadows/text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/plus-pain.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "x-battle-hurt",
+    "file": "assets/characters/x-battle-hurt.webp",
+    "prompt": "Use case: identity-preserve. Full-body transparent visual novel sprite of exact reference X: fluffy light brown hair blue eyes pale blue shirt gray pants brown long school robe black shoes. Exhausted after using too much heat, small soot marks on robe sleeves and modest red irritated skin on hands, no torn flesh blood bandages or sling. Empty hands, one forearm lightly supported by other hand near abdomen, tired serious thoughtful face rather than panic. Proportions180cm unchanged, head and both shoes fully framed. Same delicate anime rendering. True transparent background, no floor or shadows or writing.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/x-shaken.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode21-handshake",
+    "file": "assets/cg/episode21-handshake.webp",
+    "prompt": "Use case: illustration-story. NEW wide16:9 closing chapter CG. Use reference for precise character identities and ornate warm sunset student council office. Purple-ponytailed violet-eyed Plus184cm white hoodie brown school robe on LEFT and fluffy-brown-haired blue-eyed X180cm pale blue shirt gray trousers brown robe on RIGHT are BOTH STANDING, finally becoming friends. Each extends his anatomical RIGHT hand and they shake RIGHT HAND TO RIGHT HAND warmly at center; only one hand per person at the clasp, accurate fingers. Their free left hands relaxed down. Both FULLY HEALED after medical pod, absolutely no bandages burns bruises torn robe blood or weapons. X has a small reserved sincere smile, Plus relieved but quietly earnest rather than huge grin. Medium-wide composition at eye level, desk edge and sunlit arched window, two main characters only; Judge and Tsukichiyo remain out of frame. No one being restrained yet, no combat, no text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode21-a.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode19-counter-throw-r2",
+    "file": "assets/cg/episode19-counter-throw-r2.webp",
+    "prompt": "Use case: precise-object-edit. Preserve this exact anime combat throw, both faces, poses, wrist grip, outfits, arena and framing. Change ONLY the visible near shoulder of purple-haired Plus: remove the exposed red skin/wound and torn hole on the near shoulder (screen right of his torso). Restore continuous intact brown robe fabric over white hoodie there. No skin opening, blood, red mark or shoulder injury on that visible side. His actual injured anatomical RIGHT shoulder is the far shoulder and is obscured in this pose, so do not add a wound elsewhere. Keep all other details and limbs unchanged, no writing.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/generated_images/exec-2fe2cf21-9fc7-4c8a-81f1-8fa743c40705.png"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode20-gurney-friends",
+    "file": "assets/cg/episode20-gurney-friends.webp",
+    "prompt": "Use case: precise-object-edit. Preserve patient X on hospital gurney, white-haired glasses Lusai by his side, both medical staff, architecture, lighting and framing of image1. Story correction: the TWO companions at right are WRONG characters. Replace the blue-haired glasses boy behind Lusai with Doma from image3: petite160cm girl with long straight black hair, black rectangular glasses, white shirt black tie brown robe, dark skirt, carrying a small notebook. Replace blond boy at far right with Tsukuri from image2: petite157cm lavender-haired ponytail girl, matching reference blouse/check skirt/brown robe, carrying the luggage bag. Preserve exact new identities and clothes from refs2/3, both gently concerned and walking behind gurney. REMOVE blue-haired Lance and blond Yuji entirely; no duplicate characters. Do not change Lusai into either girl. Patient stays brown-haired X, no Plus patient, no blood or bandages added, no writing.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode20-b-v2.webp",
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/tsukuri-neutral.webp",
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/doma-neutral.webp"
+    ],
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode18-a-v2",
+    "file": "assets/cg/episode18-a-v2.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode18-b",
+    "file": "assets/cg/episode18-b.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode18-c",
+    "file": "assets/cg/episode18-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode18-d",
+    "file": "assets/cg/episode18-d.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode19-b",
+    "file": "assets/cg/episode19-b.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode19-c",
+    "file": "assets/cg/episode19-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode20-c",
+    "file": "assets/cg/episode20-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode20-d-v2",
+    "file": "assets/cg/episode20-d-v2.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode20-e",
+    "file": "assets/cg/episode20-e.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode21-a",
+    "file": "assets/cg/episode21-a.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode21-b",
+    "file": "assets/cg/episode21-b.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode21-c",
+    "file": "assets/cg/episode21-c.webp",
+    "source": "ginghum/cursehighschool- original illustration; fetched 2026-10-26",
+    "generator": "reused original illustration"
   }
 ]

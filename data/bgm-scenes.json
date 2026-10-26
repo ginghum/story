@@ -1807,6 +1807,508 @@
           "track": "reflection"
         }
       ]
+    },
+    "chapter1-episode18": {
+      "source_scenes": 11,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "reflection"
+        },
+        {
+          "scene": 2,
+          "track": "tension"
+        },
+        {
+          "scene": 3,
+          "track": "reflection"
+        },
+        {
+          "scene": 4,
+          "track": "calm"
+        },
+        {
+          "scene": 5,
+          "track": "calm"
+        },
+        {
+          "scene": 6,
+          "track": "daily"
+        },
+        {
+          "scene": 7,
+          "track": "calm"
+        },
+        {
+          "scene": 8,
+          "track": "training"
+        },
+        {
+          "scene": 9,
+          "track": "reflection"
+        },
+        {
+          "scene": 10,
+          "track": "reflection"
+        },
+        {
+          "scene": 11,
+          "track": "tension"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "勉強サークル／せめてもの応援",
+          "track": "reflection"
+        },
+        {
+          "entry": 77,
+          "scene": 2,
+          "location": "決闘委員会／条件の確認",
+          "track": "tension"
+        },
+        {
+          "entry": 111,
+          "scene": 3,
+          "location": "校舎／有線の連絡と合流",
+          "track": "reflection"
+        },
+        {
+          "entry": 177,
+          "scene": 4,
+          "location": "校舎／Xの戦闘記録",
+          "track": "calm"
+        },
+        {
+          "entry": 333,
+          "scene": 6,
+          "location": "寮裏の練習場／二人の先客",
+          "track": "daily"
+        },
+        {
+          "entry": 393,
+          "scene": 7,
+          "location": "寮裏の練習場／冷気と高温",
+          "track": "calm"
+        },
+        {
+          "entry": 470,
+          "scene": 8,
+          "location": "寮裏の練習場／十五秒の耐久訓練",
+          "track": "training"
+        },
+        {
+          "entry": 684,
+          "scene": 8,
+          "location": "寮裏の練習場／十五秒の耐久訓練",
+          "track": "reflection"
+        },
+        {
+          "entry": 818,
+          "scene": 11,
+          "location": "学生寮／決闘の日の朝",
+          "track": "tension"
+        }
+      ]
+    },
+    "chapter1-episode19": {
+      "source_scenes": 11,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "tension"
+        },
+        {
+          "scene": 2,
+          "track": "tension"
+        },
+        {
+          "scene": 3,
+          "track": "tension"
+        },
+        {
+          "scene": 4,
+          "track": "battle"
+        },
+        {
+          "scene": 5,
+          "track": "tension"
+        },
+        {
+          "scene": 6,
+          "track": "battle"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        },
+        {
+          "scene": 8,
+          "track": "daily"
+        },
+        {
+          "scene": 9,
+          "track": "tension"
+        },
+        {
+          "scene": 10,
+          "track": "battle"
+        },
+        {
+          "scene": 11,
+          "track": "battle"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "闘技場／選手の通路",
+          "track": "tension"
+        },
+        {
+          "entry": 95,
+          "scene": 3,
+          "location": "闘技場／契約を読む審判",
+          "track": "battle"
+        },
+        {
+          "entry": 166,
+          "scene": 5,
+          "location": "闘技場／客席まで届く熱",
+          "track": "tension"
+        },
+        {
+          "entry": 188,
+          "scene": 6,
+          "location": "闘技場／腕を取られた先",
+          "track": "battle"
+        },
+        {
+          "entry": 264,
+          "scene": 7,
+          "location": "回想／Xの入学と勉強サークル",
+          "track": "reflection"
+        },
+        {
+          "entry": 306,
+          "scene": 8,
+          "location": "回想／みんながいた机",
+          "track": "daily"
+        },
+        {
+          "entry": 363,
+          "scene": 9,
+          "location": "回想／百五十個の星",
+          "track": "tension"
+        },
+        {
+          "entry": 437,
+          "scene": 10,
+          "location": "回想／イトグチへの挑戦",
+          "track": "battle"
+        }
+      ]
+    },
+    "chapter1-episode20": {
+      "source_scenes": 15,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "battle"
+        },
+        {
+          "scene": 2,
+          "track": "tension"
+        },
+        {
+          "scene": 3,
+          "track": "tension"
+        },
+        {
+          "scene": 4,
+          "track": "reflection"
+        },
+        {
+          "scene": 5,
+          "track": "battle"
+        },
+        {
+          "scene": 6,
+          "track": "reflection"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        },
+        {
+          "scene": 8,
+          "track": "tension"
+        },
+        {
+          "scene": 9,
+          "track": "battle"
+        },
+        {
+          "scene": 10,
+          "track": "battle"
+        },
+        {
+          "scene": 11,
+          "track": "battle"
+        },
+        {
+          "scene": 12,
+          "track": "reflection"
+        },
+        {
+          "scene": 13,
+          "track": "reflection"
+        },
+        {
+          "scene": 14,
+          "track": "reflection"
+        },
+        {
+          "scene": 15,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "回想／届かなかった拳",
+          "track": "battle"
+        },
+        {
+          "entry": 49,
+          "scene": 2,
+          "location": "回想／三個の星と二つの道",
+          "track": "tension"
+        },
+        {
+          "entry": 146,
+          "scene": 3,
+          "location": "回想／階段下の口",
+          "track": null
+        },
+        {
+          "entry": 194,
+          "scene": 3,
+          "location": "回想／階段下の口",
+          "track": "tension"
+        },
+        {
+          "entry": 203,
+          "scene": 4,
+          "location": "回想／与えられた星と教育",
+          "track": "reflection"
+        },
+        {
+          "entry": 249,
+          "scene": 4,
+          "location": "回想／冷気から生まれた高温",
+          "track": "tension"
+        },
+        {
+          "entry": 278,
+          "scene": 4,
+          "location": "回想／戻れる机",
+          "track": "reflection"
+        },
+        {
+          "entry": 300,
+          "scene": 5,
+          "location": "闘技場／傷つけ合う熱",
+          "track": "battle"
+        },
+        {
+          "entry": 399,
+          "scene": 6,
+          "location": "闘技場／今いる方へ呼ぶ声",
+          "track": "reflection"
+        },
+        {
+          "entry": 507,
+          "scene": 8,
+          "location": "闘技場／戻ってきた冷気",
+          "track": "tension"
+        },
+        {
+          "entry": 543,
+          "scene": 9,
+          "location": "闘技場／冷気と体術の間合い",
+          "track": "battle"
+        },
+        {
+          "entry": 729,
+          "scene": 11,
+          "location": "闘技場／二つの右拳",
+          "track": null
+        },
+        {
+          "entry": 774,
+          "scene": 11,
+          "location": "闘技場／二つの右拳",
+          "track": "reflection"
+        }
+      ]
+    },
+    "chapter1-episode21": {
+      "source_scenes": 14,
+      "scenes": [
+        {
+          "scene": 1,
+          "track": "reflection"
+        },
+        {
+          "scene": 2,
+          "track": "tension"
+        },
+        {
+          "scene": 3,
+          "track": "reflection"
+        },
+        {
+          "scene": 4,
+          "track": "tension"
+        },
+        {
+          "scene": 5,
+          "track": "reflection"
+        },
+        {
+          "scene": 6,
+          "track": "calm"
+        },
+        {
+          "scene": 7,
+          "track": "reflection"
+        },
+        {
+          "scene": 8,
+          "track": "tension"
+        },
+        {
+          "scene": 9,
+          "track": "reflection"
+        },
+        {
+          "scene": 10,
+          "track": "reflection"
+        },
+        {
+          "scene": 11,
+          "track": "daily"
+        },
+        {
+          "scene": 12,
+          "track": "reflection"
+        },
+        {
+          "scene": 13,
+          "track": "reflection"
+        },
+        {
+          "scene": 14,
+          "track": "reflection"
+        }
+      ],
+      "transitions": [
+        {
+          "entry": 0,
+          "scene": 1,
+          "location": "保健委員会／治った手と残る疲れ",
+          "track": "reflection"
+        },
+        {
+          "entry": 32,
+          "scene": 2,
+          "location": "生徒会区画／専用エレベーターの受付",
+          "track": "tension"
+        },
+        {
+          "entry": 108,
+          "scene": 3,
+          "location": "生徒会室／Xが語る過去",
+          "track": "reflection"
+        },
+        {
+          "entry": 155,
+          "scene": 3,
+          "location": "生徒会室／Xが語る過去",
+          "track": null
+        },
+        {
+          "entry": 197,
+          "scene": 3,
+          "location": "生徒会室／Xが語る過去",
+          "track": "reflection"
+        },
+        {
+          "entry": 213,
+          "scene": 4,
+          "location": "生徒会室／学園の底の真実",
+          "track": "tension"
+        },
+        {
+          "entry": 293,
+          "scene": 5,
+          "location": "生徒会室／謝罪と消えない怒り",
+          "track": "reflection"
+        },
+        {
+          "entry": 341,
+          "scene": 5,
+          "location": "生徒会室／謝罪と消えない怒り",
+          "track": null
+        },
+        {
+          "entry": 347,
+          "scene": 5,
+          "location": "生徒会室／謝罪と消えない怒り",
+          "track": "reflection"
+        },
+        {
+          "entry": 362,
+          "scene": 6,
+          "location": "生徒会室／マイナス・ゼロへの道",
+          "track": "calm"
+        },
+        {
+          "entry": 422,
+          "scene": 7,
+          "location": "生徒会室／遅れて届いた返事",
+          "track": "reflection"
+        },
+        {
+          "entry": 509,
+          "scene": 8,
+          "location": "生徒会室／知ったあとの義務",
+          "track": "tension"
+        },
+        {
+          "entry": 549,
+          "scene": 9,
+          "location": "校舎／いつもと同じ星の会話",
+          "track": "reflection"
+        },
+        {
+          "entry": 673,
+          "scene": 11,
+          "location": "学園／帰る場所へ",
+          "track": "daily"
+        },
+        {
+          "entry": 789,
+          "scene": 11,
+          "location": "学生寮／帰ってきた部屋",
+          "track": "reflection"
+        }
+      ]
     }
   }
 }

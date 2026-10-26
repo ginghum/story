@@ -374,12 +374,20 @@ PLANS[17]=[
   cue('ルサイ「……プラスくん。少し、お時間をいただけますか」',cast=['プラス','ルサイ'])])
 ]
 
+from chapter1_finale_plans import PLANS as FINALE_PLANS, CHARACTERS as FINALE_CHARACTERS, SPEAKERS as FINALE_SPEAKERS, TITLES as FINALE_TITLES, DESCRIPTIONS as FINALE_DESCRIPTIONS, IMAGES as FINALE_IMAGES
+PLANS.update(FINALE_PLANS)
+c.CHAR.update(FINALE_CHARACTERS)
+
 def compile_episode(n,body,title):
  parts=body.split('　　　　　＊');assert len(parts)==len(PLANS[n]);entries=[];reports=[]
  for sn,(part,(initial,cues)) in enumerate(zip(parts,PLANS[n]),1):
   st=dict(initial);expr={};camera=st['cast'][:3];seen=set();start=len(entries)
   def portrait(name):
    emotion=expr.get(name,c.CHAR[name][2])
+   if name=='プラス' and n==18 and expr.get('plus_training_hurt') and not expr.get('plus_treated'):return 'battle-hurt'
+   if name=='プラス' and n==18 and sn==9 and not expr.get('plus_treated'):return 'battle-hurt'
+   if name=='プラス' and n==19 and (expr.get('plus_duel_hurt') or sn in [6,11]):return 'battle-hurt'
+   if name in ['プラス','X'] and n==20 and sn>=5:return 'battle-hurt'
    if name=='X' and expr.get('x_shaken'):return 'shaken'
    if name=='ランス' and (n==13 or (n==14 and sn==1) or (n==12 and sn==10 and expr.get('lance_treated'))):return 'hurt'
    if name=='プラス':
@@ -413,7 +421,7 @@ def compile_episode(n,body,title):
      if 'cast' in q:camera=st['cast'][:3]
      expr.update(q.get('expressions',{}))
      if q['cut']:loc()
-    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in ['担当者','保健委員','先生','決闘委員','通りがかりの生徒','別の生徒','別の親衛隊員','医療係の生徒','部員の男子','タイタン','アシャラ','ベレー','タナカ','セレナ','ミュー','クラリーヌ','ツキチヨ','ジャッジ','回想の声','勉強サークルの男子']) else '';text=m.group(2) if name else segment
+    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in FINALE_SPEAKERS or m.group(1) in ['担当者','保健委員','先生','決闘委員','通りがかりの生徒','別の生徒','別の親衛隊員','医療係の生徒','部員の男子','タイタン','アシャラ','ベレー','タナカ','セレナ','ミュー','クラリーヌ','ツキチヨ','ジャッジ','回想の声','勉強サークルの男子']) else '';text=m.group(2) if name else segment
     if name in st['cast'] and name not in camera:
      keep=[x for x in camera if x not in ['プラス',name]];camera=(['プラス'] if 'プラス' in st['cast'] else [])+keep[-1:]+[name]
     if name in c.CHAR:
@@ -431,10 +439,12 @@ def main():
  parser=argparse.ArgumentParser();parser.add_argument('episodes',nargs='*',type=int);args=parser.parse_args();ns=args.episodes or sorted(PLANS)
  source_path=ROOT.parent/'source-current.json'
  titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない',12:'君のためなら、勝てばよかった',13:'欲しかったのは、それじゃない',14:'帰ってきたら、何を話そう',15:'簡単だって、言われても',16:'その話だけは、聞いてはいけない',17:'その続きを、聞かせてくれ'}
+ titles.update(FINALE_TITLES)
  source=json.loads(source_path.read_text()) if source_path.exists() else {'chapters':[{'id':f'chapter1-episode{n}','title':f'第1章　第{n}話　{titles[n]}','body':(ROOT/f'data/source/chapter1-episode{n}.txt').read_text()} for n in ns]}
  manifest=json.loads((ROOT/'data/episodes.json').read_text());review=json.loads((ROOT/'data/chapter1-scene-review.json').read_text())
  desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。',12:'星二十個と居場所を賭けたランスの決闘。その勝利が、守りたかった人へ届くとは限らなかった。',13:'返ってきた星と、届かなかった言葉。月明かりの下でプラスとユージが次の一歩を考える。',14:'同室の友と、星の動かない勝負。勝ち負けの先で、帰る部屋の明かりを確かめる。',15:'試験のわからない一行から、勉強サークルへ。残された線と、なくなったおやつ。',16:'古いノートと星を失った人々。軽くした箱が、Xの記憶を揺らす。',17:'届かなかった夢の手と、変わる部室の熱。すべての星と、三つの情報を賭ける約束。'}
  images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup',12:'episode12-a',13:'episode13-b',14:'episode14-b-v2',15:'episode15-a',16:'episode16-a',17:'episode17-b-r3'}
+ desc.update(FINALE_DESCRIPTIONS);images.update(FINALE_IMAGES)
  for n in ns:
   id=f'chapter1-episode{n}';ch=next(ch for ch in source['chapters'] if ch['id']==id);report=compile_episode(n,ch['body'],ch['title']);review['episodes'][id]=report;manifest['episodes']=[ep for ep in manifest['episodes'] if ep['id']!=id];manifest['episodes'].append(dict(id=id,title=ch['title'],file=f'data/{id}.json',image=c.CG(images[n]),description=desc[n]));print(id,len(report),'scenes')
  manifest['episodes'].sort(key=lambda ep:0 if ep['id']=='prologue' else int(ep['id'].split('episode')[-1]));(ROOT/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');(ROOT/'data/chapter1-scene-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')

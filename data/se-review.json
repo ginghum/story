@@ -1979,6 +1979,542 @@
         "sound": "door-close",
         "text": "扉が閉まる。"
       }
+    ],
+    "chapter1-episode18": [
+      {
+        "entry": 5,
+        "scene": 1,
+        "sound": "chair",
+        "text": "ルサイが向かいへ椅子を寄せる。"
+      },
+      {
+        "entry": 48,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "薄いノートを一冊取り出した。"
+      },
+      {
+        "entry": 93,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "自分の手帳を出した。"
+      },
+      {
+        "entry": 117,
+        "scene": 3,
+        "sound": "metal",
+        "text": "送信を確かめてから、ケーブルを抜く。ランスとコンケにも、同じように連絡を残した。相手が次に接続するまで、返事は来ない。"
+      },
+      {
+        "entry": 175,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "四人の間へ、ノートを開いた。"
+      },
+      {
+        "entry": 212,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "ランスがノートを閉じた。"
+      },
+      {
+        "entry": 214,
+        "scene": 4,
+        "sound": "rustle",
+        "text": "四人は、紙をまとめた。"
+      },
+      {
+        "entry": 228,
+        "scene": 5,
+        "sound": "door-open",
+        "text": "ダイは、いつもの調子で扉を開けた。"
+      },
+      {
+        "entry": 264,
+        "scene": 5,
+        "sound": "crowd",
+        "text": "歓声が鳴った。"
+      },
+      {
+        "entry": 330,
+        "scene": 5,
+        "sound": "rustle",
+        "text": "プラスは映像の入った端末を持ち、ノートを閉じた。"
+      },
+      {
+        "entry": 490,
+        "scene": 8,
+        "sound": "whoosh",
+        "text": "小さな弾が、来た。"
+      },
+      {
+        "entry": 492,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "避けた先の床で、別の弾が弾けた。"
+      },
+      {
+        "entry": 497,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "二つ目の爆発が、横から押した。"
+      },
+      {
+        "entry": 499,
+        "scene": 8,
+        "sound": "cloth",
+        "text": "ローブが床を擦る。"
+      },
+      {
+        "entry": 595,
+        "scene": 8,
+        "sound": "water",
+        "text": "水を飲む。"
+      },
+      {
+        "entry": 678,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "最後の弾が、正面の床で弾けた。"
+      },
+      {
+        "entry": 691,
+        "scene": 8,
+        "sound": "water",
+        "text": "コンケが、水を差し出した。"
+      },
+      {
+        "entry": 724,
+        "scene": 9,
+        "sound": "rustle",
+        "text": "ヤオイが鞄から、小さな券を出した。"
+      },
+      {
+        "entry": 763,
+        "scene": 9,
+        "sound": "metal",
+        "text": "透明な覆いが下りる。"
+      },
+      {
+        "entry": 808,
+        "scene": 10,
+        "sound": "rustle",
+        "text": "プラスは、ノートを閉じた。"
+      },
+      {
+        "entry": 830,
+        "scene": 11,
+        "sound": "hit",
+        "text": "ユージが、机の端を軽く叩いた。"
+      },
+      {
+        "entry": 868,
+        "scene": 11,
+        "sound": "rustle",
+        "text": "手帳を出す。"
+      }
+    ],
+    "chapter1-episode19": [
+      {
+        "entry": 13,
+        "scene": 1,
+        "sound": "steps",
+        "text": "近づく足音がした。"
+      },
+      {
+        "entry": 22,
+        "scene": 2,
+        "sound": "chair",
+        "text": "ユージが席へ着いたとき、ランスはすでに柵の向こうを見ていた。コンケが隣へ座り、足元に置いた荷物を引き寄せる。今日の会場は、いつもの試合より人が多い。グレード1が、生徒会役員へ挑む。しかも、自分の星を全て賭ける。"
+      },
+      {
+        "entry": 59,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "ジャッジは紙を一度下げた。"
+      },
+      {
+        "entry": 95,
+        "scene": 3,
+        "sound": "chime",
+        "text": "「レディ――ファイト！」"
+      },
+      {
+        "entry": 102,
+        "scene": 4,
+        "sound": "heavy",
+        "text": "靴底のすぐ後ろで、乾いた音がした。"
+      },
+      {
+        "entry": 106,
+        "scene": 4,
+        "sound": "whoosh",
+        "text": "もう一つ、明るい塊が来る。"
+      },
+      {
+        "entry": 131,
+        "scene": 4,
+        "sound": "hit",
+        "text": "光が、ローブの右肩へ当たった。"
+      },
+      {
+        "entry": 199,
+        "scene": 6,
+        "sound": "cloth",
+        "text": "手首を、横から取られた。"
+      },
+      {
+        "entry": 204,
+        "scene": 6,
+        "sound": "heavy",
+        "text": "床へ、背中が落ちた。"
+      },
+      {
+        "entry": 211,
+        "scene": 6,
+        "sound": "hit",
+        "text": "掴むより先に蹴られた。"
+      },
+      {
+        "entry": 217,
+        "scene": 6,
+        "sound": "heavy",
+        "text": "さっきまで頭のあった場所へ、熱が落ちた。"
+      },
+      {
+        "entry": 273,
+        "scene": 7,
+        "sound": "metal",
+        "text": "掌の先で、水が凍る。"
+      },
+      {
+        "entry": 292,
+        "scene": 7,
+        "sound": "cloth",
+        "text": "隣の机へ、ルサイが鞄を置いた。"
+      },
+      {
+        "entry": 324,
+        "scene": 8,
+        "sound": "tableware",
+        "text": "皿が、机を回る。"
+      },
+      {
+        "entry": 402,
+        "scene": 9,
+        "sound": "rustle",
+        "text": "紙の上へ、それぞれの星の数が並んだ。"
+      },
+      {
+        "entry": 464,
+        "scene": 10,
+        "sound": "heavy",
+        "text": "脇腹へ、衝撃が来る。"
+      },
+      {
+        "entry": 470,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "さっきまで背後にあった床が焼ける。"
+      }
+    ],
+    "chapter1-episode20": [
+      {
+        "entry": 3,
+        "scene": 1,
+        "sound": "heavy",
+        "text": "それだけで、身体の中心へ衝撃が入った。床へ落ちた膝が痛い。息を吸うと、脇腹の奥が痛い。立ち上がるために伸ばした手が、相手の足を見つけた。"
+      },
+      {
+        "entry": 11,
+        "scene": 1,
+        "sound": "hit",
+        "text": "肩を打った。"
+      },
+      {
+        "entry": 29,
+        "scene": 1,
+        "sound": "heavy",
+        "text": "腕の内側を、拳が通った。"
+      },
+      {
+        "entry": 82,
+        "scene": 2,
+        "sound": "teleport",
+        "text": "ルサイは、姿を消した。"
+      },
+      {
+        "entry": 87,
+        "scene": 2,
+        "sound": "hit",
+        "text": "ルサイが、その腕を押した。"
+      },
+      {
+        "entry": 98,
+        "scene": 2,
+        "sound": "run",
+        "text": "ルサイは、走った。"
+      },
+      {
+        "entry": 123,
+        "scene": 3,
+        "sound": "teleport",
+        "text": "ルサイが、僕を支えたまま透明化を解いた。"
+      },
+      {
+        "entry": 142,
+        "scene": 3,
+        "sound": "cloth",
+        "text": "膝が曲がり、身体が前へ落ちる。"
+      },
+      {
+        "entry": 215,
+        "scene": 4,
+        "sound": "metal",
+        "text": "僕の手帳と並べ、星の譲渡を行う。"
+      },
+      {
+        "entry": 278,
+        "scene": 4,
+        "sound": "door-open",
+        "text": "久しぶりに部室の扉を開けた日、ルサイが立ち上がった。"
+      },
+      {
+        "entry": 319,
+        "scene": 5,
+        "sound": "hit",
+        "text": "肩に光が当たった。"
+      },
+      {
+        "entry": 341,
+        "scene": 5,
+        "sound": "heavy",
+        "text": "プラスの拳が、左脇へ入った。"
+      },
+      {
+        "entry": 394,
+        "scene": 5,
+        "sound": "heavy",
+        "text": "Xの胸元へ、拳が当たる。"
+      },
+      {
+        "entry": 401,
+        "scene": 6,
+        "sound": "cloth",
+        "text": "ツクリが、その袖を掴む。"
+      },
+      {
+        "entry": 550,
+        "scene": 9,
+        "sound": "whoosh",
+        "text": "薄い氷が、プラスの胸の高さへ飛んだ。"
+      },
+      {
+        "entry": 553,
+        "scene": 9,
+        "sound": "metal",
+        "text": "氷がローブへ当たり、砕けた。"
+      },
+      {
+        "entry": 576,
+        "scene": 9,
+        "sound": "hit",
+        "text": "腹へ当たった。"
+      },
+      {
+        "entry": 602,
+        "scene": 9,
+        "sound": "hit",
+        "text": "Xの拳が、頬へ当たる。"
+      },
+      {
+        "entry": 625,
+        "scene": 10,
+        "sound": "hit",
+        "text": "Xの胸へ、一発入った。"
+      },
+      {
+        "entry": 626,
+        "scene": 10,
+        "sound": "hit",
+        "text": "その直後、プラスの肩へ拳が来た。"
+      },
+      {
+        "entry": 718,
+        "scene": 11,
+        "sound": "hit",
+        "text": "遅すぎれば、拳が軽いまま当たった。"
+      },
+      {
+        "entry": 729,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "ぶつかった。"
+      },
+      {
+        "entry": 746,
+        "scene": 11,
+        "sound": "heavy",
+        "text": "Xが、倒れた。"
+      },
+      {
+        "entry": 774,
+        "scene": 11,
+        "sound": "chime",
+        "text": "「そこまで！」"
+      },
+      {
+        "entry": 776,
+        "scene": 11,
+        "sound": "chime",
+        "text": "「勝負あり。勝者、プラス・ゼロ！」"
+      },
+      {
+        "entry": 895,
+        "scene": 14,
+        "sound": "steps",
+        "text": "歩く足音を聞いていた。"
+      },
+      {
+        "entry": 909,
+        "scene": 15,
+        "sound": "cloth",
+        "text": "コンケが、鞄の口を閉じる。"
+      }
+    ],
+    "chapter1-episode21": [
+      {
+        "entry": 45,
+        "scene": 2,
+        "sound": "metal",
+        "text": "小さな音が鳴り、金属の扉が左右へ開く。プラスは手帳を返してもらい、乗り込んだ。中にも、教室の階を自由に選ぶようなボタンはなかった。行き先は、受付で指定されているらしい。"
+      },
+      {
+        "entry": 47,
+        "scene": 2,
+        "sound": "door-close",
+        "text": "扉が閉まった。"
+      },
+      {
+        "entry": 50,
+        "scene": 2,
+        "sound": "metal",
+        "text": "到着した先には、静かな廊下があった。扉の前で待っていた係の生徒が、もう一度手帳と入室許可を確認する。通された奥には、さらに重い扉があった。係の生徒が解錠すると、短い金属音が響いた。"
+      },
+      {
+        "entry": 54,
+        "scene": 2,
+        "sound": "knock",
+        "text": "叩いてから返事を待つ。"
+      },
+      {
+        "entry": 55,
+        "scene": 2,
+        "sound": "chair",
+        "text": "中で、椅子の動く音がした。"
+      },
+      {
+        "entry": 57,
+        "scene": 2,
+        "sound": "door-open",
+        "text": "プラスは扉を押した。"
+      },
+      {
+        "entry": 89,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "ジャッジが二人の間へ紙を置く。"
+      },
+      {
+        "entry": 154,
+        "scene": 3,
+        "sound": "ui",
+        "text": "机の上の時計が、短く音を立てた。"
+      },
+      {
+        "entry": 195,
+        "scene": 3,
+        "sound": "water",
+        "text": "プラスは受け取り、一口だけ飲んだ。"
+      },
+      {
+        "entry": 346,
+        "scene": 5,
+        "sound": "water",
+        "text": "長い間のあとで、プラスが水を飲んだ。今度は、喉を通る冷たさを最後まで感じられた。"
+      },
+      {
+        "entry": 474,
+        "scene": 7,
+        "sound": "cloth",
+        "text": "差し出された手を、握った。"
+      },
+      {
+        "entry": 502,
+        "scene": 7,
+        "sound": "door-open",
+        "text": "ツキチヨが、扉を開けた。"
+      },
+      {
+        "entry": 507,
+        "scene": 7,
+        "sound": "door-close",
+        "text": "扉が閉まった。"
+      },
+      {
+        "entry": 536,
+        "scene": 8,
+        "sound": "rustle",
+        "text": "ペンを置く。"
+      },
+      {
+        "entry": 564,
+        "scene": 9,
+        "sound": "bell",
+        "text": "窓の外で、夕方の鐘が鳴った。"
+      },
+      {
+        "entry": 569,
+        "scene": 10,
+        "sound": "rustle",
+        "text": "問題集を閉じる音がした。"
+      },
+      {
+        "entry": 585,
+        "scene": 10,
+        "sound": "rustle",
+        "text": "鞄から出して、渡す。"
+      },
+      {
+        "entry": 691,
+        "scene": 11,
+        "sound": "door-open",
+        "text": "プラスは、扉を開けた。"
+      },
+      {
+        "entry": 695,
+        "scene": 11,
+        "sound": "tableware",
+        "text": "机の脇にいたコンケが、持っていたコップを置いた。"
+      },
+      {
+        "entry": 727,
+        "scene": 11,
+        "sound": "chair",
+        "text": "ランスが、机の椅子を引いた。"
+      },
+      {
+        "entry": 743,
+        "scene": 11,
+        "sound": "tableware",
+        "text": "プラスは匙を取った。"
+      },
+      {
+        "entry": 843,
+        "scene": 12,
+        "sound": "ui",
+        "text": "灯りが消えた。"
+      }
     ]
   }
 }

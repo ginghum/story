@@ -1,0 +1,149 @@
+{
+  "id": "chapter1-episode21",
+  "title": "第1章　第21話　それでも俺は、友達になりたい",
+  "status": "playable; all source scenes and finale staging boundaries reviewed",
+  "source_lines": 931,
+  "source_scenes": 14,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 31,
+      "location": "保健委員会／治った手と残る疲れ",
+      "source_lines": 29,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 2,
+      "start": 32,
+      "end": 107,
+      "location": "生徒会区画／専用エレベーターの受付",
+      "source_lines": 71,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 3,
+      "start": 108,
+      "end": 212,
+      "location": "生徒会室／Xが語る過去",
+      "source_lines": 103,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 4,
+      "start": 213,
+      "end": 292,
+      "location": "生徒会室／学園の底の真実",
+      "source_lines": 78,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 5,
+      "start": 293,
+      "end": 361,
+      "location": "生徒会室／謝罪と消えない怒り",
+      "source_lines": 67,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 6,
+      "start": 362,
+      "end": 421,
+      "location": "生徒会室／マイナス・ゼロへの道",
+      "source_lines": 59,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 7,
+      "start": 422,
+      "end": 508,
+      "location": "生徒会室／遅れて届いた返事",
+      "source_lines": 86,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 8,
+      "start": 509,
+      "end": 548,
+      "location": "生徒会室／知ったあとの義務",
+      "source_lines": 39,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 9,
+      "start": 549,
+      "end": 566,
+      "location": "校舎／いつもと同じ星の会話",
+      "source_lines": 16,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 10,
+      "start": 567,
+      "end": 672,
+      "location": "勉強サークル／戻るつもりの席",
+      "source_lines": 105,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 11,
+      "start": 673,
+      "end": 813,
+      "location": "学園／帰る場所へ",
+      "source_lines": 140,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 12,
+      "start": 814,
+      "end": 850,
+      "location": "学生寮／今日は休む",
+      "source_lines": 36,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 13,
+      "start": 851,
+      "end": 928,
+      "location": "夢／城の庭から望む街",
+      "source_lines": 77,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    },
+    {
+      "scene": 14,
+      "start": 929,
+      "end": 954,
+      "location": "学生寮／明日会いたい人",
+      "source_lines": 25,
+      "reviewed": true,
+      "review_date": "2026-10-26",
+      "review_basis": "原文照合、640×360横持ち全51シーンと追加9地点の画面確認、画像拡大、全話完走・左右・負傷・治療・入退場・SE/BGM検証"
+    }
+  ]
+}

@@ -98,3 +98,20 @@ if any(m['id']=='chapter1-episode17' for m in manifest):
  assert all(x.get('bgm')!='battle' for x in e17 if x['scene']==6), 'The challenge is a negotiation; combat has not begun'
  assert any(c['id']=='x' and c['expression']=='shaken' for x in e16 for c in x['cast'])
  print('PASS: episode 15–17 healing, faceless memories, council viewpoint, solo club visit, practice prop exit, X exit and challenge staging.')
+
+if any(m['id']=='chapter1-episode21' for m in manifest):
+ e18,e19,e20,e21=[episode(n) for n in [18,19,20,21]]
+ assert all(c['expression']!='battle-hurt' for e in e18 if e['scene']<8 or e['scene']>=10 for c in e['cast'])
+ assert all(c['id']!='plus' for es,lo,hi in [(e19,7,10),(e20,1,4)] for e in es if lo<=e['scene']<=hi for c in e['cast'])
+ invisible=next(i for i,e in enumerate(e20) if e.get('raw')=='ルサイは、姿を消した。')
+ assert all(c['id']!='lusai' for e in e20[invisible:] if e['scene']==2 for c in e['cast'])
+ impact=next(i for i,e in enumerate(e20) if e.get('raw')=='ぶつかった。')
+ fallen=next(i for i,e in enumerate(e20) if e.get('raw')=='Xが、倒れた。')
+ assert all((e.get('cg')=='assets/cg/episode20-final-fists.webp')==(impact<=i<fallen) for i,e in enumerate(e20))
+ assert all(c['id']!='x' for e in e20[fallen:] for c in e['cast'])
+ assert all(e['scene'] in [13,14] for e in e20 if e.get('cg')=='assets/cg/episode20-gurney-friends.webp')
+ assert all(c['expression']!='battle-hurt' for e in e21 for c in e['cast'])
+ assert all(c['id']!='x' and e.get('cg') not in ['assets/cg/episode21-a.webp','assets/cg/episode21-c.webp','assets/cg/episode21-handshake.webp'] for e in e21[507:] for c in e['cast'])
+ assert all(not e['cast'] and e.get('cg')=='assets/cg/episode21-b.webp' for e in e21 if e['scene']==13)
+ assert e21[-1]['raw']=='第一章　完'
+ print('PASS: finale healing, past/current separation, invisibility, fist impact/exit, gurney attendance, dream and chapter ending.')
