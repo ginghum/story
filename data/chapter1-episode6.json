@@ -683,7 +683,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -712,7 +712,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -741,7 +741,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -770,7 +770,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -799,7 +799,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -828,7 +828,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -857,7 +857,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -886,7 +886,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -915,7 +915,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -944,7 +944,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -973,7 +973,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1002,7 +1002,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1031,7 +1031,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1060,7 +1060,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1089,7 +1089,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1118,7 +1118,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1147,7 +1147,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1176,7 +1176,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "se": "chair",
@@ -1206,7 +1206,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -1235,7 +1235,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2305,7 +2305,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2328,7 +2328,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2351,7 +2351,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2374,7 +2374,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2397,7 +2397,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2420,7 +2420,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -2443,7 +2443,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2472,7 +2472,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2501,7 +2501,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2530,7 +2530,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2559,7 +2559,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2588,7 +2588,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2617,7 +2617,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2646,7 +2646,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2675,7 +2675,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2704,7 +2704,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2733,7 +2733,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2762,7 +2762,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2791,7 +2791,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2820,7 +2820,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2849,7 +2849,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2878,7 +2878,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2907,7 +2907,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -2947,7 +2947,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -2982,7 +2982,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3017,7 +3017,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3052,7 +3052,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3087,7 +3087,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3122,7 +3122,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3157,7 +3157,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3192,7 +3192,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3238,7 +3238,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3267,7 +3267,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3296,7 +3296,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3325,7 +3325,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3354,7 +3354,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3383,7 +3383,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3412,7 +3412,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -3441,7 +3441,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3476,7 +3476,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3511,7 +3511,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3546,7 +3546,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3581,7 +3581,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3616,7 +3616,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3651,7 +3651,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3686,7 +3686,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3721,7 +3721,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3756,7 +3756,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3791,7 +3791,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3826,7 +3826,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3861,7 +3861,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3896,7 +3896,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3931,7 +3931,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -3966,7 +3966,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4001,7 +4001,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4036,7 +4036,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4071,7 +4071,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4106,7 +4106,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4141,7 +4141,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4176,7 +4176,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4211,7 +4211,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4246,7 +4246,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4281,7 +4281,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4316,7 +4316,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4351,7 +4351,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4386,7 +4386,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4421,7 +4421,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4456,7 +4456,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4491,7 +4491,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4526,7 +4526,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4561,7 +4561,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4596,7 +4596,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4631,7 +4631,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4666,7 +4666,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4701,7 +4701,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4736,7 +4736,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4771,7 +4771,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4806,7 +4806,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4841,7 +4841,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4876,7 +4876,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4911,7 +4911,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4946,7 +4946,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -4981,7 +4981,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5016,7 +5016,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5051,7 +5051,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5086,7 +5086,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5121,7 +5121,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5156,7 +5156,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5191,7 +5191,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5226,7 +5226,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "hikaru",
@@ -5619,7 +5619,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5642,7 +5642,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5665,7 +5665,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5688,7 +5688,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5711,7 +5711,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5745,7 +5745,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5768,7 +5768,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5791,7 +5791,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5814,7 +5814,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5837,7 +5837,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5860,7 +5860,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5883,7 +5883,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5906,7 +5906,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5929,7 +5929,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5963,7 +5963,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -5986,7 +5986,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -6009,7 +6009,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -6032,7 +6032,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -6055,7 +6055,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -6078,7 +6078,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "tension"
@@ -6101,7 +6101,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6130,7 +6130,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6159,7 +6159,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6188,7 +6188,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6217,7 +6217,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6246,7 +6246,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6275,7 +6275,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6304,7 +6304,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6333,7 +6333,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6362,7 +6362,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6391,7 +6391,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "mob-male-broad",
@@ -6650,7 +6650,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "lance",
@@ -6679,7 +6679,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "lance",
@@ -6708,7 +6708,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "lance",
@@ -6737,7 +6737,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "lance",
@@ -6766,7 +6766,7 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
-          "expression": "neutral"
+          "expression": "worried"
         },
         {
           "id": "lance",
@@ -8712,7 +8712,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8741,7 +8741,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8770,7 +8770,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8799,7 +8799,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8828,7 +8828,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8857,7 +8857,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8886,7 +8886,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8915,7 +8915,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8944,7 +8944,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -8973,7 +8973,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9002,7 +9002,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9031,7 +9031,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9060,7 +9060,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9089,7 +9089,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9118,7 +9118,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9147,7 +9147,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9176,7 +9176,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9205,7 +9205,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9234,7 +9234,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9263,7 +9263,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9292,7 +9292,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9321,7 +9321,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9350,7 +9350,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9379,7 +9379,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9408,7 +9408,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9437,7 +9437,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9466,7 +9466,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9495,7 +9495,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9524,7 +9524,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9553,7 +9553,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9582,7 +9582,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9611,7 +9611,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9640,7 +9640,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9669,7 +9669,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9698,7 +9698,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9727,7 +9727,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9756,7 +9756,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9785,7 +9785,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9814,7 +9814,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9843,7 +9843,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9872,7 +9872,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9901,7 +9901,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9930,7 +9930,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9959,7 +9959,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -9988,7 +9988,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -10017,7 +10017,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -10046,7 +10046,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -10075,7 +10075,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -10104,7 +10104,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -10133,7 +10133,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "se": "steps",
@@ -10163,7 +10163,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "worried"
         }
       ],
       "bgm": "reflection"
@@ -17955,7 +17955,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -17984,7 +17984,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18013,7 +18013,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18042,7 +18042,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18071,7 +18071,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18100,7 +18100,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18140,7 +18140,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18169,7 +18169,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18198,7 +18198,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18227,7 +18227,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18256,7 +18256,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18285,7 +18285,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18314,7 +18314,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18343,7 +18343,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18372,7 +18372,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18401,7 +18401,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18430,7 +18430,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18459,7 +18459,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18488,7 +18488,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18517,7 +18517,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18546,7 +18546,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18575,7 +18575,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18604,7 +18604,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18644,7 +18644,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18673,7 +18673,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"
@@ -18702,7 +18702,7 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
-          "expression": "neutral"
+          "expression": "soft"
         }
       ],
       "bgm": "reflection"

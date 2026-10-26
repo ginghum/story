@@ -44,3 +44,7 @@ def main():
   manifest['episodes'].append(dict(id=d['id'],title=d['title'],file=f'data/extra{n}.json',image=f'assets/cg/{next(iter(ART[n].values()))}.webp',description=TITLES[n-1],collection='extras'))
  (R/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
+
+if __name__=='__main__':
+ from assign_expressions import main as assign_expressions
+ assign_expressions()

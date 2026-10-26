@@ -297,3 +297,6 @@ if __name__=='__main__':
 
  from enhance_battles_audio import enhance
  enhance()
+if __name__=='__main__':
+  from assign_expressions import main as assign_expressions
+  assign_expressions()

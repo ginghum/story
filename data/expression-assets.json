@@ -1,0 +1,269 @@
+{
+  "description": "Reviewed expression variants; past Doma has no glasses; past X/Lusai retain period uniforms.",
+  "assets": [
+    {
+      "id": "lusai-worried",
+      "character": "lusai",
+      "expression": "worried",
+      "ref": "assets/characters/lusai-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Anxious concern: eyebrows drawn together and slightly raised, eyes attentive and troubled, mouth gently parted but absolutely NO smile. Restrained worried dignity. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/lusai-worried.webp"
+    },
+    {
+      "id": "lusai-desperate",
+      "character": "lusai",
+      "expression": "desperate",
+      "ref": "assets/characters/lusai-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Desperate heartfelt calling out to endangered best friend: eyes wide and wet but no flowing tears, brows raised tightly inward, mouth OPEN shouting, tense grief and urgency. Absolutely NO smile, no malicious rage. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/lusai-desperate.webp"
+    },
+    {
+      "id": "lusai-relieved",
+      "character": "lusai",
+      "expression": "relieved",
+      "ref": "assets/characters/lusai-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Quiet exhausted relief after fear: eyebrows soften, slightly moist eyes, small fragile closed-mouth smile, not a broad cheerful grin. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/lusai-relieved.webp"
+    },
+    {
+      "id": "doma-worried",
+      "character": "doma",
+      "expression": "worried",
+      "ref": "assets/characters/doma-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Subtle serious concern: normally reserved face, brows slightly drawn, lips parted a little, eyes fixed attentively, NO smile. Keep her reserved personality, not exaggerated panic. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/doma-worried.webp"
+    },
+    {
+      "id": "doma-determined",
+      "character": "doma",
+      "expression": "determined",
+      "ref": "assets/characters/doma-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Calm unwavering resolve: brows slightly lowered, steady eyes through glasses, mouth small but speaking firmly, NO smile or aggression. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/doma-determined.webp"
+    },
+    {
+      "id": "tsukuri-determined",
+      "character": "tsukuri",
+      "expression": "determined",
+      "ref": "assets/characters/tsukuri-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Nervous but courageous determination as she calls out to a friend: eyebrows drawn inward, wet attentive eyes, mouth OPEN speaking firmly, NO smile. Not furious. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/tsukuri-determined.webp"
+    },
+    {
+      "id": "tsukuri-relieved",
+      "character": "tsukuri",
+      "expression": "relieved",
+      "ref": "assets/characters/tsukuri-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Warm relief, eyebrows relaxed, eyes softly bright, small natural closed-mouth smile, no sweat drop, no blush or wink. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/tsukuri-relieved.webp"
+    },
+    {
+      "id": "judge-serious",
+      "character": "judge",
+      "expression": "serious",
+      "ref": "assets/characters/judge-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Official stern impartial expression: narrow focused eyes, eyebrows level slightly lowered, mouth closed straight or slightly speaking, absolutely NO teasing smirk or smile. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/judge-serious.webp"
+    },
+    {
+      "id": "yuji-worried",
+      "character": "yuji",
+      "expression": "worried",
+      "ref": "assets/characters/yuji-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Worried protective concern for injured friend: eyebrows raised inward, eyes alert, mouth slightly open, absolutely NO smile. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/yuji-worried.webp"
+    },
+    {
+      "id": "konke-serious",
+      "character": "konke",
+      "expression": "serious",
+      "ref": "assets/characters/konke-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Uncharacteristically serious protective concentration: both eyes clearly open, brows knitted, mouth closed firmly, NO wink, grin or smirk. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/konke-serious.webp"
+    },
+    {
+      "id": "yukimero-worried",
+      "character": "yukimero",
+      "expression": "worried",
+      "ref": "assets/characters/yukimero-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Uneasy sincere concern: eyebrows raised inward, eyes open and worried, small mouth parted, absolutely NO cheerful smile, wink or playful blush. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/yukimero-worried.webp"
+    },
+    {
+      "id": "lance-soft",
+      "character": "lance",
+      "expression": "soft",
+      "ref": "assets/characters/lance-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Gentle awkward honest affection and relief: slight small closed-mouth smile, relaxed brows and shoulders, attentive amber eyes through glasses. No smug grin, no blush. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/lance-soft.webp"
+    },
+    {
+      "id": "x-soft",
+      "character": "x",
+      "expression": "soft",
+      "ref": "assets/characters/x-stern.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Tired vulnerable relief and gratitude: blue eyes softened, relaxed eyebrows, tiny hesitant closed-mouth smile. No arrogance, no sneer. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/x-soft.webp"
+    },
+    {
+      "id": "plus-worried",
+      "character": "plus",
+      "expression": "worried",
+      "ref": "assets/characters/plus-smile.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Sincere troubled concern: purple eyes attentive, eyebrows raised inward, mouth slightly parted and uncertain, absolutely NO smile. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/plus-worried.webp"
+    },
+    {
+      "id": "lance-worried",
+      "character": "lance",
+      "expression": "worried",
+      "ref": "assets/characters/lance-neutral.webp",
+      "prompt": "Use case: identity-preserve. Create one expression variant of THIS exact full-body visual novel character sprite on TRUE TRANSPARENT background. Change ONLY facial expression: Worried protective concern: eyebrows slightly raised inward, attentive anxious amber eyes through glasses, lips parted slightly, absolutely NO smile, no annoyance or anger. Preserve exact identity, hair color/style, eye color, glasses if present, proportions, body height, same standing pose, both arms and hands and all props, shoes and complete outfit from reference, unchanged clothing edges and detailed delicate anime rendering. Keep brown school robe where reference wears it; preserve pink dress for Yukimero. Whole head and both feet completely in frame, small margins, same full-body scale. Healthy version, no new injuries or bandages. Exactly one character, no background/ground/shadow, no text or panels. Highest priority clearly readable expression at small game size without changing who the character is.",
+      "file": "assets/characters/lance-worried.webp"
+    },
+    {
+      "id": "yuhi-serious",
+      "character": "yuhi",
+      "expression": "serious",
+      "ref": "assets/characters/yuhi-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Focused professional seriousness: eyes open attentive, brows slightly lowered, mouth closed straight. NO grin, laughter, wink or blush. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/yuhi-serious.webp"
+    },
+    {
+      "id": "yuhi-worried",
+      "character": "yuhi",
+      "expression": "worried",
+      "ref": "assets/characters/yuhi-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Troubled uncertainty and concern about a friend and an article: eyes open, brows raised inward, mouth slightly parted. NO smile or wink. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/yuhi-worried.webp"
+    },
+    {
+      "id": "chick-worried",
+      "character": "chick",
+      "expression": "worried",
+      "ref": "assets/characters/chick-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Quiet thoughtful concern: brow drawn slightly inward, eyes attentive through glasses, lips slightly parted, no cheerful smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/chick-worried.webp"
+    },
+    {
+      "id": "oga-serious",
+      "character": "oga",
+      "expression": "serious",
+      "ref": "assets/characters/oga-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Calm protective authority and scrutiny: brows lowered a little, eyes steady, mouth closed firmly, no smile. Not a berserk angry face. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/oga-serious.webp"
+    },
+    {
+      "id": "gumon-soft",
+      "character": "gumon",
+      "expression": "soft",
+      "ref": "assets/characters/gumon-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Grudging faint warmth and acceptance: eyes soften, very small closed-mouth half smile. Keep rough mature gruff character, not cute or bashful. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/gumon-soft.webp"
+    },
+    {
+      "id": "yaoi-worried",
+      "character": "yaoi",
+      "expression": "worried",
+      "ref": "assets/characters/yaoi-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Sincere visible worry: gray eyes alert behind glasses, brows raised inward, lips parted slightly, no smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/yaoi-worried.webp"
+    },
+    {
+      "id": "yaoi-determined",
+      "character": "yaoi",
+      "expression": "determined",
+      "ref": "assets/characters/yaoi-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Quiet confident resolve and persistence: eyes attentive steady, eyebrows slightly drawn, mouth small and firmly speaking, no anger or broad grin. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/yaoi-determined.webp"
+    },
+    {
+      "id": "ojo-surprised",
+      "character": "ojo",
+      "expression": "surprised",
+      "ref": "assets/characters/ojo-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Caught off guard: red eyes slightly widened, eyebrows raised, small parted mouth, no smug smile or exaggerated cartoon panic. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/ojo-surprised.webp"
+    },
+    {
+      "id": "lusai-past-angry",
+      "character": "lusai-past",
+      "expression": "angry",
+      "ref": "assets/characters/lusai-past-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Proud frustrated hurt anger at a talented classmate: brows sharply drawn, eyes tense, mouth open speaking firmly, no smile. Not evil rage. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages. CRITICAL: Lusai MUST KEEP his thin dark rectangular EYeglasses, both clear lenses and bridge at nose exactly as reference. Do NOT remove eyeglasses. He wears glasses in this historical period too.",
+      "file": "assets/characters/lusai-past-angry.webp"
+    },
+    {
+      "id": "lusai-past-worried",
+      "character": "lusai-past",
+      "expression": "worried",
+      "ref": "assets/characters/lusai-past-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Insecure wounded pride and uncertainty: brows raised inward, eyes troubled, lips slightly parted, no smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages. CRITICAL: Lusai MUST KEEP his thin dark rectangular EYeglasses, both clear lenses and bridge at nose exactly as reference. Do NOT remove eyeglasses. He wears glasses in this historical period too.",
+      "file": "assets/characters/lusai-past-worried.webp"
+    },
+    {
+      "id": "lusai-past-soft",
+      "character": "lusai-past",
+      "expression": "soft",
+      "ref": "assets/characters/lusai-past-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Small genuine newfound friendly smile, eyes relaxed and open, gentle modest joy, no exaggerated grin. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages. CRITICAL: Lusai MUST KEEP his thin dark rectangular EYeglasses, both clear lenses and bridge at nose exactly as reference. Do NOT remove eyeglasses. He wears glasses in this historical period too.",
+      "file": "assets/characters/lusai-past-soft.webp"
+    },
+    {
+      "id": "x-past-serious",
+      "character": "x-past",
+      "expression": "serious",
+      "ref": "assets/characters/x-past-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Serious fair-minded disagreement with a friend: eyes focused, brows knitted slightly, lips firmly speaking without a smile. Keep youthful confidence, not older cold cruelty. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/x-past-serious.webp"
+    },
+    {
+      "id": "x-past-worried",
+      "character": "x-past",
+      "expression": "worried",
+      "ref": "assets/characters/x-past-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Young sincere concern and uncertainty: brows raised inward, blue eyes attentive, lips parted slightly, no smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/x-past-worried.webp"
+    },
+    {
+      "id": "x-young-serious",
+      "character": "x-young",
+      "expression": "serious",
+      "ref": "assets/characters/x-young-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Young unwavering serious confidence, blue eyes focused, brows slightly lowered, lips firmly speaking without a smile. Not panic, not cruel rage. No injury or tears. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/x-young-serious.webp"
+    },
+    {
+      "id": "doma-past-neutral",
+      "character": "doma-past",
+      "expression": "neutral",
+      "ref": "assets/characters/doma-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Guarded unsmiling pre-club demeanor. REMOVE glasses completely: bare gray eyes under straight black bangs. Same long black hair and covered outfit. No glasses frames/lenses or glasses props anywhere. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Past Doma changes ONLY removal of glasses and requested face; no child body or haircut. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/doma-past-neutral.webp"
+    },
+    {
+      "id": "doma-past-angry",
+      "character": "doma-past",
+      "expression": "angry",
+      "ref": "assets/characters/doma-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Protective confrontational anger before joining study club: narrowed gray eyes, brows sharply knitted, mouth open speaking firmly. REMOVE glasses entirely. No glasses or lenses, no smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Past Doma changes ONLY removal of glasses and requested face; no child body or haircut. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/doma-past-angry.webp"
+    },
+    {
+      "id": "doma-past-worried",
+      "character": "doma-past",
+      "expression": "worried",
+      "ref": "assets/characters/doma-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Awkward uncertain concern before learning polite speech: brows tense, gray eyes looking attentively, mouth slightly parted. REMOVE glasses entirely. No glasses or lenses, no smile. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Past Doma changes ONLY removal of glasses and requested face; no child body or haircut. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
+      "file": "assets/characters/doma-past-worried.webp"
+    },
+    {
+      "id": "lusai-sad",
+      "character": "lusai",
+      "expression": "sad",
+      "ref": "assets/characters/lusai-neutral.webp",
+      "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Private grief after everyone has left: brows raised inward with deep sadness, eyes moist with a small tear on one cheek, lips trembling closed downward, absolutely NO smile. Restrained quiet hurt, not melodramatic sobbing. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages. CRITICAL: KEEP the thin dark rectangular GLASSES, BOTH lens frames and bridge on nose and temple arms as reference. This is Lusai with glasses; only Doma earlier was without glasses. Do NOT remove Lusai glasses.",
+      "file": "assets/characters/lusai-sad.webp"
+    }
+  ]
+}
