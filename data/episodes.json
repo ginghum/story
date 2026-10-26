@@ -76,6 +76,13 @@
       "file": "data/chapter1-episode10.json",
       "image": "assets/cg/episode10-tree-faceless.webp",
       "description": "割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。"
+    },
+    {
+      "id": "chapter1-episode11",
+      "title": "第1章　第11話　好きなはずなのに、見ていない",
+      "file": "data/chapter1-episode11.json",
+      "image": "assets/cg/episode11-e-blue-soup.webp",
+      "description": "四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。"
     }
   ]
 }

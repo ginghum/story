@@ -458,7 +458,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -1308,7 +1309,8 @@
           "height": 178,
           "expression": "reserved"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -8914,7 +8916,8 @@
           "height": 178,
           "expression": "hurt"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -10930,7 +10933,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -12898,7 +12902,8 @@
           "height": 197,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",

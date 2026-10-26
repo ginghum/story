@@ -9693,7 +9693,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -10767,7 +10768,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -12237,7 +12239,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -13787,7 +13790,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -13815,7 +13819,8 @@
           "height": 184,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",
@@ -14129,7 +14134,8 @@
           "height": 159,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chime"
     },
     {
       "type": "line",

@@ -295,3 +295,6 @@ if __name__=='__main__':
  if (ROOT/'data/source/chapter1-episode10.txt').exists():
   import compile_continuation
   compile_continuation.main()
+
+ from enhance_battles_audio import enhance
+ enhance()

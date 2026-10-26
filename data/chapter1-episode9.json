@@ -2772,7 +2772,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -3112,7 +3113,8 @@
           "height": 189,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",

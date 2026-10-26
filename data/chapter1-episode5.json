@@ -6883,8 +6883,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -6898,7 +6898,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "teleport"
     },
     {
       "type": "line",
@@ -6911,8 +6912,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -6939,8 +6940,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -6967,8 +6968,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -6995,8 +6996,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7023,8 +7024,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7051,8 +7052,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7079,8 +7080,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7107,8 +7108,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7135,8 +7136,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7163,8 +7164,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7191,8 +7192,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7219,8 +7220,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7247,8 +7248,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7275,8 +7276,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7304,7 +7305,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7331,8 +7332,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7346,7 +7347,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "teleport"
     },
     {
       "type": "line",
@@ -7359,8 +7361,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7374,7 +7376,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "whoosh"
     },
     {
       "type": "line",
@@ -7387,8 +7390,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7415,8 +7418,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7443,8 +7446,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7471,8 +7474,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7486,7 +7489,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -7499,8 +7503,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7527,8 +7531,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7555,8 +7559,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7583,8 +7587,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7611,8 +7615,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7639,8 +7643,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7667,8 +7671,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7695,8 +7699,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7723,8 +7727,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7751,8 +7755,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7779,8 +7783,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7807,8 +7811,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7835,8 +7839,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7863,8 +7867,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7891,8 +7895,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7919,8 +7923,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7934,7 +7938,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "hit"
     },
     {
       "type": "line",
@@ -7947,8 +7952,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -7975,8 +7980,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8003,8 +8008,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8031,8 +8036,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8059,8 +8064,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8087,8 +8092,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8115,8 +8120,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8143,8 +8148,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8171,8 +8176,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8199,8 +8204,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8227,8 +8232,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8255,8 +8260,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8283,8 +8288,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8311,8 +8316,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8339,8 +8344,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8367,8 +8372,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8395,8 +8400,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8423,8 +8428,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8451,8 +8456,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8479,8 +8484,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8507,8 +8512,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8535,8 +8540,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8563,8 +8568,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8591,8 +8596,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8619,8 +8624,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8634,7 +8639,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "teleport"
     },
     {
       "type": "line",
@@ -8647,8 +8653,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8675,8 +8681,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8703,8 +8709,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8731,8 +8737,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8759,8 +8765,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8788,7 +8794,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8816,7 +8822,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8844,7 +8850,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8872,7 +8878,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8900,7 +8906,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8928,7 +8934,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8956,7 +8962,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -8984,7 +8990,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9012,7 +9018,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9040,7 +9046,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9068,7 +9074,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9096,7 +9102,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9123,8 +9129,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9151,8 +9157,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9179,8 +9185,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9207,8 +9213,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9235,8 +9241,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9263,8 +9269,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9291,8 +9297,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9319,8 +9325,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9347,8 +9353,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9375,8 +9381,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9403,8 +9409,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9431,8 +9437,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9459,8 +9465,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9487,8 +9493,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9515,8 +9521,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9543,8 +9549,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9571,8 +9577,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9599,8 +9605,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9614,7 +9620,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "teleport"
     },
     {
       "type": "line",
@@ -9627,8 +9634,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9655,8 +9662,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9683,8 +9690,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9711,8 +9718,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9739,8 +9746,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-a-r3.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9767,8 +9774,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9795,8 +9802,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9823,8 +9830,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9851,8 +9858,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9879,8 +9886,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9907,8 +9914,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9935,8 +9942,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9963,8 +9970,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -9991,8 +9998,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10019,8 +10026,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10047,8 +10054,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10075,8 +10082,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10103,8 +10110,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10131,8 +10138,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10159,8 +10166,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10187,8 +10194,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10215,8 +10222,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10243,8 +10250,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10271,8 +10278,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10299,8 +10306,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10327,8 +10334,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10355,8 +10362,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10383,8 +10390,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10398,7 +10405,8 @@
           "height": 182,
           "expression": "battle"
         }
-      ]
+      ],
+      "se": "teleport"
     },
     {
       "type": "line",
@@ -10411,8 +10419,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10439,8 +10447,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10467,8 +10475,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10495,8 +10503,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10523,8 +10531,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10551,8 +10559,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10579,8 +10587,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10607,8 +10615,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-teleport.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10635,8 +10643,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10663,8 +10671,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10691,8 +10699,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10719,8 +10727,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10747,8 +10755,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10775,8 +10783,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10803,8 +10811,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10831,8 +10839,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10859,8 +10867,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-flank.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10888,7 +10896,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10916,7 +10924,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10944,7 +10952,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -10972,7 +10980,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11000,7 +11008,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11028,7 +11036,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11056,7 +11064,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11084,7 +11092,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11112,7 +11120,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11140,7 +11148,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11168,7 +11176,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11196,7 +11204,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11224,7 +11232,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11252,7 +11260,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11280,7 +11288,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11308,7 +11316,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11336,7 +11344,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11364,7 +11372,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11392,7 +11400,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11420,7 +11428,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11448,7 +11456,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11476,7 +11484,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11504,7 +11512,7 @@
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
       "cg": "assets/cg/episode05-hold.webp",
-      "cgAlt": "物語の挿絵",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11531,8 +11539,8 @@
       "location": "闘技場／武器なし競技面",
       "bg": "assets/bg/arena-floor.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/episode05-hold.webp",
+      "cgAlt": "右腕を支持具で保護し、左腕でダイに挑むプラス",
       "cast": [
         {
           "id": "plus",
@@ -11552,7 +11560,8 @@
           "height": 159,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "chime"
     },
     {
       "type": "line",
@@ -13058,7 +13067,8 @@
           "height": 159,
           "expression": "neutral"
         }
-      ]
+      ],
+      "se": "rustle"
     },
     {
       "type": "line",
@@ -16388,7 +16398,8 @@
           "height": 184,
           "expression": "bandaged-smile"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -16454,7 +16465,8 @@
           "height": 184,
           "expression": "bandaged-smile"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -16652,7 +16664,8 @@
           "height": 184,
           "expression": "bandaged-smile"
         }
-      ]
+      ],
+      "se": "whip"
     },
     {
       "type": "line",
@@ -16916,7 +16929,8 @@
           "height": 184,
           "expression": "bandaged-smile"
         }
-      ]
+      ],
+      "se": "heavy"
     },
     {
       "type": "line",

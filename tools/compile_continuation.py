@@ -5,7 +5,7 @@ import compile_chapter1 as c
 ROOT=Path(__file__).resolve().parents[1]
 scene,cue=c.scene,c.cue
 D=['プラス','ランス'];P=['プラス','ユージ'];T=c.TRIO;NEWS=['プラス','ユーヒ','バルー','チック','モルペウス','ダイ']
-c.CHAR.update({'オーガ':('oga',197,'neutral'),'グモン':('gumon',189,'neutral'),'ヤオイ':('yaoi',155,'neutral'),'オジョー':('ojo',154,'neutral'),'不良':('mob-male-broad',182,'brown'),'生徒':('mob-male-slim',173,'brown')})
+c.CHAR.update({'コバル':('kobal',175,'neutral'),'オーガ':('oga',197,'neutral'),'グモン':('gumon',189,'neutral'),'ヤオイ':('yaoi',155,'neutral'),'オジョー':('ojo',154,'neutral'),'不良':('mob-male-broad',182,'brown'),'生徒':('mob-male-slim',173,'brown')})
 PLANS={}
 PLANS[7]=[
  (scene('学生寮／三人の部屋・朝','dorm-morning',D),[]),
@@ -161,6 +161,39 @@ PLANS[10]=[
 ]
 
 
+PLANS[11]=[
+ (scene('学生寮／いつもの朝','dorm-morning',T,cg='episode11-d'),[]),
+ (scene('早朝の練習場／軽い脚の制御','training',D),[]),
+ (scene('早朝の練習場／能力と想像','training',D),[]),
+ (scene('早朝の練習場／身体が覚える動き','training',D),[]),
+ (scene('学生寮／今日の衣装選び','dorm-morning',T),[
+  cue('朝飯を済ませ、三人で寮を出た。',location='学園／三人の通学路',bg='campus',cut=True)]),
+ (scene('校舎／戻ってきたクラスメイト','classroom',['プラス','ユージ','コンケ']),[
+  cue('ランスは、自分の席へ向かいながら一度だけコンケを見た。',cast=['プラス','ランス','コンケ']),
+  cue('プラスは、近くへ行った。',cast=['プラス','コンケ']),
+  cue('プラスは、自分の席へ戻った。',cg='episode11-a')]),
+ (scene('校舎／頭の修行','classroom',P),[
+  cue('少し後ろで、教材が捲られた。',cast=['プラス','ユージ','コンケ']),
+  cue('休憩の合間に、プラスは教師へ近づいた。',cast=['プラス','ランス'])]),
+ (scene('校舎／四人で昼食へ','classroom',['プラス','ランス','ユージ','コンケ']),[
+  cue('廊下を歩いている間、誰も昔の寮の話をしなかった。',location='校舎／食堂への廊下',bg='corridor',cut=True)]),
+ (scene('食堂／四つ並んだ青いスープ','cafeteria',['プラス','ユージ','ランス','コンケ']),[
+  cue('四人は、空いていた長い席へ並んだ。',cg='episode11-e-blue-soup')]),
+ (scene('食堂／それぞれの午後','cafeteria',cg='episode11-e-blue-soup'),[
+  cue('器を返し、四人で食堂を出た。',location='学園／食堂前の分かれ道',bg='campus',cast=['プラス','ユージ','ランス','コンケ'],cg=None,cut=True)]),
+ (scene('オタクサークル／上映の準備','club-corridor',['ランス']),[
+  cue('部屋では、上映の準備が進んでいた。',location='オタクサークル／上映前の部室',bg='clubroom',cut=True),
+  cue('照明が落ちた。',tone='night')]),
+ (scene('オタクサークル／見逃した台詞','clubroom',['ランス'],tone='night'),[
+  cue('終わりの音楽が流れると、',tone='')]),
+ (scene('オタクサークル／受け取る人の言葉','clubroom',['ランス']),[]),
+ (scene('オタクサークル／撮影と感想会','clubroom',['ランス']),[
+  cue('立つ場所が空けられた。',cg='episode11-b')]),
+ (scene('オタクサークル／片づけの時間','clubroom',['ランス'],cg='episode11-c'),[
+  cue('戻ってきても、ランスはその声を思い返していた。',cg='episode11-quiet-talk')])
+]
+
+
 def compile_episode(n,body,title):
  parts=body.split('　　　　　＊');assert len(parts)==len(PLANS[n]);entries=[];reports=[]
  for sn,(part,(initial,cues)) in enumerate(zip(parts,PLANS[n]),1):
@@ -215,12 +248,15 @@ def main():
  import argparse
  parser=argparse.ArgumentParser();parser.add_argument('episodes',nargs='*',type=int);args=parser.parse_args();ns=args.episodes or sorted(PLANS)
  source_path=ROOT.parent/'source-current.json'
- titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても'}
+ titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない'}
  source=json.loads(source_path.read_text()) if source_path.exists() else {'chapters':[{'id':f'chapter1-episode{n}','title':f'第1章　第{n}話　{titles[n]}','body':(ROOT/f'data/source/chapter1-episode{n}.txt').read_text()} for n in ns]}
  manifest=json.loads((ROOT/'data/episodes.json').read_text());review=json.loads((ROOT/'data/chapter1-scene-review.json').read_text())
- desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。'}
- images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless'}
+ desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。'}
+ images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup'}
  for n in ns:
   id=f'chapter1-episode{n}';ch=next(ch for ch in source['chapters'] if ch['id']==id);report=compile_episode(n,ch['body'],ch['title']);review['episodes'][id]=report;manifest['episodes']=[ep for ep in manifest['episodes'] if ep['id']!=id];manifest['episodes'].append(dict(id=id,title=ch['title'],file=f'data/{id}.json',image=c.CG(images[n]),description=desc[n]));print(id,len(report),'scenes')
  manifest['episodes'].sort(key=lambda ep:0 if ep['id']=='prologue' else int(ep['id'].split('episode')[-1]));(ROOT/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');(ROOT/'data/chapter1-scene-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')
-if __name__=='__main__':main()
+if __name__=='__main__':
+ main()
+ from enhance_battles_audio import enhance
+ enhance()

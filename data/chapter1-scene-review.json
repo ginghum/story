@@ -1438,6 +1438,128 @@
         "review_basis": "原文順序・全文照合、全53シーンの640×360画面レビュー、切替12地点追加確認、画像拡大確認、全話進行・再開検証",
         "note": "コンケが去ってからマイナス。腰を下ろす描写から木陰CG、背景モブも統一。"
       }
+    ],
+    "chapter1-episode11": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 63,
+        "location": "学生寮／いつもの朝",
+        "source_lines": 63,
+        "reviewed": true
+      },
+      {
+        "scene": 2,
+        "start": 64,
+        "end": 170,
+        "location": "早朝の練習場／軽い脚の制御",
+        "source_lines": 106,
+        "reviewed": true
+      },
+      {
+        "scene": 3,
+        "start": 171,
+        "end": 232,
+        "location": "早朝の練習場／能力と想像",
+        "source_lines": 61,
+        "reviewed": true
+      },
+      {
+        "scene": 4,
+        "start": 233,
+        "end": 323,
+        "location": "早朝の練習場／身体が覚える動き",
+        "source_lines": 90,
+        "reviewed": true
+      },
+      {
+        "scene": 5,
+        "start": 324,
+        "end": 344,
+        "location": "学生寮／今日の衣装選び",
+        "source_lines": 19,
+        "reviewed": true
+      },
+      {
+        "scene": 6,
+        "start": 345,
+        "end": 385,
+        "location": "校舎／戻ってきたクラスメイト",
+        "source_lines": 40,
+        "reviewed": true
+      },
+      {
+        "scene": 7,
+        "start": 386,
+        "end": 439,
+        "location": "校舎／頭の修行",
+        "source_lines": 53,
+        "reviewed": true
+      },
+      {
+        "scene": 8,
+        "start": 440,
+        "end": 469,
+        "location": "校舎／四人で昼食へ",
+        "source_lines": 28,
+        "reviewed": true
+      },
+      {
+        "scene": 9,
+        "start": 470,
+        "end": 560,
+        "location": "食堂／四つ並んだ青いスープ",
+        "source_lines": 90,
+        "reviewed": true
+      },
+      {
+        "scene": 10,
+        "start": 561,
+        "end": 632,
+        "location": "食堂／それぞれの午後",
+        "source_lines": 70,
+        "reviewed": true
+      },
+      {
+        "scene": 11,
+        "start": 633,
+        "end": 655,
+        "location": "オタクサークル／上映の準備",
+        "source_lines": 21,
+        "reviewed": true
+      },
+      {
+        "scene": 12,
+        "start": 656,
+        "end": 675,
+        "location": "オタクサークル／見逃した台詞",
+        "source_lines": 19,
+        "reviewed": true
+      },
+      {
+        "scene": 13,
+        "start": 676,
+        "end": 706,
+        "location": "オタクサークル／受け取る人の言葉",
+        "source_lines": 30,
+        "reviewed": true
+      },
+      {
+        "scene": 14,
+        "start": 707,
+        "end": 738,
+        "location": "オタクサークル／撮影と感想会",
+        "source_lines": 31,
+        "reviewed": true
+      },
+      {
+        "scene": 15,
+        "start": 739,
+        "end": 764,
+        "location": "オタクサークル／片づけの時間",
+        "source_lines": 25,
+        "reviewed": true
+      }
     ]
   }
 }

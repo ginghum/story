@@ -386,5 +386,75 @@
     "generated": "2026-10-26",
     "generator": "built-in image_gen",
     "reviewed": true
+  },
+  {
+    "id": "episode03-guard",
+    "prompt": "Night courtyard: Konke right punch blocked by healthy Plus, poison on other fingertips.",
+    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "folder": "cg",
+    "file": "assets/cg/episode03-guard.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode03-heavy-miss",
+    "prompt": "Night courtyard: Plus heavy left punch misses, Konke side kicks torso.",
+    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "folder": "cg",
+    "file": "assets/cg/episode03-heavy-miss.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode05-teleport",
+    "prompt": "Day arena: Dai reappears by a small floor mark, Plus right arm kept in sling.",
+    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "folder": "cg",
+    "file": "assets/cg/episode05-teleport.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode05-flank",
+    "prompt": "Day arena: Dai guides Plus free left forearm while intercepting step; injured right arm protected.",
+    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "folder": "cg",
+    "file": "assets/cg/episode05-flank.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode11-quiet-talk",
+    "prompt": "Edit episode11-c: remove departed Yukimero and all background members; serious private Lance/Kobal conversation after screening.",
+    "prompt_record": "Production specification from generation request; no original prose changes.",
+    "folder": "cg",
+    "file": "assets/cg/episode11-quiet-talk.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode11-a",
+    "file": "assets/cg/episode11-a.webp",
+    "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-a.webp",
+    "generator": "existing published illustration"
+  },
+  {
+    "id": "episode11-b",
+    "file": "assets/cg/episode11-b.webp",
+    "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-b.webp",
+    "generator": "existing published illustration"
+  },
+  {
+    "id": "episode11-c",
+    "file": "assets/cg/episode11-c.webp",
+    "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-c.webp",
+    "generator": "existing published illustration"
+  },
+  {
+    "id": "episode11-d",
+    "file": "assets/cg/episode11-d.webp",
+    "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-d.webp",
+    "generator": "existing published illustration"
+  },
+  {
+    "id": "episode11-e-blue-soup",
+    "file": "assets/cg/episode11-e-blue-soup.webp",
+    "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-e-blue-soup.webp",
+    "generator": "existing published illustration"
   }
 ]
