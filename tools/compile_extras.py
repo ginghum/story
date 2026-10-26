@@ -23,7 +23,7 @@ def main():
      if name=='ルサイ':id,expr='lusai-past','neutral'
     if n==5 and 11<=sn<=14 and name=='X':id,expr='x-young','neutral'
     if n==4 and sn<13 and name=='ドーマ':continue
-    cast.append(dict(id=id,name=name,height=h,expression=expr))
+    if not any(actor['id']==id for actor in cast):cast.append(dict(id=id,name=name,height=h,expression=expr))
    cast=cast[:3];cg=ART[n].get(sn);track='reflection' if n==5 else 'calm' if bg in ['library','newsroom'] else 'daily'
    if bg=='arena-floor':track='battle'
    loc=('過去／' if n==5 and 2<=sn<=20 else '')+{'newsroom':'新聞部','library':'勉強サークル','classroom':'故郷の学校' if n==5 else '教室','clubroom':'サークル部室','arena-floor':'闘技場','dorm-night':'学生寮・夜'}.get(bg,bg or '記憶')

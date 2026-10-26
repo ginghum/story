@@ -10330,12 +10330,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10364,12 +10358,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10400,12 +10388,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10434,12 +10416,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10470,12 +10446,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10504,12 +10474,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10540,12 +10504,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10574,12 +10532,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10610,12 +10562,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10644,12 +10590,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10680,12 +10620,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10714,12 +10648,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10750,12 +10678,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10784,12 +10706,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10820,12 +10736,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10854,12 +10764,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10890,12 +10794,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10924,12 +10822,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -10960,12 +10852,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -10994,12 +10880,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11030,12 +10910,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11064,12 +10938,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11100,12 +10968,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11134,12 +10996,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11170,12 +11026,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11204,12 +11054,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11240,12 +11084,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11274,12 +11112,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11310,12 +11142,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11344,12 +11170,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11380,12 +11200,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11414,12 +11228,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11450,12 +11258,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11484,12 +11286,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11520,12 +11316,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11554,12 +11344,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11590,12 +11374,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11624,12 +11402,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11660,12 +11432,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11694,12 +11460,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11730,12 +11490,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11764,12 +11518,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11800,12 +11548,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11834,12 +11576,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11870,12 +11606,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11904,12 +11634,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -11940,12 +11664,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -11974,12 +11692,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12010,12 +11722,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12044,12 +11750,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12080,12 +11780,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12114,12 +11808,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12150,12 +11838,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12184,12 +11866,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12220,12 +11896,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12254,12 +11924,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12290,12 +11954,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12324,12 +11982,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12360,12 +12012,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12394,12 +12040,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12430,12 +12070,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12464,12 +12098,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12500,12 +12128,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12534,12 +12156,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12570,12 +12186,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12604,12 +12214,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12640,12 +12244,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12674,12 +12272,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
@@ -12710,12 +12302,6 @@
           "name": "ルサイ",
           "height": 176,
           "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
-          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -12744,12 +12330,6 @@
           "id": "lusai-past",
           "name": "ルサイ",
           "height": 176,
-          "expression": "neutral"
-        },
-        {
-          "id": "x-past",
-          "name": "X",
-          "height": 180,
           "expression": "neutral"
         }
       ],
