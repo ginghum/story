@@ -5,6 +5,22 @@ function setup(saved){const els=new Map(),el=s=>{if(!els.has(s))els.set(s,new El
 const flush=()=>new Promise(r=>setImmediate(r));
 (async()=>{let t=setup({index:120,highest:160,read:false,config:{speed:0}});await flush();await flush();assert.equal(t.run('story.id'),'prologue');assert.equal(t.run('checkpoint'),120);await t.run("chooseEpisode('chapter1-episode1')");assert.equal(t.run('index'),0);assert.equal(t.run('highest'),0);assert.equal(t.run("disk.episodes.prologue.index"),120);assert.equal(t.run("disk.episodes.prologue.highest"),160);
  t.run('begin(40);next();screen("episodes")');assert.equal(t.run('checkpoint'),41);await t.run("chooseEpisode('chapter1-episode2')");assert.equal(t.run('highest'),0);t.run('begin(20);screen("episodes")');await t.run("chooseEpisode('chapter1-episode1')");assert.equal(t.el('#resume-dialog').open,true);assert.equal(t.run('checkpoint'),41);t.el('#resume-yes').onclick();assert.equal(t.run('index'),41);t.run('highest=index;toggleSkip()');assert.equal(t.run('skipping'),false);
+ // A held pointer can skip unseen text, and releasing it must never advance an extra line.
+ const hold=setup({config:{speed:0}});await flush();await flush();await hold.run("loadEpisode('chapter1-episode1')");
+ hold.run('begin(40);highest=index');const tap=hold.el('#tap-surface'),pointer={pointerId:7,button:0,isPrimary:true};
+ tap.onpointerdown(pointer);assert.equal(hold.run('skipping'),false);
+ const delay=hold.run('holdTimer');hold.timers.get(delay)();assert.equal(hold.run('skipping'),true);assert.equal(hold.run('holdSkipping'),true);
+ const tick=hold.timers.get(hold.run('skipTimer'));tick();assert(hold.run('index>40'),'long press crosses unread boundary');
+ tap.onpointerup({pointerId:8});assert.equal(hold.run('skipping'),true,'another pointer cannot end the hold');
+ tap.onpointerup(pointer);assert.equal(hold.run('skipping'),false);assert.equal(hold.run('holdPointer'),null);
+ const released=hold.run('index');tap.onclick();assert.equal(hold.run('index'),released,'release click is consumed');
+ tap.onpointerdown(pointer);const shortTimer=hold.run('holdTimer');tap.onpointerup(pointer);assert(!hold.timers.has(shortTimer));tap.onclick();assert(hold.run('index')>released,'short press advances normally');
+ tap.onpointerdown(pointer);hold.timers.get(hold.run('holdTimer'))();tap.onpointercancel(pointer);assert.equal(hold.run('skipping'),false);
+ tap.onpointerdown(pointer);hold.timers.get(hold.run('holdTimer'))();tap.onlostpointercapture(pointer);assert.equal(hold.run('skipping'),false);
+ tap.onpointerdown(pointer);hold.timers.get(hold.run('holdTimer'))();hold.run('pauseForDialog();resumeFromDialog()');assert.equal(hold.run('skipping'),false,'dialog does not resume a released hold');
+ tap.onpointerdown(pointer);const pending=hold.run('holdTimer');hold.run('screen("episodes")');assert(!hold.timers.has(pending));assert.equal(hold.run('skipping'),false);
+ hold.run('begin(story.entries.length-2);highest=index');tap.onpointerdown(pointer);hold.timers.get(hold.run('holdTimer'))();const endingTick=hold.timers.get(hold.run('skipTimer'));for(let n=0;n<4&&!hold.run('read');n++)endingTick();assert.equal(hold.run('read'),true);assert.equal(hold.run('skipping'),false);assert.equal(hold.run('holdPointer'),null);
+ console.log('PASS: unread hold-to-skip, normal taps, release click suppression, pointer cancellation, capture loss, dialogs, navigation and episode ending.');
  let assignedBgm;t.ctx.window.storyBgm={set(name){assignedBgm=name},volume(){},cancelPreview(){}};
  for(const ep of manifest.episodes){await t.run(`loadEpisode('${ep.id}')`);t.run('config.speed=0;begin(0)');let n=0;while(t.run('index<story.entries.length')){assert.equal(assignedBgm,t.run('story.entries[index].bgm'));t.run('next()');assert(++n<5000);}assert.equal(t.run('read'),true);assert.equal(t.run('log.length'),t.run("story.entries.filter(e=>e.type==='line').length"),'every prose entry remains readable');assert(t.run('cache.size')<=18);assert.equal(t.el('#ending').hidden,false);assert.equal(t.el('#ending-title').textContent,t.run('story.title'));assert.equal(t.run('checkpoint'),t.run('story.entries.length-1'));}
  assert.equal(t.el('#ending-caption').textContent,'読了');assert.equal(t.el('#next-episode').hidden,true);assert.equal(t.el('#chapter-summary').textContent,'プロローグ・第1〜21話／第1章完結');

@@ -8,6 +8,7 @@ let activeCollection='main';
 let episodeId='prologue',manifest=[],storyCache=new Map(),loadingEpisode=false,loadVersion=0,pendingEpisode=null;
 let story=null,index=0,highest=Number.isInteger(disk.highest)?disk.highest:-1,read=!!disk.read,checkpoint=Number.isInteger(disk.index)?disk.index:0;
 let typing=null,autoTimer=null,auto=false,skipTimer=null,skipping=false,cutinTimer=null,visibleText='',isTyping=false,activeScreen='title',dialogPaused=false;
+let holdTimer=null,holdPointer=null,holdSkipping=false,suppressHoldClick=false;
 let lastSeKey='',suppressSeKey='';
 let log=[];const cache=new Map();
 let transitioning=false,transitionTimer=null,sceneTransitionVersion=0;
@@ -25,7 +26,8 @@ async function loadEpisode(id){const meta=manifest.find(e=>e.id===id);if(!meta)t
 async function chooseEpisode(id,continuing=false){if(loadingEpisode)return;const originScreen=activeScreen;try{if(!await loadEpisode(id)||activeScreen!==originScreen)return;if(continuing){begin(checkpoint);return;}if(highest>=0&&!read){pendingEpisode=id;$('#resume-info').textContent=`${story.title} ／ 保存位置：${story.entries[checkpoint].location}`;$('#resume-dialog').showModal();}else begin(0);}catch{error('この話を読み込めませんでした。通信を確認して、もう一度選択してください。');}}
 function renderEpisodeCards(){document.querySelector('#episodes h2').textContent=activeCollection==='extras'?'おまけ':'第1章';$('#chapter-summary').textContent='プロローグ・第1〜21話／第1章完結';const target=$('#episode-list');target.replaceChildren();for(const [i,item] of manifest.filter(e=>activeCollection==='extras'?e.id.startsWith('extra'):!e.id.startsWith('extra')).entries()){const button=document.createElement('button');button.className='episode-card';button.id=item.id==='prologue'?'play-prologue':'play-'+item.id;const imageWrap=document.createElement('div');imageWrap.className='episode-image';const img=document.createElement('img');img.src=item.image;img.alt=item.imageAlt||'';img.loading='lazy';const tag=document.createElement('span');tag.textContent=item.id.startsWith('extra')?'EXTRA '+item.id.slice(5):i===0?'PROLOGUE':`EPISODE ${String(i).padStart(2,'0')}`;imageWrap.append(img,tag);const content=document.createElement('div');content.className='episode-content';const badge=document.createElement('span');badge.className='status';badge.dataset.status=item.id;if(i===0)badge.id='episode-status';const title=document.createElement('h3');title.textContent=item.title;const desc=document.createElement('p');desc.textContent=item.description;const link=document.createElement('span');link.className='episode-link';link.textContent='物語を読む →';content.append(badge,title,desc,link);button.append(imageWrap,content);button.onclick=()=>chooseEpisode(item.id);target.append(button);}if(manifest.at(-1)?.id==='chapter1-episode21'){$('#chapter-summary').textContent='プロローグ・第1〜21話／第1章完結';$('.more-coming').textContent='第1章 完結。第2章は準備中です。';}updateBadges();}
 function clearTyping(){clearInterval(typing);typing=null;isTyping=false;}
-function stopModes(){auto=false;skipping=false;clearTimeout(autoTimer);clearInterval(skipTimer);$('#auto').setAttribute('aria-pressed','false');$('#skip').setAttribute('aria-pressed','false');}
+function cancelHold(){clearTimeout(holdTimer);holdTimer=null;holdPointer=null;holdSkipping=false;}
+function stopModes(){cancelHold();auto=false;skipping=false;clearTimeout(autoTimer);clearInterval(skipTimer);$('#auto').setAttribute('aria-pressed','false');$('#skip').setAttribute('aria-pressed','false');}
 function preload(src){if(!src)return;if(cache.has(src)){const img=cache.get(src);cache.delete(src);cache.set(src,img);return;}const img=new Image();img.src=src;cache.set(src,img);while(cache.size>18)cache.delete(cache.keys().next().value);}
 function preloadNear(){for(let j=index;j<Math.min(index+12,story.entries.length);j++){const e=story.entries[j];preload(e.bg);preload(e.cg);for(const c of e.cast||[])preload(`assets/characters/${c.id}-${c.expression}.webp`);}}
 function setScene(e){
@@ -119,7 +121,7 @@ function next(){if(transitioning)return;if(activeScreen!=='game'||dialogPaused||
 function previous(){if(transitioning)return;if(index<=0||activeScreen!=='game')return;stopModes();index--;while(story.entries[index]?.type==='location'&&!showLocationCutin(index))index--;suppressSeKey=episodeId+':'+index;log=log.filter(x=>x.index<=index);render(-1);}
 function begin(at=0){if(!story)return;screen('game');index=Math.max(0,Math.min(at,story.entries.length-1));lastSeKey='';suppressSeKey=episodeId+':'+index;log=story.entries.slice(0,index).flatMap((e,i)=>e.type==='line'?[{index:i,speaker:e.speaker,text:e.text,location:e.location}]:[]);render();}
 function finish(){window.storyBgm?.set('reflection',config);const list=manifest.filter(e=>episodeId.startsWith('extra')?e.id.startsWith('extra'):!e.id.startsWith('extra')),pos=list.findIndex(e=>e.id===episodeId),following=list[pos+1];$('#ending-label').textContent=episodeId==='prologue'?'PROLOGUE — COMPLETE':episodeId.startsWith('extra')?`EXTRA ${episodeId.slice(5)} — COMPLETE`:`EPISODE ${pos} — COMPLETE`;$('#ending-title').textContent=story.title;$('#ending-caption').textContent=episodeId==='chapter1-episode21'?'第1章 完':'読了';$('#next-episode').hidden=!following;$('#next-episode').textContent=following?'次の話へ → '+following.title:'';$('#next-episode').onclick=()=>following&&chooseEpisode(following.id);stopModes();clearTyping();read=true;checkpoint=story.entries.length-1;highest=checkpoint;persist();$('#cutin').hidden=true;$('#dialogue').hidden=true;$('#ending').hidden=false;updateBadges();}
-function pauseForDialog(){window.storySfx?.stop();dialogPaused=true;clearTimeout(autoTimer);clearTimeout(cutinTimer);clearInterval(skipTimer);}
+function pauseForDialog(){if(holdSkipping)stopModes();else cancelHold();window.storySfx?.stop();dialogPaused=true;clearTimeout(autoTimer);clearTimeout(cutinTimer);clearInterval(skipTimer);}
 function resumeFromDialog(){dialogPaused=false;if(activeScreen==='game'){if(!$('#cutin').hidden&&auto)cutinTimer=setTimeout(cutinDone,1700);else if(!isTyping)scheduleAuto();if(skipping)startSkipTimer();}}
 function showSettings(){pauseForDialog();$('#speed').value=config.speed;$('#font-size').value=config.font;$('#auto-wait').value=config.wait;$('#se-volume').value=Math.round(config.seVolume*100);$('#se-enabled').checked=config.seEnabled;$('#se-test-status').textContent='';if($('#bgm-volume')){$('#bgm-volume').value=Math.round(config.bgmVolume*100);$('#bgm-enabled').checked=config.bgmEnabled;$('#bgm-test-status').textContent='';$('#bgm-stop-preview').disabled=true;}updateSettingsLabels();$('#settings-dialog').showModal();}
 function updateSettingsLabels(){$('#speed-label').textContent=config.speed===0?'即時':config.speed<=20?'速い':config.speed>=45?'ゆっくり':'標準';$('#wait-label').textContent=config.wait+' 秒';$('#se-volume-label').textContent=Math.round(config.seVolume*100)+'%';window.storySfx?.volume(config);if($('#bgm-volume-label'))$('#bgm-volume-label').textContent=Math.round(config.bgmVolume*100)+'%';window.storyBgm?.volume(config);document.body.className='font-'+config.font;}
@@ -128,8 +130,26 @@ function toggleAuto(){if(auto){stopModes();return;}stopModes();auto=true;$('#aut
 let skipLimit=-1;
 function startSkipTimer(){clearInterval(skipTimer);skipTimer=setInterval(()=>{if(dialogPaused)return;if(index>=skipLimit){stopModes();return;}if(isTyping)completeText();else next();},90);}
 function toggleSkip(){if(skipping){stopModes();return;}const limit=highest;if(index>=limit){$('#save-state').textContent='この先は未読です';return;}stopModes();window.storySfx?.stop();skipLimit=limit;skipping=true;$('#skip').setAttribute('aria-pressed','true');startSkipTimer();}
+// Long press is momentary and may cross the unread boundary; the Skip button keeps its read-only limit.
+function endHold(e){if(e&&e.pointerId!==holdPointer)return;if(holdSkipping)stopModes();else cancelHold();}
+const tapSurface=$('#tap-surface');
+tapSurface.onpointerdown=e=>{
+ if(e.isPrimary===false||e.button!==0||activeScreen!=='game'||dialogPaused||!$('#ending').hidden)return;
+ cancelHold();suppressHoldClick=false;holdPointer=e.pointerId;
+ tapSurface.setPointerCapture?.(e.pointerId);
+ holdTimer=setTimeout(()=>{
+  holdTimer=null;
+  if(holdPointer!==e.pointerId||activeScreen!=='game'||dialogPaused)return;
+  const pointer=holdPointer;stopModes();holdPointer=pointer;holdSkipping=true;suppressHoldClick=true;
+  $('#stage').classList.remove('ui-hidden');window.storySfx?.stop();skipLimit=Infinity;skipping=true;
+  $('#skip').setAttribute('aria-pressed','true');startSkipTimer();
+ },450);
+};
+tapSurface.onpointerup=endHold;tapSurface.onpointercancel=endHold;tapSurface.onlostpointercapture=endHold;
+tapSurface.oncontextmenu=e=>e.preventDefault();
+window.addEventListener('blur',()=>{if(holdSkipping)stopModes();else cancelHold();});
 $('#start').onclick=()=>screen('chapters');$('#continue').onclick=()=>chooseEpisode(disk.episodeId||'prologue',true);$('#chapter-one').onclick=()=>{activeCollection='main';renderEpisodeCards();screen('episodes')};$('#extra-stories').onclick=()=>{activeCollection='extras';renderEpisodeCards();screen('episodes')};$('#back-chapters').onclick=()=>screen('chapters');$$('[data-home]').forEach(b=>b.onclick=()=>screen('title'));
-$('#game-back').onclick=()=>screen('episodes');$('#end-episodes').onclick=()=>screen('episodes');$('#replay').onclick=()=>begin(0);$('#tap-surface').onclick=()=>{if(transitioning)return;if($('#stage').classList.contains('ui-hidden')){$('#stage').classList.remove('ui-hidden');return;}if(!$('#cutin').hidden){cutinDone();return;}next();};$('#previous').onclick=previous;$('#auto').onclick=toggleAuto;$('#skip').onclick=toggleSkip;$('#hide-ui').onclick=()=>$('#stage').classList.add('ui-hidden');$('#restore-ui').onclick=()=>$('#stage').classList.remove('ui-hidden');
+$('#game-back').onclick=()=>screen('episodes');$('#end-episodes').onclick=()=>screen('episodes');$('#replay').onclick=()=>begin(0);$('#tap-surface').onclick=()=>{if(suppressHoldClick){suppressHoldClick=false;return;}if(transitioning)return;if($('#stage').classList.contains('ui-hidden')){$('#stage').classList.remove('ui-hidden');return;}if(!$('#cutin').hidden){cutinDone();return;}next();};$('#previous').onclick=previous;$('#auto').onclick=toggleAuto;$('#skip').onclick=toggleSkip;$('#hide-ui').onclick=()=>$('#stage').classList.add('ui-hidden');$('#restore-ui').onclick=()=>$('#stage').classList.remove('ui-hidden');
 let fullscreenRejected=false;
 function canFullscreen(){return !fullscreenRejected&&document.fullscreenEnabled===true&&typeof document.documentElement.requestFullscreen==='function'&&typeof document.exitFullscreen==='function';}
 function updateFullscreenButtons(){const enabled=!!document.fullscreenElement;$$('[data-fullscreen]').forEach(button=>{button.hidden=!enabled&&!canFullscreen();button.textContent=enabled?'全画面を解除':'全画面';button.setAttribute('aria-pressed',String(enabled));});}

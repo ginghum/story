@@ -55,3 +55,6 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 #settings-dialog h3{margin:24px 0 12px;padding-top:18px;border-top:1px solid #b49c6c33;font-size:17px}#bgm-test,#bgm-stop-preview{padding:8px 14px}#settings-dialog select{max-width:70%}
 
 .backdrop.evening{filter:sepia(.18) saturate(.85) brightness(.82)}
+
+/* Keep a held touch on the advance surface available for skipping. */
+#tap-surface{touch-action:none;-webkit-touch-callout:none}
