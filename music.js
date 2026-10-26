@@ -17,7 +17,8 @@
   if(!name){invalidate();const old=current;current=null;saved=null;fadeOut(old);return false;}
   if(current?.name===name)return true;if(pending?.name===name)return pending.promise;
   invalidate();const ticket=version;controller=new AbortController();const signal=controller.signal;
-  const promise=(async()=>{try{
+  const promise=Promise.resolve().then(async()=>{try{
+   if(ticket!==version)return false;
    let buffer=buffers.get(name);
    if(!buffer){const response=await fetch('assets/bgm/'+name+'.mp3',{signal});if(!response.ok)throw Error('BGM');buffer=await context.decodeAudioData(await response.arrayBuffer());}
    if(ticket!==version||effective()!==name||paused||document.hidden||!enabled())return false;
@@ -26,14 +27,14 @@
    for(const voice of voices)if(voice!==current){try{voice.source.stop();}catch{}voices.delete(voice);voice.source.disconnect?.();voice.gain.disconnect?.();}
    const source=context.createBufferSource(),gain=context.createGain(),now=context.currentTime;source.buffer=buffer;source.loop=true;source.connect(gain);gain.connect(master);gain.gain.setValueAtTime(0,now);gain.gain.linearRampToValueAtTime(1,now+1.2);
    const offset=saved?.name===name?saved.offset:0;saved=null;const voice={name,source,gain,buffer,offset,started:now};const old=current;current=voice;voices.add(voice);source.onended=()=>{voices.delete(voice);source.disconnect?.();gain.disconnect?.();};source.start(0,offset);fadeOut(old);return true;
-  }catch{if(ticket===version){const old=current;current=null;fadeOut(old);}return false;}finally{if(ticket===version){pending=null;controller=null;}}})();pending={name,promise};return promise;
+  }catch{if(ticket===version){const old=current;current=null;fadeOut(old);}return false;}finally{if(ticket===version){pending=null;controller=null;}}});pending={name,promise};return promise;
  }
  function set(name,config){volume(config);name=titles[name]?name:null;if(wanted!==name){wanted=name;saved=null;invalidate();}return ensure();}
  async function preview(name,config){volume(config);if(!titles[name]||!enabled())return false;override=name;invalidate();paused=false;if(!await unlock())return false;return ensure();}
  function cancelPreview(){if(!override)return;override=null;saved=null;invalidate();ensure();}
- function resume(){paused=false;return ensure();}
+ async function resume(){if(document.hidden)return false;paused=false;if(context&&context.state!=='running'){try{await context.resume();}catch{return false;}}return ensure();}
  function stop(){wanted=null;override=null;saved=null;invalidate();stopAll();}
- document.addEventListener('pointerdown',()=>{unlock();},{passive:true});document.addEventListener('keydown',()=>{unlock();});
- document.addEventListener('visibilitychange',()=>{if(document.hidden)pause();else resume();});window.addEventListener('pagehide',pause);window.addEventListener('pageshow',()=>{if(!document.hidden)resume();});
+ document.addEventListener('pointerdown',()=>{unlock();},{passive:true});document.addEventListener('keydown',()=>{unlock();});document.addEventListener('click',()=>{unlock();},{passive:true});
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)pause();else resume();});window.addEventListener('pagehide',pause);window.addEventListener('pageshow',()=>{if(!document.hidden)resume();});window.addEventListener('focus',()=>{if(!document.hidden)resume();});
  window.storyBgm={set,volume,preview,cancelPreview,pause,resume,stop,titles};
 })();
