@@ -183,14 +183,15 @@ PLANS[11]=[
   cue('器を返し、四人で食堂を出た。',location='学園／食堂前の分かれ道',bg='campus',cast=['プラス','ユージ','ランス','コンケ'],cg=None,cut=True)]),
  (scene('オタクサークル／上映の準備','club-corridor',['ランス']),[
   cue('部屋では、上映の準備が進んでいた。',location='オタクサークル／上映前の部室',bg='clubroom',cut=True),
+  cue('ゆきめろ「……こんにちはぁ」',cast=['ランス','ゆきめろ']),
   cue('照明が落ちた。',tone='night')]),
- (scene('オタクサークル／見逃した台詞','clubroom',['ランス'],tone='night'),[
+ (scene('オタクサークル／見逃した台詞','clubroom',['ランス','ゆきめろ'],tone='night'),[
   cue('終わりの音楽が流れると、',tone='')]),
- (scene('オタクサークル／受け取る人の言葉','clubroom',['ランス']),[]),
- (scene('オタクサークル／撮影と感想会','clubroom',['ランス']),[
+ (scene('オタクサークル／受け取る人の言葉','clubroom',['ランス','ゆきめろ']),[]),
+ (scene('オタクサークル／撮影と感想会','clubroom',['ランス','ゆきめろ']),[
   cue('立つ場所が空けられた。',cg='episode11-b')]),
- (scene('オタクサークル／片づけの時間','clubroom',['ランス'],cg='episode11-c'),[
-  cue('戻ってきても、ランスはその声を思い返していた。',cg='episode11-quiet-talk-kobal-v2')])
+ (scene('オタクサークル／片づけの時間','clubroom',['ランス','ゆきめろ'],cg='episode11-c'),[
+  cue('戻ってきても、ランスはその声を思い返していた。',cast=['ランス'],cg='episode11-quiet-talk-kobal-v2')])
 ]
 
 
