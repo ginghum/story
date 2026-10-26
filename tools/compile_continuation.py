@@ -5,7 +5,7 @@ import compile_chapter1 as c
 ROOT=Path(__file__).resolve().parents[1]
 scene,cue=c.scene,c.cue
 D=['プラス','ランス'];P=['プラス','ユージ'];T=c.TRIO;NEWS=['プラス','ユーヒ','バルー','チック','モルペウス','ダイ']
-c.CHAR.update({'コバル':('kobal',175,'neutral'),'オーガ':('oga',197,'neutral'),'グモン':('gumon',189,'neutral'),'ヤオイ':('yaoi',155,'neutral'),'オジョー':('ojo',154,'neutral'),'不良':('mob-male-broad',182,'brown'),'生徒':('mob-male-slim',173,'brown')})
+c.CHAR.update({'コバル':('kobal',176,'neutral'),'オーガ':('oga',197,'neutral'),'グモン':('gumon',189,'neutral'),'ヤオイ':('yaoi',155,'neutral'),'オジョー':('ojo',154,'neutral'),'不良':('mob-male-broad',182,'brown'),'生徒':('mob-male-slim',173,'brown')})
 PLANS={}
 PLANS[7]=[
  (scene('学生寮／三人の部屋・朝','dorm-morning',D),[]),
@@ -194,12 +194,102 @@ PLANS[11]=[
 ]
 
 
+PLANS[12]=[
+ (scene('オタクサークル／片づけの後','clubroom',['ランス','コバル'],cg='episode11-quiet-talk'),[
+  cue('ランスの掌に、硬い感触が生まれた。',cg=None)]),
+ (scene('離れ校舎／夕方の入口','campus',['ランス','ゆきめろ'],cg='episode12-outside-corrected'),[]),
+ (scene('決闘委員会／星二十個と契約','arena-reception',['ランス','コバル'],cg='episode12-c-v2'),[]),
+ (scene('中央購買／ランスの名前','shop',['プラス']),[
+  cue('ユージを探すと、',location='コスプレサークル／準備場所の前',bg='courtyard',cast=P,cut=True),
+  cue('闘技場へ向かう途中、コンケも追いついた。',location='学園／闘技場への道',bg='campus',cast=['プラス','ユージ','コンケ'],cut=True)]),
+ (scene('闘技場／部員たちの観客席','arena',['プラス','ユージ','コンケ']),[
+  cue('中央に立ったのは、サニーだった。',location='闘技場／武器なし競技面',bg='arena-floor',cast=['ランス','コバル','サニー'],cut=True)]),
+ (scene('闘技場／金属生成とチャージパンチ','arena-floor',['ランス','コバル'],cg='episode12-a'),[]),
+ (scene('闘技場／拳を溜める間にも','arena-floor',['ランス','コバル'],cg='episode12-a'),[]),
+ (scene('闘技場／砂の下へ残したもの','arena-floor',['ランス','コバル'],cg='episode12-a'),[
+  cue('掌を床へつく。',cg='episode12-low-guard')]),
+ (scene('闘技場／最後の返事を待つ間','arena',['プラス','ユージ','コンケ']),[
+  cue('ランスは、また退いた。',location='闘技場／競技面・仕掛けの決着',bg='arena-floor',cast=['ランス','コバル'],cut=True),
+  cue('コバルの足元で、銀色が跳ねた。',cg='episode12-folded-spear'),
+  cue('サニーが、二人の間へ入った。',cast=['ランス','コバル','サニー'],cg=None)]),
+ (scene('闘技場／勝者の向こうへ','arena',['プラス','ユージ','コンケ']),[
+  cue('三人は、通路へ向かった。',location='闘技場／選手退場口',bg='arena-reception',cut=True),
+  cue('ランスは、肩へ布を当てられながら出てきた。',cast=T,expressions={'lance_treated':True}),
+  cue('ゆきめろが、入口の前にいた。',cast=['プラス','ランス','ゆきめろ']),
+  cue('ゆきめろが、そのそばへ膝をつく。',cg='episode12-aftermath-corrected')])
+]
+PLANS[13]=[
+ (scene('闘技場／治療へ向かう担架','arena-reception',cg='episode12-aftermath-corrected'),[
+  cue('それが通路の角へ消えると、',cast=T,cg=None)]),
+ (scene('決闘委員会／返ってくる星','arena-reception',['プラス','ユージ','コンケ']),[
+  cue('ランスが、窓口から出てきた。',cast=T),
+  cue('保健委員会の処置室へ繋がる廊下を、歩き始める。',location='保健委員会／処置室への廊下',bg='corridor',cut=True)]),
+ (scene('保健委員会／処置室の外','corridor',['プラス','ランス','ゆきめろ']),[
+  cue('ゆきめろは、目を下げた。',cg=None)]),
+ (scene('保健委員会／もう戦わないで','corridor',['プラス','ランス','ゆきめろ']),[
+  cue('手帳をポケットへ押し込み、廊下を歩き出す。',cast=T,cg=None)]),
+ (scene('学園／夕方の帰り道','campus',T,tone='evening'),[
+  cue('ランスの左手が、プラスの腕へ伸びた。',cg='episode13-road-block-r2'),
+  cue('ユージが、間へ入った。',cg=None),
+  cue('最後に、寮の方へ足を向けた。',cg='episode13-c')]),
+ (scene('学園／寮までの長い道','campus',T,cg='episode13-c'),[
+  cue('部屋へ戻ると、',location='学生寮／肩の布と夕食',bg='dorm',cg=None,cut=True),
+  cue('部屋へ戻り、灯りを落とした。',location='学生寮／眠れない夜',bg='dorm-night',cast=['プラス'],cut=True)]),
+ (scene('学生寮／夜の書き置き','dorm-night',P),[
+  cue('二人は、部屋を出た。',location='学生寮／夜の出入口',bg='campus-night',cut=True)]),
+ (scene('能力練習場／月明かりの端の区画','training-night',P),[]),
+ (scene('能力練習場／斜めの盾','training-night',P,cg='episode13-b'),[]),
+ (scene('能力練習場／質量を操るという言葉','training-night',P),[]),
+ (scene('能力練習場／盾を持ちにくくする','training-night',P,cg='episode13-b'),[]),
+ (scene('能力練習場／次は目の前に残る','training-night',P),[
+  cue('プラスは、月明かりの下で、もう一度踏み込んだ。',cg='episode13-b')])
+]
+PLANS[14]=[
+ (scene('学生寮／まだ少ない言葉','dorm-morning',T),[
+  cue('学校へ向かった。',location='学園／朝の通学路',bg='campus',cut=True),
+  cue('教室ではコンケが、',location='校舎／午前の教室',bg='classroom',cast=['プラス','ランス','ユージ','コンケ'],cut=True)]),
+ (scene('オタクサークル／好きな作品の話','clubroom',['プラス','コバル'],cg='episode14-d'),[]),
+ (scene('オタクサークル／部長が守りたかったもの','clubroom',['プラス','コバル'],cg='episode14-d'),[]),
+ (scene('オタクサークル／見届けたい人','clubroom',['プラス','コバル'],cg='episode14-d'),[
+  cue('プラスが部室を出ると、',location='離れ校舎／部室前の廊下',bg='club-corridor',cast=['プラス','ゆきめろ'],cg='episode14-e',cut=True),
+  cue('扉が開き、コバルが廊下へ出てくる。',cast=['プラス','ゆきめろ','コバル'],cg=None)]),
+ (scene('保健委員会／全回復の確認','infirmary',['プラス','ユージ']),[
+  cue('手首を回し、指を曲げる。',cast=T),
+  cue('帰り道、ランスがポケットへ手を入れた。',location='学園／練習場への夜道',bg='campus-night',cut=True),
+  cue('グレード1の寮の裏へ回る。',location='能力練習場／星の動かない勝負',bg='training-night',cut=True),
+  cue('コンケは、練習場の柵へ寄りかかっていた。',cast=['プラス','ランス','コンケ']),
+  cue('ユージは、二人を中央へ呼んだ。',cast=T),
+  cue('ユージは、二人から離れた。',cast=D)]),
+ (scene('能力練習場／いつもより速い槍','training-night',D,cg='episode14-spar-night-r2'),[]),
+ (scene('能力練習場／軽くしても残る形','training-night',D,cg='episode14-spar-night-r2'),[]),
+ (scene('能力練習場／身体を軽くする','training-night',D,cg='episode14-spar-night-r2'),[
+  cue('足が、床から離れた。',cg='episode14-light-evasion-r2'),
+  cue('右手に、今度は長い槍が作られた。',cg='episode14-spar-night-r2')]),
+ (scene('能力練習場／見届ける四人','training-night',['ユージ','ゆきめろ','コバル','コンケ']),[]),
+ (scene('能力練習場／もう一手、その先へ','training-night',D,cg='episode14-spar-night-r2'),[
+  cue('プラスは落とす方向へ腕を回し、背中を床へ押さえた。',cg='episode14-ground-control-r2'),
+  cue('プラスは、すぐに手を離した。',cg=None,cast=T)]),
+ (scene('能力練習場／今夜は話せなくても','training-night',T),[
+  cue('夜間受付までは、六人で歩いた。',location='学園／夜間受付への道',bg='campus-night',cut=True),
+  cue('治療を終え、寮へ帰ってからも、',location='学生寮／翌朝の目覚まし',bg='dorm-night',cut=True)]),
+ (scene('校舎／昨日の続きが話したい','classroom',T),[
+  cue('サークル活動が終わったあと、六人は昨日の練習場に集まった。',location='能力練習場／役に立たなくても帰る部屋',bg='training-night',cast=T,cut=True)]),
+ (scene('能力練習場／一個ずつ話す','training-night',['プラス','ランス','ゆきめろ','コバル','ユージ','コンケ']),[
+  cue('ゆきめろは、しゃがんだ。',cg='episode14-talk-night')]),
+ (scene('学園／まだ痛くても一緒に歩く','campus-night',T),[]),
+ (scene('オタクサークル／同じ机で違う感想','clubroom',['ランス','ゆきめろ','コバル']),[]),
+ (scene('学生寮／同じ部屋の明かり','dorm-night',T),[
+  cue('教材を閉じ、三人で画面の前へ座った。',cg='episode14-b-v2')])
+]
+
+
 def compile_episode(n,body,title):
  parts=body.split('　　　　　＊');assert len(parts)==len(PLANS[n]);entries=[];reports=[]
  for sn,(part,(initial,cues)) in enumerate(zip(parts,PLANS[n]),1):
   st=dict(initial);expr={};camera=st['cast'][:3];seen=set();start=len(entries)
   def portrait(name):
    emotion=expr.get(name,c.CHAR[name][2])
+   if name=='ランス' and (n==13 or (n==14 and sn==1) or (n==12 and sn==10 and expr.get('lance_treated'))):return 'hurt'
    if name=='プラス':
     if n==7:return {'smile':'bandaged-smile','surprised':'bandaged-surprised','serious':'bandaged-serious'}.get(emotion,'bandaged')
     if n==9 and sn>=10:return 'serious'
@@ -231,7 +321,7 @@ def compile_episode(n,body,title):
      if 'cast' in q:camera=st['cast'][:3]
      expr.update(q.get('expressions',{}))
      if q['cut']:loc()
-    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in ['担当者','保健委員','先生']) else '';text=m.group(2) if name else segment
+    segment=line[a:b];m=re.match(r'^([^「『]{1,16})([「『].*)$',segment);name=m.group(1) if m and (m.group(1) in c.CHAR or m.group(1) in ['担当者','保健委員','先生','決闘委員','通りがかりの生徒','別の生徒','別の親衛隊員','医療係の生徒','部員の男子']) else '';text=m.group(2) if name else segment
     if name in st['cast'] and name not in camera:
      keep=[x for x in camera if x not in ['プラス',name]];camera=(['プラス'] if 'プラス' in st['cast'] else [])+keep[-1:]+[name]
     if name in c.CHAR:
@@ -248,11 +338,11 @@ def main():
  import argparse
  parser=argparse.ArgumentParser();parser.add_argument('episodes',nargs='*',type=int);args=parser.parse_args();ns=args.episodes or sorted(PLANS)
  source_path=ROOT.parent/'source-current.json'
- titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない'}
+ titles={7:'その笑顔は、誰のもの',8:'ちょっと様子を、見に来ただけ',9:'あの人の前では、格好つけたい',10:'放っておけと、言われても',11:'好きなはずなのに、見ていない',12:'君のためなら、勝てばよかった',13:'欲しかったのは、それじゃない',14:'帰ってきたら、何を話そう'}
  source=json.loads(source_path.read_text()) if source_path.exists() else {'chapters':[{'id':f'chapter1-episode{n}','title':f'第1章　第{n}話　{titles[n]}','body':(ROOT/f'data/source/chapter1-episode{n}.txt').read_text()} for n in ns]}
  manifest=json.loads((ROOT/'data/episodes.json').read_text());review=json.loads((ROOT/'data/chapter1-scene-review.json').read_text())
- desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。'}
- images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup'}
+ desc={7:'友達が断れる明日のために。プラスは星七つと契約変更を賭け、ヒカルへ挑む。',8:'治療を終えた朝、コンケの知らない顔を見つける。新聞部への取材と旧校舎への尾行。',9:'コンケが憧れた背中。色とりどりの紅茶の席に、ヒカルが現れる。',10:'割れた鏡に映る顔。コンケとの殴り合いの先で、グモンが部屋を出る。',11:'四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。',12:'星二十個と居場所を賭けたランスの決闘。その勝利が、守りたかった人へ届くとは限らなかった。',13:'返ってきた星と、届かなかった言葉。月明かりの下でプラスとユージが次の一歩を考える。',14:'同室の友と、星の動かない勝負。勝ち負けの先で、帰る部屋の明かりを確かめる。'}
+ images={7:'episode07-a-r3',8:'episode08-d',9:'episode09-a',10:'episode10-tree-faceless',11:'episode11-e-blue-soup',12:'episode12-a',13:'episode13-b',14:'episode14-b-v2'}
  for n in ns:
   id=f'chapter1-episode{n}';ch=next(ch for ch in source['chapters'] if ch['id']==id);report=compile_episode(n,ch['body'],ch['title']);review['episodes'][id]=report;manifest['episodes']=[ep for ep in manifest['episodes'] if ep['id']!=id];manifest['episodes'].append(dict(id=id,title=ch['title'],file=f'data/{id}.json',image=c.CG(images[n]),description=desc[n]));print(id,len(report),'scenes')
  manifest['episodes'].sort(key=lambda ep:0 if ep['id']=='prologue' else int(ep['id'].split('episode')[-1]));(ROOT/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');(ROOT/'data/chapter1-scene-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')

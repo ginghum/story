@@ -1,0 +1,105 @@
+{
+  "id": "chapter1-episode13",
+  "title": "第1章　第13話　欲しかったのは、それじゃない",
+  "status": "playable; all source scenes and 16 additional staging points reviewed",
+  "source_scenes": 12,
+  "source_lines": 544,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 34,
+      "location": "闘技場／治療へ向かう担架",
+      "source_lines": 33,
+      "reviewed": true
+    },
+    {
+      "scene": 2,
+      "start": 35,
+      "end": 66,
+      "location": "決闘委員会／返ってくる星",
+      "source_lines": 29,
+      "reviewed": true
+    },
+    {
+      "scene": 3,
+      "start": 67,
+      "end": 150,
+      "location": "保健委員会／処置室の外",
+      "source_lines": 83,
+      "reviewed": true
+    },
+    {
+      "scene": 4,
+      "start": 151,
+      "end": 198,
+      "location": "保健委員会／もう戦わないで",
+      "source_lines": 47,
+      "reviewed": true
+    },
+    {
+      "scene": 5,
+      "start": 199,
+      "end": 286,
+      "location": "学園／夕方の帰り道",
+      "source_lines": 87,
+      "reviewed": true
+    },
+    {
+      "scene": 6,
+      "start": 287,
+      "end": 314,
+      "location": "学園／寮までの長い道",
+      "source_lines": 25,
+      "reviewed": true
+    },
+    {
+      "scene": 7,
+      "start": 315,
+      "end": 337,
+      "location": "学生寮／夜の書き置き",
+      "source_lines": 21,
+      "reviewed": true
+    },
+    {
+      "scene": 8,
+      "start": 338,
+      "end": 358,
+      "location": "能力練習場／月明かりの端の区画",
+      "source_lines": 20,
+      "reviewed": true
+    },
+    {
+      "scene": 9,
+      "start": 359,
+      "end": 395,
+      "location": "能力練習場／斜めの盾",
+      "source_lines": 36,
+      "reviewed": true
+    },
+    {
+      "scene": 10,
+      "start": 396,
+      "end": 444,
+      "location": "能力練習場／質量を操るという言葉",
+      "source_lines": 48,
+      "reviewed": true
+    },
+    {
+      "scene": 11,
+      "start": 445,
+      "end": 502,
+      "location": "能力練習場／盾を持ちにくくする",
+      "source_lines": 57,
+      "reviewed": true
+    },
+    {
+      "scene": 12,
+      "start": 503,
+      "end": 561,
+      "location": "能力練習場／次は目の前に残る",
+      "source_lines": 58,
+      "reviewed": true
+    }
+  ]
+}

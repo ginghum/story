@@ -69,3 +69,17 @@ if any(m['id']=='chapter1-episode10' for m in manifest):
  assert any(x.get('cg')=='assets/cg/episode10-konke-mirror.webp' for x in e10 if x['scene']==6)
  assert all(not x.get('cg') or x['cg']!='assets/cg/episode10-tree-faceless.webp' for x in e10 if x['scene']!=13), 'Do not reveal Minus before the final scene'
  print('PASS: episode 7–10 healing boundary, interview attendance, flashbacks, combat exits, mirror CG and final cameo timing.')
+if any(m['id']=='chapter1-episode14' for m in manifest):
+ e12,e13,e14=[episode(n) for n in [12,13,14]]
+ assert all(c['expression']=='hurt' for x in e13 for c in x['cast'] if c['id']=='lance')
+ assert all(c['expression']=='hurt' for x in e14 if x['scene']==1 for c in x['cast'] if c['id']=='lance')
+ assert all(c['expression']!='hurt' for x in e14 if x['scene']>=5 for c in x['cast'] if c['id']=='lance')
+ assert all(not c['expression'].startswith('bandaged') for es in [e12,e13,e14] for x in es for c in x['cast'] if c['id']=='plus')
+ trap=next(i for i,x in enumerate(e12) if x.get('raw')=='コバルの足元で、銀色が跳ねた。')
+ assert e12[trap]['cg']=='assets/cg/episode12-folded-spear.webp'
+ assert all(x.get('cg')!='assets/cg/episode12-folded-spear.webp' for x in e12[:trap])
+ release=next(i for i,x in enumerate(e14) if x.get('raw')=='プラスは、すぐに手を離した。')
+ assert all(x.get('cg')!='assets/cg/episode14-ground-control-r2.webp' for x in e14[release:])
+ assert all('night' in x['bg'] for x in e14 if 6<=x['scene']<=10)
+ assert all(x.get('cg')!='assets/cg/episode13-a.webp' for x in e13), 'Do not use the original incorrect sling CG'
+ print('PASS: episode 12–14 injury/treatment boundary, trap reveal, pin release and nighttime staging.')

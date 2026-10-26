@@ -4,8 +4,8 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 # d=daily, c=calm, p=practice, b=battle, t=tension, r=reflection.
 KEYS=dict(d='daily',c='calm',p='training',b='battle',t='tension',r='reflection')
-PLANS={0:'c d c d d p d p r t',1:'t d d c d d c',2:'c d d d r',3:'d d t b b b r r c r r',4:'r p d d c c c t t c d',5:'c p d c t b b b r d t',6:'r r r r t r r r p c p r',7:'r c c r t t t b b b b r r d c',8:'c d c d c c t t d t t t t',9:'t r r t t r t d c b t t',10:'b b b t t t b r b r r d r',11:'d p c p d d c d d d d c r r r'}
-CUES={0:[(4,'食器の音とは違う、乾いた音がした。','battle'),(4,'青年は必要な確認を済ませると、','reflection')],3:[(6,'鈍い音がした。',None),(6,'コンケは、一歩下がった。','tension'),(6,'ランス「終わり」','reflection')],5:[(11,'鞭が床から浮く。','battle')],7:[(7,'左腕を前へ運び、投げた。','battle')],10:[(9,'グモンは、扉の前に立っていた。','reflection')],11:[(15,'ポケットの上で、ランスの手が止まった。',None)]}
+PLANS={0:'c d c d d p d p r t',1:'t d d c d d c',2:'c d d d r',3:'d d t b b b r r c r r',4:'r p d d c c c t t c d',5:'c p d c t b b b r d t',6:'r r r r t r r r p c p r',7:'r c c r t t t b b b b r r d c',8:'c d c d c c t t d t t t t',9:'t r r t t r t d c b t t',10:'b b b t t t b r b r r d r',11:'d p c p d d c d d d d c r r r',12:'t r t t t b b b b r',13:'r r r r t r r c p c p r',14:'r c r c t b b b t b r r r d d d'}
+CUES={12:[(9,'サニー「終了！　勝者、ランス！」','reflection'),(10,'ランスの後ろで、声がした。',None)],13:[(5,'最後に、寮の方へ足を向けた。','reflection')],14:[(10,'ユージ「終わり。もう、やらない」','reflection'),(12,'ランス「だから、何もしなかったら、そこにいていいのか、わかんなくなった」',None),(12,'プラス「……俺、教えてくれたの、嬉しかったよ」','reflection'),(16,'誰も星を出さずに、その夜は続いていた。','reflection')],0:[(4,'食器の音とは違う、乾いた音がした。','battle'),(4,'青年は必要な確認を済ませると、','reflection')],3:[(6,'鈍い音がした。',None),(6,'コンケは、一歩下がった。','tension'),(6,'ランス「終わり」','reflection')],5:[(11,'鞭が床から浮く。','battle')],7:[(7,'左腕を前へ運び、投げた。','battle')],10:[(9,'グモンは、扉の前に立っていた。','reflection')],11:[(15,'ポケットの上で、ランスの手が止まった。',None)]}
 LOCATIONS={(0,'学生寮／三人の部屋・消灯後'):'reflection',(1,'学生寮／三人の部屋・朝'):'daily',(2,'学園／中庭'):'tension',(3,'学生寮そば／能力練習場・夜'):'tension',(6,'回想／ヒカルとの決闘'):'tension',(6,'能力練習場／夜'):'training',(10,'回想／朝の能力練習場'):'training',(10,'学園／昼の中庭'):'daily'}
 def assign():
  report={};count=0

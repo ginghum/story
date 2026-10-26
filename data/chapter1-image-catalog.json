@@ -456,5 +456,159 @@
     "file": "assets/cg/episode11-e-blue-soup.webp",
     "source": "ginghum/cursehighschool-/main/assets/illustrations/episode11-e-blue-soup.webp",
     "generator": "existing published illustration"
+  },
+  {
+    "id": "kobal-neutral",
+    "prompt": "Use case: background-extraction / identity-preserve. Game full-body sprite, true transparent background. Preserve reference Kobal: a plump stocky 176cm young adult man, turquoise short messy hair, black rectangular glasses, gray-brown checked scarf, brown hooded school robe over white sweater and checked shirt hem, dark broad trousers, chunky white black sneakers. Gentle but thoughtful face with eyes open, small neutral speaking mouth; one relaxed open hand explaining, other hand near scarf. NO shoulder bag, no props. Keep a clearly rounded belly and broad torso, not muscular or slender. Fine detailed anime style exactly matching reference. Entire head and BOTH shoes in frame with generous empty transparent margin. No backdrop, ground plane, shadow, text or watermark.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/kobal-portrait.webp"
+    ],
+    "folder": "characters",
+    "file": "assets/characters/kobal-neutral.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "lance-hurt",
+    "prompt": "Use case: identity-preserve. Full-body visual-novel sprite on genuine transparency. Preserve exact reference Lance: short slim 169cm young adult man, navy-blue short hair, yellow eyes, black rectangular glasses, brown hooded school robe, black zip-neck top, black trousers, white/navy sneakers. After a tiring duel: defeated blank withdrawn expression, slightly slumped shoulders; arms lowered, BOTH hands out of pockets. A folded clean white medical pad is secured over his anatomical RIGHT shoulder under the open robe, a narrow white support wrap on anatomical LEFT wrist and small protective dressings on palms. NO arm sling, NO huge arm cast, no weapon, no blood, no open wound. Show both hands naturally with slight protective tension. Whole head and both shoes inside frame with margin. Same delicate anime drawing, no background/ground/shadow/text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/lance-neutral.webp"
+    ],
+    "folder": "characters",
+    "file": "assets/characters/lance-hurt.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode12-outside-corrected",
+    "prompt": "Use case: precise-object-edit. Correct this existing story CG while preserving exact anime identities, evening school building and clothing. Lance speaks urgently to Yukimero outside the club building. Remove ALL contact between their hands: Lance has BOTH hands lowered near his own waist, one slightly opened in explanation; Yukimero holds her own small thin plain BLACK closed handbook against her chest with BOTH hands. Neither grips the other's wrist, arm or sleeve. Lance is worried and insistent; Yukimero looks uncomfortable and determined as if quietly saying she wants to stay. Preserve her pale lavender curled hair, pink ribbons, modest high-neck pink-white detailed dress, no brown robe at this point. Lance same navy hair yellow eyes glasses brown robe black top. Keep clearly visible space between the two people. Golden late-afternoon light, no captions/text, no extra named characters.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode12-d.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode12-outside-corrected.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode12-low-guard",
+    "prompt": "Use case: illustration-story. New landscape story CG with the EXACT two referenced young men and the same bright daytime imperial arena, thin sand on a flat floor. Lance is the small slim169cm navy-haired yellow-eyed man with glasses, brown robe over black zip-neck outfit. Kobal is the stocky plump176cm turquoise-haired man with glasses, checked scarf, white sweater and brown robe, NOT a giant. Lance is kneeling low on the floor after being driven back, anatomical LEFT palm planted flat among small broken silver shield pieces and a low folded mechanical metal support, anatomical RIGHT hand holding a small short blade close to his own side, not attacking yet. Kobal stands one step ahead, reaching forward with anatomical LEFT hand, anatomical RIGHT fist cocked near his own waist with subtle condensed air vibration, no huge aura. Lance is injured and exhausted but has NO bandages or sling yet; small cheek scuff only, no gore. Scattered small discarded metal fragments remain where they fell, nothing floating or levitating. Focus on this tense grounded standoff. Rich delicate anime rendering and architecture matching reference. Lower quarter kept visually simple for dialogue. No writing, no captions, no extra foreground people.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode12-a.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode12-low-guard.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode12-folded-spear",
+    "prompt": "Use case: illustration-story. Wide dramatic CG, same two exact people and daylight sand-dusted imperial arena as reference. Critical action: Lance169cm navy short hair yellow eyes glasses brown robe black zipped top, battered and low at LEFT FOREGROUND, presses a small flat silver floor trigger with his RIGHT shoe. A connected series of SHORT metal push rods and folding braces unfolds UP from the floor immediately in front of Kobal. The mechanism lifts a SHORT spear DIAGONALLY into Kobal's protected brown robe at the abdomen, pushing him backward off balance. Kobal176cm stocky plump turquoise hair glasses checked scarf white sweater brown robe, braces and loses his footing, still upright, not yet collapsed. This is a physical folded lever linkage visibly rooted to the floor, NOT a magical floating spear, NOT a huge spike field. Lance has a small round shield in his RIGHT hand ready to intercept a reflex punch, LEFT hand low and trembling. Show a bend in robe and impact dust, NO exposed wound, NO penetrating gore, no blood spray. Both wear full modest uniforms. Do not show a completed victory or medical treatment. Exact identities, correct small7cm height difference, cinematic anime style, no text/panels/extra named people.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode12-a.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode12-folded-spear.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode14-talk-night",
+    "prompt": "Use case: lighting-weather / precise-object-edit. Preserve exact four identities, their poses and clothing and small courtyard composition. Change the scene to NIGHT under a clear dark-blue sky, visible moon, soft cool moonlight with warm distant practice lanterns. Remove all sunlight, golden sky and daylight highlights. Background is the small dorm-side practice courtyard with low stone edge, not a grand arena or daytime crowd. Plus long purple ponytail hoodie brown robe, Lance short navy hair black glasses black outfit brown robe, Yukimero lavender hair pink ribbons pink-white dress under brown robe, stocky turquoise-haired glasses scarf Kobal brown robe. Same quietly serious conversation, subtle relieved expressions, no bandages, no injury props, no extra named people, no text. Preserve anime painting quality, readable faces despite nighttime.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode14-c.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode14-talk-night.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode13-road-block-r2",
+    "prompt": "Use case: identity-preserve / precise-object-edit. Redraw this same sunset academy disagreement with the composition REARRANGED, not mirrored. Put short navy-haired glasses LANCE on the LEFT of the frame, facing almost front toward viewer but slightly right. Put tall long-purple-ponytail PLUS on the RIGHT, stepping sideways as his reaching arm is deflected. Lance's ANATOMICAL RIGHT shoulder is the shoulder at SCREEN LEFT: keep the white medical pad THERE; that RIGHT arm hangs DOWN at his side and does NOT touch Plus. Lance's ANATOMICAL LEFT shoulder is at SCREEN RIGHT, and this LEFT ARM extends right toward Plus, holding a SMALL ANGLED METAL PLATE on the open LEFT PALM. The LEFT WRIST on this ACTIVE ARM has the narrow WHITE WRAP. Show the active forearm continuously connected to that screen-right shoulder. Left-handed deflection only. Keep black top brown robe and both hand dressings, plus Plus's white hoodie brown robe, warm sunset path and identities. The injured right arm is completely at rest. No spear, no sword, no text or huge effects.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/generated_images/exec-b8179855-d272-423f-98ba-285829e28209.png",
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/characters/lance-hurt.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode13-road-block-r2.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode14-light-evasion-r2",
+    "prompt": "Use case: identity-preserve / precise-object-edit. Keep same two exact men and moonlit small practice yard, but redraw a CLEAR FRONTAL anatomy composition: LANCE is on the RIGHT of the picture, facing almost front slightly left. PLUS is on the LEFT of the picture, both feet off the ground as he deliberately lightens himself and springs back from a controlled push. Lance's RIGHT SHOULDER is at SCREEN LEFT of his chest, and the RIGHT ARM from that shoulder extends left into Plus's chest with a broad flat silver metal plate. Trace that right arm clearly from shoulder to elbow to plate; this is the ONLY raised pushing arm. Lance's LEFT shoulder/arm at SCREEN RIGHT is EMPTY and hangs low beside his hip. No shield or plate on that left arm. Lance navy hair yellow eyes glasses brown robe black zip-neck top, Plus long purple ponytail white hoodie brown robe. No injury bandages or pads anywhere. Keep all feet readable, dry dirt boundary lines, lanterns and moon, no spectators or arena, no lettering.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/generated_images/exec-4c52d2ae-0769-4e97-ac58-37ecf10ad972.png"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode14-light-evasion-r2.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode14-ground-control-r2",
+    "prompt": "Use case: precise-object-edit. Keep this exact night sparring ground-control CG, the two character identities, poses, hands, glass pair on floor, moon and yard. ONLY correct clothing continuity: REMOVE the visible torn patch on Plus's upper shoulder at the upper-left of the image; make that visible brown robe shoulder intact with ordinary dirt. His actual small injury is on the opposite anatomical LEFT shoulder, which is turned away/mostly hidden in this composition, so do not add any visible wound, bandage or pad. Keep both characters fully clothed and all other details unchanged. No new people or text.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/generated_images/exec-16c38945-81a8-4dc8-8fed-17be186ba678.png"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode14-ground-control-r2.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode14-spar-night-r2",
+    "prompt": "Use case: illustration-story. Redraw the Plus vs Lance night practice action, using IMAGE1's Lance weapon-hand anatomy as the template, IMAGE2 only for Plus identity. Lance on LEFT side of image, clear nearly FRONT-facing torso with black vertical zipper visible. His anatomical RIGHT hand, at SCREEN LEFT of his body, grips a slim spear held diagonally across in front of him, spear pointing toward Plus at RIGHT. His anatomical LEFT forearm, at SCREEN RIGHT of his body, holds a small angled silver shield to block Plus's approaching unweighted RIGHT fist. SHOW both forearms connected clearly to their correct shoulders. Plus at RIGHT:184cm long dark-purple ponytail purple eyes white hoodie brown robe; Lance atLEFT169cm navy short hair yellow eyes black glasses brown robe black zip-neck top navy-white shoes. They are in a SMALL dirt-floor academy practice courtyard at NIGHT with moon and warm lanterns and targets, NOT grand arena. No audience, no third named person, no bandages/casts/pads on either. No text. Fine cinematic anime detail with correct height difference and grounded footwork.",
+    "references": [
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode12-a.webp",
+      "/workspace/scratch/e0ba8f01bcc1/story-release/assets/cg/episode14-a.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode14-spar-night-r2.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode12-aftermath-corrected",
+    "prompt": "Use case: precise-object-edit. Correct ONLY Lance at the LEFT of this existing anime story CG and the metal fragments near him. Lance must have BOTH HANDS EMPTY: remove the entire spear/weapon in his lowered right hand, remove ALL floating/dissolving silver shards around his hand and legs, and paint the same unobstructed brown robe, ground and natural empty relaxed fingers in their place. His generated metal cannot magically evaporate. Add a small folded clean white medical pad just visible over his anatomical RIGHT shoulder beneath the brown robe collar, on screen-left of his chest. NO sling, no big arm bandages, no handheld object. He looks stunned, tired and withdrawn, same navy hair yellow eyes black glasses black zip-neck clothing brown robe. Keep Yukimero, Kobal, their linked hands, gurney, background medical attendants, lighting, entire composition and faces unchanged. No additional text or people.",
+    "references": [
+      "assets/cg/episode12-b.webp"
+    ],
+    "folder": "cg",
+    "file": "assets/cg/episode12-aftermath-corrected.webp",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "episode12-a",
+    "file": "assets/cg/episode12-a.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode12-c-v2",
+    "file": "assets/cg/episode12-c-v2.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode13-b",
+    "file": "assets/cg/episode13-b.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode13-c",
+    "file": "assets/cg/episode13-c.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode14-b-v2",
+    "file": "assets/cg/episode14-b-v2.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode14-d",
+    "file": "assets/cg/episode14-d.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
+  },
+  {
+    "id": "episode14-e",
+    "file": "assets/cg/episode14-e.webp",
+    "source": "ginghum/cursehighschool- original illustrations; fetched 2026-10-26",
+    "generator": "reused original illustration"
   }
 ]

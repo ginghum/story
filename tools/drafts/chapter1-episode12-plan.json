@@ -1,58 +1,89 @@
 {
   "id": "chapter1-episode12",
   "title": "第1章　第12話　君のためなら、勝てばよかった",
-  "status": "source and scene boundaries prepared; not playable",
+  "status": "playable; all source scenes and 16 additional staging points reviewed",
   "source_scenes": 10,
+  "source_lines": 580,
   "scenes": [
     {
       "scene": 1,
-      "opening": "ランスは、ポケットから手を離さなかった。手帳の角が、布の向こうで指へ当たっている。コバルは机に残った紙を揃えた。一枚だけ白いままの紙も、ほかの感想と一緒に重ねる。",
-      "reviewed": false
+      "start": 0,
+      "end": 77,
+      "location": "オタクサークル／片づけの後",
+      "source_lines": 77,
+      "reviewed": true
     },
     {
       "scene": 2,
-      "opening": "ゆきめろは、離れ校舎の外にいた。",
-      "reviewed": false
+      "start": 78,
+      "end": 139,
+      "location": "離れ校舎／夕方の入口",
+      "source_lines": 61,
+      "reviewed": true
     },
     {
       "scene": 3,
-      "opening": "翌日の午後、決闘委員会の窓口には、普段より多く手帳が並んだ。親衛隊の部員たちが、一人ずつ確認を受ける。",
-      "reviewed": false
+      "start": 140,
+      "end": 183,
+      "location": "決闘委員会／星二十個と契約",
+      "source_lines": 43,
+      "reviewed": true
     },
     {
       "scene": 4,
-      "opening": "プラスは、見学先へ向かう途中でランスの名前を聞いた。",
-      "reviewed": false
+      "start": 184,
+      "end": 214,
+      "location": "中央購買／ランスの名前",
+      "source_lines": 28,
+      "reviewed": true
     },
     {
       "scene": 5,
-      "opening": "観客席は、片側へ人が偏っていた。",
-      "reviewed": false
+      "start": 215,
+      "end": 244,
+      "location": "闘技場／部員たちの観客席",
+      "source_lines": 28,
+      "reviewed": true
     },
     {
       "scene": 6,
-      "opening": "ランスの右手へ、槍が生まれた。",
-      "reviewed": false
+      "start": 245,
+      "end": 288,
+      "location": "闘技場／金属生成とチャージパンチ",
+      "source_lines": 43,
+      "reviewed": true
     },
     {
       "scene": 7,
-      "opening": "コバルの右拳が、また腰へ戻った。",
-      "reviewed": false
+      "start": 289,
+      "end": 340,
+      "location": "闘技場／拳を溜める間にも",
+      "source_lines": 51,
+      "reviewed": true
     },
     {
       "scene": 8,
-      "opening": "ランスは、床へ残った金属を見た。",
-      "reviewed": false
+      "start": 341,
+      "end": 431,
+      "location": "闘技場／砂の下へ残したもの",
+      "source_lines": 90,
+      "reviewed": true
     },
     {
       "scene": 9,
-      "opening": "プラスは、椅子の前の縁を握っていた。",
-      "reviewed": false
+      "start": 432,
+      "end": 499,
+      "location": "闘技場／最後の返事を待つ間",
+      "source_lines": 66,
+      "reviewed": true
     },
     {
       "scene": 10,
-      "opening": "観客席の親衛隊が、一斉に立った。",
-      "reviewed": false
+      "start": 500,
+      "end": 594,
+      "location": "闘技場／勝者の向こうへ",
+      "source_lines": 93,
+      "reviewed": true
     }
   ]
 }

@@ -1,0 +1,137 @@
+{
+  "id": "chapter1-episode14",
+  "title": "第1章　第14話　帰ってきたら、何を話そう",
+  "status": "playable; all source scenes and 16 additional staging points reviewed",
+  "source_scenes": 16,
+  "source_lines": 740,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 27,
+      "location": "学生寮／まだ少ない言葉",
+      "source_lines": 24,
+      "reviewed": true
+    },
+    {
+      "scene": 2,
+      "start": 28,
+      "end": 79,
+      "location": "オタクサークル／好きな作品の話",
+      "source_lines": 51,
+      "reviewed": true
+    },
+    {
+      "scene": 3,
+      "start": 80,
+      "end": 120,
+      "location": "オタクサークル／部長が守りたかったもの",
+      "source_lines": 40,
+      "reviewed": true
+    },
+    {
+      "scene": 4,
+      "start": 121,
+      "end": 147,
+      "location": "オタクサークル／見届けたい人",
+      "source_lines": 25,
+      "reviewed": true
+    },
+    {
+      "scene": 5,
+      "start": 148,
+      "end": 201,
+      "location": "保健委員会／全回復の確認",
+      "source_lines": 51,
+      "reviewed": true
+    },
+    {
+      "scene": 6,
+      "start": 202,
+      "end": 251,
+      "location": "能力練習場／いつもより速い槍",
+      "source_lines": 49,
+      "reviewed": true
+    },
+    {
+      "scene": 7,
+      "start": 252,
+      "end": 287,
+      "location": "能力練習場／軽くしても残る形",
+      "source_lines": 35,
+      "reviewed": true
+    },
+    {
+      "scene": 8,
+      "start": 288,
+      "end": 333,
+      "location": "能力練習場／身体を軽くする",
+      "source_lines": 45,
+      "reviewed": true
+    },
+    {
+      "scene": 9,
+      "start": 334,
+      "end": 356,
+      "location": "能力練習場／見届ける四人",
+      "source_lines": 22,
+      "reviewed": true
+    },
+    {
+      "scene": 10,
+      "start": 357,
+      "end": 464,
+      "location": "能力練習場／もう一手、その先へ",
+      "source_lines": 107,
+      "reviewed": true
+    },
+    {
+      "scene": 11,
+      "start": 465,
+      "end": 509,
+      "location": "能力練習場／今夜は話せなくても",
+      "source_lines": 42,
+      "reviewed": true
+    },
+    {
+      "scene": 12,
+      "start": 510,
+      "end": 620,
+      "location": "校舎／昨日の続きが話したい",
+      "source_lines": 108,
+      "reviewed": true
+    },
+    {
+      "scene": 13,
+      "start": 621,
+      "end": 676,
+      "location": "能力練習場／一個ずつ話す",
+      "source_lines": 55,
+      "reviewed": true
+    },
+    {
+      "scene": 14,
+      "start": 677,
+      "end": 691,
+      "location": "学園／まだ痛くても一緒に歩く",
+      "source_lines": 14,
+      "reviewed": true
+    },
+    {
+      "scene": 15,
+      "start": 692,
+      "end": 722,
+      "location": "オタクサークル／同じ机で違う感想",
+      "source_lines": 30,
+      "reviewed": true
+    },
+    {
+      "scene": 16,
+      "start": 723,
+      "end": 765,
+      "location": "学生寮／同じ部屋の明かり",
+      "source_lines": 42,
+      "reviewed": true
+    }
+  ]
+}

@@ -689,6 +689,313 @@
         "match": "コバルも一つ持ってきた。",
         "sound": "chair"
       }
+    ],
+    "chapter1-episode12": [
+      {
+        "match": "コバルは、紙の束を机へ置いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "廊下の方で、足音が止まった。",
+        "sound": "steps"
+      },
+      {
+        "match": "銀色の刃が形を取る。",
+        "sound": "metal"
+      },
+      {
+        "match": "刃を覆う鞘を新しく作り、机へ置いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "ゆきめろは、手帳を閉じた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "三人は、歩く速度を上げた。",
+        "sound": "steps"
+      },
+      {
+        "match": "サニー「始め！」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "ランスの右手へ、槍が生まれた。",
+        "sound": "metal"
+      },
+      {
+        "match": "コバルの胸を狙って、一度、突く。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "鈍い音が、観客席まで来た。",
+        "sound": "heavy"
+      },
+      {
+        "match": "ランスは、折れた板を手放した。",
+        "sound": "metal"
+      },
+      {
+        "match": "ローブが、浅く裂ける。",
+        "sound": "cloth"
+      },
+      {
+        "match": "床へ倒れる。",
+        "sound": "heavy"
+      },
+      {
+        "match": "コバルの拳が、板の端を砕いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "低く突く。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "衝撃で、外側が折れる。",
+        "sound": "metal"
+      },
+      {
+        "match": "盾で受けた身体が、また後ろへ飛ばされた。",
+        "sound": "heavy"
+      },
+      {
+        "match": "ランスは、槍を投げた。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "左手で作った小さな板を二つ、床へ落とした。",
+        "sound": "metal"
+      },
+      {
+        "match": "短剣が落ちた。",
+        "sound": "metal"
+      },
+      {
+        "match": "ランスの腹へ、左の拳が入った。",
+        "sound": "hit"
+      },
+      {
+        "match": "新しく生む金属を、残っていた部品へ繋ぐ。",
+        "sound": "metal"
+      },
+      {
+        "match": "低い音と一緒に、砂が広く跳ねた。",
+        "sound": "heavy"
+      },
+      {
+        "match": "刃が床へ落ちる音が、ほかの金属の音へ混ざった。",
+        "sound": "metal"
+      },
+      {
+        "match": "コバルの足元で、銀色が跳ねた。",
+        "sound": "metal"
+      },
+      {
+        "match": "槍の先が、ローブへ食い込む。",
+        "sound": "heavy"
+      },
+      {
+        "match": "割れた金属が頬を擦る。",
+        "sound": "metal"
+      },
+      {
+        "match": "コバルの背が、床へ当たった。",
+        "sound": "heavy"
+      },
+      {
+        "match": "サニー「終了！　勝者、ランス！」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "その音が、歓声の中へ落ちた。",
+        "sound": "crowd"
+      },
+      {
+        "match": "ゆきめろが、走った。",
+        "sound": "run"
+      }
+    ],
+    "chapter1-episode13": [
+      {
+        "match": "近くの椅子へ座る。",
+        "sound": "chair"
+      },
+      {
+        "match": "コンケは通路の壁際にある電源口へ、スマートフォンのケーブルを繋いでいた。",
+        "sound": "ui"
+      },
+      {
+        "match": "ランスの掌へ、薄い覆いが貼られた。",
+        "sound": "cloth"
+      },
+      {
+        "match": "袋を下げて、通路を戻っていく。",
+        "sound": "steps"
+      },
+      {
+        "match": "廊下で、靴音がした。",
+        "sound": "steps"
+      },
+      {
+        "match": "紙を畳んだ。",
+        "sound": "rustle"
+      },
+      {
+        "match": "手帳をポケットへ押し込み、廊下を歩き出す。",
+        "sound": "steps"
+      },
+      {
+        "match": "ランスの掌から小さな金属板が生まれた。",
+        "sound": "metal"
+      },
+      {
+        "match": "ランスの板が、地面へ落ちた。",
+        "sound": "metal"
+      },
+      {
+        "match": "部屋へ戻り、灯りを落とした。",
+        "sound": "cloth"
+      },
+      {
+        "match": "扉の金具が、小さく鳴った。",
+        "sound": "door-close"
+      },
+      {
+        "match": "ユージの靴音が、プラスの横で続いていた。",
+        "sound": "steps"
+      },
+      {
+        "match": "プラスは、拳を軽く当てた。",
+        "sound": "hit"
+      },
+      {
+        "match": "ユージは、盾を壁の方へ立てかけた。",
+        "sound": "metal"
+      },
+      {
+        "match": "盾が足の前へ落ちる。",
+        "sound": "metal"
+      },
+      {
+        "match": "用具を戻す音がして",
+        "sound": "metal"
+      }
+    ],
+    "chapter1-episode14": [
+      {
+        "match": "教材を開いた。",
+        "sound": "rustle"
+      },
+      {
+        "match": "通知が来た。",
+        "sound": "ui"
+      },
+      {
+        "match": "扉が開き、コバルが廊下へ出てくる。",
+        "sound": "door-open"
+      },
+      {
+        "match": "周囲に残った用具を片づけ、",
+        "sound": "metal"
+      },
+      {
+        "match": "ユージ「……始め」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "ランスの右手へ、槍が伸びた。",
+        "sound": "metal"
+      },
+      {
+        "match": "もう一度、槍が来た。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "右拳を、まだ重くせずに脇腹へ打つ。",
+        "sound": "hit"
+      },
+      {
+        "match": "手放した盾が床へ当たる。",
+        "sound": "metal"
+      },
+      {
+        "match": "ランスは、右の槍を投げた。",
+        "sound": "whoosh"
+      },
+      {
+        "match": "その切っ先がローブを浅く裂いた。",
+        "sound": "cloth"
+      },
+      {
+        "match": "プラスの拳も、ランスの頬へ届いた。",
+        "sound": "hit"
+      },
+      {
+        "match": "金属の輪を作り、プラスの腕へ引っかける。",
+        "sound": "metal"
+      },
+      {
+        "match": "腹へ当たる。",
+        "sound": "hit"
+      },
+      {
+        "match": "金属の面が、胸へ当たった。",
+        "sound": "heavy"
+      },
+      {
+        "match": "着地した爪先が滑る。",
+        "sound": "steps"
+      },
+      {
+        "match": "左肩をかすめられた。",
+        "sound": "cloth"
+      },
+      {
+        "match": "拳が盾の面へ当たる。",
+        "sound": "heavy",
+        "override": true
+      },
+      {
+        "match": "落ちた盾の音を聞きながら、",
+        "sound": "metal"
+      },
+      {
+        "match": "ランスの左手が、床で開いた。",
+        "sound": "metal"
+      },
+      {
+        "match": "ユージ「終わり。もう、やらない」",
+        "sound": "chime",
+        "dialogue": true
+      },
+      {
+        "match": "落ちていた眼鏡を拾った。",
+        "sound": "tableware"
+      },
+      {
+        "match": "変えた盾、槍、短い棒に順に触れ、",
+        "sound": "metal"
+      },
+      {
+        "match": "眼鏡を外し、袖で顔を覆う。",
+        "sound": "cloth"
+      },
+      {
+        "match": "水の瓶を開ける音がした。",
+        "sound": "water"
+      },
+      {
+        "match": "ゆきめろは、自分の手帳を開く。",
+        "sound": "rustle"
+      },
+      {
+        "match": "机へ三つの容器が並ぶ。",
+        "sound": "tableware"
+      }
     ]
   }
 }

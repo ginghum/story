@@ -83,6 +83,27 @@
       "file": "data/chapter1-episode11.json",
       "image": "assets/cg/episode11-e-blue-soup.webp",
       "description": "四人で囲む青いスープ。それぞれの午後、ランスは見逃した言葉に向き合う。"
+    },
+    {
+      "id": "chapter1-episode12",
+      "title": "第1章　第12話　君のためなら、勝てばよかった",
+      "file": "data/chapter1-episode12.json",
+      "image": "assets/cg/episode12-a.webp",
+      "description": "星二十個と居場所を賭けたランスの決闘。その勝利が、守りたかった人へ届くとは限らなかった。"
+    },
+    {
+      "id": "chapter1-episode13",
+      "title": "第1章　第13話　欲しかったのは、それじゃない",
+      "file": "data/chapter1-episode13.json",
+      "image": "assets/cg/episode13-b.webp",
+      "description": "返ってきた星と、届かなかった言葉。月明かりの下でプラスとユージが次の一歩を考える。"
+    },
+    {
+      "id": "chapter1-episode14",
+      "title": "第1章　第14話　帰ってきたら、何を話そう",
+      "file": "data/chapter1-episode14.json",
+      "image": "assets/cg/episode14-b-v2.webp",
+      "description": "同室の友と、星の動かない勝負。勝ち負けの先で、帰る部屋の明かりを確かめる。"
     }
   ]
 }

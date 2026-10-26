@@ -1253,6 +1253,456 @@
         "sound": "chair",
         "text": "椅子を壁際へ運んでいると、コバルも一つ持ってきた。"
       }
+    ],
+    "chapter1-episode12": [
+      {
+        "entry": 5,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "コバルは、紙の束を机へ置いた。"
+      },
+      {
+        "entry": 39,
+        "scene": 1,
+        "sound": "steps",
+        "text": "廊下の方で、足音が止まった。"
+      },
+      {
+        "entry": 58,
+        "scene": 1,
+        "sound": "metal",
+        "text": "指の間から柄が伸び、銀色の刃が形を取る。"
+      },
+      {
+        "entry": 74,
+        "scene": 1,
+        "sound": "metal",
+        "text": "剣を細い金属の束へ作り直すことはできない。生み出したものは、そのまま手に残っている。刃を覆う鞘を新しく作り、机へ置いた。誰も触らないのを確かめる余裕もなく、部屋を出た。"
+      },
+      {
+        "entry": 85,
+        "scene": 2,
+        "sound": "rustle",
+        "text": "ゆきめろは、手帳を閉じた。"
+      },
+      {
+        "entry": 213,
+        "scene": 4,
+        "sound": "steps",
+        "text": "三人は、歩く速度を上げた。"
+      },
+      {
+        "entry": 244,
+        "scene": 5,
+        "sound": "chime",
+        "text": "「始め！」"
+      },
+      {
+        "entry": 246,
+        "scene": 6,
+        "sound": "metal",
+        "text": "ランスの右手へ、槍が生まれた。"
+      },
+      {
+        "entry": 248,
+        "scene": 6,
+        "sound": "whoosh",
+        "text": "コバルの胸を狙って、一度、突く。"
+      },
+      {
+        "entry": 263,
+        "scene": 6,
+        "sound": "heavy",
+        "text": "鈍い音が、観客席まで来た。"
+      },
+      {
+        "entry": 271,
+        "scene": 6,
+        "sound": "metal",
+        "text": "ランスは、折れた板を手放した。"
+      },
+      {
+        "entry": 274,
+        "scene": 6,
+        "sound": "cloth",
+        "text": "ローブが、浅く裂ける。"
+      },
+      {
+        "entry": 300,
+        "scene": 7,
+        "sound": "heavy",
+        "text": "床へ倒れる。"
+      },
+      {
+        "entry": 304,
+        "scene": 7,
+        "sound": "metal",
+        "text": "コバルの拳が、板の端を砕いた。"
+      },
+      {
+        "entry": 314,
+        "scene": 7,
+        "sound": "whoosh",
+        "text": "コバルの左足へ向け、低く突く。"
+      },
+      {
+        "entry": 319,
+        "scene": 7,
+        "sound": "metal",
+        "text": "衝撃で、外側が折れる。"
+      },
+      {
+        "entry": 334,
+        "scene": 7,
+        "sound": "heavy",
+        "text": "盾で受けた身体が、また後ろへ飛ばされた。"
+      },
+      {
+        "entry": 350,
+        "scene": 8,
+        "sound": "whoosh",
+        "text": "ランスは、槍を投げた。"
+      },
+      {
+        "entry": 353,
+        "scene": 8,
+        "sound": "metal",
+        "text": "左手で作った小さな板を二つ、床へ落とした。"
+      },
+      {
+        "entry": 361,
+        "scene": 8,
+        "sound": "metal",
+        "text": "短剣が落ちた。"
+      },
+      {
+        "entry": 362,
+        "scene": 8,
+        "sound": "hit",
+        "text": "ランスの腹へ、左の拳が入った。"
+      },
+      {
+        "entry": 387,
+        "scene": 8,
+        "sound": "metal",
+        "text": "新しく生む金属を、残っていた部品へ繋ぐ。短い棒が、折り畳んだ支えの内側へ入った。"
+      },
+      {
+        "entry": 417,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "低い音と一緒に、砂が広く跳ねた。"
+      },
+      {
+        "entry": 426,
+        "scene": 8,
+        "sound": "metal",
+        "text": "刃が床へ落ちる音が、ほかの金属の音へ混ざった。"
+      },
+      {
+        "entry": 469,
+        "scene": 9,
+        "sound": "metal",
+        "text": "コバルの足元で、銀色が跳ねた。"
+      },
+      {
+        "entry": 476,
+        "scene": 9,
+        "sound": "heavy",
+        "text": "槍の先が、ローブへ食い込む。"
+      },
+      {
+        "entry": 481,
+        "scene": 9,
+        "sound": "metal",
+        "text": "割れた金属が頬を擦る。"
+      },
+      {
+        "entry": 483,
+        "scene": 9,
+        "sound": "heavy",
+        "text": "コバルの背が、床へ当たった。"
+      },
+      {
+        "entry": 496,
+        "scene": 9,
+        "sound": "chime",
+        "text": "「終了！　勝者、ランス！」"
+      },
+      {
+        "entry": 499,
+        "scene": 9,
+        "sound": "crowd",
+        "text": "その音が、歓声の中へ落ちた。"
+      },
+      {
+        "entry": 537,
+        "scene": 10,
+        "sound": "run",
+        "text": "ゆきめろが、走った。"
+      }
+    ],
+    "chapter1-episode13": [
+      {
+        "entry": 7,
+        "scene": 1,
+        "sound": "chair",
+        "text": "近くの椅子へ座る。"
+      },
+      {
+        "entry": 15,
+        "scene": 1,
+        "sound": "ui",
+        "text": "プラスは、二人へ少し待つよう手を上げた。ユージが医療係から説明を聞いている。コンケは通路の壁際にある電源口へ、スマートフォンのケーブルを繋いでいた。"
+      },
+      {
+        "entry": 17,
+        "scene": 1,
+        "sound": "cloth",
+        "text": "ランスの掌へ、薄い覆いが貼られた。"
+      },
+      {
+        "entry": 48,
+        "scene": 2,
+        "sound": "steps",
+        "text": "袋を下げて、通路を戻っていく。"
+      },
+      {
+        "entry": 106,
+        "scene": 3,
+        "sound": "steps",
+        "text": "廊下で、靴音がした。"
+      },
+      {
+        "entry": 144,
+        "scene": 3,
+        "sound": "rustle",
+        "text": "紙を畳んだ。"
+      },
+      {
+        "entry": 189,
+        "scene": 4,
+        "sound": "steps",
+        "text": "手帳をポケットへ押し込み、廊下を歩き出す。"
+      },
+      {
+        "entry": 250,
+        "scene": 5,
+        "sound": "metal",
+        "text": "胸元を掴む前に、ランスの掌から小さな金属板が生まれた。"
+      },
+      {
+        "entry": 259,
+        "scene": 5,
+        "sound": "metal",
+        "text": "ランスの板が、地面へ落ちた。"
+      },
+      {
+        "entry": 307,
+        "scene": 6,
+        "sound": "cloth",
+        "text": "部屋へ戻り、灯りを落とした。"
+      },
+      {
+        "entry": 337,
+        "scene": 7,
+        "sound": "door-close",
+        "text": "扉の金具が、小さく鳴った。"
+      },
+      {
+        "entry": 340,
+        "scene": 8,
+        "sound": "steps",
+        "text": "寮の窓から見るより、ずっと高く見える。道の端の草が白く光り、木陰だけが濃い。ユージの靴音が、プラスの横で続いていた。"
+      },
+      {
+        "entry": 360,
+        "scene": 9,
+        "sound": "hit",
+        "text": "プラスは、拳を軽く当てた。"
+      },
+      {
+        "entry": 416,
+        "scene": 10,
+        "sound": "metal",
+        "text": "ユージは、盾を壁の方へ立てかけた。"
+      },
+      {
+        "entry": 473,
+        "scene": 11,
+        "sound": "metal",
+        "text": "盾が足の前へ落ちる。"
+      },
+      {
+        "entry": 509,
+        "scene": 12,
+        "sound": "metal",
+        "text": "用具を戻す音がして、そのあと、靴音が遠ざかる。"
+      }
+    ],
+    "chapter1-episode14": [
+      {
+        "entry": 17,
+        "scene": 1,
+        "sound": "rustle",
+        "text": "プラスは教材を開いた。"
+      },
+      {
+        "entry": 19,
+        "scene": 1,
+        "sound": "ui",
+        "text": "昼過ぎ、ランスの手帳へ通知が来た。"
+      },
+      {
+        "entry": 136,
+        "scene": 4,
+        "sound": "door-open",
+        "text": "扉が開き、コバルが廊下へ出てくる。"
+      },
+      {
+        "entry": 188,
+        "scene": 5,
+        "sound": "metal",
+        "text": "周囲に残った用具を片づけ、足元の大きな石を外へ出す。"
+      },
+      {
+        "entry": 201,
+        "scene": 5,
+        "sound": "chime",
+        "text": "「……始め」"
+      },
+      {
+        "entry": 203,
+        "scene": 6,
+        "sound": "metal",
+        "text": "ランスの右手へ、槍が伸びた。"
+      },
+      {
+        "entry": 220,
+        "scene": 6,
+        "sound": "whoosh",
+        "text": "もう一度、槍が来た。"
+      },
+      {
+        "entry": 240,
+        "scene": 6,
+        "sound": "hit",
+        "text": "右拳を、まだ重くせずに脇腹へ打つ。"
+      },
+      {
+        "entry": 246,
+        "scene": 6,
+        "sound": "metal",
+        "text": "手放した盾が床へ当たる。"
+      },
+      {
+        "entry": 264,
+        "scene": 7,
+        "sound": "whoosh",
+        "text": "ランスは、右の槍を投げた。"
+      },
+      {
+        "entry": 266,
+        "scene": 7,
+        "sound": "cloth",
+        "text": "その切っ先がローブを浅く裂いた。"
+      },
+      {
+        "entry": 267,
+        "scene": 7,
+        "sound": "hit",
+        "text": "プラスの拳も、ランスの頬へ届いた。"
+      },
+      {
+        "entry": 274,
+        "scene": 7,
+        "sound": "metal",
+        "text": "左手に金属の輪を作り、プラスの腕へ引っかける。剣を使うために距離を離すと思っていたところへ、身体ごと入ってきた。"
+      },
+      {
+        "entry": 282,
+        "scene": 7,
+        "sound": "hit",
+        "text": "腹へ当たる。"
+      },
+      {
+        "entry": 298,
+        "scene": 8,
+        "sound": "heavy",
+        "text": "金属の面が、胸へ当たった。"
+      },
+      {
+        "entry": 304,
+        "scene": 8,
+        "sound": "steps",
+        "text": "着地した爪先が滑る。"
+      },
+      {
+        "entry": 331,
+        "scene": 8,
+        "sound": "cloth",
+        "text": "間に合わず、左肩をかすめられた。"
+      },
+      {
+        "entry": 369,
+        "scene": 10,
+        "sound": "heavy",
+        "text": "拳が盾の面へ当たる。"
+      },
+      {
+        "entry": 388,
+        "scene": 10,
+        "sound": "metal",
+        "text": "落ちた盾の音を聞きながら、ランスの左肩の外へ入る。昨夜、ユージと繰り返した動きだった。"
+      },
+      {
+        "entry": 454,
+        "scene": 10,
+        "sound": "metal",
+        "text": "ランスの左手が、床で開いた。"
+      },
+      {
+        "entry": 459,
+        "scene": 10,
+        "sound": "chime",
+        "text": "「終わり。もう、やらない」"
+      },
+      {
+        "entry": 479,
+        "scene": 11,
+        "sound": "tableware",
+        "text": "ランスは、落ちていた眼鏡を拾った。"
+      },
+      {
+        "entry": 500,
+        "scene": 11,
+        "sound": "metal",
+        "text": "プラスは変えた盾、槍、短い棒に順に触れ、元の質量へ戻した。コバルとコンケが用具置き場へ運び、ゆきめろも小さな板を一つ持つ。片づけが終わると、コバルが保健委員会へ連絡を入れた。"
+      },
+      {
+        "entry": 609,
+        "scene": 12,
+        "sound": "cloth",
+        "text": "眼鏡を外し、袖で顔を覆う。"
+      },
+      {
+        "entry": 689,
+        "scene": 14,
+        "sound": "water",
+        "text": "少し後ろで、コンケが水の瓶を開ける音がした。ユージが、プラスにも飲めと一本渡す。"
+      },
+      {
+        "entry": 709,
+        "scene": 15,
+        "sound": "rustle",
+        "text": "ゆきめろは、自分の手帳を開く。"
+      },
+      {
+        "entry": 747,
+        "scene": 16,
+        "sound": "tableware",
+        "text": "机へ三つの容器が並ぶ。"
+      }
     ]
   }
 }

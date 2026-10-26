@@ -29,16 +29,16 @@ def annotate():
     while j<len(entries) and entries[j]['type']=='line' and not entries[j].get('raw'):j+=1
     groups.append((i,j,e['raw']))
   for cue in cues:
-   matches=[g for g in groups if cue['match'] in g[2] and not entries[g[0]].get('speaker')]
+   matches=[g for g in groups if cue['match'] in g[2] and (cue.get('dialogue') or not entries[g[0]].get('speaker'))]
    expected=cue.get('occurrences',1)
    assert len(matches)==expected,(id,cue,len(matches))
    assert (ROOT/'assets/se'/f"{cue['sound']}.wav").is_file(),cue
    for first,end,raw in matches:
-    text=''.join(e['text'] for e in entries[first:end]);pos=text.find(cue['match']);assert pos>=0,(id,cue,'not in display text')
+    text=''.join(e['text'] for e in entries[first:end]);needle=cue['match'];needle=needle[len(entries[first]['speaker']):] if cue.get('dialogue') and entries[first].get('speaker') and needle.startswith(entries[first]['speaker']) else needle;pos=text.find(needle);assert pos>=0,(id,cue,'not in display text')
     offset=0
     for at in range(first,end):
      if offset+len(entries[at]['text'])>pos:
-      assert not entries[at].get('se') or entries[at]['se']==cue['sound'],(id,cue,'conflicting SE')
+      assert cue.get('override') or not entries[at].get('se') or entries[at]['se']==cue['sound'],(id,cue,'conflicting SE')
       entries[at]['se']=cue['sound'];break
      offset+=len(entries[at]['text'])
   path.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')

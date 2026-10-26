@@ -53,3 +53,5 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 .error-toast{display:flex;align-items:flex-start;gap:14px;padding-right:14px}.error-toast #error-message{flex:1;min-width:0}.error-toast #dismiss-error{flex:none;background:transparent;color:inherit;font-size:24px;line-height:1;min-width:36px;min-height:36px;padding:4px;margin:-4px -4px 0 0}
 
 #settings-dialog h3{margin:24px 0 12px;padding-top:18px;border-top:1px solid #b49c6c33;font-size:17px}#bgm-test,#bgm-stop-preview{padding:8px 14px}#settings-dialog select{max-width:70%}
+
+.backdrop.evening{filter:sepia(.18) saturate(.85) brightness(.82)}
