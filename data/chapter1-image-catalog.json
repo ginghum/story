@@ -288,5 +288,12 @@
     "folder": "cg",
     "file": "assets/cg/episode03-impact-night.webp",
     "generator": "built-in image_gen"
+  },
+  {
+    "file": "assets/cg/episode06-training-left.webp",
+    "episode": 6,
+    "purpose": "夜の練習場、右腕負傷継続、ランスの左手に丸い棒",
+    "generated": "2026-10-26",
+    "reviewed": true
   }
 ]

@@ -41,6 +41,13 @@
       "file": "data/chapter1-episode5.json",
       "image": "assets/cg/episode05-d.webp",
       "description": "会いたい人を探す午後、初めての正式な決闘。そして、闘技場で見た友達の姿。"
+    },
+    {
+      "id": "chapter1-episode6",
+      "title": "第1章　第6話　いつも通りが、うまくできない",
+      "file": "data/chapter1-episode6.json",
+      "image": "assets/cg/episode06-a-r3.webp",
+      "description": "ユージが語る契約の過去。いつもの笑顔の奥を知り、プラスとランスは夜の練習へ向かう。"
     }
   ]
 }

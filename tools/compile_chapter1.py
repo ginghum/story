@@ -273,6 +273,8 @@ def compile_episode(n,source):
 
 EPISODE_TITLES={'chapter1-episode1': '第1章\u3000第1話\u3000この学園で、友達になろう', 'chapter1-episode2': '第1章\u3000第2話\u3000知ってるあいつは、知らない顔をする', 'chapter1-episode3': '第1章\u3000第3話\u3000今夜はまだ、眠るには早い', 'chapter1-episode4': '第1章\u3000第4話\u3000俺のことも、載っていますか', 'chapter1-episode5': '第1章\u3000第5話\u3000次の相手は、誰だろう'}
 
+EPISODE_TITLES['chapter1-episode6']='第1章　第6話　いつも通りが、うまくできない'
+
 def main():
  source=json.load(open(SOURCE)) if SOURCE.exists() else {'chapters':[{'id':p.stem,'title':EPISODE_TITLES[p.stem],'body':p.read_text()} for p in (ROOT/'data/source').glob('*.txt')]};reports={};episodes=[dict(id='prologue',title='プロローグ',file='data/prologue.json',image='assets/cg/prologue-a.webp',description='海の向こうの学園へ。プラスの、新しい一日が始まる。')]
  for n in sorted(PLANS):
@@ -283,4 +285,8 @@ def main():
  (ROOT/'data/episodes.json').write_text(json.dumps(dict(episodes=episodes),ensure_ascii=False,indent=2)+'\n')
  (ROOT/'data/chapter1-scene-review.json').write_text(json.dumps(dict(episodes=reports),ensure_ascii=False,indent=2)+'\n')
  print({id:len(report) for id,report in reports.items()})
-if __name__=='__main__':main()
+if __name__=='__main__':
+ main()
+ if (ROOT/'data/source/chapter1-episode6.txt').exists():
+  import compile_episode6
+  compile_episode6.main()

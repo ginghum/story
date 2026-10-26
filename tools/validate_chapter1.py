@@ -45,3 +45,14 @@ for n in [4,5]:
  assert all(c['expression'].startswith('bandaged') for x in episode(n) for c in x['cast'] if c['id']=='plus')
 assert all(c['expression']=='battle' for x in episode(5) if 5<=x['scene']<=9 for c in x['cast'] if c['id']=='dai')
 print(json.dumps({'episodes':summary,'decoded_assets':len(assets),'result':'PASS'},ensure_ascii=False))
+# Episode 6: hospital scenes must not show an upright, healthy Yuji sprite;
+# flashbacks must not inherit the injured Plus or current-time Lance.
+if any(m['id']=='chapter1-episode6' for m in manifest):
+ e=episode(6)
+ assert all(c['id']!='yuji' for x in e if x['scene'] in [1,2,3,6,7,8,9,10,11,12] for c in x['cast'])
+ assert all(c['id']!='plus' for x in e if x['scene'] in [4,5] for c in x['cast'])
+ assert all(c['id']!='lance' for x in e if x['scene']==4 for c in x['cast'])
+ assert all(c['id']!='lance' for x in e if x['scene']==2 and x['type']=='line' and e.index(x)<next(i for i,y in enumerate(e) if y.get('raw')=='ランス「ユージは」') for c in x['cast'])
+ assert all(c['expression'].startswith('bandaged') for x in e for c in x['cast'] if c['id']=='plus')
+ assert all(not x.get('cg') for x in e if x['scene'] in [10,11,12]), 'Do not carry the stick CG into rest or unarmed training'
+ print('PASS: episode 6 bed continuity, flashback isolation, Lance entrance, protected right arm and practice-stick exit.')
