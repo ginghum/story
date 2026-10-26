@@ -127,7 +127,9 @@
       "expression": "serious",
       "ref": "assets/characters/yuhi-neutral.webp",
       "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Focused professional seriousness: eyes open attentive, brows slightly lowered, mouth closed straight. NO grin, laughter, wink or blush. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
-      "file": "assets/characters/yuhi-serious.webp"
+      "file": "assets/characters/yuhi-serious.webp",
+      "eyeColor": "black",
+      "correctionPrompt": "Use case: precise-object-edit. Edit target: attached Yuhi serious full-body transparent visual novel sprite. Change ONLY the iris color in both open eyes from amber/gold to black (near-black charcoal irises with small natural white catchlights). His canonical eye color is BLACK. Keep white sclera white. Preserve exact serious expression, eyebrow shape, mouth, gaze, face, orange hair, cap, camera, pen, notepad, fingers, brown robe, clothing, pose, proportions, framing and original anime drawing style. Do not redraw or change anything else. Preserve genuine transparent background and full head-to-shoes composition. No text or backdrop."
     },
     {
       "id": "yuhi-worried",
@@ -135,7 +137,9 @@
       "expression": "worried",
       "ref": "assets/characters/yuhi-neutral.webp",
       "prompt": "Use case: identity-preserve. One full-body visual novel character expression variant on TRUE TRANSPARENT BACKGROUND. Reference is exact identity, body, pose, clothing and art-style standard. Expression: Troubled uncertainty and concern about a friend and an article: eyes open, brows raised inward, mouth slightly parted. NO smile or wink. Keep same detailed anime rendering, face identity, hair style/color, eye color, body proportions and height, exact standing pose and hands/props. Keep same costume: characters in dark navy gold-piped pre-academy BLAZER retain it, DO NOT dress them in brown robe; characters who already wear brown academy robe retain brown robe; Oga retains his giant yellow hat and ALL outfit details. Preserve all existing glasses precisely when this reference character wears glasses. Do not add glasses to characters without them. Complete head and both feet fully in frame with small margins, no body cropping. Exactly one character, no backdrop, ground, shadow, lettering, panels, new injuries or bandages.",
-      "file": "assets/characters/yuhi-worried.webp"
+      "file": "assets/characters/yuhi-worried.webp",
+      "eyeColor": "black",
+      "correctionPrompt": "Use case: precise-object-edit. Edit target: attached Yuhi worried full-body transparent visual novel sprite. Change ONLY the iris color in both open eyes from amber/gold to black (near-black charcoal irises with small natural white catchlights). His canonical eye color is BLACK. Keep white sclera white. Preserve exact worried expression, eyebrow shape, mouth, gaze, face, orange hair, cap, camera, pen, notepad, fingers, brown robe, clothing, pose, proportions, framing and original anime drawing style. Do not redraw or change anything else. Preserve genuine transparent background and full head-to-shoes composition. No text or backdrop."
     },
     {
       "id": "chick-worried",
