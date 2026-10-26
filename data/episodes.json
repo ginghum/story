@@ -153,6 +153,46 @@
       "file": "data/chapter1-episode21.json",
       "image": "assets/cg/episode21-handshake.webp",
       "description": "約束の情報、遅れて届いた返事。そして帰る部屋と、夢の中で繋いだ手。第1章完結。"
+    },
+    {
+      "id": "extra1",
+      "title": "おまけ1　正しいだけでは、売れません",
+      "file": "data/extra1.json",
+      "image": "assets/cg/extra01-a.webp",
+      "description": "正しいだけでは、売れません",
+      "collection": "extras"
+    },
+    {
+      "id": "extra2",
+      "title": "おまけ2　呼ばれたからには、行くしかない",
+      "file": "data/extra2.json",
+      "image": "assets/cg/extra02-a.webp",
+      "description": "呼ばれたからには、行くしかない",
+      "collection": "extras"
+    },
+    {
+      "id": "extra3",
+      "title": "おまけ3　帰れと言っても、また来る",
+      "file": "data/extra3.json",
+      "image": "assets/cg/extra03-a.webp",
+      "description": "帰れと言っても、また来る",
+      "collection": "extras"
+    },
+    {
+      "id": "extra4",
+      "title": "おまけ4　隣に座るなら、明日もここで",
+      "file": "data/extra4.json",
+      "image": "assets/cg/extra4-doma-rescue.webp",
+      "description": "隣に座るなら、明日もここで",
+      "collection": "extras"
+    },
+    {
+      "id": "extra5",
+      "title": "おまけ5　君と並んで、歩いていた",
+      "file": "data/extra5.json",
+      "image": "assets/cg/extra5-lusai-handshake.webp",
+      "description": "君と並んで、歩いていた",
+      "collection": "extras"
     }
   ]
 }
