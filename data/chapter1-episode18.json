@@ -4586,9 +4586,9 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
           "expression": "neutral"
         }
       ],
@@ -5111,9 +5111,9 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
           "expression": "neutral"
         }
       ],
@@ -5181,9 +5181,9 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
           "expression": "neutral"
         }
       ],
@@ -5753,10 +5753,10 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
-          "expression": "serious"
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -6278,10 +6278,10 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
-          "expression": "serious"
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -6886,9 +6886,9 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -13246,9 +13246,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -13491,9 +13491,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -14086,9 +14086,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -14611,9 +14611,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -14821,9 +14821,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -15847,9 +15847,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -15882,9 +15882,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
           "expression": "neutral"
         }
       ],
@@ -15917,9 +15917,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -17461,10 +17461,10 @@
           "expression": "smile"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "worried"
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "training"
@@ -18756,10 +18756,10 @@
           "expression": "worried"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "worried"
+          "id": "ojo",
+          "name": "オジョー",
+          "height": 154,
+          "expression": "neutral"
         }
       ],
       "bgm": "training"
@@ -20332,9 +20332,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -20822,9 +20822,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -20892,9 +20892,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -21207,9 +21207,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -23379,10 +23379,10 @@
           "expression": "worried"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "worried"
+          "id": "ojo",
+          "name": "オジョー",
+          "height": 154,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -23694,9 +23694,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -24009,9 +24009,9 @@
           "expression": "smile"
         },
         {
-          "id": "ojo",
-          "name": "オジョー",
-          "height": 154,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -25520,7 +25520,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -25536,7 +25543,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -28148,10 +28162,10 @@
           "expression": "worried"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "worried"
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"

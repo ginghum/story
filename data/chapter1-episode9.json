@@ -124,6 +124,12 @@
           "name": "コンケ",
           "height": 178,
           "expression": "neutral"
+        },
+        {
+          "id": "gumon",
+          "name": "グモン",
+          "height": 189,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -14930,6 +14936,12 @@
           "name": "オーガ",
           "height": 197,
           "expression": "serious"
+        },
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
         }
       ],
       "bgm": "battle"
@@ -15191,6 +15203,12 @@
           "name": "オーガ",
           "height": 197,
           "expression": "serious"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -18008,6 +18026,12 @@
           "name": "コンケ",
           "height": 178,
           "expression": "reserved"
+        },
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
         }
       ],
       "bgm": "tension"

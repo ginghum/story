@@ -124,3 +124,7 @@ def main():
  (R/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');(R/'data/chapter2-scene-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')
  (R/'data/chapter2-illustrations.json').write_text(json.dumps(allcg,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
+
+if __name__=="__main__":
+ from enhance_visual_audit import main as enhance_visual_audit
+ enhance_visual_audit()

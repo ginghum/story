@@ -1801,9 +1801,9 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -2078,6 +2078,12 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
+          "expression": "neutral"
+        },
+        {
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
           "expression": "neutral"
         }
       ],
@@ -2402,9 +2408,9 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
           "expression": "neutral"
         }
       ],
@@ -2717,10 +2723,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -3032,10 +3038,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -3102,10 +3108,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -3488,10 +3494,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -4363,10 +4369,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -4468,10 +4474,10 @@
           "expression": "neutral"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "determined"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -6334,9 +6340,9 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
           "expression": "neutral"
         }
       ],
@@ -6544,10 +6550,10 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "neutral"
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
         }
       ],
       "bgm": "daily"
@@ -6579,9 +6585,9 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -6614,10 +6620,10 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "neutral"
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
         }
       ],
       "bgm": "daily"
@@ -6649,9 +6655,9 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -6719,10 +6725,10 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "neutral"
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
         }
       ],
       "bgm": "daily"
@@ -6754,9 +6760,9 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -6789,10 +6795,10 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "neutral"
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
         }
       ],
       "bgm": "daily"
@@ -6824,9 +6830,9 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -10266,10 +10272,10 @@
           "expression": "neutral"
         },
         {
-          "id": "x",
-          "name": "X",
-          "height": 180,
-          "expression": "stern"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -10966,10 +10972,10 @@
           "expression": "neutral"
         },
         {
-          "id": "x",
-          "name": "X",
-          "height": 180,
-          "expression": "stern"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -11036,10 +11042,10 @@
           "expression": "neutral"
         },
         {
-          "id": "x",
-          "name": "X",
-          "height": 180,
-          "expression": "stern"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -11141,10 +11147,10 @@
           "expression": "neutral"
         },
         {
-          "id": "x",
-          "name": "X",
-          "height": 180,
-          "expression": "stern"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -12552,10 +12558,10 @@
           "expression": "neutral"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "worried"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -15291,6 +15297,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -15494,6 +15506,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -17562,10 +17580,10 @@
           "expression": "shaken"
         },
         {
-          "id": "lusai",
-          "name": "ルサイ",
-          "height": 176,
-          "expression": "worried"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -19032,10 +19050,10 @@
           "expression": "shaken"
         },
         {
-          "id": "lusai",
-          "name": "ルサイ",
-          "height": 176,
-          "expression": "worried"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -22606,10 +22624,10 @@
           "expression": "relieved"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "worried"
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"

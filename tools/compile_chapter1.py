@@ -300,3 +300,7 @@ if __name__=='__main__':
 if __name__=='__main__':
   from assign_expressions import main as assign_expressions
   assign_expressions()
+
+if __name__=="__main__":
+ from enhance_visual_audit import main as enhance_visual_audit
+ enhance_visual_audit()

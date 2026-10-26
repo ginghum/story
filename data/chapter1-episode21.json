@@ -1290,6 +1290,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "serious"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -7538,6 +7544,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -7596,6 +7608,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -9637,6 +9655,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -9724,6 +9748,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -18186,10 +18216,10 @@
           "expression": "worried"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "worried"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -19446,10 +19476,10 @@
           "expression": "relieved"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "relieved"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -20076,10 +20106,10 @@
           "expression": "relieved"
         },
         {
-          "id": "tsukuri",
-          "name": "ツクリ",
-          "height": 157,
-          "expression": "relieved"
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -20958,9 +20988,9 @@
           "expression": "soft"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -21028,9 +21058,9 @@
           "expression": "soft"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -22114,10 +22144,10 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "soft"
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "daily"
@@ -22745,9 +22775,9 @@
           "expression": "exasperated"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -23025,9 +23055,9 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -23480,9 +23510,9 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],
@@ -23830,10 +23860,10 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
-          "expression": "soft"
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "daily"
@@ -25832,7 +25862,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -25848,7 +25885,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -25864,7 +25908,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -25880,7 +25931,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -27391,7 +27449,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {

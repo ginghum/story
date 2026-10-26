@@ -8354,6 +8354,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "bandaged-serious"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -8446,6 +8452,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "bandaged-serious"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"

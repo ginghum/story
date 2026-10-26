@@ -1,0 +1,57 @@
+{
+  "episodes_checked": 51,
+  "speaker_lines_fixed": 157,
+  "expression_entries_added": 1901,
+  "updated_episodes": [
+    "chapter1-episode1",
+    "chapter1-episode2",
+    "chapter1-episode3",
+    "chapter1-episode6",
+    "chapter1-episode7",
+    "chapter1-episode8",
+    "chapter1-episode9",
+    "chapter1-episode11",
+    "chapter1-episode14",
+    "chapter1-episode15",
+    "chapter1-episode16",
+    "chapter1-episode17",
+    "chapter1-episode18",
+    "chapter1-episode19",
+    "chapter1-episode20",
+    "chapter1-episode21",
+    "chapter2-episode3",
+    "chapter2-episode4",
+    "chapter2-episode5",
+    "chapter2-episode6",
+    "chapter2-episode7",
+    "chapter2-episode8",
+    "chapter2-episode9",
+    "chapter2-episode18",
+    "chapter2-episode19",
+    "chapter2-episode20",
+    "chapter2-episode21",
+    "chapter2-episode22",
+    "chapter2-episode23"
+  ],
+  "shots": [
+    {
+      "episode": "chapter1-episode17",
+      "anchor": "ルサイは、空いた椅子を少し引いた。",
+      "file": "assets/cg/audit-study-terms.webp",
+      "alt": "用語集を挟み、プラスの話を静かに聞くルサイ",
+      "hold": 18
+    },
+    {
+      "episode": "chapter2-episode3",
+      "anchor": "丸い塊が、小さくなっていた。",
+      "file": "assets/cg/audit-hammer-discovery.webp",
+      "alt": "小さくなった鉄槌の先を確かめるプラスとランス",
+      "hold": 16
+    }
+  ],
+  "notes": [
+    "Text, entry order and save offsets are unchanged.",
+    "Voice-only speakers are excluded from portrait fallback.",
+    "Broad visual audit with targeted improvements, not a manual screenshot review of every line."
+  ]
+}

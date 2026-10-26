@@ -1033,10 +1033,10 @@
           "expression": "worried"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "worried"
+          "id": "yaoi",
+          "name": "ヤオイ",
+          "height": 155,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -1068,10 +1068,10 @@
           "expression": "worried"
         },
         {
-          "id": "doma",
-          "name": "ドーマ",
-          "height": 160,
-          "expression": "worried"
+          "id": "ojo",
+          "name": "オジョー",
+          "height": 154,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -3055,6 +3055,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "se": "chime",
@@ -4491,6 +4497,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -4520,6 +4532,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -4578,6 +4596,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "ojo",
+          "name": "オジョー",
+          "height": 154,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -4607,6 +4631,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "yaoi",
+          "name": "ヤオイ",
+          "height": 155,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -6346,7 +6376,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
+        }
+      ],
       "bgm": "battle"
     },
     {
@@ -6427,7 +6464,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "battle"
     },
     {
@@ -6443,7 +6487,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "battle"
     },
     {
@@ -7438,6 +7489,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"
@@ -7467,6 +7524,12 @@
           "name": "X",
           "height": 180,
           "expression": "stern"
+        },
+        {
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "battle"

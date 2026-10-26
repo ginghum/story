@@ -58,7 +58,14 @@
       "tone": "dream",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -8608,6 +8615,12 @@
           "id": "yuji",
           "name": "ユージ",
           "height": 175,
+          "expression": "neutral"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
           "expression": "neutral"
         }
       ],

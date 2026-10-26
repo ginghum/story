@@ -19299,6 +19299,12 @@
           "name": "ランス",
           "height": 169,
           "expression": "neutral"
+        },
+        {
+          "id": "kobal",
+          "name": "コバル",
+          "height": 176,
+          "expression": "neutral"
         }
       ],
       "bgm": "daily"
@@ -19367,6 +19373,12 @@
           "id": "lance",
           "name": "ランス",
           "height": 169,
+          "expression": "neutral"
+        },
+        {
+          "id": "kobal",
+          "name": "コバル",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -19668,6 +19680,12 @@
           "id": "yukimero",
           "name": "ゆきめろ",
           "height": 146,
+          "expression": "neutral"
+        },
+        {
+          "id": "kobal",
+          "name": "コバル",
+          "height": 176,
           "expression": "neutral"
         }
       ],
@@ -20231,6 +20249,12 @@
           "id": "yukimero",
           "name": "ゆきめろ",
           "height": 146,
+          "expression": "neutral"
+        },
+        {
+          "id": "kobal",
+          "name": "コバル",
+          "height": 176,
           "expression": "neutral"
         }
       ],

@@ -435,6 +435,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "bandaged-serious"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
         }
       ],
       "bgm": "reflection"
@@ -18848,7 +18854,14 @@
       "tone": "dark",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -18864,7 +18877,14 @@
       "tone": "dark",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -18880,7 +18900,14 @@
       "tone": "dark",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "reflection"
     },
     {
@@ -18912,7 +18939,14 @@
       "tone": "dark",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "reflection"
     },
     {

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "assets/characters/minus-worried.webp",
+    "method": "built-in image_gen",
+    "prompt": "Identity-preserving visual novel expression variant: minus-worried",
+    "reference": "existing canonical character sprites"
+  },
+  {
+    "file": "assets/characters/wan-hurt.webp",
+    "method": "built-in image_gen",
+    "prompt": "Identity-preserving visual novel expression variant: wan-hurt",
+    "reference": "existing canonical character sprites"
+  },
+  {
+    "file": "assets/characters/ruto-hurt.webp",
+    "method": "built-in image_gen",
+    "prompt": "Identity-preserving visual novel expression variant: ruto-hurt",
+    "reference": "existing canonical character sprites"
+  },
+  {
+    "file": "assets/characters/milk-determined.webp",
+    "method": "built-in image_gen",
+    "prompt": "Identity-preserving visual novel expression variant: milk-determined",
+    "reference": "existing canonical character sprites"
+  },
+  {
+    "file": "assets/cg/audit-hammer-discovery.webp",
+    "method": "built-in image_gen",
+    "prompt": "Two-character narrative CG: cg-training",
+    "reference": "existing canonical character sprites"
+  },
+  {
+    "file": "assets/cg/audit-study-terms.webp",
+    "method": "built-in image_gen",
+    "prompt": "Two-character narrative CG: cg-study",
+    "reference": "existing canonical character sprites"
+  }
+]

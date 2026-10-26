@@ -283,7 +283,14 @@
       "tone": "night",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -443,7 +450,14 @@
       "tone": "night",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -3506,9 +3520,9 @@
           "expression": "neutral"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
+          "id": "yuji",
+          "name": "ユージ",
+          "height": 175,
           "expression": "neutral"
         }
       ],
@@ -4497,9 +4511,9 @@
           "expression": "neutral"
         },
         {
-          "id": "lance",
-          "name": "ランス",
-          "height": 169,
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
           "expression": "neutral"
         }
       ],
@@ -8998,8 +9012,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9028,8 +9042,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9057,8 +9071,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9086,8 +9100,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9115,8 +9129,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9144,8 +9158,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9173,8 +9187,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9202,8 +9216,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9231,8 +9245,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9260,8 +9274,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9289,8 +9303,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9318,8 +9332,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9347,8 +9361,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9376,8 +9390,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9405,8 +9419,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9434,8 +9448,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9463,8 +9477,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -9492,8 +9506,8 @@
       "location": "勉強サークル／慣性・密度・熱容量",
       "bg": "assets/bg/library.webp",
       "tone": "",
-      "cg": null,
-      "cgAlt": "物語の挿絵",
+      "cg": "assets/cg/audit-study-terms.webp",
+      "cgAlt": "用語集を挟み、プラスの話を静かに聞くルサイ",
       "cast": [
         {
           "id": "plus",
@@ -17208,6 +17222,12 @@
           "name": "X",
           "height": 180,
           "expression": "shaken"
+        },
+        {
+          "id": "doma",
+          "name": "ドーマ",
+          "height": 160,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -24555,10 +24575,10 @@
           "expression": "shaken"
         },
         {
-          "id": "lusai",
-          "name": "ルサイ",
-          "height": 176,
-          "expression": "worried"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -24625,10 +24645,10 @@
           "expression": "shaken"
         },
         {
-          "id": "lusai",
-          "name": "ルサイ",
-          "height": 176,
-          "expression": "worried"
+          "id": "tsukuri",
+          "name": "ツクリ",
+          "height": 157,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"

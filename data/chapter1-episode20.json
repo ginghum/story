@@ -2202,7 +2202,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -2716,7 +2723,14 @@
       "tone": "night",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -2732,7 +2746,14 @@
       "tone": "night",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -2813,7 +2834,14 @@
       "tone": "night",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "x",
+          "name": "X",
+          "height": 180,
+          "expression": "stern"
+        }
+      ],
       "bgm": "tension"
     },
     {
@@ -13653,6 +13681,12 @@
           "name": "X",
           "height": 180,
           "expression": "battle-hurt"
+        },
+        {
+          "id": "lance",
+          "name": "ランス",
+          "height": 169,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -13682,6 +13716,12 @@
           "name": "X",
           "height": 180,
           "expression": "battle-hurt"
+        },
+        {
+          "id": "yaoi",
+          "name": "ヤオイ",
+          "height": 155,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -13769,6 +13809,12 @@
           "name": "X",
           "height": 180,
           "expression": "battle-hurt"
+        },
+        {
+          "id": "ojo",
+          "name": "オジョー",
+          "height": 154,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -20587,7 +20633,14 @@
       "tone": "",
       "cg": null,
       "cgAlt": "物語の挿絵",
-      "cast": [],
+      "cast": [
+        {
+          "id": "lusai",
+          "name": "ルサイ",
+          "height": 176,
+          "expression": "neutral"
+        }
+      ],
       "bgm": null
     },
     {
@@ -20834,6 +20887,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "battle-hurt"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "se": "chime",
@@ -20881,6 +20940,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "battle-hurt"
+        },
+        {
+          "id": "judge",
+          "name": "ジャッジ",
+          "height": 152,
+          "expression": "neutral"
         }
       ],
       "se": "chime",
@@ -23607,10 +23672,10 @@
           "expression": "worried"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
-          "expression": "serious"
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
         }
       ],
       "bgm": "reflection"
@@ -23853,10 +23918,10 @@
           "expression": "worried"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
-          "expression": "serious"
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
         }
       ],
       "bgm": "reflection"
@@ -23923,10 +23988,10 @@
           "expression": "worried"
         },
         {
-          "id": "konke",
-          "name": "コンケ",
-          "height": 178,
-          "expression": "serious"
+          "id": "plus",
+          "name": "プラス",
+          "height": 184,
+          "expression": "surprised"
         }
       ],
       "bgm": "reflection"

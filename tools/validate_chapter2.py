@@ -12,7 +12,9 @@ for n in range(1,25):
   assert e['bgm'] in tracks,(id,'BGM',e['bgm']);assert not re.search(r'^[a-z]+[-_]',e['location']),(id,e['location'])
   assert len(e['cast'])<=3;assert len({c['id'] for c in e['cast']})==len(e['cast'])
   images.add(e['bg']);
-  if e.get('cg'):cg.add(e['cg'])
+  if e.get('cg'):
+   if e['cg'].startswith('http'):cg.add(e['cg'])
+   else:images.add(e['cg'])
   for c in e['cast']:images.add(f"assets/characters/{c['id']}-{c['expression']}.webp")
   if e.get('se'):assert (R/f"assets/se/{e['se']}.wav").exists()
   if e['type']=='line':assert len(e['text'])<=110,(id,len(e['text']))

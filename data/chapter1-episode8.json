@@ -5463,6 +5463,12 @@
           "name": "プラス",
           "height": 184,
           "expression": "smile"
+        },
+        {
+          "id": "yuhi",
+          "name": "ユーヒ",
+          "height": 170,
+          "expression": "neutral"
         }
       ],
       "bgm": "calm"
@@ -19337,6 +19343,12 @@
           "name": "ユージ",
           "height": 175,
           "expression": "worried"
+        },
+        {
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -19482,6 +19494,12 @@
           "name": "ユージ",
           "height": 175,
           "expression": "worried"
+        },
+        {
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
@@ -19958,6 +19976,12 @@
           "name": "ユージ",
           "height": 175,
           "expression": "worried"
+        },
+        {
+          "id": "konke",
+          "name": "コンケ",
+          "height": 178,
+          "expression": "neutral"
         }
       ],
       "bgm": "tension"
