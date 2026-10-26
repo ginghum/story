@@ -49,3 +49,5 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 .loading-toast{position:fixed;left:50%;top:22px;transform:translateX(-50%);z-index:70;padding:12px 22px;background:#101925ee;border:1px solid #a08b5b;color:#eee6d4;font-size:13px;pointer-events:none;white-space:nowrap}.loading-toast[hidden]{display:none}
 
 .se-toggle{display:flex;align-items:center;justify-content:space-between}.se-toggle input{width:22px;height:22px;accent-color:#d9bd7e}#se-test{padding:8px 16px}#settings-dialog{max-height:90dvh;overflow-y:auto}
+
+.error-toast{display:flex;align-items:flex-start;gap:14px;padding-right:14px}.error-toast #error-message{flex:1;min-width:0}.error-toast #dismiss-error{flex:none;background:transparent;color:inherit;font-size:24px;line-height:1;min-width:36px;min-height:36px;padding:4px;margin:-4px -4px 0 0}
