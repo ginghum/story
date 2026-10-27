@@ -1,0 +1,953 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "episode": "prologue",
+      "scene": 8,
+      "intro": null,
+      "cues": [
+        {
+          "anchor": "それでも、空中のボールが横へ跳ねた。ぼん、という音を残し、離れた的に当たって落ちる。",
+          "src": "assets/cg/yuji-training.webp",
+          "alt": "ボールを弾くユージ"
+        },
+        {
+          "anchor": "槍が走った。",
+          "src": "assets/cg/lance-training.webp",
+          "alt": "槍を繰り出すランス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 4,
+      "intro": "assets/cg/episode03-guard.webp",
+      "cues": [
+        {
+          "anchor": "拳が来た。",
+          "src": "assets/cg/episode03-guard.webp",
+          "alt": "夜の練習場でコンケの拳を受けるプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 5,
+      "intro": "assets/cg/episode03-guard.webp",
+      "cues": [
+        {
+          "anchor": "プラスは、左手を握った。",
+          "src": "assets/cg/episode03-guard.webp",
+          "alt": "夜の練習場でコンケの拳を受けるプラス"
+        },
+        {
+          "anchor": "左を出す。",
+          "src": "assets/cg/episode03-heavy-miss.webp",
+          "alt": "重い左拳をかわされ、横腹への蹴りを受けるプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 6,
+      "intro": "assets/cg/episode03-guard.webp",
+      "cues": [
+        {
+          "anchor": "コンケは、勝ち方を選べるつもりでいた。遠くから毒を飛ばせば、相手は避ける。",
+          "src": "assets/cg/episode03-guard.webp",
+          "alt": "夜の練習場でコンケの拳を受けるプラス"
+        },
+        {
+          "anchor": "拳が届く、その直前。",
+          "src": "assets/cg/episode03-impact-night.webp",
+          "alt": "コンケの左腕の防御へ重い右拳を届かせるプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 6,
+      "intro": "assets/cg/episode05-teleport.webp",
+      "cues": [
+        {
+          "anchor": "ダイは、消えた。",
+          "src": "assets/cg/episode05-teleport.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        },
+        {
+          "anchor": "そこへ左拳を出す。",
+          "src": "assets/cg/episode05-a-r3.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 7,
+      "intro": "assets/cg/episode05-teleport.webp",
+      "cues": [
+        {
+          "anchor": "プラスは、マークを思い出した。",
+          "src": "assets/cg/episode05-teleport.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        },
+        {
+          "anchor": "左拳が伸びた。",
+          "src": "assets/cg/episode05-a-r3.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 8,
+      "intro": "assets/cg/episode05-flank.webp",
+      "cues": [
+        {
+          "anchor": "ダイが右手を上げた。",
+          "src": "assets/cg/episode05-flank.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        },
+        {
+          "anchor": "ダイが消えた。",
+          "src": "assets/cg/episode05-teleport.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        },
+        {
+          "anchor": "膝が床へつき、身体を起こすための場所が、ひとつずつなくなった。",
+          "src": "assets/cg/episode05-hold.webp",
+          "alt": "右腕を支持具で保護し、左腕でダイに挑むプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 11,
+      "intro": "assets/cg/episode05-yuji-battle-v3.webp",
+      "cues": [
+        {
+          "anchor": "向かいに、ヒカルがいた。",
+          "src": "assets/cg/episode05-yuji-battle-v3.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 8,
+      "intro": "assets/cg/battle-whip-step.webp",
+      "cues": [
+        {
+          "anchor": "最初の一撃は、見えた。",
+          "src": "assets/cg/episode07-a-r3.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 10,
+      "intro": "assets/cg/battle-whip-step.webp",
+      "cues": [
+        {
+          "anchor": "左腕が、軽くなった。",
+          "src": "assets/cg/episode07-a-r3.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "左腕が、軽くなった。",
+          "src": "assets/cg/battle-whip-step.webp",
+          "alt": "鞭の軌道を短い横移動で外すプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 11,
+      "intro": "assets/cg/battle-whip-step.webp",
+      "cues": [
+        {
+          "anchor": "ヒカルは、腕だけでなく肩と足へ攻撃を振り分け始めた。左手が速く戻っても、身体のほかの場所は変わっていない。プラスは鞭を避け、痛む脇腹をかばいながら足を置き直した。近づこうとすれば、その先へ鞭が来る。ヒカルも、もう同じ隙は作らなかった。",
+          "src": "assets/cg/episode07-a-r3.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "届く瞬間、左拳を重くした。",
+          "src": "assets/cg/episode07-left-impact.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 10,
+      "intro": "assets/cg/episode09-b-faceless.webp",
+      "cues": [
+        {
+          "anchor": "オーガの手が、鞭の柄へ伸びた。",
+          "src": "assets/cg/episode09-b-faceless.webp",
+          "alt": "物語の挿絵"
+        }
+      ],
+      "start": "オーガの手が、鞭の柄へ伸びた。",
+      "end": null
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 1,
+      "intro": "assets/cg/battle-hall-feint.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 2,
+      "intro": "assets/cg/battle-hall-feint.webp",
+      "cues": [
+        {
+          "anchor": "プラス「ちゃんと、相手する」",
+          "src": "assets/cg/episode10-a.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 3,
+      "intro": "assets/cg/battle-hall-feint.webp",
+      "cues": [
+        {
+          "anchor": "コンケは、打たれてもすぐに身体を戻した。",
+          "src": "assets/cg/episode10-a.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 7,
+      "intro": "assets/cg/battle-hall-feint.webp",
+      "cues": [
+        {
+          "anchor": "プラス「——スリングショット、パンチ！」",
+          "src": "assets/cg/episode10-a.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 9,
+      "intro": "assets/cg/episode09-b-faceless.webp",
+      "cues": [
+        {
+          "anchor": "廊下では、ヒカルの鞭が壁を打った。",
+          "src": "assets/cg/episode09-b-faceless.webp",
+          "alt": "物語の挿絵"
+        }
+      ],
+      "start": null,
+      "end": "そのとき、部長室の扉が、大きく開いた。"
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 6,
+      "intro": "assets/cg/episode12-a.webp",
+      "cues": [
+        {
+          "anchor": "ランスの右手へ、槍が生まれた。",
+          "src": "assets/cg/episode12-a.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 7,
+      "intro": "assets/cg/episode12-a.webp",
+      "cues": [
+        {
+          "anchor": "コバルの右拳が、また腰へ戻った。",
+          "src": "assets/cg/episode12-a.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 8,
+      "intro": "assets/cg/episode12-a.webp",
+      "cues": [
+        {
+          "anchor": "ランスは、床へ残った金属を見た。",
+          "src": "assets/cg/episode12-a.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "掌を床へつく。",
+          "src": "assets/cg/episode12-low-guard.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 9,
+      "intro": "assets/cg/episode12-a.webp",
+      "cues": [
+        {
+          "anchor": "コバルの足元で、銀色が跳ねた。",
+          "src": "assets/cg/episode12-folded-spear.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 6,
+      "intro": "assets/cg/episode14-spar-proportions-v3.webp",
+      "cues": [
+        {
+          "anchor": "ランスの右手へ、槍が伸びた。",
+          "src": "assets/cg/episode14-spar-proportions-v3.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 7,
+      "intro": "assets/cg/episode14-spar-proportions-v3.webp",
+      "cues": [
+        {
+          "anchor": "ランスの槍が、また来た。",
+          "src": "assets/cg/episode14-spar-proportions-v3.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 8,
+      "intro": "assets/cg/episode14-spar-proportions-v3.webp",
+      "cues": [
+        {
+          "anchor": "プラスの踵が、床の縁へ近づいた。",
+          "src": "assets/cg/episode14-spar-proportions-v3.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "足が、床から離れた。",
+          "src": "assets/cg/episode14-light-evasion-proportions-v4.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 10,
+      "intro": "assets/cg/episode14-spar-proportions-v3.webp",
+      "cues": [
+        {
+          "anchor": "プラスは、ランスとの間へ一歩分の距離を残した。",
+          "src": "assets/cg/episode14-spar-proportions-v3.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "プラスは落とす方向へ腕を回し、背中を床へ押さえた。勢いのまま叩きつけず、自分の膝も落とす。",
+          "src": "assets/cg/episode14-ground-control-r2.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 4,
+      "intro": "assets/cg/episode19-heat-evasion.webp",
+      "cues": [
+        {
+          "anchor": "最初に、空気の輪郭が揺れた。",
+          "src": "assets/cg/episode19-heat-evasion.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 6,
+      "intro": "assets/cg/episode19-heat-evasion.webp",
+      "cues": [
+        {
+          "anchor": "プラスは、次の攻撃を低く避けた。",
+          "src": "assets/cg/episode19-heat-evasion.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "手首を、横から取られた。",
+          "src": "assets/cg/episode19-wrist-control-anatomy-v4.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 11,
+      "intro": "assets/cg/episode19-heat-evasion.webp",
+      "cues": [
+        {
+          "anchor": "現在の闘技場で、Xが熱を放った。",
+          "src": "assets/cg/episode19-heat-evasion.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 10,
+      "intro": "assets/cg/episode19-past-duel.webp",
+      "cues": [
+        {
+          "anchor": "僕は、冷気を放った。",
+          "src": "assets/cg/episode19-past-duel.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 1,
+      "intro": "assets/cg/battle-past-exchange.webp",
+      "cues": [
+        {
+          "anchor": "イトグチの拳は、僕が思っていたほど大きく動かなかった。",
+          "src": "assets/cg/episode19-past-duel.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "イトグチの拳は、僕が思っていたほど大きく動かなかった。",
+          "src": "assets/cg/battle-past-exchange.webp",
+          "alt": "接近戦の攻防"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 5,
+      "intro": "assets/cg/battle-heat-approach.webp",
+      "cues": [
+        {
+          "anchor": "Xの掌へ、熱が集まる。",
+          "src": "assets/cg/episode19-heat-evasion.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "Xの掌へ、熱が集まる。",
+          "src": "assets/cg/battle-heat-approach.webp",
+          "alt": "接近戦の攻防"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 9,
+      "intro": "assets/cg/episode20-cold-exchange.webp",
+      "cues": [
+        {
+          "anchor": "冷気が、低く来た。",
+          "src": "assets/cg/episode20-cold-exchange.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 10,
+      "intro": "assets/cg/episode20-cold-exchange.webp",
+      "cues": [
+        {
+          "anchor": "何度か、近づいた。",
+          "src": "assets/cg/episode20-cold-exchange.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 11,
+      "intro": "assets/cg/episode20-cold-exchange.webp",
+      "cues": [
+        {
+          "anchor": "Xが、冷気を走らせた。",
+          "src": "assets/cg/episode20-cold-exchange.webp",
+          "alt": "物語の挿絵"
+        },
+        {
+          "anchor": "ぶつかった。",
+          "src": "assets/cg/episode20-final-fists.webp",
+          "alt": "物語の挿絵"
+        }
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 1,
+      "intro": "assets/cg/battle-root-feint.webp",
+      "cues": []
+    },
+    {
+      "episode": "extra3",
+      "scene": 2,
+      "intro": null,
+      "cues": [
+        {
+          "anchor": "ヤオイが、根を自分の近くへ寄せた。",
+          "src": "assets/cg/extra03-a.webp",
+          "alt": "帰れと言っても、また来る"
+        }
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "intro": null,
+      "cues": [
+        {
+          "anchor": "白い光が、走った。",
+          "src": "assets/cg/extra4-doma-rescue.webp",
+          "alt": "隣に座るなら、明日もここで"
+        }
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 15,
+      "intro": "assets/cg/episode19-past-duel.webp",
+      "cues": []
+    },
+    {
+      "episode": "extra5",
+      "scene": 22,
+      "intro": "assets/cg/episode20-cold-exchange.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "intro": "assets/cg/battle-slippery-step.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 6,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-b.webp",
+      "cues": [
+        {
+          "anchor": "笑っていた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-b.webp",
+          "alt": "拍手しながら山の会場へ現れたレオルカ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 7,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-b.webp",
+      "cues": [
+        {
+          "anchor": "今は、その黒い場所の上に、ルトの足がある。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-c.webp",
+          "alt": "レオルカの影を踏み、生成能力を封じるルト"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 8,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-b.webp",
+      "cues": [
+        {
+          "anchor": "しかし、こちらへ来る速さは消えていなかった。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode7-d.webp",
+          "alt": "大型爆弾を弾こうとするユージとレオルカ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 9,
+      "intro": null,
+      "cues": [
+        {
+          "anchor": "ワンが、前へ出た。",
+          "src": "assets/cg/battle-wan-advance.webp",
+          "alt": "爆発の間を進み、レオルカへ向かうワン"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 1,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 2,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 3,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": [
+        {
+          "anchor": "ランス「……投げんの、上手すぎだろ」",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+          "alt": "夜の森で爆弾を迎撃するランスとバグ、木々の間から狙うレオルカ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 5,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": [
+        {
+          "anchor": "その足が置かれる場所へ、バグは網を飛ばした。",
+          "src": "assets/cg/battle-net-capture.webp",
+          "alt": "バグの網がレオルカの腕を捕らえる"
+        },
+        {
+          "anchor": "塊が、盾へ触れた。",
+          "src": "assets/cg/battle-shield-rescue.webp",
+          "alt": "広げた盾でバグを爆風から守るランス"
+        },
+        {
+          "anchor": "網が、縦に裂けた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+          "alt": "網を抜けたレオルカへ詰めるランス"
+        },
+        {
+          "anchor": "ランスが、横向きに倒れていた。",
+          "src": null,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 6,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 8,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+      "cues": [
+        {
+          "anchor": "青い三つ編みが、肩の両側へ広がる。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-b.webp",
+          "alt": "レオルカの影を踏み足首を押さえるルトと、決着の拳を打つプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 3,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-barrier.webp",
+      "cues": [
+        {
+          "anchor": "正面から押せば、押し返される。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-barrier.webp",
+          "alt": "トリエの反射バリアに阻まれるプラスとコンケ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 4,
+      "intro": "assets/cg/battle-resin-miss.webp",
+      "cues": [
+        {
+          "anchor": "ベレーの手首を巻いて、ダンカチから引き離すつもりだった。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-b-handbook-v2.webp",
+          "alt": "ベレーに手を触れられ、生徒手帳の星が光るダンカチ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 5,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-barrier.webp",
+      "cues": [
+        {
+          "anchor": "コンケはその腕を掴み、毒のついた掌を手首の肌へ押しつけた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode17-finish.webp",
+          "alt": "プラスが破ったバリアへ飛び込み、トリエの手首へ毒を届かせるコンケ"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 11,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-d.webp",
+      "cues": [
+        {
+          "anchor": "ベレーは、まだ笑っていた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-d.webp",
+          "alt": "ミルクの掌打を不自然な偶然でかわすベレー"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 1,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 3,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+      "cues": [
+        {
+          "anchor": "ベレーは、その小さな立て直しまで見ていた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+          "alt": "傷が治ったミルクを警戒し、距離を取って観察するベレー"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 6,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 11,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-a.webp",
+      "cues": [
+        {
+          "anchor": "首へ、細い指が掛かった。",
+          "src": "assets/cg/battle-milk-ground-guard.webp",
+          "alt": "倒されたミルクがベレーの手を押し返す"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 12,
+      "intro": "assets/cg/battle-milk-ground-guard.webp",
+      "cues": [
+        {
+          "anchor": "背中から伸びた触手が、彼女の両脇で持ち上がっていた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode21-d-mouth.webp",
+          "alt": "牙のある口を持つ黒と深紅の触手で拘束を脱し、ベレーと向き合うミルク"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 1,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+      "cues": [
+        {
+          "anchor": "触手がどこから折れ、どこまで戻るのか、最後まで見ていた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+          "alt": "逸れた触手が客席の縁を砕き、ミルクが引き戻す中で回避するベレー"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 11,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 14,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 4,
+      "intro": null,
+      "cues": [
+        {
+          "anchor": "オリハも、先ほどの部員を通路の外へ押し戻してから振り向いた。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-b.webp",
+          "alt": "瞬時に生成した全身甲冑と盾で、ゆきめろを爆発から庇うランス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 6,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-b.webp",
+      "cues": [
+        {
+          "anchor": "レオルカ「……あれ」",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-c.webp",
+          "alt": "自分の部品を混ぜて不発を生み、レオルカへ踏み込むランス"
+        },
+        {
+          "anchor": "ランスは、踏み込んだ。",
+          "src": "assets/cg/battle-lance-disarm.webp",
+          "alt": "不発の一瞬を捉え、レオルカの腕を盾で押し流すランス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 7,
+      "intro": "assets/cg/battle-barrier-pressure.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 9,
+      "intro": "assets/cg/battle-barrier-pressure.webp",
+      "cues": [
+        {
+          "anchor": "左手が、前へ通った。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-e-hands.webp",
+          "alt": "体術で攻めるトリエのバリアへ腐食毒を押し当て、突破を図るコンケ"
+        },
+        {
+          "anchor": "守っていた壁が、掌の形に抜けた。",
+          "src": "assets/cg/battle-corrosion-break.webp",
+          "alt": "コンケの腐食毒がトリエのバリアを抜く"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 1,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode22-a.webp",
+      "cues": [
+        {
+          "anchor": "指先でも身体を支え、相手から目を離さずに立ち直った。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-a.webp",
+          "alt": "初めて牙を届かせ、ベレーの左肩を傷つけたミルク"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 3,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-a.webp",
+      "cues": [
+        {
+          "anchor": "手帳を狙われている。",
+          "src": "assets/cg/battle-milk-handbook-guard.webp",
+          "alt": "手帳を守り、触手を二人の間へ差し込むミルク"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 5,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-a.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 12,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-a.webp",
+      "cues": [
+        {
+          "anchor": "ミルクは、床へ片膝をついた。",
+          "src": "assets/cg/battle-milk-last-resolve.webp",
+          "alt": "疲労の中でベレーを見上げるミルク"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 14,
+      "intro": "assets/cg/battle-milk-last-resolve.webp",
+      "cues": [
+        {
+          "anchor": "相手にも、あった。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-d.webp",
+          "alt": "傷が治っても恐怖と疲れを残したまま構え直すミルク"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 15,
+      "intro": "assets/cg/battle-milk-last-resolve.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 17,
+      "intro": "assets/cg/battle-milk-last-resolve.webp",
+      "cues": [
+        {
+          "anchor": "今度は、当たった。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode23-e-impact.webp",
+          "alt": "渾身の右掌底を打ち込むミルクと、衝撃でのけぞり帽子が跳ねるベレー"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-f.webp",
+      "start": null,
+      "end": "ランス「来た」",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-f.webp",
+      "start": "その間にも、競技場では戦いが続いていた。",
+      "end": "ランス「先に渡す。向こうも、準備がある」",
+      "cues": [
+        {
+          "anchor": "身体が上がる。",
+          "src": "assets/cg/battle-diamond-counter.webp",
+          "alt": "ダイヤモンドの兵士の腕を踏んで跳ぶアシャラ"
+        }
+      ]
+    },
+    {
+      "episode": "prologue",
+      "scene": 4,
+      "start": "襟を掴んでいた手が離れ、今度はプラスの胸元へ伸びてくる。",
+      "end": "X「――手帳を閉じたまえ」",
+      "intro": "assets/cg/battle-cafeteria-parry.webp",
+      "cues": [
+        {
+          "anchor": "巨大な球と壁の間に、プラスの身体が挟まった。",
+          "src": "assets/cg/sphere.webp",
+          "alt": "球体と壁の間へ押しつけられるプラス"
+        }
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 6,
+      "start": null,
+      "end": "ベレー「……トリエ？」",
+      "intro": "assets/cg/battle-resin-miss.webp",
+      "cues": []
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "start": "紙を差し出す手へ、プラスはすぐに手を伸ばさなかった。",
+      "end": "その間にも、競技場では戦いが続いていた。",
+      "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode20-e.webp",
+      "cues": [],
+      "kind": "spectator-cutaway"
+    }
+  ]
+}

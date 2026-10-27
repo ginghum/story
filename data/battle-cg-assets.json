@@ -1,0 +1,156 @@
+{
+  "generator": "built-in image_gen",
+  "shared_prompt": "Use case: illustration-story. Create a NEW narrative battle CG for existing visual novel, not a duplicate of reference composition. References lock character identity, hair, eyes, clothes and established anime illustration rendering. Landscape wide 1536x1024 cinematic painted anime illustration. Strong spatial clarity and consistent scale, readable faces and hands, each person two arms, five fingers, no text, no logos, no panel borders. Restrained fantasy combat, no dismemberment. Preserve established brown school robes.",
+  "assets": [
+    {
+      "id": "whip-step",
+      "file": "assets/cg/battle-whip-step.webp",
+      "references": [
+        "game/assets/cg/episode07-a-r3.webp"
+      ],
+      "prompt": "Same two combatants and sunlit indoor arena, new wide low side camera: purple-haired Plus leans away and makes a short lateral step beneath a black whip arcing past his cheek, blond Hikaru keeps distance. Plus LEFT forearm bandaged as reference. No impact yet, tense readable footwork."
+    },
+    {
+      "id": "hall-feint",
+      "file": "assets/cg/battle-hall-feint.webp",
+      "references": [
+        "game/assets/cg/episode10-a.webp"
+      ],
+      "prompt": "New earlier beat in same old stone clubroom: purple low ponytail Plus in white hoodie slips just outside short purple-haired RED-eyed Konke's right punch. Plus watches his shoulder, open left palm preparing to parry, Konke off balance. Red-haired Gumon far back at desk. Clearly separate intact arms."
+    },
+    {
+      "id": "heat-approach",
+      "file": "assets/cg/battle-heat-approach.webp",
+      "references": [
+        "game/assets/cg/episode19-heat-evasion.webp"
+      ],
+      "prompt": "New wide arena action: brown-haired blue-eyed X in light BLUE shirt and grey trousers sweeps heat low across floor with open palm; purple low-ponytail Plus in WHITE hoodie makes a tight sideways dash toward X from outside heat's curve. Heat distorts air, amber sparks, low running posture, no flames covering faces, no fist collision."
+    },
+    {
+      "id": "past-exchange",
+      "file": "assets/cg/battle-past-exchange.webp",
+      "references": [
+        "game/assets/cg/episode19-past-duel.webp"
+      ],
+      "prompt": "New shot in past duel: silver-haired glasses Itoguchi steps inside X's extended cold-generating palm and drives a short unarmed counter toward his torso, while X turns to guard, frost disperses behind them. Keep X brown hair BLUE shirt, Itoguchi black clerical collar under brown robe. Two anatomically coherent separate people, no black hole in this close beat."
+    },
+    {
+      "id": "root-feint",
+      "file": "assets/cg/battle-root-feint.webp",
+      "references": [
+        "game/assets/cg/extra03-a.webp"
+      ],
+      "prompt": "New earlier beat of same duel. Black bob glasses girl Yaoi crouches with one hand branching into many fine woody roots across stone floor. Brown-haired X blue shirt sidesteps and freezes root tips using small precise patches of frost. Wide three-quarter view, root network is readable, intact character anatomy, nobody down yet."
+    },
+    {
+      "id": "slippery-step",
+      "file": "assets/cg/battle-slippery-step.webp",
+      "references": [
+        "game/assets/characters/plus-serious.webp"
+      ],
+      "prompt": "New sunlit gothic academy arena duel wide illustration. Tall lean purple low ponytail violet-eyed Plus, exact reference WHITE hoodie BLACK cargo trousers brown robe, makes short lateral hop off slippery stone tile while unnamed brown-robed short dark-haired male opponent crouches with one palm touching floor and other hand guarding. Plain dry floor with subtle skid mark, NO actual ice or water or frost. Two fighters only, no weapons."
+    },
+    {
+      "id": "wan-advance",
+      "file": "assets/cg/battle-wan-advance.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode7-d.webp"
+      ],
+      "prompt": "New later night forest beat, exactly two main people: white-haired green-eyed eyepatch boy Wan in white hoodie and brown robe advances shielding face with forearm as small explosions throw dirt ahead of shoes; blue double-braided Leorka in black turtleneck brown robe calmly creates a small round bomb at distance. Wan injured/tired but determined, no gore, correct eye patch as reference. Tense wide side composition.",
+      "final_correction": "Replace vortex with small solid matte black metal bomb and short fuse. No black hole, purple glow or portal. Preserve all else."
+    },
+    {
+      "id": "net-capture",
+      "file": "assets/cg/battle-net-capture.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode8-a.webp"
+      ],
+      "prompt": "New night forest battle beat: red-haired girl Bug sends a broad WHITE magical net around blue double-braided Leorka's elbows and brown robe, pinning his arms briefly as one knee touches soil. Blue-haired GLASSES Lance approaches with shield from one side. Exactly these three figures, no Plus. Net from Bug's outstretched hand, not ordinary hoop net. Leorka still alert."
+    },
+    {
+      "id": "shield-rescue",
+      "file": "assets/cg/battle-shield-rescue.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode8-a.webp"
+      ],
+      "prompt": "New night forest beat, blue-haired glasses Lance WITHOUT armor throws a very broad metal shield up with his LEFT arm to shelter red-haired Bug crouching behind him; bomb flash and dirt burst on far side of shield, readable metal barrier between blast and two people. Low wide side angle, no sword through bodies, no graphic injuries."
+    },
+    {
+      "id": "resin-miss",
+      "file": "assets/cg/battle-resin-miss.webp",
+      "references": [
+        "game/assets/characters/deji-neutral.webp",
+        "prose/assets/illustrations/chapter2-episode17-b-handbook-v2.webp"
+      ],
+      "prompt": "New gothic art atelier battle wide: small lavender-haired GLASSES Deji (image1) angrily channels transparent resin tendrils along floor toward petite pale-blond red-beret Beret standing before worktable. A tipped paint-water pot and falling empty wooden frame divert resin away from Beret's boots by bad luck. Beret almost motionless cold calm. Dankachi brown-haired boy lies unconscious on worktable in background as image2. Deji has NO clipboard in battle. No gore, no resin touching faces."
+    },
+    {
+      "id": "diamond-counter",
+      "file": "assets/cg/battle-diamond-counter.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode20-f.webp"
+      ],
+      "prompt": "New beat same outdoor royal arena: red-haired athletic Ashara in black white sports kit and brown robe plants one foot on a diamond soldier's forearm and vaults sideways, white lightning lashes across a diamond wall being assembled by pink twin-tailed Mu further back. Two human fighters only plus clear crystalline humanoid constructs, broad readable geometric action, matching clothes."
+    },
+    {
+      "id": "milk-ground-guard",
+      "file": "assets/cg/battle-milk-ground-guard.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode21-a.webp",
+        "game/assets/characters/beret-cold.webp"
+      ],
+      "prompt": "New late duel beat BEFORE any tentacles appear: blond side-ponytail red-eyed Milk is pinned on back on arena stone, petite red-beret Beret kneels beside her upper torso blocking her rise, both fully clothed as refs. Milk braces forearms against Beret's wrists as hands threaten collar area, frightened determination; Beret unsmiling cold eyes. Non-graphic wide eye-level action, no erotic framing, no focus on injury, exact separate arms, no blood, NO tentacles yet."
+    },
+    {
+      "id": "lance-disarm",
+      "file": "assets/cg/battle-lance-disarm.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode22-c.webp"
+      ],
+      "prompt": "New decisive beat in arena side passage: glasses blue-haired Lance wearing full metal armor uses broad LEFT shield to push Leorka's bomb-holding forearm aside, right hand holds sword turned so POMMEL hits clothed abdomen non-graphically. Leorka blue double braids black shirt looks shocked at small inert bomb in hand (NO lit fuse or blast). Clear two person action with shield, sword and separate arms, no gore.",
+      "final_correction": "Remove impossible horizontal weapon contact. Natural sword held low diagonally down away from opponent, one hilt, one guard, one blade. Focus shield-led arm control before follow-up. Preserve all else."
+    },
+    {
+      "id": "corrosion-break",
+      "file": "assets/cg/battle-corrosion-break.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode22-e-hands.webp"
+      ],
+      "prompt": "New decisive close-medium angle: red-eyed short purple-haired Konke keeps LEFT poison-coated palm flat on transparent barrier, a palm-shaped gap opens from corrosion; green-eyed brown-haired Torie recoils and tries to recreate barrier. Konke RIGHT fist is drawn back beside shoulder, not yet punching. Purple droplets touch magical surface only, two distinct bodies and hands, no anatomical distortions."
+    },
+    {
+      "id": "milk-handbook-guard",
+      "file": "assets/cg/battle-milk-handbook-guard.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode23-a.webp"
+      ],
+      "prompt": "New later duel beat: blond red-eyed Milk shields inner robe pocket containing a BLACK student handbook with her lowered elbow as Beret tries to reach it with right hand. One dark red tentacle from Milk's BACK, mouth CLOSED, wedges between them to push attacker away. Beret small red beret pale bob, damaged left shoulder indicated only by tiny dark stain on fabric. Daylit arena, tense close-medium, no gore, fully clothed."
+    },
+    {
+      "id": "milk-last-resolve",
+      "file": "assets/cg/battle-milk-last-resolve.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode23-a.webp",
+        "game/assets/characters/beret-cold.webp"
+      ],
+      "prompt": "New wide low duel shot near ending: exhausted blond Milk kneels on one knee on cracked arena stone, brown robe and white long skirt dusty, determined red eyes up at Beret. Two dark-red back tentacles curve defensively between them, one toothy mouth closed and one just cracked open facing AWAY from camera. Pale bob red beret Beret stands slightly hunched, left hand protecting clothed left shoulder, cold stare. No attack lands, no gore, cinematic tense stand-off not final strike."
+    },
+    {
+      "id": "cafeteria-parry",
+      "file": "assets/cg/battle-cafeteria-parry.webp",
+      "references": [
+        "assets/characters/plus-serious.webp",
+        "assets/cg/sphere.webp"
+      ],
+      "prompt": "Earlier cafeteria fight: Plus catches unnamed bully wrist and redirects elbow before trip. No sphere yet. Preserve identity, clothing and stone cafeteria. Two distinct natural arms each, wide painted anime."
+    },
+    {
+      "id": "barrier-pressure",
+      "file": "assets/cg/battle-barrier-pressure.webp",
+      "references": [
+        "prose/assets/illustrations/chapter2-episode22-e-hands.webp"
+      ],
+      "prompt": "Earlier fight: Konke raises forearms to defend as Torie steps in punching, intact rectangular barrier at his side. No poison or corrosion or hole yet. Preserve identities and clothes, daylight stone passage, two people, wide painted anime."
+    }
+  ]
+}

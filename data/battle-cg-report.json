@@ -1,0 +1,475 @@
+{
+  "scene_ranges": 78,
+  "lines": 5031,
+  "cg_lines": 4845,
+  "scenes": [
+    {
+      "episode": "prologue",
+      "scene": 8,
+      "lines": 153,
+      "cg_lines": 142
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 4,
+      "lines": 59,
+      "cg_lines": 59
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 5,
+      "lines": 69,
+      "cg_lines": 69
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 6,
+      "lines": 82,
+      "cg_lines": 82
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 6,
+      "lines": 61,
+      "cg_lines": 61
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 7,
+      "lines": 57,
+      "cg_lines": 57
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 8,
+      "lines": 67,
+      "cg_lines": 67
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 11,
+      "lines": 116,
+      "cg_lines": 116
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 8,
+      "lines": 38,
+      "cg_lines": 38
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 10,
+      "lines": 40,
+      "cg_lines": 40
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 11,
+      "lines": 47,
+      "cg_lines": 47
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 10,
+      "lines": 25,
+      "cg_lines": 25
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 1,
+      "lines": 30,
+      "cg_lines": 30
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 2,
+      "lines": 29,
+      "cg_lines": 29
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 3,
+      "lines": 34,
+      "cg_lines": 34
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 7,
+      "lines": 41,
+      "cg_lines": 41
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 9,
+      "lines": 26,
+      "cg_lines": 26
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 6,
+      "lines": 43,
+      "cg_lines": 43
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 7,
+      "lines": 51,
+      "cg_lines": 51
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 8,
+      "lines": 90,
+      "cg_lines": 90
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 9,
+      "lines": 66,
+      "cg_lines": 66
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 6,
+      "lines": 49,
+      "cg_lines": 49
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 7,
+      "lines": 35,
+      "cg_lines": 35
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 8,
+      "lines": 45,
+      "cg_lines": 45
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 10,
+      "lines": 107,
+      "cg_lines": 107
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 4,
+      "lines": 68,
+      "cg_lines": 68
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 6,
+      "lines": 75,
+      "cg_lines": 75
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 11,
+      "lines": 26,
+      "cg_lines": 26
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 10,
+      "lines": 29,
+      "cg_lines": 29
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 1,
+      "lines": 48,
+      "cg_lines": 48
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 5,
+      "lines": 98,
+      "cg_lines": 98
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 9,
+      "lines": 78,
+      "cg_lines": 78
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 10,
+      "lines": 54,
+      "cg_lines": 54
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 11,
+      "lines": 99,
+      "cg_lines": 99
+    },
+    {
+      "episode": "extra3",
+      "scene": 1,
+      "lines": 100,
+      "cg_lines": 100
+    },
+    {
+      "episode": "extra3",
+      "scene": 2,
+      "lines": 81,
+      "cg_lines": 81
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "lines": 81,
+      "cg_lines": 26
+    },
+    {
+      "episode": "extra5",
+      "scene": 15,
+      "lines": 41,
+      "cg_lines": 41
+    },
+    {
+      "episode": "extra5",
+      "scene": 22,
+      "lines": 19,
+      "cg_lines": 19
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "lines": 126,
+      "cg_lines": 126
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 6,
+      "lines": 79,
+      "cg_lines": 79
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 7,
+      "lines": 129,
+      "cg_lines": 129
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 8,
+      "lines": 77,
+      "cg_lines": 77
+    },
+    {
+      "episode": "chapter2-episode7",
+      "scene": 9,
+      "lines": 147,
+      "cg_lines": 103
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 1,
+      "lines": 73,
+      "cg_lines": 73
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 2,
+      "lines": 60,
+      "cg_lines": 60
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 3,
+      "lines": 71,
+      "cg_lines": 71
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 5,
+      "lines": 119,
+      "cg_lines": 96
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 6,
+      "lines": 76,
+      "cg_lines": 76
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 8,
+      "lines": 81,
+      "cg_lines": 81
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 3,
+      "lines": 77,
+      "cg_lines": 77
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 4,
+      "lines": 68,
+      "cg_lines": 68
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 5,
+      "lines": 64,
+      "cg_lines": 64
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 11,
+      "lines": 50,
+      "cg_lines": 50
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 1,
+      "lines": 24,
+      "cg_lines": 24
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 3,
+      "lines": 40,
+      "cg_lines": 40
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 6,
+      "lines": 39,
+      "cg_lines": 39
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 11,
+      "lines": 61,
+      "cg_lines": 61
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 12,
+      "lines": 41,
+      "cg_lines": 41
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 1,
+      "lines": 36,
+      "cg_lines": 36
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 11,
+      "lines": 67,
+      "cg_lines": 67
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 14,
+      "lines": 56,
+      "cg_lines": 56
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 4,
+      "lines": 83,
+      "cg_lines": 30
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 6,
+      "lines": 133,
+      "cg_lines": 133
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 7,
+      "lines": 116,
+      "cg_lines": 116
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 9,
+      "lines": 110,
+      "cg_lines": 110
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 1,
+      "lines": 19,
+      "cg_lines": 19
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 3,
+      "lines": 55,
+      "cg_lines": 55
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 5,
+      "lines": 53,
+      "cg_lines": 53
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 12,
+      "lines": 52,
+      "cg_lines": 52
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 14,
+      "lines": 61,
+      "cg_lines": 61
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 15,
+      "lines": 48,
+      "cg_lines": 48
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 17,
+      "lines": 94,
+      "cg_lines": 94
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "lines": 23,
+      "cg_lines": 23
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "lines": 10,
+      "cg_lines": 10
+    },
+    {
+      "episode": "prologue",
+      "scene": 4,
+      "lines": 27,
+      "cg_lines": 27
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 6,
+      "lines": 6,
+      "cg_lines": 6
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 7,
+      "lines": 123,
+      "cg_lines": 123
+    }
+  ]
+}
