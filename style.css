@@ -58,3 +58,11 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 
 /* Keep a held touch on the advance surface available for skipping. */
 #tap-surface{touch-action:none;-webkit-touch-callout:none}
+
+/* Supporting anonymous people stay behind the main conversation portraits. */
+.extras{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.extra{position:absolute;height:76%;width:30%;bottom:5%;object-fit:contain;object-position:center bottom;filter:brightness(.52);opacity:.88;user-select:none}
+.extra-0{left:0}.extra-1{right:0}.extra-2{left:35%}
+.extras.count-1 .extra-0{left:auto;right:1%}
+.extra.seated{height:53%;bottom:9%}
+@media(max-width:650px) and (orientation:portrait){.extra{height:64%;width:38%;bottom:18%}.extra-0{left:-8%}.extra-1{right:-8%}.extra-2{left:31%}.extra.seated{height:42%}}

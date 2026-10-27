@@ -130,3 +130,7 @@ if __name__=="__main__":
  enhance_visual_audit()
  from stage_beret_past import main as stage_beret_past
  stage_beret_past()
+
+if __name__ == "__main__":
+ from stage_all_mobs import main as stage_all_mobs
+ stage_all_mobs()

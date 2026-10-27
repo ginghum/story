@@ -1,0 +1,55 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "id": "teacher",
+      "out": "assets/characters/mob-civilian-teacher-neutral.webp"
+    },
+    {
+      "id": "noblewoman",
+      "out": "assets/characters/mob-civilian-noblewoman-neutral.webp"
+    },
+    {
+      "id": "schoolboy",
+      "out": "assets/characters/mob-civilian-schoolboy-neutral.webp"
+    },
+    {
+      "id": "schoolgirl",
+      "out": "assets/characters/mob-civilian-schoolgirl-neutral.webp"
+    },
+    {
+      "id": "seated-male",
+      "out": "assets/characters/mob-prisoner-male-neutral.webp"
+    },
+    {
+      "id": "seated-female",
+      "out": "assets/characters/mob-prisoner-female-neutral.webp"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "teacher",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Adult male imperial scientist teacher in WHITE LAB COAT over charcoal high-neck shirt and gray trousers, closed shoes, short gray hair silhouette. One arm calmly gesturing at waist, other lowered. No robe, no hood, no weapons."
+    },
+    {
+      "id": "noblewoman",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Affluent adult female civilian guest, modest elegant high-neck tailored long sleeve Victorian-style fitted jacket and ankle-length pleated skirt, small brooch, gray pinned hair, refined relaxed standing pose. No robe, no hood, no crown, no school uniform."
+    },
+    {
+      "id": "schoolboy",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Young teenage male ordinary student BEFORE entering imperial magical academy, simple old European fitted school blazer, collared shirt plain tie and trousers, gray short hair. Ordinary modest proportions neutral attentive pose. No robe, no hood, no magic."
+    },
+    {
+      "id": "schoolgirl",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Young teenage female ordinary student BEFORE entering imperial magical academy, simple old European school blazer, collared shirt plain ribbon tie and modest knee-length pleated skirt and dark stockings. Gray short shoulder-length hair, neutral attentive standing pose, ordinary youthful proportions. No robe, no hood, no magic."
+    },
+    {
+      "id": "seated-male",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Young male student sitting exhausted on invisible floor, knees bent with arms resting loosely on knees, face lowered slightly. Loose BROWN hooded school robe the ONLY colored item, inside clothes body shoes all dark gray. Plain gray shirt and trousers. Full seated body, head at upper central area with considerable empty transparent space above to fit standing-sprite canvas proportions, no chair, no bars, no blood, no wounds. Anonymous distressed prisoner, quiet natural posture."
+    },
+    {
+      "id": "seated-female",
+      "prompt": "Use case: stylized-concept. SINGLE full-body anonymous faceless visual novel NPC sprite. Entire character STRICT NEUTRAL GRAYSCALE, dark charcoal gray featureless face and hands. Smooth face oval absolutely NO eyes nose mouth eyebrows. Delicate anime linework with clean readable cel shaded clothing folds. Transparent background, fully opaque figure clean alpha, NO background NO halo NO glow NO floor NO shadow. Full head to shoes with generous margin, portrait 1024x1536. Exactly two arms, empty hands, no text, no logos. Young female student sitting on invisible floor hugging bent knees, face angled slightly up, weary anxious body posture. Loose BROWN hooded school robe the ONLY colored item, inside clothes body shoes all dark gray. Gray shirt trousers shoes, modest fully clothed. Full seated body and feet visible, no chair no bars no blood no wounds. Anonymous distressed prisoner. Transparent canvas has ample empty space above, no floor."
+    }
+  ]
+}

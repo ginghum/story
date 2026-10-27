@@ -1,0 +1,7196 @@
+{
+  "episodes_checked": 51,
+  "staged_episodes": 49,
+  "staged_scenes": 194,
+  "events": 644,
+  "speaker_events": 514,
+  "missing_speakers": [],
+  "shots": [
+    {
+      "episode": "prologue",
+      "scene": 2,
+      "anchor": "周囲では、同じ茶色のローブを着た生徒たちが歩いていた。服の色は揃っているのに、それ以外はまるで揃っていない。背丈も、肌の色も、声の高さや話す速さも違う。鮮やかな赤い髪が通り過ぎたかと思えば、その後ろには緑の髪、白い髪、二色に分かれた髪が続いた。",
+      "first": 38,
+      "last": 45,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "prologue",
+      "scene": 3,
+      "anchor": "教師が教壇に立ち、出席を取り、教材を開く。プラスの紹介は短く済んだ。教師は名簿とプラスを二度見比べたが、詳しい事情は尋ねなかった。席へ向かう途中で何人かに手を振ると、返してくれる者もいれば、そもそもこちらを見ない者もいた。",
+      "first": 110,
+      "last": 117,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "prologue",
+      "scene": 3,
+      "anchor": "次の授業では人体の断面図が映し出され、その次には、金属の構造についての説明が始まった。知らない用語はあった。それでも、教師が一つずつ線を引き、図を重ねていくと、言っていることはおおよそ分かった。ただ、科目の偏りはなかなか極端だった。",
+      "first": 116,
+      "last": 120,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "prologue",
+      "scene": 6,
+      "anchor": "入口の上には、開催中の対戦を知らせる表示がある。生徒たちは慣れた様子で券を買い、手帳を見せ、いくつもある入口へ分かれていった。",
+      "first": 346,
+      "last": 348,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "prologue",
+      "scene": 7,
+      "anchor": "受付で手帳と転入の資料を出し、空き寝台の確認を済ませる。階段を上がるたび、ユージの足の下で床板が小さくきしんだ。",
+      "first": 456,
+      "last": 461,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 3,
+      "anchor": "何人かが笑った。",
+      "first": 120,
+      "last": 127,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 4,
+      "anchor": "前の壁へ図形が映り、白衣の先生が式を添える。使われている文字を読めた。数字を追えた。説明を聞けば、さっきの式と今の式がどうつながるのかも理解できた。自分がどこでそれを覚えたのかは、分からない。なのに、文字を見るたびに読み方を探す必要はなかった。",
+      "first": 157,
+      "last": 164,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 4,
+      "anchor": "先生「この範囲も次の試験に含まれます。日程は掲示のとおりです」",
+      "first": 173,
+      "last": 179,
+      "reason": "speaker",
+      "actors": [
+        "先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 4,
+      "anchor": "先生「あなたもです」",
+      "first": 176,
+      "last": 182,
+      "reason": "speaker",
+      "actors": [
+        "先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 4,
+      "anchor": "先生「履修と受験についての変更は、こちらでは決められません。申し立てがある場合は、生徒会へ」",
+      "first": 179,
+      "last": 185,
+      "reason": "speaker",
+      "actors": [
+        "先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 4,
+      "anchor": "先生「ここは正しいです。その条件を、次の行でも保持してください」",
+      "first": 183,
+      "last": 186,
+      "reason": "speaker",
+      "actors": [
+        "先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 6,
+      "anchor": "プラスが選んだのは、肉と野菜を炒めて飯に乗せた皿だった。注文の列に並んでいる間、鍋の底に当たる炎が何度も大きくなった。出来上がる直前に、店員が具材を高く返す。見ているうちに、それを食べたくなった。",
+      "first": 277,
+      "last": 281,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode1",
+      "scene": 6,
+      "anchor": "遠くの店の前で、生徒が手帳を見せていた。店員が表示を確認し、同じ料理を、別の値段で渡す。",
+      "first": 296,
+      "last": 303,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 1,
+      "anchor": "その言葉の途中で、部員が一人、紙を持って近づいた。",
+      "first": 55,
+      "last": 62,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 1,
+      "anchor": "さっき名前を教えてくれた生徒の一人が、紙の上へ視線を落としていた。開いている頁は、まださっきと同じだった。",
+      "first": 113,
+      "last": 117,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 2,
+      "anchor": "飲み物と、包まれた軽食と、細かい生活用品が並んでいる。プラスが覗くと、店員は通りの先を指した。",
+      "first": 190,
+      "last": 194,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 2,
+      "anchor": "店員「もっと種類がいるなら、中央購買へどうぞ。ここは支店なので」",
+      "first": 189,
+      "last": 195,
+      "reason": "speaker",
+      "actors": [
+        "店員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 2,
+      "anchor": "購買の中へ向かう別の生徒が、バルーに手を振った。バルーはその相手へ新聞を一部渡し、プラスへも手を振った。話している間に、客がひとり増えていた。",
+      "first": 251,
+      "last": 251,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 3,
+      "anchor": "通りの生徒が何人か、そちらへ曲がる。",
+      "first": 260,
+      "last": 264,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「おい！」",
+      "first": 382,
+      "last": 388,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「めろちゃんに何してんだ！」",
+      "first": 388,
+      "last": 394,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「そういう距離で来るな！」",
+      "first": 390,
+      "last": 396,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「俺たちは、ゆきめろちゃんを守る――」",
+      "first": 415,
+      "last": 421,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「え、でも、めろちゃんが」",
+      "first": 417,
+      "last": 423,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「ランス、次の決闘も頼むぞ。めろちゃんのためにな！」",
+      "first": 460,
+      "last": 466,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode2",
+      "scene": 4,
+      "anchor": "親衛隊の男子「こいつ、強いんだよ。勝って取った星、全部――」",
+      "first": 464,
+      "last": 470,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 2,
+      "anchor": "周りの生徒の一人が、ユージの手帳を見た。",
+      "first": 187,
+      "last": 191,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 2,
+      "anchor": "不良の男子「お前ら、まだ1？」",
+      "first": 186,
+      "last": 192,
+      "reason": "speaker",
+      "actors": [
+        "不良の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode3",
+      "scene": 7,
+      "anchor": "コンケの仲間は、さっきほど笑わなかった。一人がコンケへ手を出し、もう一人が、プラスとランスを交互に見た。コンケは手を払い、自分で立とうとした。",
+      "first": 469,
+      "last": 476,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode4",
+      "scene": 2,
+      "anchor": "的の前にも、道具置き場の脇にも、まだ人が少ない。遠くで一人、同じ動作を繰り返している生徒がいる。身体を動かす音と、靴が地面へ触れる音だけが聞こえた。",
+      "first": 80,
+      "last": 87,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode4",
+      "scene": 3,
+      "anchor": "右腕は布に預けたまま、慣れない左手で書く量を減らして聞く。式を全部写す代わりに、分からなかったところへ小さな印をつけた。先生が巡回してきた時、その印を見せて質問する。",
+      "first": 189,
+      "last": 196,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 1,
+      "anchor": "隣の道を、生徒が二人通り過ぎた。",
+      "first": 35,
+      "last": 39,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 4,
+      "anchor": "受付の奥は、観客席より落ち着いていた。手帳を開いて確認する生徒がいて、呼ばれるのを待つ生徒がいる。服の上から長い武器を支えている者は、別の案内に従って歩いていた。誰かの勝ち負けを見に来た人と、自分が戦う人では、立ち止まる場所も違った。",
+      "first": 143,
+      "last": 150,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode5",
+      "scene": 11,
+      "anchor": "審判「続行不能。勝者、ヒカル！」",
+      "first": 631,
+      "last": 637,
+      "reason": "speaker",
+      "actors": [
+        "審判"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 1,
+      "anchor": "担当者「付き添いの生徒？」",
+      "first": 5,
+      "last": 9,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 1,
+      "anchor": "担当者「ついてきて。ただ、移動の邪魔はしないでね」",
+      "first": 7,
+      "last": 9,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 2,
+      "anchor": "担当者「処置は終わったよ。今は休ませているところ。目が覚めたら、少しなら話せるから」",
+      "first": 42,
+      "last": 48,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 2,
+      "anchor": "担当者「しばらく安静が必要だけど、呼吸も落ち着いている。慌てて起こしたり、動かしたりしないこと」",
+      "first": 44,
+      "last": 49,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「新入生？　暇なら手伝ってくれないか」",
+      "first": 120,
+      "last": 126,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「助かった。明日も来る？」",
+      "first": 123,
+      "last": 129,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「慣れればできる。最初からうまい奴ばかりじゃないからな」",
+      "first": 129,
+      "last": 135,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「お前、気楽に言うなあ」",
+      "first": 134,
+      "last": 138,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「ユージ。ちょっと、話がある」",
+      "first": 151,
+      "last": 157,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「今回の支払いなんだけどな」",
+      "first": 158,
+      "last": 164,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「ヒカルのところへ行ってくれないか」",
+      "first": 164,
+      "last": 170,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「いや。向こうの活動を手伝ってほしいんだ」",
+      "first": 166,
+      "last": 172,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「わかってる」",
+      "first": 175,
+      "last": 181,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「向こうは活動も大きいし、今よりいい経験ができる。ヒカルが気に入ってくれたんだ。悪い話じゃない」",
+      "first": 177,
+      "last": 183,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「頼む」",
+      "first": 183,
+      "last": 189,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「俺だけの話じゃないんだ。サークルにも、皆にも関わる。お前が協力してくれれば、困らずに済む」",
+      "first": 186,
+      "last": 192,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "ユージは、後ろにいる部員を振り返った。",
+      "first": 189,
+      "last": 196,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "部長「そんな言い方、するなよ」",
+      "first": 193,
+      "last": 199,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 4,
+      "anchor": "担当者「内容は確認した？」",
+      "first": 198,
+      "last": 204,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "授業が終わったあと、科学者の一人を呼び止め、サークルのことで困っていると話した。",
+      "first": 233,
+      "last": 235,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "担当者「手続きは済んでいるね。解除するなら、この条件で相手と話して」",
+      "first": 237,
+      "last": 242,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "担当者「こちらで勝手に変更はできない。サークル活動上必要な能力使用にも、罰則はない。活動に従う契約がある以上、まずはその条件の話になる」",
+      "first": 238,
+      "last": 244,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "部長「……どうした」",
+      "first": 251,
+      "last": 257,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "部長「もう、決まったことだからな」",
+      "first": 255,
+      "last": 261,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 5,
+      "anchor": "部長「うまくやってくれよ。お前なら、気に入られるから」",
+      "first": 260,
+      "last": 263,
+      "reason": "speaker",
+      "actors": [
+        "部長"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 7,
+      "anchor": "保健室を出たころには、空が暗くなっていた。ユージは今夜、そのまま休むことになった。寮から必要なものを持ってくることを約束し、二人は外へ出た。午後の賑やかさが残った道を、サークル帰りの生徒たちが歩いている。",
+      "first": 404,
+      "last": 408,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode6",
+      "scene": 8,
+      "anchor": "練習場の明かりは、夜になってもついていた。昼間ほどの人はいない。広い床のあちこちで、数人ずつが動いている。プラスは入口で、昨日コンケがいた場所を見た。",
+      "first": 462,
+      "last": 469,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 2,
+      "anchor": "窓の外では、同じようなローブを着た生徒たちが、同じ方向へ急いでいる。今日の午後を変えるために、二人もまず、午前の教室へ向かった。",
+      "first": 89,
+      "last": 89,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「ダイとの試合に出た転校生だね。今日は、誰と？」",
+      "first": 107,
+      "last": 113,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「グレード4。互いの了承は？」",
+      "first": 111,
+      "last": 117,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「星以外のものを賭ける契約はできる。双方の了承と、委員会の承認が必要だけど」",
+      "first": 114,
+      "last": 120,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「提供者は二人。実際に戦うのは？」",
+      "first": 126,
+      "last": 132,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「元の契約を全部解除する条件では、今回は承認できない」",
+      "first": 132,
+      "last": 138,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「昨日は、ユージ本人が星四つと、さらに従属する条件を賭けて戦っている。今回は本人ではなく、君が代わりに戦う。契約の当事者以外が挑む代理戦として、承認の条件は厳しくなる」",
+      "first": 136,
+      "last": 142,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「本人の了承があっても、昨日と同じ条件では扱えない。第三者が星だけを用意し、強い代理人を立てるだけで所属契約を丸ごと解除できたら、サークル間の契約は、資金と戦力を持つ側に簡単に崩される。だから、本人が従属の条件まで賭ける決闘と、第三者が星を出す代理戦は、承認できる範囲を分けている」",
+      "first": 139,
+      "last": 145,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "",
+      "first": 140,
+      "last": 146,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「今回の代理戦で、星七つに対して認められるのは、所属を残して、活動上の義務と指示の範囲を変更するところまでになる」",
+      "first": 143,
+      "last": 149,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「この目的を満たす活動は、所属する以上、必要になる。ただし、それを果たしているなら、それ以上の指示は拒否できる。何をもって満たしたとするかも、部長のその日の機嫌ではなく、開設時に提出された目的に照らして判断する。この内容で変更案を作ろう」",
+      "first": 149,
+      "last": 155,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "",
+      "first": 150,
+      "last": 156,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「申請された目的に、特定の衣装を着ることや、部長が満足するまで笑うことは書かれていない。自分で選んだ衣装で表現活動を行うことも、目的に含まれる」",
+      "first": 152,
+      "last": 158,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「そう。所属しているからといって、限りなく指示に従う義務はなくなる」",
+      "first": 157,
+      "last": 163,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「契約違反を訴える窓口がある。ユージが駆け込めば、変更された契約と実際の活動を確認する。違反が認められれば、ヒカルの星を没収することもあり得る」",
+      "first": 167,
+      "last": 173,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「今回、認められる指示の範囲を契約に書く。その範囲を超えた指示への拒否を罰する行為まで、活動上必要な使用として認めるわけではない」",
+      "first": 169,
+      "last": 175,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 3,
+      "anchor": "担当者「この内容なら、双方と、変更の当事者であるユージの確認を経て承認に進められる」",
+      "first": 172,
+      "last": 178,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 5,
+      "anchor": "午後の中庭は、昨日と同じように賑やかだった。衣装を着た生徒たちの周りに、人が集まっている。プラスは、その中へランスと並んで入った。",
+      "first": 223,
+      "last": 230,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode7",
+      "scene": 13,
+      "anchor": "担当者「本人も、確認して」",
+      "first": 610,
+      "last": 616,
+      "reason": "speaker",
+      "actors": [
+        "担当者"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 1,
+      "anchor": "保健委員「二人とも、治療は完了。傷も、身体を動かす機能も回復しているよ」",
+      "first": 14,
+      "last": 20,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 1,
+      "anchor": "保健委員「今回の負傷については、全部。気になるところがあれば、今、言ってね」",
+      "first": 16,
+      "last": 22,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 1,
+      "anchor": "保健委員「治ったか確かめるために、誰かを殴りに行ったりしないでね」",
+      "first": 34,
+      "last": 40,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 2,
+      "anchor": "保健室を出ると、朝の学園はもう動き始めていた。ローブを着た生徒たちが校舎へ向かっている。プラスは、人の流れに混じりながら腕を振った。左右の腕を同じように動かして歩くのが、ひどく久しぶりに感じる。ユージも、歩幅を狭めなくてよかった。",
+      "first": 49,
+      "last": 53,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 10,
+      "anchor": "少し後ろに、数人の生徒が立っている。コンケの前には、紙袋を持った生徒がいた。",
+      "first": 463,
+      "last": 467,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 10,
+      "anchor": "生徒「……一つだけです」",
+      "first": 466,
+      "last": 472,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 10,
+      "anchor": "不良「おい、コンケさんが欲しいってよ」",
+      "first": 471,
+      "last": 477,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 10,
+      "anchor": "コンケは奪った袋を持ち、後ろの生徒たちへ何か言っている。",
+      "first": 493,
+      "last": 497,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 12,
+      "anchor": "正面から入れば、入口の生徒たちに見られる。ユージがプラスを止め、壁沿いへ回った。すぐ入ろうとしたプラスは、足を止める。",
+      "first": 559,
+      "last": 566,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 13,
+      "anchor": "不良「コンケ、どこ行くんだ」",
+      "first": 615,
+      "last": 621,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 13,
+      "anchor": "不良「また使いっ走りかよ」",
+      "first": 619,
+      "last": 625,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode8",
+      "scene": 13,
+      "anchor": "不良「好きだねえ」",
+      "first": 624,
+      "last": 630,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 3,
+      "anchor": "不良「お前、こっち来なくなったよな」",
+      "first": 76,
+      "last": 82,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 3,
+      "anchor": "不良「へえ。俺たちには、あるけど」",
+      "first": 78,
+      "last": 84,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 3,
+      "anchor": "不良「何してんだよ。こっち見ろって」",
+      "first": 89,
+      "last": 95,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 3,
+      "anchor": "不良「グモンさん、いや、こいつが——」",
+      "first": 105,
+      "last": 111,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 4,
+      "anchor": "不良「お前、これ持ってけ」",
+      "first": 152,
+      "last": 158,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 4,
+      "anchor": "不良「コンケ、購買行ってこい」",
+      "first": 153,
+      "last": 159,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 4,
+      "anchor": "不良「何か言われたら、うちの名前出せばいいから」",
+      "first": 154,
+      "last": 160,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 4,
+      "anchor": "不良「……何、した」",
+      "first": 179,
+      "last": 185,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 7,
+      "anchor": "不良「何だ、そいつら」",
+      "first": 323,
+      "last": 329,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 7,
+      "anchor": "不良「新入りか？」",
+      "first": 324,
+      "last": 330,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 7,
+      "anchor": "不良「……あれ。お前、転校生じゃねえか」",
+      "first": 329,
+      "last": 335,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 7,
+      "anchor": "不良「ヒカルに勝ったっていう」",
+      "first": 331,
+      "last": 337,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 7,
+      "anchor": "不良たちも、扉の近くや壁際へ入ってくる。誰かがユージの椅子の背へ手を置いた。",
+      "first": 367,
+      "last": 371,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 8,
+      "anchor": "不良「オーガさん、俺も——」",
+      "first": 459,
+      "last": 464,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 9,
+      "anchor": "プラスが話している間、カップは机に置かれていた。周りにいる不良たちの顔は、少しずつ変わった。自分のことを言われていると思った者もいたのだろう。",
+      "first": 470,
+      "last": 474,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 10,
+      "anchor": "不良「何だよ——」",
+      "first": 533,
+      "last": 539,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 10,
+      "anchor": "それから、その周りにいる不良たちを見る。",
+      "first": 549,
+      "last": 553,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 10,
+      "anchor": "ユージは、椅子から立ちかけ、逆に机の陰へ下がった。目の前の不良たちより先に、鞭へ身体が反応した。頭では、今、自分に向けて振られたのではないとわかっている。それでも、近くで線が走ると、肩がすくんだ。",
+      "first": 560,
+      "last": 564,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 11,
+      "anchor": "近くの不良たちは、二人の方を見ていた。",
+      "first": 660,
+      "last": 664,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode9",
+      "scene": 11,
+      "anchor": "不良の一人が顔を向けたが、その前を別の男が横切った。ヒカルとオーガの動きを追い、周りが位置を変えている。",
+      "first": 687,
+      "last": 693,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 9,
+      "anchor": "後ろから、不良の一人が棒を振った。",
+      "first": 462,
+      "last": 466,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 9,
+      "anchor": "不良「でも、こいつ——」",
+      "first": 478,
+      "last": 484,
+      "reason": "speaker",
+      "actors": [
+        "不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 9,
+      "anchor": "廊下の両側には、不良たちがいる。",
+      "first": 542,
+      "last": 546,
+      "reason": "presence",
+      "actors": [
+        "不良の男子",
+        "別の不良"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 11,
+      "anchor": "しばらくして、保健委員会の生徒が二人、旧校舎へ向かった。",
+      "first": 680,
+      "last": 682,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 12,
+      "anchor": "不良の男子「だから、貸せって——」",
+      "first": 711,
+      "last": 717,
+      "reason": "speaker",
+      "actors": [
+        "不良の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 12,
+      "anchor": "不良の男子「いや、こいつが勝手に——」",
+      "first": 718,
+      "last": 724,
+      "reason": "speaker",
+      "actors": [
+        "不良の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode10",
+      "scene": 13,
+      "anchor": "そのあたりで、別の生徒たちが昼飯の袋を開いている。",
+      "first": 817,
+      "last": 824,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 5,
+      "anchor": "途中で、ほかの寮から来た生徒たちと合流する。ユージは先へ走りかけたプラスの袖を掴んだ。",
+      "first": 339,
+      "last": 344,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 7,
+      "anchor": "帝国から来ている科学者の教師が、説明を続ける。",
+      "first": 393,
+      "last": 397,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 7,
+      "anchor": "教師の問いへ、近くの生徒が答えに詰まる。コンケは机へ目を落としたまま、短く答えを言った。教師がうなずき、その答えの途中を説明した。",
+      "first": 419,
+      "last": 423,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 7,
+      "anchor": "教師は、教材の一部を示した。",
+      "first": 434,
+      "last": 438,
+      "reason": "presence",
+      "actors": [
+        "白衣の先生"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 11,
+      "anchor": "入口の部員たちが、可愛い、似合うと声をかける。",
+      "first": 650,
+      "last": 655,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode11",
+      "scene": 13,
+      "anchor": "ランスに気づくと、一人が身体をずらした。",
+      "first": 679,
+      "last": 686,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 2,
+      "anchor": "親衛隊の部員が二人、少し離れて立っている。彼女は手帳を開き、何かを書こうとしていた。",
+      "first": 80,
+      "last": 84,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 2,
+      "anchor": "後ろの部員の一人が、驚いた顔をした。",
+      "first": 91,
+      "last": 98,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 2,
+      "anchor": "後ろの部員たちが、こちらへ近づいた。",
+      "first": 126,
+      "last": 130,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "翌日の午後、決闘委員会の窓口には、普段より多く手帳が並んだ。親衛隊の部員たちが、一人ずつ確認を受ける。",
+      "first": 141,
+      "last": 145,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "決闘委員「コバルさんが賭けるのは、部長としての運営権限のうち、今回記載された部分です。学園の校則や、委員会の処罰権まで変更するものではありません」",
+      "first": 157,
+      "last": 163,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "決闘委員「ゆきめろさん本人が在籍を希望していることは、別途確認しています。この契約は、本人に在籍を強制するものでもありません」",
+      "first": 162,
+      "last": 168,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "決闘委員「ランスさん側が負けた場合、預託した星20個はコバルさんへ移ります。勝った場合は契約が成立し、星は記録された各提供者へ返却されます。条件と個数は、委員会として承認します」",
+      "first": 166,
+      "last": 172,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "親衛隊の男子「頼むぞ」",
+      "first": 175,
+      "last": 181,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 3,
+      "anchor": "部員たちの顔を見た。",
+      "first": 181,
+      "last": 183,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 4,
+      "anchor": "通りがかりの生徒「グレード1で、部長に挑むんだって」",
+      "first": 186,
+      "last": 192,
+      "reason": "speaker",
+      "actors": [
+        "通りがかりの生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 4,
+      "anchor": "別の生徒「星、20個。オタクサークルの」",
+      "first": 187,
+      "last": 193,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 5,
+      "anchor": "オタクサークルの部員たちが固まっている。誰もが同じ方を応援しているわけではないらしい。ランスの名前を呼ぶ声の隣で、部長なら大丈夫だろうと話す者もいた。",
+      "first": 217,
+      "last": 224,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode12",
+      "scene": 10,
+      "anchor": "ほかの部員たちは、コバルの方を見ている。医療係が試合場へ入り、ローブの裂けた場所を確かめた。",
+      "first": 503,
+      "last": 508,
+      "reason": "presence",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 1,
+      "anchor": "医療係の生徒「君も、こっち。肩、もう一度見せて」",
+      "first": 3,
+      "last": 9,
+      "reason": "speaker",
+      "actors": [
+        "医療係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 1,
+      "anchor": "親衛隊の男子「ランス、やったな。これで部長も、何も言えねえよ」",
+      "first": 9,
+      "last": 15,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 1,
+      "anchor": "別の親衛隊員「……疲れてんだろ。あんな相手だったし」",
+      "first": 12,
+      "last": 18,
+      "reason": "speaker",
+      "actors": [
+        "別の親衛隊員"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 2,
+      "anchor": "親衛隊の男子「ゆきめろちゃん、待ってるのか？」",
+      "first": 51,
+      "last": 57,
+      "reason": "speaker",
+      "actors": [
+        "親衛隊の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 4,
+      "anchor": "医療係の生徒「ここ、処置室の前です。大きな声は、外で」",
+      "first": 185,
+      "last": 191,
+      "reason": "speaker",
+      "actors": [
+        "医療係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode13",
+      "scene": 5,
+      "anchor": "外へ出ると、光が少し赤くなっていた。闘技場の外壁に沿って、長い影が伸びている。帰る生徒たちが、いくつかの道へ分かれていた。",
+      "first": 200,
+      "last": 204,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 1,
+      "anchor": "ユージが受付場所を確かめ、うなずく。",
+      "first": 23,
+      "last": 27,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 3,
+      "anchor": "部屋の奥で、部員たちが次の上映について話している。",
+      "first": 105,
+      "last": 109,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode14",
+      "scene": 15,
+      "anchor": "部員の男子「今日、衣装の写真撮っていい？」",
+      "first": 701,
+      "last": 707,
+      "reason": "speaker",
+      "actors": [
+        "部員の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode15",
+      "scene": 5,
+      "anchor": "別のサークルの部員たちが、廊下を横切る。",
+      "first": 701,
+      "last": 705,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode16",
+      "scene": 5,
+      "anchor": "部室を出ると、廊下はいつもと同じだった。遠くで、別のサークルの部員たちが話している。",
+      "first": 591,
+      "last": 594,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode17",
+      "scene": 6,
+      "anchor": "勉強サークルの男子「何だよ。決闘？」",
+      "first": 615,
+      "last": 621,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode17",
+      "scene": 6,
+      "anchor": "部員たちが空けた道を、まっすぐ歩いた。",
+      "first": 812,
+      "last": 816,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 1,
+      "anchor": "ドーマは机の上の紙を重ね、熱くなったカップの近くへ置かないようにした。ツクリは入口側へ移っていた部員たちへ、もう少し待つように声をかけている。",
+      "first": 3,
+      "last": 7,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 2,
+      "anchor": "決闘委員の生徒「こちらの条件で、双方の合意を確認します。変更はありますか」",
+      "first": 85,
+      "last": 91,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 2,
+      "anchor": "決闘委員の生徒「開催まで、この条件の対象となる星を別の契約へ重ねて賭けることはできません。その他、確認したいことは？」",
+      "first": 93,
+      "last": 99,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 2,
+      "anchor": "決闘委員の生徒「承認された契約です。履行の確認も、委員会で扱います」",
+      "first": 95,
+      "last": 101,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 9,
+      "anchor": "保健委員の生徒「いつからですか。途中、意識を失ったことは？」",
+      "first": 752,
+      "last": 757,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode18",
+      "scene": 11,
+      "anchor": "受付の生徒が、名前を尋ねた。",
+      "first": 866,
+      "last": 868,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 1,
+      "anchor": "受付の生徒「手帳は、お持ちですね」",
+      "first": 2,
+      "last": 8,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 1,
+      "anchor": "受付の生徒「呼ばれたら、前へ。開始前に、会長が条件を確認します」",
+      "first": 7,
+      "last": 13,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 5,
+      "anchor": "決闘委員の生徒「こちらで誘導します。通路には立たないように」",
+      "first": 174,
+      "last": 180,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 7,
+      "anchor": "一年生の男子「ここ、答えだけ合ってたんだけどさ。なんでそうなるか、わかんねえんだよ」",
+      "first": 279,
+      "last": 285,
+      "reason": "speaker",
+      "actors": [
+        "一年生の男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 7,
+      "anchor": "一年生の女子「私も、見ていい？」",
+      "first": 281,
+      "last": 287,
+      "reason": "speaker",
+      "actors": [
+        "一年生の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの男子「ここ、わかんねー！」",
+      "first": 307,
+      "last": 311,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの男子「待って。移すって、どこ？」",
+      "first": 307,
+      "last": 313,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの男子「あっ。……わかった！」",
+      "first": 313,
+      "last": 319,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの女子「やった。ルサイさんのお菓子！」",
+      "first": 321,
+      "last": 327,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの男子「他の先輩より、Xさんの方が信用できるわ」",
+      "first": 346,
+      "last": 352,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 8,
+      "anchor": "勉強サークルの女子「私たちのところにいてくれて、よかった」",
+      "first": 347,
+      "last": 353,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの男子「俺、全部賭けるぜ！」",
+      "first": 397,
+      "last": 403,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの女子「私も。X部長なら、絶対勝てるって」",
+      "first": 398,
+      "last": 404,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの男子「副会長になったら、もっと頼られるじゃん。すげえな！」",
+      "first": 399,
+      "last": 405,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの男子「Xさんが負けるって？　ルサイさんも、今まで見てたじゃん」",
+      "first": 406,
+      "last": 412,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの女子「でも、百五十個あればいいんでしょ？」",
+      "first": 410,
+      "last": 416,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode19",
+      "scene": 9,
+      "anchor": "勉強サークルの女子「じゃあ、ルサイさん、三個残せるよ。私たちは全部出すから」",
+      "first": 412,
+      "last": 418,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 1,
+      "anchor": "勉強サークルの男子「Xさん、まだいける！」",
+      "first": 11,
+      "last": 17,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 1,
+      "anchor": "勉強サークルの女子「負けないで！」",
+      "first": 12,
+      "last": 18,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "部員たちが、手帳を見た。",
+      "first": 53,
+      "last": 57,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "勉強サークルの男子「……待って。これ、ほんとに全部？」",
+      "first": 54,
+      "last": 60,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "勉強サークルの女子「Xさんは？　Xさん、起きて」",
+      "first": 55,
+      "last": 61,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "彼がその違いを確かめるより先に、大きな影が部員たちの背後へ落ちた。",
+      "first": 61,
+      "last": 65,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "勉強サークルの男子「ちょっと待ってくれよ。今、部長が倒れてるんだぞ」",
+      "first": 62,
+      "last": 68,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "保健委員の生徒「意識がありません。運びます」",
+      "first": 69,
+      "last": 75,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "けれど、部員たちの腕を掴む手と、担架を持つ手が、同じ学園の決まりに従って動いている。その決まりが、自分たちをどこへ連れていくのか、確かめられない。",
+      "first": 81,
+      "last": 84,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "保健委員の生徒「うわっ！？」",
+      "first": 85,
+      "last": 90,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 2,
+      "anchor": "保健委員の生徒「止まって！　その状態で動かすのは――」",
+      "first": 95,
+      "last": 101,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 3,
+      "anchor": "人が立ち上がるような音もしなかった。代わりに、階段の上の暗がりから、何本もの触手が伸びてきた。長い身体を床へ垂らし、部員たちの前でゆっくりと曲がる。濡れたような表面が、弱い光を返した。",
+      "first": 132,
+      "last": 136,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 3,
+      "anchor": "部員の一人が、後ろへ下がった。",
+      "first": 136,
+      "last": 140,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 3,
+      "anchor": "勉強サークルの男子「待っ――」",
+      "first": 137,
+      "last": 143,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 3,
+      "anchor": "勉強サークルの女子「Xさん！　助けて！」",
+      "first": 149,
+      "last": 155,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 3,
+      "anchor": "残った部員たちが、出口へ走った。",
+      "first": 160,
+      "last": 164,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 13,
+      "anchor": "保健委員の生徒「歩かないでください。そのままで、声は届きます」",
+      "first": 815,
+      "last": 821,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode20",
+      "scene": 13,
+      "anchor": "保健委員の生徒「横になってください」",
+      "first": 860,
+      "last": 866,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 1,
+      "anchor": "保健委員の生徒「今日は、もう能力の練習をしないでください」",
+      "first": 5,
+      "last": 11,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 1,
+      "anchor": "保健委員の生徒「その返事のあとで、練習場へ行かないでくださいね」",
+      "first": 7,
+      "last": 13,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 1,
+      "anchor": "保健委員の生徒「退室できると伝えた途端、拳を握っていたので」",
+      "first": 9,
+      "last": 15,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 1,
+      "anchor": "保健委員の生徒「先ほど退室しました。生徒会室へ向かわれています。あなたの入室許可も、ジャッジさんから届いています」",
+      "first": 15,
+      "last": 21,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 1,
+      "anchor": "保健委員の生徒「生徒会室へは、自由に上がれません。受付で手帳を提示してください。今日の面会として登録されています」",
+      "first": 17,
+      "last": 23,
+      "reason": "speaker",
+      "actors": [
+        "保健委員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "生徒会室へ続く道は、校舎の廊下からそのまま入れるものではなかった。案内された建物の奥に、受付と、金属製の扉があった。扉の上には、生徒会専用と書かれている。横の壁には表示板があるが、誰でも押せる呼び出しボタンは見当たらなかった。その手前で、受付の生徒がプラスを止めた。",
+      "first": 33,
+      "last": 37,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒「ご用件は」",
+      "first": 33,
+      "last": 39,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒「お名前と、生徒手帳をお願いします」",
+      "first": 35,
+      "last": 41,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒が表紙を開き、名前を端末の表示と照合する。プラスの顔を確認してから、さらに奥へ連絡を入れた。返事を待つ間、金属の扉は閉じたままだった。廊下の先にも、もう一人の生徒が立っている。こちらへ近づいてはこないが、扉とプラスの両方を見ていた。",
+      "first": 39,
+      "last": 43,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒「プラス・ゼロさん。許可を確認しました。上では、指定された部屋へ直接向かってください」",
+      "first": 39,
+      "last": 45,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒「生徒会区画へは、この専用エレベーターで上がります。一般の廊下や階段からは入れません」",
+      "first": 41,
+      "last": 47,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒が端末を操作した。",
+      "first": 44,
+      "last": 48,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 2,
+      "anchor": "受付の生徒「帰りも、同じエレベーターをご利用ください」",
+      "first": 44,
+      "last": 50,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 9,
+      "anchor": "通路へ出たところで、生徒が二人、プラスの横を通り過ぎた。",
+      "first": 552,
+      "last": 556,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 9,
+      "anchor": "通りすがりの生徒「今日の星、戻った？」",
+      "first": 552,
+      "last": 558,
+      "reason": "speaker",
+      "actors": [
+        "通りすがりの生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 9,
+      "anchor": "通りすがりの生徒「戻ってねえよ。次で取る」",
+      "first": 553,
+      "last": 559,
+      "reason": "speaker",
+      "actors": [
+        "通りすがりの生徒"
+      ]
+    },
+    {
+      "episode": "chapter1-episode21",
+      "scene": 10,
+      "anchor": "勉強サークルの男子「部長が？」",
+      "first": 617,
+      "last": 623,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの男子"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 4,
+      "anchor": "対戦相手「……降りてこねえの？」",
+      "first": 164,
+      "last": 170,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 4,
+      "anchor": "対戦相手「お前の攻撃も、届いてねえけど」",
+      "first": 166,
+      "last": 172,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「これ、掲示板にあったやつ？」",
+      "first": 241,
+      "last": 247,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「じゃあ、もう知ってる」",
+      "first": 243,
+      "last": 249,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「真面目だね」",
+      "first": 246,
+      "last": 252,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「今、飯買うから。またね」",
+      "first": 248,
+      "last": 254,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「必要なら、そのサークルのやつに聞くし」",
+      "first": 266,
+      "last": 272,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「そこまで興味ない」",
+      "first": 267,
+      "last": 273,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 5,
+      "anchor": "生徒「これ、無料じゃないの？」",
+      "first": 268,
+      "last": 274,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "extra1",
+      "scene": 10,
+      "anchor": "――翌年度。新しい部員たち。",
+      "first": 505,
+      "last": 509,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「何やってんだ、お前」",
+      "first": 9,
+      "last": 15,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「窓にケンカ売ってた？」",
+      "first": 13,
+      "last": 19,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「負けんなよ。相手、お前と同じくらい強そうだから」",
+      "first": 15,
+      "last": 21,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「ちょうどいいや。これ、裏へ持ってけ」",
+      "first": 24,
+      "last": 30,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「見りゃわかんだろ。椅子」",
+      "first": 28,
+      "last": 34,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「使わねえから片づけといて。あと、俺の飲み物」",
+      "first": 30,
+      "last": 36,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「頼れる新人がいると助かるわ」",
+      "first": 33,
+      "last": 39,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「おっと。危ねえな」",
+      "first": 42,
+      "last": 48,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「口答え？」",
+      "first": 44,
+      "last": 50,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 1,
+      "anchor": "不良の先輩「はいはい。窓に勝ってからな」",
+      "first": 55,
+      "last": 61,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「お前、何した？」",
+      "first": 65,
+      "last": 71,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「オーガさんが呼んでる」",
+      "first": 67,
+      "last": 73,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「コンケを連れてこいって。奥の、いつもの部屋」",
+      "first": 69,
+      "last": 75,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「知らねえ」",
+      "first": 89,
+      "last": 95,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「いつもの顔」",
+      "first": 91,
+      "last": 97,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 2,
+      "anchor": "一年生の部員「逃げんなよ」",
+      "first": 99,
+      "last": 104,
+      "reason": "speaker",
+      "actors": [
+        "一年生の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「オーガさん、これ、また——」",
+      "first": 303,
+      "last": 309,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「何だ。お前、ここで飯食ってんのか」",
+      "first": 307,
+      "last": 313,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「いい身分だな。俺の飲み物は？」",
+      "first": 309,
+      "last": 315,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「いや、こいつ、暇そうだったんで」",
+      "first": 315,
+      "last": 321,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「……見えないっす」",
+      "first": 317,
+      "last": 323,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「まあ、そんな感じで」",
+      "first": 324,
+      "last": 330,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「……椅子」",
+      "first": 326,
+      "last": 332,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「いや、ちょっとふざけて」",
+      "first": 328,
+      "last": 334,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「すんません」",
+      "first": 338,
+      "last": 344,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「はい」",
+      "first": 340,
+      "last": 346,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「いい匂いするなって」",
+      "first": 352,
+      "last": 358,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「昼は」",
+      "first": 354,
+      "last": 360,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「……まあ」",
+      "first": 356,
+      "last": 362,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「うっす」",
+      "first": 361,
+      "last": 367,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「……これ、うめえ」",
+      "first": 366,
+      "last": 372,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「俺は、もうちょいあっても」",
+      "first": 368,
+      "last": 374,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 5,
+      "anchor": "不良の先輩「じゃあ、このままで」",
+      "first": 370,
+      "last": 375,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 6,
+      "anchor": "不良の部員「……それっす」",
+      "first": 385,
+      "last": 391,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 6,
+      "anchor": "不良の部員「はい」",
+      "first": 387,
+      "last": 393,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 6,
+      "anchor": "別の部員「聞きましたよ」",
+      "first": 389,
+      "last": 395,
+      "reason": "speaker",
+      "actors": [
+        "別の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 6,
+      "anchor": "不良の部員「……それ、まだ余ってます？」",
+      "first": 398,
+      "last": 404,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 6,
+      "anchor": "部員たちは、この大男を怖がっている。",
+      "first": 443,
+      "last": 447,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「オーガさん。向こうで、また」",
+      "first": 461,
+      "last": 467,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「机の取り合い。あそこ、俺らが使ってたって」",
+      "first": 463,
+      "last": 469,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「そうなんすけど、グモンさんに聞いたら、勝手にしろって言われたらしくて」",
+      "first": 465,
+      "last": 471,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の部員「だから、あっちが先に——」",
+      "first": 477,
+      "last": 483,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "別の部員「グモンさんが、好きにしろって」",
+      "first": 479,
+      "last": 485,
+      "reason": "speaker",
+      "actors": [
+        "別の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "部員が何人もいる。",
+      "first": 485,
+      "last": 489,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の部員「……俺もっすか」",
+      "first": 488,
+      "last": 494,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の部員「はい」",
+      "first": 490,
+      "last": 496,
+      "reason": "speaker",
+      "actors": [
+        "不良の部員"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「もう、オーガさんが全部決めてくれた方が、早いっすよ」",
+      "first": 506,
+      "last": 512,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「そうじゃなくて、ほかも」",
+      "first": 508,
+      "last": 514,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 7,
+      "anchor": "不良の先輩「知ってますけど」",
+      "first": 510,
+      "last": 516,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「終わった？」",
+      "first": 753,
+      "last": 759,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「何持ってんだ」",
+      "first": 755,
+      "last": 761,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「もう一個は」",
+      "first": 757,
+      "last": 763,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「新入りのくせに、いいもんもらってんな」",
+      "first": 761,
+      "last": 767,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「俺もしたわ」",
+      "first": 763,
+      "last": 769,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「……まだ、あるかな」",
+      "first": 768,
+      "last": 774,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「同じのと混ざるからな。オーガさんが、入れとけって」",
+      "first": 775,
+      "last": 781,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「俺、針使えねえし」",
+      "first": 777,
+      "last": 783,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「オーガさん。俺の分も——」",
+      "first": 780,
+      "last": 786,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「はい」",
+      "first": 782,
+      "last": 788,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「どこ置いた？」",
+      "first": 785,
+      "last": 791,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 10,
+      "anchor": "不良の先輩「ああ」",
+      "first": 787,
+      "last": 793,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 12,
+      "anchor": "不良の先輩「おい、コンケ。この脚、どっち曲がってた？」",
+      "first": 964,
+      "last": 970,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 12,
+      "anchor": "不良の先輩「うるせえ。ちょっと押さえろ」",
+      "first": 967,
+      "last": 973,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra2",
+      "scene": 12,
+      "anchor": "不良の先輩「わかってるよ」",
+      "first": 969,
+      "last": 975,
+      "reason": "speaker",
+      "actors": [
+        "不良の先輩"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 1,
+      "anchor": "観客の生徒「さっきより広げてんぞ」",
+      "first": 35,
+      "last": 41,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 1,
+      "anchor": "別の観客「けど、伸びてねえ方を先に冷やしてる」",
+      "first": 36,
+      "last": 42,
+      "reason": "speaker",
+      "actors": [
+        "別の観客"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 2,
+      "anchor": "審判「そこまで。勝者、X」",
+      "first": 141,
+      "last": 147,
+      "reason": "speaker",
+      "actors": [
+        "審判"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 2,
+      "anchor": "保健委員「まだ痛い？」",
+      "first": 165,
+      "last": 171,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 2,
+      "anchor": "保健委員「じゃあ、しばらく強く動かさないで」",
+      "first": 167,
+      "last": 173,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 3,
+      "anchor": "ちょうど部員たちが別の机へ移り、自習を始めたところだった。",
+      "first": 187,
+      "last": 191,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 8,
+      "anchor": "観客の一人が、強かったと言う。",
+      "first": 471,
+      "last": 475,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 8,
+      "anchor": "さっきまで褒めていた生徒たちとは、話の始め方が違った。",
+      "first": 486,
+      "last": 490,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 9,
+      "anchor": "ヤオイは、机の横から、部員たちを見る。",
+      "first": 562,
+      "last": 566,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 14,
+      "anchor": "部員たちの視線が、こちらへ来ている。",
+      "first": 866,
+      "last": 870,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra3",
+      "scene": 17,
+      "anchor": "部員たちは、その順番を覚えた。",
+      "first": 1008,
+      "last": 1012,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「鍵、部屋に置いてきちゃってさ。あんた、開けられるんでしょ？」",
+      "first": 64,
+      "last": 69,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「助かる。こっち」",
+      "first": 69,
+      "last": 75,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「へえ。便利」",
+      "first": 76,
+      "last": 82,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「言ったとおり。ここ、置いてんじゃん」",
+      "first": 79,
+      "last": 85,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「何？」",
+      "first": 84,
+      "last": 90,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「開けたの、あんたでしょ」",
+      "first": 88,
+      "last": 94,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「今さら何言ってんの。もう一緒じゃん」",
+      "first": 90,
+      "last": 96,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 2,
+      "anchor": "不良の女子「帰ろ。今日は終わり」",
+      "first": 94,
+      "last": 99,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 3,
+      "anchor": "不良の女子「そういうの、やめてくんない？」",
+      "first": 103,
+      "last": 109,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「だから？　静かに開ければいいじゃん」",
+      "first": 144,
+      "last": 150,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「早く」",
+      "first": 146,
+      "last": 152,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「は？」",
+      "first": 156,
+      "last": 162,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「何やってんの。気づかれるでしょ」",
+      "first": 161,
+      "last": 167,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「誰？」",
+      "first": 171,
+      "last": 177,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「こっち、用事あるんだけど」",
+      "first": 177,
+      "last": 183,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「本人がいいって言ってんの。あんた、何も知らないでしょ」",
+      "first": 179,
+      "last": 185,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 4,
+      "anchor": "不良の女子「……あんた、不良サークルに喧嘩売ってんの？」",
+      "first": 203,
+      "last": 209,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 5,
+      "anchor": "不良の女子「急にこいつが撃ってきたんですけど」",
+      "first": 230,
+      "last": 236,
+      "reason": "speaker",
+      "actors": [
+        "不良の女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 5,
+      "anchor": "寮の生徒「……私の部屋です」",
+      "first": 257,
+      "last": 263,
+      "reason": "speaker",
+      "actors": [
+        "寮の生徒"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 8,
+      "anchor": "不良サークルの女子「うちの奴、撃ったんだって？」",
+      "first": 387,
+      "last": 393,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 8,
+      "anchor": "不良サークルの女子「生徒会に言いつけたら、ずっと見てもらえると思ってんの？」",
+      "first": 390,
+      "last": 396,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 8,
+      "anchor": "不良サークルの女子「二人とも、顔、覚えたから」",
+      "first": 394,
+      "last": 400,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「ツクリさんの隣でいい？　まず、作ってるものを見てもらおうか」",
+      "first": 434,
+      "last": 440,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「悪いんだけど。二人とも、退部してもらえないかな」",
+      "first": 454,
+      "last": 460,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「不良サークルと、揉めてるんだってね」",
+      "first": 458,
+      "last": 464,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「聞いてなかったから。先に、話してほしかった」",
+      "first": 460,
+      "last": 466,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「事情は、そうなのかもしれない。でも、うちの部員まで何かされたら、俺には止められない」",
+      "first": 467,
+      "last": 473,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 9,
+      "anchor": "サークルの部長「もっと、力のあるところへ行った方がいい。君たちのためにも」",
+      "first": 471,
+      "last": 477,
+      "reason": "speaker",
+      "actors": [
+        "サークルの部長"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 15,
+      "anchor": "不良サークルの女子「……勉強サークル、入ったんだって？」",
+      "first": 815,
+      "last": 821,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 15,
+      "anchor": "不良サークルの女子「何、その喋り方」",
+      "first": 819,
+      "last": 825,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra4",
+      "scene": 15,
+      "anchor": "不良サークルの女子「……気持ち悪」",
+      "first": 825,
+      "last": 831,
+      "reason": "speaker",
+      "actors": [
+        "不良サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 3,
+      "anchor": "教師が順に答案を返した。",
+      "first": 60,
+      "last": 64,
+      "reason": "presence",
+      "actors": [
+        "先生",
+        "教室の男子",
+        "教室の女子"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 3,
+      "anchor": "同級生「それなら、分かる！」",
+      "first": 74,
+      "last": 80,
+      "reason": "speaker",
+      "actors": [
+        "同級生"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 4,
+      "anchor": "同級生「あ、ほんとだ」",
+      "first": 114,
+      "last": 120,
+      "reason": "speaker",
+      "actors": [
+        "同級生"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 13,
+      "anchor": "Xが戻ると、部員たちが立ち上がった。",
+      "first": 553,
+      "last": 557,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 14,
+      "anchor": "勉強サークルの女子「じゃあ、ルサイさん、三個残せるよ。私たちは全部出すから」",
+      "first": 610,
+      "last": 616,
+      "reason": "speaker",
+      "actors": [
+        "勉強サークルの女子"
+      ]
+    },
+    {
+      "episode": "extra5",
+      "scene": 14,
+      "anchor": "私が三個残すことは、彼も、部員たちも知っていた。",
+      "first": 617,
+      "last": 621,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「そこ！」",
+      "first": 2,
+      "last": 8,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「どこ見てんだよ！」",
+      "first": 25,
+      "last": 31,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「……さあな」",
+      "first": 33,
+      "last": 39,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「怖えのか？　前、来いよ」",
+      "first": 46,
+      "last": 52,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「近えんだよ！」",
+      "first": 63,
+      "last": 69,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「っ――！」",
+      "first": 71,
+      "last": 77,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「……負けた方に、聞くなよ」",
+      "first": 103,
+      "last": 109,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「最初は、踏んだくせに」",
+      "first": 109,
+      "last": 115,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 1,
+      "anchor": "対戦相手「もっと踏めよ」",
+      "first": 111,
+      "last": 117,
+      "reason": "speaker",
+      "actors": [
+        "対戦相手"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 2,
+      "anchor": "部員たちは勉強を続けている。ルサイも、いつものように菓子を用意している。",
+      "first": 304,
+      "last": 308,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 5,
+      "anchor": "倉庫の生徒「助かった。そっち、床へ置いてくれる？」",
+      "first": 501,
+      "last": 507,
+      "reason": "speaker",
+      "actors": [
+        "倉庫の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 5,
+      "anchor": "倉庫の生徒「うん。何か探してた？」",
+      "first": 503,
+      "last": 509,
+      "reason": "speaker",
+      "actors": [
+        "倉庫の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 5,
+      "anchor": "倉庫の生徒「この先は、行き止まりだよ」",
+      "first": 505,
+      "last": 511,
+      "reason": "speaker",
+      "actors": [
+        "倉庫の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode1",
+      "scene": 5,
+      "anchor": "役員の生徒「承知しました。こちらを先にお渡しします」",
+      "first": 662,
+      "last": 668,
+      "reason": "speaker",
+      "actors": [
+        "役員の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 4,
+      "anchor": "放送担当の生徒「最初は会長のお話からです。原稿は、レンズの下へ置きます。できる範囲で顔を上げていただければ」",
+      "first": 220,
+      "last": 226,
+      "reason": "speaker",
+      "actors": [
+        "放送担当の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 5,
+      "anchor": "廊下の生徒「今度のやつか」",
+      "first": 345,
+      "last": 351,
+      "reason": "speaker",
+      "actors": [
+        "廊下の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 5,
+      "anchor": "別の生徒「客、そんなに来るんだ」",
+      "first": 346,
+      "last": 352,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 6,
+      "anchor": "放送を聞く男子「上がれってことだろ。休みの日まで、部屋にいろって」",
+      "first": 448,
+      "last": 454,
+      "reason": "speaker",
+      "actors": [
+        "放送を聞く男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 6,
+      "anchor": "隣の女子「まだ、待ってたら詳しい案内が出るんじゃないの」",
+      "first": 449,
+      "last": 455,
+      "reason": "speaker",
+      "actors": [
+        "隣の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 6,
+      "anchor": "放送を聞く男子「出たって、俺らは外に出られねえんだろ」",
+      "first": 450,
+      "last": 456,
+      "reason": "speaker",
+      "actors": [
+        "放送を聞く男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 7,
+      "anchor": "何人かの生徒は、途中で通路を抜けていった。",
+      "first": 573,
+      "last": 577,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode2",
+      "scene": 8,
+      "anchor": "大きな声を出さなくても、近くにいる生徒たちが少し静かになった。",
+      "first": 591,
+      "last": 595,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "急ぐ生徒「先、受付だけしといてくれ！」",
+      "first": 7,
+      "last": 13,
+      "reason": "speaker",
+      "actors": [
+        "急ぐ生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "連れの生徒「自分で来いよ。代わりに条件まで決めらんねえだろ」",
+      "first": 8,
+      "last": 14,
+      "reason": "speaker",
+      "actors": [
+        "連れの生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "通りかかった生徒「まだ分かんねえけど。申し込みに行くとこ」",
+      "first": 20,
+      "last": 26,
+      "reason": "speaker",
+      "actors": [
+        "通りかかった生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "通りかかった生徒「さっきの放送、聞いただろ」",
+      "first": 22,
+      "last": 28,
+      "reason": "speaker",
+      "actors": [
+        "通りかかった生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "通りかかった生徒「グレード上の待遇、増やすって。1とか2のままだと、今より悪くなるらしいぞ」",
+      "first": 25,
+      "last": 31,
+      "reason": "speaker",
+      "actors": [
+        "通りかかった生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "通りかかった生徒「そういう話、回ってんだよ。だったら、決まる前に上げた方がいいだろ」",
+      "first": 27,
+      "last": 33,
+      "reason": "speaker",
+      "actors": [
+        "通りかかった生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "別の生徒「購買の値段まで上がったら、たまんねえよ」",
+      "first": 38,
+      "last": 44,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "その友人「だから、今のうちだって」",
+      "first": 39,
+      "last": 45,
+      "reason": "speaker",
+      "actors": [
+        "その友人"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 1,
+      "anchor": "プラスは、歩いていく生徒たちを見た。",
+      "first": 64,
+      "last": 68,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "受付の委員「本日の空きと、条件の確認を先に行います。列へ並んだことだけで、すぐ試合が決まるわけではありません」",
+      "first": 98,
+      "last": 104,
+      "reason": "speaker",
+      "actors": [
+        "受付の委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "申し込む生徒「じゃあ、いつになんの？」",
+      "first": 99,
+      "last": 105,
+      "reason": "speaker",
+      "actors": [
+        "申し込む生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "受付の委員「相手と条件によります。星の数を、こちらで確認させてください」",
+      "first": 100,
+      "last": 106,
+      "reason": "speaker",
+      "actors": [
+        "受付の委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "見物の生徒「どっちも、あと一個だって」",
+      "first": 104,
+      "last": 110,
+      "reason": "speaker",
+      "actors": [
+        "見物の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "隣の生徒「一個同士なら、勝ってもそんな増えねえじゃん」",
+      "first": 105,
+      "last": 111,
+      "reason": "speaker",
+      "actors": [
+        "隣の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "見物の生徒「負けなきゃいいんだろ」",
+      "first": 106,
+      "last": 112,
+      "reason": "speaker",
+      "actors": [
+        "見物の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "追い詰められた生徒「待った、待った！　もういい！」",
+      "first": 142,
+      "last": 148,
+      "reason": "speaker",
+      "actors": [
+        "追い詰められた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "追い詰められた生徒「そう。降参。無理だわ、今日」",
+      "first": 147,
+      "last": 153,
+      "reason": "speaker",
+      "actors": [
+        "追い詰められた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "追い詰められた生徒「ああ。殴られんの、もういいって」",
+      "first": 149,
+      "last": 155,
+      "reason": "speaker",
+      "actors": [
+        "追い詰められた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「……ほんとに、全部なくなんのな」",
+      "first": 160,
+      "last": 166,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「まあ、負けたし。しゃあねえか」",
+      "first": 163,
+      "last": 169,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「次は負けねえからな。今日、俺、全然寝てねえし」",
+      "first": 165,
+      "last": 171,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "勝った生徒「言い訳、長えよ」",
+      "first": 166,
+      "last": 172,
+      "reason": "speaker",
+      "actors": [
+        "勝った生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「またやろうぜ。取り返す」",
+      "first": 167,
+      "last": 173,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「どっち？　受付、戻んの？」",
+      "first": 179,
+      "last": 185,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "決闘委員「こちらです。今後の手続きへ案内します」",
+      "first": 180,
+      "last": 186,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 2,
+      "anchor": "敗れた生徒「ああ。はいはい」",
+      "first": 181,
+      "last": 187,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 3,
+      "anchor": "道具を運ぶ生徒「先、行く？」",
+      "first": 213,
+      "last": 219,
+      "reason": "speaker",
+      "actors": [
+        "道具を運ぶ生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 3,
+      "anchor": "敗れた生徒「初めて来たわ、ここ。星なくなったやつ、皆こっち？」",
+      "first": 222,
+      "last": 228,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 3,
+      "anchor": "決闘委員「案内に従ってください」",
+      "first": 223,
+      "last": 229,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 3,
+      "anchor": "敗れた生徒「従ってるって。歩いてんじゃん」",
+      "first": 224,
+      "last": 230,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 3,
+      "anchor": "決闘委員「承知しました」",
+      "first": 251,
+      "last": 257,
+      "reason": "speaker",
+      "actors": [
+        "決闘委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 5,
+      "anchor": "敗れた生徒「下？　寮じゃねえの？」",
+      "first": 442,
+      "last": 448,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 5,
+      "anchor": "敗れた生徒「……結構、下りんのな」",
+      "first": 471,
+      "last": 477,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 5,
+      "anchor": "敗れた生徒「……ここ、何？」",
+      "first": 490,
+      "last": 496,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 5,
+      "anchor": "敗れた生徒「……え。さっきの人は？」",
+      "first": 515,
+      "last": 521,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 5,
+      "anchor": "敗れた生徒「ああ。妹？　めっちゃ似てんじゃん」",
+      "first": 519,
+      "last": 525,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……何？　俺、怪我ならそんなしてねえけど」",
+      "first": 535,
+      "last": 541,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「どこまで？」",
+      "first": 537,
+      "last": 543,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「ちょ、押すなよ。歩くって」",
+      "first": 546,
+      "last": 552,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "奥の男子「……また、来たのか」",
+      "first": 563,
+      "last": 569,
+      "reason": "speaker",
+      "actors": [
+        "奥の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……何、ここ」",
+      "first": 569,
+      "last": 575,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "床へ座る者。膝を抱えている者。穴の奥の壁へ寄りかかり、目を閉じている者。",
+      "first": 579,
+      "last": 586,
+      "reason": "presence",
+      "actors": [
+        "牢の男子",
+        "牢の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……待って。俺、何でここ？」",
+      "first": 589,
+      "last": 595,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「いや、それは分かってるけど。試合、負けただけじゃん」",
+      "first": 591,
+      "last": 597,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……今日は、帰っていい？　もう試合、申し込まねえし」",
+      "first": 596,
+      "last": 602,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「寮に、荷物あんだけど」",
+      "first": 598,
+      "last": 604,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……いや。ちゃんと説明してくれよ。俺、反則もしてねえだろ」",
+      "first": 607,
+      "last": 613,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "下にいた生徒たちが、慌てて避ける。肩が壁を擦り、底へ手をつく音と、身体が落ちる音が重なった。",
+      "first": 621,
+      "last": 625,
+      "reason": "presence",
+      "actors": [
+        "牢の男子",
+        "牢の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……っ、何すんだよ！」",
+      "first": 627,
+      "last": 633,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「開けろよ。ふざけんな！」",
+      "first": 636,
+      "last": 642,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「……手帳」",
+      "first": 670,
+      "last": 676,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「俺の手帳、どこ？」",
+      "first": 674,
+      "last": 680,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "隣の牢の男子「……ないよ。ここ来たやつ、皆」",
+      "first": 675,
+      "last": 681,
+      "reason": "speaker",
+      "actors": [
+        "隣の牢の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「いや。さっきまで持ってたんだって」",
+      "first": 676,
+      "last": 682,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "隣の牢の男子「俺も、持ってた」",
+      "first": 677,
+      "last": 683,
+      "reason": "speaker",
+      "actors": [
+        "隣の牢の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「返せよ。俺のだろ！」",
+      "first": 687,
+      "last": 693,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 6,
+      "anchor": "敗れた生徒「お前が決めんな！」",
+      "first": 689,
+      "last": 695,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "敗れた生徒「……何なんだよ。何で、誰も言わねえんだよ」",
+      "first": 740,
+      "last": 746,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "奥の女子「ここへ来るって、知らなかった？」",
+      "first": 741,
+      "last": 747,
+      "reason": "speaker",
+      "actors": [
+        "奥の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "敗れた生徒「知ってたら、あんな……」",
+      "first": 742,
+      "last": 748,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "敗れた生徒「手帳、返してくれよ……。俺、あれがねえと、何もできねえじゃん」",
+      "first": 744,
+      "last": 750,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "奥の女子「私たちも、取られた」",
+      "first": 745,
+      "last": 751,
+      "reason": "speaker",
+      "actors": [
+        "奥の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "敗れた生徒「いや、試合で負けただけだろ。盗んだとかじゃねえよ。ちゃんと降参したんだよ」",
+      "first": 746,
+      "last": 752,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode3",
+      "scene": 7,
+      "anchor": "奥の男子「俺も、降参した」",
+      "first": 749,
+      "last": 755,
+      "reason": "speaker",
+      "actors": [
+        "奥の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "床へ座った男子の靴は、今の自分には遠かった。紐の片方が解けている。そのそばへ膝を抱えた女子が座っていた。",
+      "first": 6,
+      "last": 13,
+      "reason": "presence",
+      "actors": [
+        "牢の男子",
+        "牢の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "敗れた生徒「……誰か、上で気づくだろ」",
+      "first": 18,
+      "last": 24,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "敗れた生徒「俺、友達に、試合終わったら食堂って言ってあるし」",
+      "first": 21,
+      "last": 27,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "敗れた生徒「……お前らも、あるだろ。そういうの」",
+      "first": 24,
+      "last": 30,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "隣の男子「あるよ」",
+      "first": 25,
+      "last": 31,
+      "reason": "speaker",
+      "actors": [
+        "隣の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "敗れた生徒「じゃあ……」",
+      "first": 26,
+      "last": 32,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "隣の男子「俺も、そう思ってた」",
+      "first": 27,
+      "last": 33,
+      "reason": "speaker",
+      "actors": [
+        "隣の男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "連れてこられた女子「……え。何、ここ」",
+      "first": 40,
+      "last": 46,
+      "reason": "speaker",
+      "actors": [
+        "連れてこられた女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "新しく入った生徒「ごめん。見えなかった」",
+      "first": 56,
+      "last": 62,
+      "reason": "speaker",
+      "actors": [
+        "新しく入った生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 1,
+      "anchor": "座っていた生徒「……いい。こっち、まだ入れる」",
+      "first": 57,
+      "last": 63,
+      "reason": "speaker",
+      "actors": [
+        "座っていた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 2,
+      "anchor": "敗れた生徒「……何だよ」",
+      "first": 90,
+      "last": 96,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 2,
+      "anchor": "敗れた生徒「どこへ？」",
+      "first": 94,
+      "last": 100,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 2,
+      "anchor": "奥の女子「待って――」",
+      "first": 105,
+      "last": 111,
+      "reason": "speaker",
+      "actors": [
+        "奥の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 2,
+      "anchor": "真下には、落ちた生徒たちがいた。",
+      "first": 124,
+      "last": 128,
+      "reason": "presence",
+      "actors": [
+        "牢の男子",
+        "牢の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 2,
+      "anchor": "男子「やめろ、離せ！　おい！」",
+      "first": 144,
+      "last": 150,
+      "reason": "speaker",
+      "actors": [
+        "男子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 3,
+      "anchor": "敗れた生徒「お前……」",
+      "first": 192,
+      "last": 198,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 3,
+      "anchor": "女子「離さないで」",
+      "first": 206,
+      "last": 212,
+      "reason": "speaker",
+      "actors": [
+        "女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 3,
+      "anchor": "女子「……足、力、入んない」",
+      "first": 223,
+      "last": 229,
+      "reason": "speaker",
+      "actors": [
+        "女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 4,
+      "anchor": "黒い球体へ吸着した束は、まだ動けずにいた。その下を別のものが通り、プラスと生徒たちの間へ持ち上がる。",
+      "first": 328,
+      "last": 332,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode4",
+      "scene": 4,
+      "anchor": "敗れた生徒「待ってくれ！　俺も！」",
+      "first": 330,
+      "last": 336,
+      "reason": "speaker",
+      "actors": [
+        "敗れた生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode6",
+      "scene": 1,
+      "anchor": "読書中の生徒「ここで大声出す人なら、覚えてると思うけど」",
+      "first": 19,
+      "last": 25,
+      "reason": "speaker",
+      "actors": [
+        "読書中の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode6",
+      "scene": 1,
+      "anchor": "読書中の生徒「じゃあ、分からないな」",
+      "first": 21,
+      "last": 27,
+      "reason": "speaker",
+      "actors": [
+        "読書中の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode6",
+      "scene": 5,
+      "anchor": "庭の端では、何かを囲んだ生徒たちが話していた。",
+      "first": 253,
+      "last": 257,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 9,
+      "anchor": "救護の生徒「分かるところだけでいいです。触る前に、こちらで確かめます」",
+      "first": 605,
+      "last": 611,
+      "reason": "speaker",
+      "actors": [
+        "救護の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 9,
+      "anchor": "応援の生徒「殴ったの、君？」",
+      "first": 648,
+      "last": 654,
+      "reason": "speaker",
+      "actors": [
+        "応援の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 9,
+      "anchor": "応援の生徒「一人で？」",
+      "first": 650,
+      "last": 656,
+      "reason": "speaker",
+      "actors": [
+        "応援の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 12,
+      "anchor": "通りかかった生徒「……あの人、だよね」",
+      "first": 744,
+      "last": 750,
+      "reason": "speaker",
+      "actors": [
+        "通りかかった生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 12,
+      "anchor": "別の生徒「うん。名前、同じ」",
+      "first": 745,
+      "last": 751,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 12,
+      "anchor": "売り手の生徒「……大丈夫？」",
+      "first": 780,
+      "last": 786,
+      "reason": "speaker",
+      "actors": [
+        "売り手の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode8",
+      "scene": 12,
+      "anchor": "売り手の生徒「俺は、売る分を受け取っただけで……」",
+      "first": 789,
+      "last": 795,
+      "reason": "speaker",
+      "actors": [
+        "売り手の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 1,
+      "anchor": "売り手の生徒「新聞部なら、あっちの棟。二階だけど……」",
+      "first": 6,
+      "last": 12,
+      "reason": "speaker",
+      "actors": [
+        "売り手の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 4,
+      "anchor": "少し先の廊下に、背の高さが似た生徒が二人いた。プラスが顔を向けると、一人がもう一人の袖を引く。長い袖の先が揺れ、二人は窓の方へ向き直った。",
+      "first": 209,
+      "last": 210,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 5,
+      "anchor": "生徒「しばらく行けないんだって」",
+      "first": 219,
+      "last": 225,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 5,
+      "anchor": "別の生徒「そりゃ、あんなことやったらな」",
+      "first": 220,
+      "last": 226,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 6,
+      "anchor": "受付の生徒は、手元の記録を確かめた。",
+      "first": 236,
+      "last": 240,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 6,
+      "anchor": "保健委員「短い面会なら。まだ検査と処置の途中ですから、疲れさせないでください」",
+      "first": 235,
+      "last": 241,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 6,
+      "anchor": "保健委員「あなたの手も、帰る前に見せてください」",
+      "first": 237,
+      "last": 243,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 8,
+      "anchor": "保健委員「動くことについては、こちらで判断します」",
+      "first": 380,
+      "last": 386,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 8,
+      "anchor": "保健委員「事情を伝える必要があるなら、ここへ来てもらう方法もあります。今、無理に立ち上がらないでください」",
+      "first": 384,
+      "last": 390,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode9",
+      "scene": 12,
+      "anchor": "プラスも、授業が終わったら戻ると受付へ伝えた。登校する前に、まだ少し時間があった。",
+      "first": 533,
+      "last": 540,
+      "reason": "presence",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「到着した時点で、すでに負傷者がいた、ということですね」",
+      "first": 8,
+      "last": 14,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「では、到着後に見たことを」",
+      "first": 10,
+      "last": 16,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「あなた方の証言は、記録しました」",
+      "first": 22,
+      "last": 28,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「この場で、先に決まった処分を変更することはできません。証言と、ほかの記録を確認する必要があります」",
+      "first": 26,
+      "last": 32,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「新聞の記事を訂正する手続きも、ここでは行いません」",
+      "first": 28,
+      "last": 34,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「本人の状態も含めて確認します」",
+      "first": 34,
+      "last": 40,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 1,
+      "anchor": "聴取担当「今の発言も、記録しておきます」",
+      "first": 38,
+      "last": 43,
+      "reason": "speaker",
+      "actors": [
+        "聴取担当"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 5,
+      "anchor": "湯気のような形の飾りが彫ってあった。入口の前では、生徒が二人、何かを相談しながら順番を待っている。",
+      "first": 281,
+      "last": 285,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 5,
+      "anchor": "店の生徒「あ、戻った？　奥、空けてあるよ」",
+      "first": 288,
+      "last": 294,
+      "reason": "speaker",
+      "actors": [
+        "店の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 6,
+      "anchor": "客の一人が、プラスを見た。",
+      "first": 314,
+      "last": 321,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode10",
+      "scene": 8,
+      "anchor": "店の生徒「分かった！」",
+      "first": 419,
+      "last": 425,
+      "reason": "speaker",
+      "actors": [
+        "店の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「早くしろよ。次、遅れんだろ」",
+      "first": 31,
+      "last": 37,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「すみません」",
+      "first": 34,
+      "last": 40,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「だから、落とすなって言ったじゃん」",
+      "first": 35,
+      "last": 41,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「申し訳ありません！」",
+      "first": 50,
+      "last": 56,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「通路を塞いでしまって、申し訳ありません。すぐに片づけます」",
+      "first": 55,
+      "last": 61,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「すみません、会長。こいつ、ちょっと手が滑っただけで。俺たちも、今、手伝ってたところです」",
+      "first": 58,
+      "last": 64,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「ありません」",
+      "first": 64,
+      "last": 70,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 2,
+      "anchor": "生徒「大丈夫です。こちらの不注意ですので」",
+      "first": 68,
+      "last": 74,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 3,
+      "anchor": "生徒「まだ？　運ぶの、これで最後じゃないんだけど」",
+      "first": 97,
+      "last": 103,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 3,
+      "anchor": "生徒「うん。今、履く」",
+      "first": 98,
+      "last": 104,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 3,
+      "anchor": "生徒「お、おはようございます」",
+      "first": 104,
+      "last": 110,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 3,
+      "anchor": "生徒「休憩、終わりましたので」",
+      "first": 108,
+      "last": 114,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode11",
+      "scene": 3,
+      "anchor": "生徒「会長の前で落とすなよ」",
+      "first": 112,
+      "last": 118,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「少し、状態を確認します」",
+      "first": 596,
+      "last": 602,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「その答えで構いません。無理に動いて確かめなくていいです」",
+      "first": 603,
+      "last": 609,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「経過は、朝より落ち着いています。次の診察で問題がなければ、ランスさんは寮へ戻る許可を出せる見込みです」",
+      "first": 614,
+      "last": 620,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「明日の朝です。ただし、戻れることと、普段どおり動けることは違います」",
+      "first": 618,
+      "last": 624,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「歩行と身の回りの軽いことからです。荷物運びや激しい運動、決闘は、まだ許可できません。通学も、状態を見て調整します」",
+      "first": 621,
+      "last": 627,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 17,
+      "anchor": "保健委員「負担のかかる使い方は避けてください。何をするつもりか、退院前に具体的に確認します」",
+      "first": 623,
+      "last": 629,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 18,
+      "anchor": "保健委員「追加の確認が必要です。同じ日に戻れるとは、まだ言えません」",
+      "first": 637,
+      "last": 643,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode12",
+      "scene": 19,
+      "anchor": "保健委員「実際に殴っていないなら、そのままにしてください」",
+      "first": 674,
+      "last": 680,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode13",
+      "scene": 7,
+      "anchor": "受付の生徒が確認し、次にランスを見る。",
+      "first": 585,
+      "last": 589,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode13",
+      "scene": 7,
+      "anchor": "受付の生徒「こちらの方は？」",
+      "first": 584,
+      "last": 590,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode13",
+      "scene": 7,
+      "anchor": "受付の生徒が、案内の条件を確認した。",
+      "first": 592,
+      "last": 596,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode13",
+      "scene": 7,
+      "anchor": "受付の生徒「展示室内では、ご一緒にお願いします。奥の準備区画は立ち入りできません」",
+      "first": 592,
+      "last": 598,
+      "reason": "speaker",
+      "actors": [
+        "受付の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode13",
+      "scene": 7,
+      "anchor": "受付の生徒が、来場票を二つ差し出した。",
+      "first": 597,
+      "last": 601,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 1,
+      "anchor": "受付の前ですれ違った客だけではない。壁際で解説をしている生徒がいる。白い手袋をはめ、作品に近づきすぎる客へ声をかける生徒がいる。通路の端では、荷車の車輪へ布を巻き直している者までいた。",
+      "first": 25,
+      "last": 32,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "見学客「トリエさんって、入学する前からベレーさんの作品が好きだったんだって」",
+      "first": 68,
+      "last": 74,
+      "reason": "speaker",
+      "actors": [
+        "見学客"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "連れの客「じゃあ、同じサークルに入れて嬉しかっただろうね」",
+      "first": 69,
+      "last": 75,
+      "reason": "speaker",
+      "actors": [
+        "連れの客"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "見学客「これ、実物なんですか？」",
+      "first": 116,
+      "last": 122,
+      "reason": "speaker",
+      "actors": [
+        "見学客"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "美術部員「ええ。こちらの制作で残ったものです。映像だけでなく、散った後の形も含めてご覧いただけます」",
+      "first": 117,
+      "last": 123,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "見学客「へえ。すごい。ここ、花みたいになってる」",
+      "first": 118,
+      "last": 124,
+      "reason": "speaker",
+      "actors": [
+        "見学客"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "美術部員「前の制作ですね。今回の先行展示では、過去の記録も一部ご紹介しています」",
+      "first": 140,
+      "last": 146,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 2,
+      "anchor": "美術部員「今、こちらには出ていません。作品についてでしたら、私から説明できますが」",
+      "first": 142,
+      "last": 148,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "美術部員「……じゃあ、表のはこれで全部？」",
+      "first": 170,
+      "last": 176,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "別の美術部員「うん。部長の分だけ、まだ裏」",
+      "first": 171,
+      "last": 177,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "美術部員「大きいやつ？」",
+      "first": 172,
+      "last": 178,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "別の美術部員「奥のアトリエ。あれ、ここの扉通らないでしょ」",
+      "first": 173,
+      "last": 179,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "美術部員「中庭の台、間に合うのかな」",
+      "first": 176,
+      "last": 182,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "別の美術部員「建設の方には、もう話してるって。先に下の寸法だけ出したらしい」",
+      "first": 177,
+      "last": 183,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "美術部員「枝が終わったら、って聞いたけど」",
+      "first": 178,
+      "last": 184,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "別の美術部員「また材料が足りなくなったんだってさ」",
+      "first": 179,
+      "last": 185,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "美術部員「え、追加したばっかりじゃなかった？」",
+      "first": 180,
+      "last": 186,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 3,
+      "anchor": "別の美術部員「知らないよ。ぼくは運ぶ日だけ教えてもらえればいい」",
+      "first": 181,
+      "last": 187,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "美術部員「こっちの台、空いてる？」",
+      "first": 242,
+      "last": 248,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "美術部員「あ、鎧、こっちか」",
+      "first": 266,
+      "last": 272,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "別の美術部員「それ、今の便？」",
+      "first": 267,
+      "last": 273,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "美術部員「知らない。札まだだね」",
+      "first": 268,
+      "last": 274,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "別の美術部員「こっちの人型も？　衣装つき？」",
+      "first": 274,
+      "last": 280,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "美術部員「触らない方がいいよ。どこまで作品か分かんないし」",
+      "first": 275,
+      "last": 281,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "別の美術部員「顔、偉そうだなあ」",
+      "first": 276,
+      "last": 282,
+      "reason": "speaker",
+      "actors": [
+        "別の美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 4,
+      "anchor": "美術部員「表に置いたら目立ちそうだけどね。先にこれ、奥へ運ぼ」",
+      "first": 280,
+      "last": 286,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 7,
+      "anchor": "美術部員「あれ。お帰りですか？」",
+      "first": 549,
+      "last": 555,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode14",
+      "scene": 7,
+      "anchor": "美術部員「大丈夫ですか。正面の休憩所、使えますよ」",
+      "first": 556,
+      "last": 562,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode15",
+      "scene": 10,
+      "anchor": "不良部員「さっきと違うぞ」",
+      "first": 510,
+      "last": 516,
+      "reason": "speaker",
+      "actors": [
+        "不良部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode15",
+      "scene": 10,
+      "anchor": "不良部員「五つって言ったろ。今、六つだっつった」",
+      "first": 512,
+      "last": 518,
+      "reason": "speaker",
+      "actors": [
+        "不良部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode15",
+      "scene": 10,
+      "anchor": "不良部員「寝てんのかよ」",
+      "first": 517,
+      "last": 523,
+      "reason": "speaker",
+      "actors": [
+        "不良部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode15",
+      "scene": 12,
+      "anchor": "学校から離れる道を、生徒が何人も歩いている。",
+      "first": 601,
+      "last": 608,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 6,
+      "anchor": "前会長「お前ならできるだろ」",
+      "first": 406,
+      "last": 412,
+      "reason": "speaker",
+      "actors": [
+        "前会長"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 6,
+      "anchor": "前会長「じゃあ、壊れないようにやれよ」",
+      "first": 422,
+      "last": 428,
+      "reason": "speaker",
+      "actors": [
+        "前会長"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 6,
+      "anchor": "前会長「外せ！　お前、誰に――」",
+      "first": 444,
+      "last": 450,
+      "reason": "speaker",
+      "actors": [
+        "前会長"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 7,
+      "anchor": "部員たちは、それぞれ違うことを聞いていた。",
+      "first": 497,
+      "last": 501,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 7,
+      "anchor": "次の会長を決める話になったとき、何人もがデヂの名前を出した。",
+      "first": 507,
+      "last": 514,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 12,
+      "anchor": "寮へ別々に帰すより、今夜はまとまっていた方がいいと、部員たちが申し出た。",
+      "first": 793,
+      "last": 800,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 14,
+      "anchor": "建設委員「朝、資材の受け渡しが来た。昨日止めた分を戻すって。入口で、俺と、もう一人で受けてたんだ。その間、あいつは奥にいた。……いた、はずだった」",
+      "first": 867,
+      "last": 873,
+      "reason": "speaker",
+      "actors": [
+        "建設委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode16",
+      "scene": 14,
+      "anchor": "建設委員「朝飯を分けようとして呼んだら、いなくて。便所かと思って、そっちも見た。倉庫も、中庭も。……どこにも、いない」",
+      "first": 869,
+      "last": 875,
+      "reason": "speaker",
+      "actors": [
+        "建設委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 1,
+      "anchor": "建設委員「美術の資材庫。東の別棟だ」",
+      "first": 6,
+      "last": 12,
+      "reason": "speaker",
+      "actors": [
+        "建設委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 7,
+      "anchor": "建設委員「いたのか！　大丈夫なのか！」",
+      "first": 406,
+      "last": 412,
+      "reason": "speaker",
+      "actors": [
+        "建設委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 7,
+      "anchor": "もう一人の部員が一緒に保健委員会へ向かい、途中でプラスと抱える役を代わった。",
+      "first": 411,
+      "last": 418,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode17",
+      "scene": 7,
+      "anchor": "保健委員「皆さんも座って。何があったか、順に聞かせてください」",
+      "first": 416,
+      "last": 422,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode18",
+      "scene": 2,
+      "anchor": "扉の前には庇があり、荷物を運ぶ者が来ると、受付の向こうから人が出てきた。誰が持ち上げるかで言い合う声も、扉へ箱をぶつける音もしなかった。",
+      "first": 71,
+      "last": 78,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode18",
+      "scene": 2,
+      "anchor": "生徒「……新しい会長、明日はちゃんと喋るんだろうな」",
+      "first": 83,
+      "last": 89,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode18",
+      "scene": 2,
+      "anchor": "別の生徒「さあ。あの人、授業で見たことないし」",
+      "first": 84,
+      "last": 90,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode18",
+      "scene": 2,
+      "anchor": "生徒「前の会長も、そうそう見られなかったけどな」",
+      "first": 85,
+      "last": 91,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode18",
+      "scene": 4,
+      "anchor": "係の者「お戻りになった際に、お伝えします」",
+      "first": 305,
+      "last": 311,
+      "reason": "speaker",
+      "actors": [
+        "係の者"
+      ]
+    },
+    {
+      "episode": "chapter2-episode19",
+      "scene": 1,
+      "anchor": "委員「作品の置かれた場所には、別の者が向かっています。ここで、どなたかを連れ出す予定はありません。接触があれば、時刻と相手を記録してください」",
+      "first": 68,
+      "last": 74,
+      "reason": "speaker",
+      "actors": [
+        "委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode19",
+      "scene": 3,
+      "anchor": "受付で名前を告げた。昼に植え込みから見上げた扉が、今度は正面から開いた。",
+      "first": 220,
+      "last": 227,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 1,
+      "anchor": "その景色を、列に並んだ生徒たちが窓越しに見ていた。",
+      "first": 48,
+      "last": 52,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 1,
+      "anchor": "生徒「創立記念日って、休みなのに閉じ込められんだな」",
+      "first": 47,
+      "last": 53,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 1,
+      "anchor": "別の生徒「飯は来るじゃん」",
+      "first": 48,
+      "last": 54,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 1,
+      "anchor": "生徒「外の、うまそうなやつは来ねえだろ」",
+      "first": 49,
+      "last": 55,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "係「外出先と通行できる区画は、書面のとおりです。来賓の通行を優先してください。それから、生徒の側から来賓へ接触することは禁止されています」",
+      "first": 76,
+      "last": 82,
+      "reason": "speaker",
+      "actors": [
+        "係"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "係「はい。挨拶、呼び止め、贈り物、依頼。近づいて申し出る行為を含みます。接遇を担当する者は、担当者の指示に従ってください」",
+      "first": 78,
+      "last": 84,
+      "reason": "speaker",
+      "actors": [
+        "係"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "係「外出を認める許可であって、来賓への面会許可ではありません」",
+      "first": 81,
+      "last": 87,
+      "reason": "speaker",
+      "actors": [
+        "係"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "ローブ姿の生徒が近くを横切ろうとすると、護衛の一人が掌を上げた。",
+      "first": 97,
+      "last": 104,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "待っていた生徒たちが、合図に合わせて背筋を伸ばす。さっきまで音を確かめていた場所へ、整った旋律が広がった。",
+      "first": 112,
+      "last": 116,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "来賓「朝から随分、贅沢をさせてもらうね」",
+      "first": 116,
+      "last": 122,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 2,
+      "anchor": "来賓「小さい器なのが惜しいくらいだ」",
+      "first": 118,
+      "last": 124,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "来賓「ベレッタの新作は、こちらかね」",
+      "first": 136,
+      "last": 142,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "案内役「はい。お披露目は、後ほどを予定しております。先に闘技場へ、ご案内いたします」",
+      "first": 139,
+      "last": 145,
+      "reason": "speaker",
+      "actors": [
+        "案内役"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "来賓「彼女のために時間を空けてきたんだ。見逃さないように頼むよ」",
+      "first": 140,
+      "last": 146,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "別の来賓「前の作品も、間近で見ればまるで違った。ここへ置くほど大きいなら、なおさらだ」",
+      "first": 141,
+      "last": 147,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "来賓「ベレッタ。会えて嬉しいよ」",
+      "first": 162,
+      "last": 168,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "来賓「新作を楽しみにしている。予定が変わったそうだね」",
+      "first": 167,
+      "last": 173,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 3,
+      "anchor": "来賓「今日も、君から作品の話を聞けるかな」",
+      "first": 169,
+      "last": 175,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 4,
+      "anchor": "係「承知いたしました」",
+      "first": 226,
+      "last": 232,
+      "reason": "speaker",
+      "actors": [
+        "係"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 4,
+      "anchor": "係「まもなく、闘技場へお着きになります。学園でのご案内は、生徒会の役員が務めます。こちらでは、その後にお迎えする方々の確認を」",
+      "first": 228,
+      "last": 234,
+      "reason": "speaker",
+      "actors": [
+        "係"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "来賓「アシャラだ。昨日の資料には、彼の名があったね」",
+      "first": 250,
+      "last": 256,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "別の来賓「足だけではなく、雷の扱いも見られるそうだ」",
+      "first": 251,
+      "last": 257,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "来賓「もちろん。公演とは違う姿が見られると、楽しみにしていたの」",
+      "first": 255,
+      "last": 261,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "ミルクが頭を下げる。顔を上げた先では、来賓たちが拍手を続けていた。",
+      "first": 288,
+      "last": 292,
+      "reason": "presence",
+      "actors": [
+        "来賓の男",
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "生徒「会長が？」",
+      "first": 304,
+      "last": 310,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "別の生徒「ベレーって、あのベレーだよな」",
+      "first": 305,
+      "last": 311,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "来賓「彼女が決闘へ出るのか」",
+      "first": 306,
+      "last": 312,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "来賓「ベレッタが決闘もするとは。今日は、作品だけを楽しみに来たつもりだったが」",
+      "first": 317,
+      "last": 323,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 5,
+      "anchor": "別の来賓「生徒会長との対戦とはね。こちらも見てみたくなるな」",
+      "first": 318,
+      "last": 323,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "来賓の一人が立ち上がり、二人へ声を掛けた。",
+      "first": 596,
+      "last": 600,
+      "reason": "presence",
+      "actors": [
+        "来賓の男",
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "来賓「見事だった。アシャラ、最後の踏み込みは、競技で見る時と同じだったね」",
+      "first": 595,
+      "last": 601,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "別の来賓「ミューの兵士も美しかった。あれほどの数を動かしながら、形を変えられるとは」",
+      "first": 596,
+      "last": 602,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "来賓「もう城へ向かう時間か。ベレッタの方まで見ていきたかったが」",
+      "first": 610,
+      "last": 616,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "案内役「城では、既に受け入れの準備を整えております」",
+      "first": 611,
+      "last": 617,
+      "reason": "speaker",
+      "actors": [
+        "案内役"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "来賓「そうだね。陛下を待たせるわけにもいかない」",
+      "first": 612,
+      "last": 618,
+      "reason": "speaker",
+      "actors": [
+        "来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode20",
+      "scene": 9,
+      "anchor": "別の来賓「新作の披露の時刻が決まったら、忘れずに教えてくれ」",
+      "first": 613,
+      "last": 619,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 2,
+      "anchor": "観客の生徒「何で、今……」",
+      "first": 57,
+      "last": 63,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "係の生徒「先ほどの確認の件ですね。こちらで、お話を伺います」",
+      "first": 111,
+      "last": 115,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「何。俺、飲み物こぼしただけだぞ」",
+      "first": 112,
+      "last": 118,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「試合中なんだから、光ることくらいあるだろ」",
+      "first": 114,
+      "last": 120,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「……いや」",
+      "first": 118,
+      "last": 124,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "係の生徒「容器です。設備ではありませんでした」",
+      "first": 124,
+      "last": 130,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「それで、何で俺のを見るんだよ」",
+      "first": 137,
+      "last": 143,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「能力、使えなくなったりは」",
+      "first": 148,
+      "last": 154,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「うわっ」",
+      "first": 159,
+      "last": 165,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「……今のか？」",
+      "first": 163,
+      "last": 169,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 4,
+      "anchor": "観客の生徒「……俺の、止まったぞ」",
+      "first": 183,
+      "last": 189,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 5,
+      "anchor": "係の生徒「こちらを空けてください。立ち止まる方は、壁側へ」",
+      "first": 205,
+      "last": 211,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 6,
+      "anchor": "観客の生徒「また外れた！」",
+      "first": 254,
+      "last": 260,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 6,
+      "anchor": "別の生徒「当たっても、治るぞ。どうすんだ、これ」",
+      "first": 255,
+      "last": 261,
+      "reason": "speaker",
+      "actors": [
+        "別の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 7,
+      "anchor": "オタクサークルの部員「俺、係の人、呼んでくる」",
+      "first": 309,
+      "last": 315,
+      "reason": "speaker",
+      "actors": [
+        "オタクサークルの部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 7,
+      "anchor": "別の部員「水、どこだっけ」",
+      "first": 310,
+      "last": 316,
+      "reason": "speaker",
+      "actors": [
+        "別の部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 8,
+      "anchor": "来賓の案内を終えた係が戻り、残っている観客と業務の生徒の出入りを整理している。",
+      "first": 330,
+      "last": 337,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 9,
+      "anchor": "観客の生徒「これ、何でついてたんだろうな。美術の展示、何回か行ったけど」",
+      "first": 380,
+      "last": 386,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 9,
+      "anchor": "次の一人が、待っていた。",
+      "first": 431,
+      "last": 438,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 13,
+      "anchor": "ほかのグレード5の生徒たちの席でも、話し声が切れていた。",
+      "first": 590,
+      "last": 594,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 14,
+      "anchor": "バグは、次の一人へ同じ説明をしていた。",
+      "first": 634,
+      "last": 641,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 15,
+      "anchor": "美術サークルの部員「あれ、何なんですか。会長の……」",
+      "first": 659,
+      "last": 665,
+      "reason": "speaker",
+      "actors": [
+        "美術サークルの部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode21",
+      "scene": 15,
+      "anchor": "自分も階段を下り、確認に回る生徒たちへ向かった。",
+      "first": 681,
+      "last": 685,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "生徒「……何だよ、これ。俺、何もしてねえのに」",
+      "first": 52,
+      "last": 58,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "美術部員「何をしている」",
+      "first": 56,
+      "last": 62,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "除去を手伝う生徒「手帳の確認。さっきから、説明してるだろ」",
+      "first": 57,
+      "last": 63,
+      "reason": "speaker",
+      "actors": [
+        "除去を手伝う生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "美術部員「試合中に、部長の能力を邪魔するつもりか」",
+      "first": 58,
+      "last": 64,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "美術部員「お前らが、何を企んでいるか――」",
+      "first": 63,
+      "last": 69,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 2,
+      "anchor": "美術部員「離せ」",
+      "first": 68,
+      "last": 74,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 3,
+      "anchor": "係の生徒「勉強サークルの、Xさんへ？」",
+      "first": 94,
+      "last": 100,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 4,
+      "anchor": "もう一人、もう一人と、席を離れる生徒を通していた。",
+      "first": 178,
+      "last": 185,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 7,
+      "anchor": "係の生徒「本人の了承を得た確認です。妨げないでください」",
+      "first": 357,
+      "last": 363,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 10,
+      "anchor": "係の生徒「はい。受付の補助に。そのあと、手帳の確認を」",
+      "first": 658,
+      "last": 664,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 10,
+      "anchor": "係の生徒「机に、いらっしゃいました」",
+      "first": 660,
+      "last": 666,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 10,
+      "anchor": "係の生徒「Xさん。あの……」",
+      "first": 670,
+      "last": 676,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "美術部員「止まれ」",
+      "first": 751,
+      "last": 757,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "美術部員「部長の試合が終わるまで待て」",
+      "first": 753,
+      "last": 759,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "観客の生徒「いいから、来てくれよ！　さっきから、光ってるんだよ！」",
+      "first": 758,
+      "last": 764,
+      "reason": "speaker",
+      "actors": [
+        "観客の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "部員の一人が、拳を握った。",
+      "first": 780,
+      "last": 784,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "美術部員「……え？」",
+      "first": 786,
+      "last": 792,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "凍った部員の一人が、顔だけを向けた。",
+      "first": 805,
+      "last": 809,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "美術部員「X……さん？　でも、停学……」",
+      "first": 804,
+      "last": 810,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "美術部員「だったら、何で、能力を――」",
+      "first": 809,
+      "last": 815,
+      "reason": "speaker",
+      "actors": [
+        "美術部員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 12,
+      "anchor": "相手が頷くと、凍った生徒たちの間に、人一人が通れる道を残した。",
+      "first": 816,
+      "last": 820,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode22",
+      "scene": 13,
+      "anchor": "シグマが、座ったままの観客の横へ屈んだ。",
+      "first": 862,
+      "last": 866,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 4,
+      "anchor": "生徒「まだ、残ってるのか？」",
+      "first": 96,
+      "last": 102,
+      "reason": "speaker",
+      "actors": [
+        "生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 13,
+      "anchor": "係が、前列の観客をさらに奥へ下げた。",
+      "first": 888,
+      "last": 895,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode23",
+      "scene": 13,
+      "anchor": "Xは、凍らせた部員たちの状態を確かめていた。",
+      "first": 927,
+      "last": 931,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 1,
+      "anchor": "係の生徒「今は、お座りになっていてください」",
+      "first": 9,
+      "last": 13,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の一人が、先に口を開いた。",
+      "first": 161,
+      "last": 165,
+      "reason": "presence",
+      "actors": [
+        "来賓の男",
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の男「お身体は、もうよろしいのですか。素晴らしい試合でした」",
+      "first": 160,
+      "last": 166,
+      "reason": "speaker",
+      "actors": [
+        "来賓の男"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の女「……中にいる、というのは？」",
+      "first": 166,
+      "last": 172,
+      "reason": "speaker",
+      "actors": [
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の女「人を……あの木に？」",
+      "first": 170,
+      "last": 176,
+      "reason": "speaker",
+      "actors": [
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "別の来賓「以前、購入したものがあります。本人は、特殊な素材だと説明していました。あれも、調べた方がよいのですか」",
+      "first": 173,
+      "last": 179,
+      "reason": "speaker",
+      "actors": [
+        "別の来賓"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の男「しかし、決闘に負けたことと、作品の価値は別でしょう。せめて、搬出前に拝見することは」",
+      "first": 177,
+      "last": 183,
+      "reason": "speaker",
+      "actors": [
+        "来賓の男"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の男「ええ。作業のお邪魔はいたしません。見るだけなら――」",
+      "first": 183,
+      "last": 189,
+      "reason": "speaker",
+      "actors": [
+        "来賓の男"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 6,
+      "anchor": "来賓の女「私の購入したものも、一覧にします。どなたへお渡しすれば？」",
+      "first": 190,
+      "last": 195,
+      "reason": "speaker",
+      "actors": [
+        "来賓の女"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 8,
+      "anchor": "保健委員「そこで止めて。こちらの腕を支えます」",
+      "first": 267,
+      "last": 273,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 8,
+      "anchor": "保健委員「続けられますか」",
+      "first": 278,
+      "last": 284,
+      "reason": "speaker",
+      "actors": [
+        "保健委員"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 9,
+      "anchor": "建設委員会の部員が二人、廊下の角を曲がってきた。デヂに気づき、足を止めた。",
+      "first": 329,
+      "last": 333,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 9,
+      "anchor": "一人は、何かを言おうとした。",
+      "first": 330,
+      "last": 337,
+      "reason": "presence",
+      "actors": [
+        "周囲の男子",
+        "周囲の女子"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 11,
+      "anchor": "係の生徒「呼吸が戻ったことは、確認されています。ただ、まだ意識はありません。残りの方についても、処置を続けています」",
+      "first": 406,
+      "last": 412,
+      "reason": "speaker",
+      "actors": [
+        "係の生徒"
+      ]
+    },
+    {
+      "episode": "chapter2-episode24",
+      "scene": 15,
+      "anchor": "部屋へ入る前に、受付で利用条件を確認した。",
+      "first": 542,
+      "last": 549,
+      "reason": "presence",
+      "actors": [
+        "係の生徒"
+      ]
+    }
+  ]
+}

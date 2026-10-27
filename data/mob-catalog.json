@@ -66,5 +66,37 @@
       "file": "assets/characters/mob-civilian-commoner-neutral.webp",
       "role": "一般男性・住民"
     }
+  ],
+  "extended_variants": [
+    {
+      "id": "mob-civilian-teacher",
+      "file": "assets/characters/mob-civilian-teacher-neutral.webp",
+      "role": "teacher"
+    },
+    {
+      "id": "mob-civilian-noblewoman",
+      "file": "assets/characters/mob-civilian-noblewoman-neutral.webp",
+      "role": "noblewoman"
+    },
+    {
+      "id": "mob-civilian-schoolboy",
+      "file": "assets/characters/mob-civilian-schoolboy-neutral.webp",
+      "role": "schoolboy"
+    },
+    {
+      "id": "mob-civilian-schoolgirl",
+      "file": "assets/characters/mob-civilian-schoolgirl-neutral.webp",
+      "role": "schoolgirl"
+    },
+    {
+      "id": "mob-prisoner-male",
+      "file": "assets/characters/mob-prisoner-male-neutral.webp",
+      "role": "seated-male"
+    },
+    {
+      "id": "mob-prisoner-female",
+      "file": "assets/characters/mob-prisoner-female-neutral.webp",
+      "role": "seated-female"
+    }
   ]
 }
