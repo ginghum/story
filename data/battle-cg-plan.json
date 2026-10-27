@@ -638,7 +638,18 @@
       "episode": "chapter2-episode8",
       "scene": 6,
       "intro": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
-      "cues": []
+      "cues": [
+        {
+          "anchor": "膝を曲げたまま、身体が元の大きさへ戻る。肩へ葉が掛かり、足元で細い根が鳴った。",
+          "src": "assets/cg/ch2-08-plus-emerge.webp",
+          "alt": "小型化を解除しレオルカの足元に現れるプラス"
+        },
+        {
+          "anchor": "伸ばした拳が、レオルカの脇腹へ入った。",
+          "src": "https://ginghum.github.io/cursehighschool-/assets/illustrations/chapter2-episode8-a.webp",
+          "alt": "レオルカへ反撃するプラス"
+        }
+      ]
     },
     {
       "episode": "chapter2-episode8",
