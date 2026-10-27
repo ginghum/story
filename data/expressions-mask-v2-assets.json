@@ -1,0 +1,69 @@
+{
+  "generator": "built-in image_gen",
+  "shared_prompt": "Edit existing fullbody sprite. Preserve identity, proportions, pose, hands, costume, palette, silhouette, framing and anime rendering. Genuine transparent background. No text or additional people/objects.",
+  "assets": [
+    {
+      "id": "beret-smug",
+      "prompt": "Only change her facial expression: a self-satisfied, sly closed-mouth smile, lowered eyelids, calmly appraising somebody. Keep petite build.",
+      "reference": "beret-neutral.webp",
+      "file": "assets/characters/beret-smug.webp"
+    },
+    {
+      "id": "beret-angry",
+      "prompt": "Only change facial expression: angry frustration, knitted brows, tight mouth slightly open speaking, no tears, keep petite build.",
+      "reference": "beret-neutral.webp",
+      "file": "assets/characters/beret-angry.webp"
+    },
+    {
+      "id": "beret-shocked",
+      "prompt": "Only change facial expression: startled loss of composure, widened blue-grey eyes, small open mouth, tense brows. No exaggerated comedy.",
+      "reference": "beret-neutral.webp",
+      "file": "assets/characters/beret-shocked.webp"
+    },
+    {
+      "id": "kagachi-serious",
+      "prompt": "Change face to quietly serious, firm closed mouth, lowered eyebrows visible above black sunglasses. Keep same extremely fat rounded body, hamburger and clothes exactly.",
+      "reference": "kagachi-neutral.webp",
+      "file": "assets/characters/kagachi-serious.webp"
+    },
+    {
+      "id": "kagachi-smile",
+      "prompt": "Change facial expression to warm gentle closed-mouth reassuring smile, relaxed cheeks. Keep same extremely fat rounded body, black sunglasses, hamburger and clothes exactly.",
+      "reference": "kagachi-neutral.webp",
+      "file": "assets/characters/kagachi-smile.webp"
+    },
+    {
+      "id": "kagachi-angry",
+      "prompt": "Change facial expression to restrained displeasure, firm downturned mouth, tense brows. Keep same extremely fat rounded body, black sunglasses, hamburger and clothes exactly.",
+      "reference": "kagachi-neutral.webp",
+      "file": "assets/characters/kagachi-angry.webp"
+    },
+    {
+      "id": "jend-serious",
+      "prompt": "Only change facial expression: cold flat unsmiling expression, lips closed, narrowed grey eyes, calm authority. Keep black bob haircut and same fullbody.",
+      "reference": "jend-neutral.webp",
+      "file": "assets/characters/jend-serious.webp"
+    },
+    {
+      "id": "jend-smug",
+      "prompt": "Only change facial expression: condescending smug small smile, half-lidded grey eyes, one brow slightly raised. Keep black bob haircut and same fullbody.",
+      "reference": "jend-neutral.webp",
+      "file": "assets/characters/jend-smug.webp"
+    },
+    {
+      "id": "jend-angry",
+      "prompt": "Only change facial expression: irritated command, eyebrows lowered, mouth slightly open giving an order, eyes stern. Keep black bob haircut and same fullbody.",
+      "reference": "jend-neutral.webp",
+      "file": "assets/characters/jend-angry.webp"
+    },
+    {
+      "id": "minus-masked-neutral",
+      "file": "assets/characters/minus-masked-neutral.webp",
+      "references": [
+        "existing sprite",
+        "prose/assets/illustrations/chapter2-episode4-b.webp"
+      ],
+      "prompt": "Match canonical illustration: hood worn up, smooth white oval mask with two small round black eye holes, no mouth or other markings. Hide most hair within brown cowl. Preserve body, costume and stance. Transparent background."
+    }
+  ]
+}

@@ -39,5 +39,7 @@ def main():
   if before!=d['entries']:
    path=R/m['file'];path.write_text(json.dumps(d,ensure_ascii=False,indent=None if n else 2,separators=(',',':') if n else None)+'\n');changes.append(id)
  (R/'data/visual-audit-report.json').write_text(json.dumps(dict(episodes_checked=len(metas),speaker_lines_fixed=fixed,expression_entries_added=expr,updated_episodes=changes,shots=[dict(episode=t,anchor=a,file=f,alt=alt,hold=h) for t,a,f,alt,h in SHOTS],notes=['Text, entry order and save offsets are unchanged.','Voice-only speakers are excluded from portrait fallback.','Broad visual audit with targeted improvements, not a manual screenshot review of every line.']),ensure_ascii=False,indent=2)+'\n')
+ from enhance_character_expressions import main as enhance_character_expressions
+ enhance_character_expressions()
  print('Visual audit:',len(metas),'episodes;',fixed,'speaker lines;',expr,'expression entries;',len(changes),'updated episodes')
 if __name__=='__main__':main()
