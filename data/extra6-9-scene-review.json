@@ -1,0 +1,506 @@
+{
+  "extra6": [
+    {
+      "scene": 1,
+      "location": "闘技場／調査と勧誘",
+      "background": "arena-reception",
+      "bgm": "calm",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "scene": 2,
+      "location": "闘技場／アシャラとの決闘",
+      "background": "arena-floor",
+      "bgm": "battle",
+      "start": 34,
+      "end": 76
+    },
+    {
+      "scene": 3,
+      "location": "保健棟／病室",
+      "background": "infirmary",
+      "bgm": "reflection",
+      "start": 77,
+      "end": 104
+    },
+    {
+      "scene": 4,
+      "location": "保健棟／病室",
+      "background": "infirmary",
+      "bgm": "calm",
+      "start": 105,
+      "end": 163
+    },
+    {
+      "scene": 5,
+      "location": "学生寮／退院のあと",
+      "background": "dorm",
+      "bgm": "reflection",
+      "start": 164,
+      "end": 181
+    },
+    {
+      "scene": 6,
+      "location": "オカルト＆昆虫／入部",
+      "background": "clubroom",
+      "bgm": "calm",
+      "start": 182,
+      "end": 233
+    },
+    {
+      "scene": 7,
+      "location": "裏山／三人の活動",
+      "background": "ch2-forest",
+      "bgm": "daily",
+      "start": 234,
+      "end": 269
+    },
+    {
+      "scene": 8,
+      "location": "オカルト＆昆虫／片づけ",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 270,
+      "end": 292
+    },
+    {
+      "scene": 9,
+      "location": "オカルト＆昆虫／新入部員",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 293,
+      "end": 342
+    },
+    {
+      "scene": 10,
+      "location": "オカルト＆昆虫／四人の机",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 343,
+      "end": 369
+    },
+    {
+      "scene": 11,
+      "location": "裏山／山道",
+      "background": "ch2-forest",
+      "bgm": "calm",
+      "start": 370,
+      "end": 414
+    },
+    {
+      "scene": 12,
+      "location": "裏山／休憩場所",
+      "background": "ch2-forest",
+      "bgm": "calm",
+      "start": 415,
+      "end": 466
+    },
+    {
+      "scene": 13,
+      "location": "裏山／次の坂",
+      "background": "ch2-forest",
+      "bgm": "calm",
+      "start": 467,
+      "end": 507
+    },
+    {
+      "scene": 14,
+      "location": "裏山／開けた場所",
+      "background": "ch2-forest",
+      "bgm": "daily",
+      "start": 508,
+      "end": 564
+    },
+    {
+      "scene": 15,
+      "location": "裏山／帰り道",
+      "background": "ch2-forest",
+      "bgm": "calm",
+      "start": 565,
+      "end": 593
+    },
+    {
+      "scene": 16,
+      "location": "オカルト＆昆虫／次の活動",
+      "background": "clubroom",
+      "bgm": "calm",
+      "start": 594,
+      "end": 620
+    }
+  ],
+  "extra7": [
+    {
+      "scene": 1,
+      "location": "美食サークル／事務机",
+      "background": "ch2-restaurant",
+      "bgm": "daily",
+      "start": 0,
+      "end": 47
+    },
+    {
+      "scene": 2,
+      "location": "美食サークル／店の運営",
+      "background": "ch2-restaurant",
+      "bgm": "daily",
+      "start": 48,
+      "end": 84
+    },
+    {
+      "scene": 3,
+      "location": "美食サークル／移転の相談",
+      "background": "ch2-restaurant",
+      "bgm": "calm",
+      "start": 85,
+      "end": 144
+    },
+    {
+      "scene": 4,
+      "location": "美食サークル／昼の片づけ",
+      "background": "ch2-restaurant",
+      "bgm": "daily",
+      "start": 145,
+      "end": 188
+    },
+    {
+      "scene": 5,
+      "location": "美食サークル／有線電話",
+      "background": "ch2-restaurant",
+      "bgm": "tension",
+      "start": 189,
+      "end": 244
+    },
+    {
+      "scene": 6,
+      "location": "回想／生徒会長への襲撃",
+      "background": "ch2-memory-room",
+      "bgm": "tension",
+      "start": 245,
+      "end": 323
+    },
+    {
+      "scene": 7,
+      "location": "回想／崩れた石の陰",
+      "background": "ch2-memory-room",
+      "bgm": "underground",
+      "start": 324,
+      "end": 386
+    },
+    {
+      "scene": 8,
+      "location": "回想／逃げ延びたあと",
+      "background": "ch2-memory-room",
+      "bgm": "reflection",
+      "start": 387,
+      "end": 414
+    },
+    {
+      "scene": 9,
+      "location": "美食サークル／電話の続き",
+      "background": "ch2-restaurant",
+      "bgm": "calm",
+      "start": 415,
+      "end": 459
+    },
+    {
+      "scene": 10,
+      "location": "美食サークル／次の食事",
+      "background": "ch2-restaurant",
+      "bgm": "daily",
+      "start": 460,
+      "end": 505
+    },
+    {
+      "scene": 11,
+      "location": "美食サークル／明日の仕込み",
+      "background": "ch2-restaurant",
+      "bgm": "daily",
+      "start": 506,
+      "end": 551
+    }
+  ],
+  "extra8": [
+    {
+      "scene": 1,
+      "location": "闘技場／オリハの決闘",
+      "background": "arena-floor",
+      "bgm": "battle",
+      "start": 0,
+      "end": 47
+    },
+    {
+      "scene": 2,
+      "location": "教室／友達のできない理由",
+      "background": "classroom",
+      "bgm": "reflection",
+      "start": 48,
+      "end": 118
+    },
+    {
+      "scene": 3,
+      "location": "オタクサークル／入部",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 119,
+      "end": 192
+    },
+    {
+      "scene": 4,
+      "location": "オタクサークル／衣装の話",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 193,
+      "end": 241
+    },
+    {
+      "scene": 5,
+      "location": "オタクサークル／闇に堕ちた日",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 242,
+      "end": 316
+    },
+    {
+      "scene": 6,
+      "location": "オタクサークル／後輩のランス",
+      "background": "clubroom",
+      "bgm": "daily",
+      "start": 317,
+      "end": 387
+    },
+    {
+      "scene": 7,
+      "location": "オタクサークル／好きな作品",
+      "background": "clubroom",
+      "bgm": "calm",
+      "start": 388,
+      "end": 444
+    },
+    {
+      "scene": 8,
+      "location": "校舎／慣れない靴",
+      "background": "corridor",
+      "bgm": "daily",
+      "start": 445,
+      "end": 541
+    },
+    {
+      "scene": 9,
+      "location": "校舎／柱の陰の腰掛け",
+      "background": "courtyard",
+      "bgm": "calm",
+      "start": 542,
+      "end": 698
+    },
+    {
+      "scene": 10,
+      "location": "校舎／金属の杖",
+      "background": "courtyard",
+      "bgm": "calm",
+      "start": 699,
+      "end": 744
+    },
+    {
+      "scene": 11,
+      "location": "オタクサークル／隣の席",
+      "background": "clubroom",
+      "bgm": "calm",
+      "start": 745,
+      "end": 853
+    }
+  ],
+  "extra9": [
+    {
+      "scene": 1,
+      "location": "建設委員会／作業場",
+      "background": "ch2-construction",
+      "bgm": "reflection",
+      "start": 0,
+      "end": 27
+    },
+    {
+      "scene": 2,
+      "location": "建設委員会／低い椅子",
+      "background": "ch2-construction",
+      "bgm": "reflection",
+      "start": 28,
+      "end": 79
+    },
+    {
+      "scene": 3,
+      "location": "建設委員会／道具の順番",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 80,
+      "end": 101
+    },
+    {
+      "scene": 4,
+      "location": "建設委員会／翌日の午後",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 102,
+      "end": 139
+    },
+    {
+      "scene": 5,
+      "location": "建設委員会／爆発の音",
+      "background": "ch2-construction",
+      "bgm": "tension",
+      "start": 140,
+      "end": 154
+    },
+    {
+      "scene": 6,
+      "location": "美術棟／崩れた通路",
+      "background": "ch2-atelier",
+      "bgm": "tension",
+      "start": 155,
+      "end": 223
+    },
+    {
+      "scene": 7,
+      "location": "美術棟／作業の準備",
+      "background": "ch2-atelier",
+      "bgm": "reflection",
+      "start": 224,
+      "end": 249
+    },
+    {
+      "scene": 8,
+      "location": "美術棟／修復現場",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 250,
+      "end": 273
+    },
+    {
+      "scene": 9,
+      "location": "美術棟／支柱の確認",
+      "background": "ch2-construction",
+      "bgm": "tension",
+      "start": 274,
+      "end": 300
+    },
+    {
+      "scene": 10,
+      "location": "美術棟／分かるまで待つ",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 301,
+      "end": 336
+    },
+    {
+      "scene": 11,
+      "location": "美術棟／夜の作業灯",
+      "background": "ch2-construction",
+      "bgm": "reflection",
+      "start": 337,
+      "end": 365
+    },
+    {
+      "scene": 12,
+      "location": "美術棟／紙包みの食事",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 366,
+      "end": 412
+    },
+    {
+      "scene": 13,
+      "location": "美術棟／台車の通る道",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 413,
+      "end": 442
+    },
+    {
+      "scene": 14,
+      "location": "美術棟／復旧の確認",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 443,
+      "end": 483
+    },
+    {
+      "scene": 15,
+      "location": "建設委員会／翌日の作業",
+      "background": "ch2-construction",
+      "bgm": "daily",
+      "start": 484,
+      "end": 503
+    },
+    {
+      "scene": 16,
+      "location": "建設委員会／続く日々",
+      "background": "ch2-construction",
+      "bgm": "daily",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "scene": 17,
+      "location": "建設委員会／夕方の食事",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 528,
+      "end": 556
+    },
+    {
+      "scene": 18,
+      "location": "学園／食堂",
+      "background": "cafeteria",
+      "bgm": "daily",
+      "start": 557,
+      "end": 576
+    },
+    {
+      "scene": 19,
+      "location": "建設委員会／座れる椅子",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 577,
+      "end": 597
+    },
+    {
+      "scene": 20,
+      "location": "建設委員会／任せる仕事",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 598,
+      "end": 624
+    },
+    {
+      "scene": 21,
+      "location": "建設委員会／端材の課題",
+      "background": "ch2-construction",
+      "bgm": "daily",
+      "start": 625,
+      "end": 645
+    },
+    {
+      "scene": 22,
+      "location": "建設委員会／ベレーの訪問",
+      "background": "ch2-construction",
+      "bgm": "tension",
+      "start": 646,
+      "end": 682
+    },
+    {
+      "scene": 23,
+      "location": "建設委員会／明日の図面",
+      "background": "ch2-construction",
+      "bgm": "calm",
+      "start": 683,
+      "end": 736
+    },
+    {
+      "scene": 24,
+      "location": "建設委員会／二つの椅子",
+      "background": "ch2-construction",
+      "bgm": "homecoming",
+      "start": 737,
+      "end": 760
+    }
+  ]
+}

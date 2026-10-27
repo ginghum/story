@@ -9,7 +9,7 @@ BG={1:['newsroom','classroom','newsroom','arena-floor','campus','newsroom','news
 ART={1:{3:'extra01-a',8:'extra01-b',13:'extra01-c-v2'},2:{3:'extra02-a',8:'extra02-b',11:'extra02-c'},3:{2:'extra03-a',6:'extra03-b',13:'extra03-c'},4:{4:'extra4-doma-rescue',13:'extra4-etiquette-practice',14:'extra4-study-interview'},5:{7:'extra5-lusai-handshake',13:'extra5-lusai-circle',18:'extra5-lusai-return',24:'extra5-lusai-wait'}}
 TITLES=['正しいだけでは、売れません','呼ばれたからには、行くしかない','帰れと言っても、また来る','隣に座るなら、明日もここで','君と並んで、歩いていた']
 def main():
- manifest=json.loads((R/'data/episodes.json').read_text());manifest['episodes']=[e for e in manifest['episodes'] if not e['id'].startswith('extra')]
+ manifest=json.loads((R/'data/episodes.json').read_text());manifest['episodes']=[e for e in manifest['episodes'] if e['id'] not in {f'extra{n}' for n in range(1,6)}]
  for n in range(1,6):
   body=(R/f'data/source/extra{n}.txt').read_text();entries=[];parts=body.split('　　　　　＊')
   assert len(parts)==len(BG[n])
@@ -42,6 +42,7 @@ def main():
   d=dict(id=f'extra{n}',title=f'おまけ{n}　{TITLES[n-1]}',entries=entries,source_lines=sum(bool(l.strip()) and l.strip()!='＊' for l in body.splitlines()),source_scenes=len(parts),source_hash=hashlib.sha256(body.encode()).hexdigest())
   (R/f'data/extra{n}.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
   manifest['episodes'].append(dict(id=d['id'],title=d['title'],file=f'data/extra{n}.json',image=f'assets/cg/{next(iter(ART[n].values()))}.webp',description=TITLES[n-1],collection='extras'))
+ manifest['episodes'].sort(key=lambda e:(1,int(e['id'][5:])) if e['id'].startswith('extra') else (2,int(e['id'].split('episode')[-1])) if e['id'].startswith('chapter2-') else (0,0 if e['id']=='prologue' else int(e['id'].split('episode')[-1])))
  (R/'data/episodes.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
 
