@@ -36,7 +36,7 @@ def main():
   (R/f'data/source/{id}.txt').write_text(body)
   full=norm(body);cgs=[]
   for item in art.get(id,[]):
-   anchor=norm('エンプレス「ツキチヨ。マイナスの弟を、見ておきなさい」' if item['src'].endswith('chapter2-episode24-d-throne.webp') else item['after']);assert full.count(anchor)==1,(id,item['src'],'ambiguous CG anchor');cgs.append((full.index(anchor)+len(anchor),SOURCE_SITE+item['src'],item['alt']));allcg.append(dict(episode=id,**item))
+   anchor=norm('エンプレス「ツキチヨ。マイナスの弟を、見ておきなさい」' if item['src'].endswith('chapter2-episode24-d-throne.webp') else item['after']);assert full.count(anchor)==1,(id,item['src'],'ambiguous CG anchor');cgs.append((full.index(anchor)+len(anchor),item.get('gameSrc',SOURCE_SITE+item['src']),item['alt']));allcg.append(dict(episode=id,**item))
   entries=[];offset=0;last_track=None;scene_review=[]
   for sn,(part,key) in enumerate(zip(parts,keys),1):
    loc,bg=PLACES[key];loc=MEMORIES.get((n,sn),loc);tone='night' if key in ['F','E'] or (n in NIGHT and key in ['C','J']) else ''
