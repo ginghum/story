@@ -195,6 +195,38 @@
       "collection": "extras"
     },
     {
+      "id": "extra6",
+      "title": "おまけ6　先に行くなら、待っていて",
+      "file": "data/extra6.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/extra4-a-hospital.webp",
+      "description": "ワンと、先で待っていてくれる仲間たち。",
+      "collection": "extras"
+    },
+    {
+      "id": "extra7",
+      "title": "おまけ7　次のごはんも、君と",
+      "file": "data/extra7.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/extra5-daily.webp",
+      "description": "食卓と帳簿の向こうに残る、カガチの過去。",
+      "collection": "extras"
+    },
+    {
+      "id": "extra8",
+      "title": "おまけ8　笑っていれば、いいはずだった",
+      "file": "data/extra8.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/extra8-a-duel.webp",
+      "description": "居場所を探すオリハと、思いがけない優しさ。",
+      "collection": "extras"
+    },
+    {
+      "id": "extra9",
+      "title": "おまけ9　明日も来るなら、隣を空けて",
+      "file": "data/extra9.json",
+      "image": "https://ginghum.github.io/cursehighschool-/assets/illustrations/extra9-d-first-chair.webp",
+      "description": "気力を失ったデヂの隣に、毎日やってくるダンカチ。",
+      "collection": "extras"
+    },
+    {
       "id": "chapter2-episode1",
       "title": "第2章　第1話　雨がやむまで、ここにいよう",
       "file": "data/chapter2-episode1.json",
