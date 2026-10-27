@@ -43,7 +43,7 @@
     {
       "scene": 6,
       "location": "オカルト＆昆虫／入部",
-      "background": "clubroom",
+      "background": "extra-occult-club",
       "bgm": "calm",
       "start": 182,
       "end": 233
@@ -59,7 +59,7 @@
     {
       "scene": 8,
       "location": "オカルト＆昆虫／片づけ",
-      "background": "clubroom",
+      "background": "extra-occult-club",
       "bgm": "daily",
       "start": 270,
       "end": 292
@@ -67,7 +67,7 @@
     {
       "scene": 9,
       "location": "オカルト＆昆虫／新入部員",
-      "background": "clubroom",
+      "background": "extra-occult-club",
       "bgm": "daily",
       "start": 293,
       "end": 342
@@ -75,7 +75,7 @@
     {
       "scene": 10,
       "location": "オカルト＆昆虫／四人の机",
-      "background": "clubroom",
+      "background": "extra-occult-club",
       "bgm": "daily",
       "start": 343,
       "end": 369
@@ -123,7 +123,7 @@
     {
       "scene": 16,
       "location": "オカルト＆昆虫／次の活動",
-      "background": "clubroom",
+      "background": "extra-occult-club",
       "bgm": "calm",
       "start": 594,
       "end": 620
@@ -133,7 +133,7 @@
     {
       "scene": 1,
       "location": "美食サークル／事務机",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "daily",
       "start": 0,
       "end": 47
@@ -141,7 +141,7 @@
     {
       "scene": 2,
       "location": "美食サークル／店の運営",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "daily",
       "start": 48,
       "end": 84
@@ -149,7 +149,7 @@
     {
       "scene": 3,
       "location": "美食サークル／移転の相談",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "calm",
       "start": 85,
       "end": 144
@@ -157,7 +157,7 @@
     {
       "scene": 4,
       "location": "美食サークル／昼の片づけ",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "daily",
       "start": 145,
       "end": 188
@@ -165,7 +165,7 @@
     {
       "scene": 5,
       "location": "美食サークル／有線電話",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "tension",
       "start": 189,
       "end": 244
@@ -173,7 +173,7 @@
     {
       "scene": 6,
       "location": "回想／生徒会長への襲撃",
-      "background": "ch2-memory-room",
+      "background": "extra-assault-hall",
       "bgm": "tension",
       "start": 245,
       "end": 323
@@ -181,7 +181,7 @@
     {
       "scene": 7,
       "location": "回想／崩れた石の陰",
-      "background": "ch2-memory-room",
+      "background": "extra-assault-hall",
       "bgm": "underground",
       "start": 324,
       "end": 386
@@ -189,7 +189,7 @@
     {
       "scene": 8,
       "location": "回想／逃げ延びたあと",
-      "background": "ch2-memory-room",
+      "background": "extra-assault-hall",
       "bgm": "reflection",
       "start": 387,
       "end": 414
@@ -197,7 +197,7 @@
     {
       "scene": 9,
       "location": "美食サークル／電話の続き",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "calm",
       "start": 415,
       "end": 459
@@ -205,7 +205,7 @@
     {
       "scene": 10,
       "location": "美食サークル／次の食事",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "daily",
       "start": 460,
       "end": 505
@@ -213,7 +213,7 @@
     {
       "scene": 11,
       "location": "美食サークル／明日の仕込み",
-      "background": "ch2-restaurant",
+      "background": "extra-gourmet-office",
       "bgm": "daily",
       "start": 506,
       "end": 551
@@ -313,7 +313,7 @@
     {
       "scene": 1,
       "location": "建設委員会／作業場",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "reflection",
       "start": 0,
       "end": 27
@@ -321,7 +321,7 @@
     {
       "scene": 2,
       "location": "建設委員会／低い椅子",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "reflection",
       "start": 28,
       "end": 79
@@ -329,7 +329,7 @@
     {
       "scene": 3,
       "location": "建設委員会／道具の順番",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 80,
       "end": 101
@@ -337,7 +337,7 @@
     {
       "scene": 4,
       "location": "建設委員会／翌日の午後",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 102,
       "end": 139
@@ -345,7 +345,7 @@
     {
       "scene": 5,
       "location": "建設委員会／爆発の音",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "tension",
       "start": 140,
       "end": 154
@@ -425,7 +425,7 @@
     {
       "scene": 15,
       "location": "建設委員会／翌日の作業",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "daily",
       "start": 484,
       "end": 503
@@ -433,7 +433,7 @@
     {
       "scene": 16,
       "location": "建設委員会／続く日々",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "daily",
       "start": 504,
       "end": 527
@@ -441,7 +441,7 @@
     {
       "scene": 17,
       "location": "建設委員会／夕方の食事",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 528,
       "end": 556
@@ -457,7 +457,7 @@
     {
       "scene": 19,
       "location": "建設委員会／座れる椅子",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 577,
       "end": 597
@@ -465,7 +465,7 @@
     {
       "scene": 20,
       "location": "建設委員会／任せる仕事",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 598,
       "end": 624
@@ -473,7 +473,7 @@
     {
       "scene": 21,
       "location": "建設委員会／端材の課題",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "daily",
       "start": 625,
       "end": 645
@@ -481,7 +481,7 @@
     {
       "scene": 22,
       "location": "建設委員会／ベレーの訪問",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "tension",
       "start": 646,
       "end": 682
@@ -489,7 +489,7 @@
     {
       "scene": 23,
       "location": "建設委員会／明日の図面",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "calm",
       "start": 683,
       "end": 736
@@ -497,7 +497,7 @@
     {
       "scene": 24,
       "location": "建設委員会／二つの椅子",
-      "background": "ch2-construction",
+      "background": "extra-construction-workshop",
       "bgm": "homecoming",
       "start": 737,
       "end": 760

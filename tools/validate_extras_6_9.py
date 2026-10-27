@@ -26,11 +26,17 @@ for n in range(6,10):
         assets.add(e['bg'])
         for c in e['cast']:assets.add(f"assets/characters/{c['id']}-{c['expression']}.webp")
         if e.get('se'):assert (R/f"assets/se/{e['se']}.wav").is_file()
-        if e.get('cg'):first.setdefault(e['cg'],offset)
+        if e.get('cg'):
+            first.setdefault(e['cg'],offset)
+            if not e['cg'].startswith('http'):assets.add(e['cg'])
+        if n==6 and e['scene']<=2:assert all(c['id']=='wan-past' for c in e['cast'] if c['name']=='ワン')
+        if n==6 and e['scene']>=3:assert all(c['id']=='wan' for c in e['cast'] if c['name']=='ワン')
+        if n==7 and 6<=e['scene']<=8:assert all(c['id']=='kagachi-robed' for c in e['cast'] if c['name']=='カガチ')
+        if n==7 and not 6<=e['scene']<=8:assert all(c['id']=='kagachi' for c in e['cast'] if c['name']=='カガチ')
         if e.get('speaker')=='デビル':assert all(c['name']!='デビル' for c in e['cast'])
     for a in art[id]:
         anchor=norm(a['after']);assert norm(body).count(anchor)==1
-        path='https://ginghum.github.io/cursehighschool-/'+a['src']
+        path=a.get('gameSrc','https://ginghum.github.io/cursehighschool-/'+a['src'])
         assert first[path]==norm(body).index(anchor)+len(anchor),(id,path,first[path])
     count+=len(d['entries'])
 for path in assets:

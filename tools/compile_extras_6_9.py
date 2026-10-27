@@ -40,15 +40,20 @@ def main():
         full=norm(body);anchors=[]
         for a in art[id]:
             anchor=norm(a['after']);assert full.count(anchor)==1,(id,a['src'])
-            anchors.append((full.index(anchor)+len(anchor),SITE+a['src'],a['alt']))
+            anchors.append((full.index(anchor)+len(anchor),a.get('gameSrc',SITE+a['src']),a['alt']))
         es=[];offset=0;review[id]=[]
         for sn,(part,plan) in enumerate(zip(parts,PLANS[n]),1):
             bg,loc,camera,track=plan;camera=camera.copy();mood={};cg=None;cgalt='';age=0
+            if n==6 and sn in [6,8,9,10,16]:bg='extra-occult-club'
+            if n==7:bg='extra-assault-before' if sn==6 else 'extra-assault-hall' if sn in [7,8] else 'extra-gourmet-office'
+            if n==9 and sn in [1,2,3,4,5,15,16,17,19,20,21,22,23,24]:bg='extra-construction-workshop'
             memory=n==7 and 6<=sn<=8
             def actors():
                 out=[]
                 for name in camera[-3:]:
                     aid,h,default=chars[name];expr=mood.get(name,default)
+                    if n==6 and name=='ワン' and sn<=2:aid,expr,default='wan-past','neutral','neutral'
+                    if n==7 and name=='カガチ' and 6<=sn<=8:aid,expr,default='kagachi-robed','neutral','neutral'
                     if n==6 and name=='ワン' and sn in [3,4]:expr='hurt'
                     if not (R/f'assets/characters/{aid}-{expr}.webp').exists():expr=default
                     if not (R/f'assets/characters/{aid}-{expr}.webp').exists():
@@ -62,6 +67,7 @@ def main():
             for raw in part.splitlines():
                 line=raw.strip()
                 if not line:continue
+                if n==7 and sn==6 and line=='身体が床から離れた。':bg='extra-assault-hall'
                 m=re.match(r'^([^「]{1,20})(「.*)$',raw) if not raw.startswith(('　',' ')) else None
                 speaker=m[1] if m else '';text=m[2] if m else line
                 if speaker in chars and speaker!='デビル':
@@ -82,7 +88,7 @@ def main():
                     for pattern,se in [('爆発|床が突き上がり','heavy'),('拳.*当た|頬へ当た','hit'),('扉.*開','door-open'),('足音|歩き出','steps'),('紙.*畳|紙.*開','rustle'),('皿|カップ|フォーク','tableware')]:
                         if re.search(pattern,line):sound=se;break
                 for i,chunk in enumerate(chunks(text)):
-                    e=dict(type='line',speaker=speaker,character=chars[speaker][0] if speaker in chars and speaker!='デビル' else '',text=chunk,raw=line if i==0 else '',effect=False,**deepcopy(state()))
+                    e=dict(type='line',speaker=speaker,character=next((a['id'] for a in actors() if a['name']==speaker),''),text=chunk,raw=line if i==0 else '',effect=False,**deepcopy(state()))
                     if sound and i==0:e['se']=sound
                     es.append(e)
             review[id].append(dict(scene=sn,location=loc,background=bg,bgm=track,start=start,end=len(es)-1))
