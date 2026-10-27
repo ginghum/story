@@ -113,6 +113,7 @@ def stage(document):
             tone = 'memory'
         entry['bg'] = BG[background]
         entry['tone'] = tone
+        entry['location'] = '回想／' + dict(street='ベレーの生まれた街', room='母親と暮らした部屋', shop='木彫りを見つけた美術品店', manor='領主の屋敷', studio='ベレーの制作室')[background]
         # Keep memory boundaries without extra blackout cards for short moves.
         entry['cast'] = []
         for role in roles:
@@ -129,7 +130,7 @@ def stage(document):
                 match = next((c for c in entry['cast'] if c['id'] == 'mob-civilian-merchant'), None)
             if match:
                 entry['character'] = match['id']
-    allowed = {'bg', 'cast', 'character', 'tone'}
+    allowed = {'bg', 'cast', 'character', 'tone', 'location'}
     for a, b in zip(before['entries'], document['entries']):
         assert {k: v for k, v in a.items() if k not in allowed} == {k: v for k, v in b.items() if k not in allowed}
         if a['scene'] not in range(6, 12):
