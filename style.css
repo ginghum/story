@@ -66,3 +66,7 @@ html,body,button,a,[role="button"]{-webkit-tap-highlight-color:transparent}
 .extras.count-1 .extra-0{left:auto;right:1%}
 .extra.seated{height:53%;bottom:9%}
 @media(max-width:650px) and (orientation:portrait){.extra{height:64%;width:38%;bottom:18%}.extra-0{left:-8%}.extra-1{right:-8%}.extra-2{left:31%}.extra.seated{height:42%}}
+
+/* Chapter key art keeps its original portrait composition on all screens. */
+.chapter-card img,.chapter-card .coming-art{aspect-ratio:2/3}
+.chapter-card img{display:block;object-fit:contain;object-position:center;background:#101925}
