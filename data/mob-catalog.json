@@ -38,5 +38,33 @@
   "colors": {
     "robe": "brown",
     "face_body_inner_clothes_shoes": "dark charcoal gray"
-  }
+  },
+  "civilian_design": "Faceless charcoal gray civilians, grayscale clothing, no school robes, transparent backgrounds",
+  "civilian_variants": [
+    {
+      "id": "mob-civilian-lord",
+      "file": "assets/characters/mob-civilian-lord-neutral.webp",
+      "role": "領主・富裕層"
+    },
+    {
+      "id": "mob-civilian-mother",
+      "file": "assets/characters/mob-civilian-mother-neutral.webp",
+      "role": "一般女性・母親"
+    },
+    {
+      "id": "mob-civilian-merchant",
+      "file": "assets/characters/mob-civilian-merchant-neutral.webp",
+      "role": "店主・職人"
+    },
+    {
+      "id": "mob-civilian-servant",
+      "file": "assets/characters/mob-civilian-servant-neutral.webp",
+      "role": "使用人・客"
+    },
+    {
+      "id": "mob-civilian-commoner",
+      "file": "assets/characters/mob-civilian-commoner-neutral.webp",
+      "role": "一般男性・住民"
+    }
+  ]
 }

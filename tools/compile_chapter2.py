@@ -128,3 +128,5 @@ if __name__=='__main__':main()
 if __name__=="__main__":
  from enhance_visual_audit import main as enhance_visual_audit
  enhance_visual_audit()
+ from stage_beret_past import main as stage_beret_past
+ stage_beret_past()

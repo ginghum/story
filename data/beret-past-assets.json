@@ -1,0 +1,67 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "id": "street",
+      "group": "bg",
+      "out": "assets/bg/beret-past-street.webp"
+    },
+    {
+      "id": "shop",
+      "group": "bg",
+      "out": "assets/bg/beret-past-shop.webp"
+    },
+    {
+      "id": "manor",
+      "group": "bg",
+      "out": "assets/bg/beret-past-manor.webp"
+    },
+    {
+      "id": "studio",
+      "group": "bg",
+      "out": "assets/bg/beret-past-studio.webp"
+    },
+    {
+      "id": "lord",
+      "group": "mob",
+      "out": "assets/characters/mob-civilian-lord-neutral.webp"
+    },
+    {
+      "id": "mother",
+      "group": "mob",
+      "out": "assets/characters/mob-civilian-mother-neutral.webp"
+    },
+    {
+      "id": "merchant",
+      "group": "mob",
+      "out": "assets/characters/mob-civilian-merchant-neutral.webp"
+    },
+    {
+      "id": "servant",
+      "group": "mob",
+      "out": "assets/characters/mob-civilian-servant-neutral.webp"
+    },
+    {
+      "id": "hopeful",
+      "group": "expression",
+      "out": "assets/characters/beret-past-hopeful.webp"
+    },
+    {
+      "id": "afraid",
+      "group": "expression",
+      "out": "assets/characters/beret-past-afraid.webp"
+    },
+    {
+      "id": "groomed",
+      "group": "expression",
+      "out": "assets/characters/beret-past-groomed.webp"
+    },
+    {
+      "id": "commoner",
+      "group": "mob",
+      "out": "assets/characters/mob-civilian-commoner-neutral.webp"
+    }
+  ],
+  "episode": "chapter2-episode23",
+  "prompt_brief": "Detailed painted anime fantasy backgrounds; streets, kind craftsman shop, rainy manor salon, equipped private studio. Opaque grayscale faceless civilian sprites without robes, transparent backgrounds. Same long-haired young Beret with hopeful/anxious expressions and groomed manor clothing."
+}
