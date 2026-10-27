@@ -1,0 +1,21 @@
+{
+  "generator": "built-in image_gen",
+  "shared": "Preserve identity, fullbody pose, proportions, costume and anime rendering. Transparent background. Canonical illustration ch2ep4c used for Plus hood/mask.",
+  "assets": [
+    {
+      "file": "assets/characters/plus-hood.webp",
+      "reference": "plus-serious.webp",
+      "prompt": "Put the BROWN OUTER ROBE hood UP over his head as in the left male of scene reference. Face visible, violet eyes and dark purple bangs, serious tense expression, low ponytail partly tucked beneath hood. Keep white hoodie underneath, black cargo trousers, shoes and same tall lean male build."
+    },
+    {
+      "file": "assets/characters/plus-hood-mask.webp",
+      "reference": "plus-serious.webp",
+      "prompt": "Put BROWN OUTER ROBE hood UP and canonical white full-face mask over face, as left male in scene reference. Smooth ivory oval tapering chin, precisely two small ROUND black eye holes, no mouth, no nose sculpt, no markings. Hair mostly concealed by brown hood. Keep white drawstring hoodie underneath, black cargo trousers, shoes and tall lean male build."
+    },
+    {
+      "file": "assets/characters/beret-cold.webp",
+      "reference": "beret-neutral.webp",
+      "prompt": "Change ONLY facial expression to frighteningly emotionless deadpan: completely flat closed mouth with absolutely NO smile; cold blue-grey eyes with tiny pupils, greatly reduced highlights, unblinking penetrating stare, relaxed level brows rather than rage. Subtle cool shadow beneath bangs. Unsettling calm, no supernatural effects. Keep petite female build, outfit, red beret and pose exactly."
+    }
+  ]
+}

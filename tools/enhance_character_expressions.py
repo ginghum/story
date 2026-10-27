@@ -4,6 +4,7 @@ from pathlib import Path
 R=Path(__file__).resolve().parents[1]
 def choose(who,n,s,text):
  if who=='beret':
+  if (n==15 and s in [5,6]) or (n==16 and s==7) or (n==17 and s in [2,4]) or n==18 or (n==23 and s==12):return 'cold'
   if n==23:
    if s==1:return 'shocked'
    if s in [3,5,12]:return 'smug'
@@ -27,12 +28,20 @@ def main():
  counts=collections.Counter();changed=[]
  for m in json.loads((R/'data/episodes.json').read_text())['episodes']:
   if not m['id'].startswith('chapter2-episode'):continue
-  n=int(m['id'].split('episode')[-1]);p=R/m['file'];d=json.loads(p.read_text());before=copy.deepcopy(d);state={};scene=None
+  n=int(m['id'].split('episode')[-1]);p=R/m['file'];d=json.loads(p.read_text());before=copy.deepcopy(d);state={};scene=None;hood=False;masked=False;hood_pending=False
   for e in d['entries']:
    if scene!=e.get('scene'):state={};scene=e.get('scene')
+   raw=e.get('raw','')
+   if n==4:
+    if 'プラスはフードへ手をかけた' in raw:hood_pending=True
+    if hood_pending and '深く被る。' in raw:hood=True;hood_pending=False
+    if 'プラスが口を開けたところへ、被せられた' in raw:masked=True
+    if raw.strip()=='自分で外した。':masked=False
+   if n==5 and raw.strip()=='フードを被った。':hood=True
    who=e.get('character')
    if who in ['beret','kagachi','jend']:state[who]=choose(who,n,scene,e.get('raw') or e.get('text',''))
    for c in e.get('cast',[]):
+    if c['id']=='plus' and hood:c['expression']='hood-mask' if masked else 'hood'
     if c['id'] in ['beret','kagachi','jend']:
      expr=state.get(c['id']) or choose(c['id'],n,scene,'')
      assert (R/f"assets/characters/{c['id']}-{expr}.webp").is_file(),(c['id'],expr)
